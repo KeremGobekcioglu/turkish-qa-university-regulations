@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0024 Öğrenci Toplulukları Kuruluş ve İşleyiş Yönergesi R4",
+      "paragraphs": [
+        {
+          "context": "madde 7: öğrenci topluluğunun kurulabilmesi için, en az 15 öğrenciden oluşan girişimciler kurulunun; adı-soyadı, kayıtlı oldukları fakülte/enstitü, öğrenci numarası, açık ikametgâh adresi, telefon numarası ve imzalarını içeren liste eki ile sunacağı dilekçe.",
+          "qas": [
+            {
+              "question": "bir öğrenci topluluğu kurmak için minimum kaç öğrenci gereklidir?",
+              "answers": [
+                {
+                  "text": "en az 15 öğrenci.",
+                  "answer_start": 50
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 12: bir öğrenci birden fazla topluluğa üye olabilir, birden fazla yönetim kurulunda yer alabilir fakat birden fazla toplulukta başkan olamaz.",
+          "qas": [
+            {
+              "question": "bir öğrenci kaç toplulukta başkanlık yapabilir?",
+              "answers": [
+                {
+                  "text": "sadece bir toplulukta başkanlık yapabilir.",
+                  "answer_start": 105
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: yönetim kurulunun ve topluluk başkanının görev süresi 2 yıldır.",
+          "qas": [
+            {
+              "question": "topluluk başkanının görev süresi ne kadardır?",
+              "answers": [
+                {
+                  "text": "2 yıldır.",
+                  "answer_start": 64
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: akademik lider ve lider yardımcısı, sadece bir topluluğa akademik lider olabilir; ikinci bir topluluğa akademik lider olamaz.",
+          "qas": [
+            {
+              "question": "bir akademik lider kaç topluluğa liderlik yapabilir?",
+              "answers": [
+                {
+                  "text": "sadece bir topluluğa.",
+                  "answer_start": 46
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: topluluklar düzenleyecekleri etkinlik için 'öğrenci toplulukları etkinlik başvuru formu'nu doldurarak, etkinlik tarihinden en az 2 hafta önce topluluğun akademik liderine evraklarını iletir.",
+          "qas": [
+            {
+              "question": "etkinlik başvurusu ne kadar süre öncesinden yapılmalıdır?",
+              "answers": [
+                {
+                  "text": "en az 2 hafta önce.",
+                  "answer_start": 133
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 14: aşağıda yazılı kayıt ve defterler, her sayfası sağlık kültür ve spor daire başkanlığı tarafından numaralandırılıp mühürlenerek imza karşılığında topluluk başkanına teslim edilir.",
+          "qas": [
+            {
+              "question": "topluluk defterlerini kim mühürleyip numaralandırır?",
+              "answers": [
+                {
+                  "text": "sağlık kültür ve spor daire başkanlığı.",
+                  "answer_start": 57
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 12: gtü personeli, üniversite bünyesinde kurulmuş olan topluluklara fahri üye olabilir ancak üniversite öğrencileri dışındaki diğer üyeler seçme ve seçilme hakkına sahip değildir.",
+          "qas": [
+            {
+              "question": "fahri üyelerin seçme ve seçilme hakları var mıdır?",
+              "answers": [
+                {
+                  "text": "üniversite öğrencileri dışındaki diğer üyeler seçme ve seçilme hakkına sahip değildir.",
+                  "answer_start": 99
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: topluluklar ticari etkinliklerde bulunamaz, aidat, bağış veya başka bir ad altında para toplayamaz, üyelerine maddi çıkar sağlayamazlar.",
+          "qas": [
+            {
+              "question": "topluluklar aidat toplayabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, toplayamaz.",
+                  "answer_start": 90
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 16: eğitim-öğretim yılı boyunca (güz ve bahar dönemi) en az birer kez etkinlik yapmayan topluluklar kapatılır.",
+          "qas": [
+            {
+              "question": "toplulukların minimum etkinlik yapma zorunluluğu nedir?",
+              "answers": [
+                {
+                  "text": "güz ve bahar döneminde en az birer kez etkinlik.",
+                  "answer_start": 36
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 16: kapatılan topluluklar aynı isim altında bir yıl süreyle tekrar açılamazlar.",
+          "qas": [
+            {
+              "question": "kapatılan bir topluluk ne kadar süre sonra aynı isimle tekrar açılabilir?",
+              "answers": [
+                {
+                  "text": "bir yıl sonra.",
+                  "answer_start": 47
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 9: genel kurul; iç tüzükte belirtilen dönemlerde, toplantı yeter sayısı olan topluluğun mevcut üye sayısının üçte ikisi (2/3) ile toplanır.",
+          "qas": [
+            {
+              "question": "genel kurul toplantı yeter sayısı nedir?",
+              "answers": [
+                {
+                  "text": "mevcut üye sayısının üçte ikisi (2/3).",
+                  "answer_start": 94
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: yönetim kurulu en az 5 asil ve 3 yedek üyeden oluşur.",
+          "qas": [
+            {
+              "question": "yönetim kurulu minimum kaç üyeden oluşur?",
+              "answers": [
+                {
+                  "text": "en az 5 asil ve 3 yedek üyeden.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 16: kapatılan topluluğun yönetim kurulu üyeleri iki yıl süreyle herhangi bir topluluğun yönetim kurulunda görev alamaz ve genel kurulunda bulunamaz.",
+          "qas": [
+            {
+              "question": "kapatılan topluluk yönetim kurulu üyeleri ne kadar süre başka toplulukların yönetiminde görev alamaz?",
+              "answers": [
+                {
+                  "text": "i̇ki yıl süreyle.",
+                  "answer_start": 52
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: tüm etkinliklerin iyileştirilmesine yönelik çalışmalarda ölçülmesi ve değerlendirilebilmesi için anketlerin etkinliklerden sonra 5 (beş) iş günü içerisinde öğrenci toplulukları komisyonuna iletilmesi zorunludur.",
+          "qas": [
+            {
+              "question": "etkinlik sonrası anketler ne kadar süre içinde iletilmelidir?",
+              "answers": [
+                {
+                  "text": "5 (beş) iş günü içerisinde.",
+                  "answer_start": 139
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 17: herhangi bir öğrenci topluluğu, akademik lider veya lider yardımcısı olmadan seyahat edemez.",
+          "qas": [
+            {
+              "question": "topluluklar seyahat ederken yanlarında kim bulunmalıdır?",
+              "answers": [
+                {
+                  "text": "akademik lider veya lider yardımcısı.",
+                  "answer_start": 42
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 12: gebze teknik üniversitesinde eğitimine aktif olarak devam eden ve disiplin cezası (uyarma cezası hariç) bulunmayan lisans ve lisansüstü öğrenciler üniversite bünyesinde kurulmuş olan topluluklara üye olabilir.",
+          "qas": [
+            {
+              "question": "topluluklara kimler üye olabilir?",
+              "answers": [
+                {
+                  "text": "aktif olarak eğitimine devam eden ve disiplin cezası (uyarma cezası hariç) bulunmayan lisans ve lisansüstü öğrenciler.",
+                  "answer_start": 38
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: öğrenci toplulukları, faaliyet raporu ve yıllık planlarını en geç kasım ayı sonuna kadar öğrenci toplulukları komisyonuna iletmek zorundadır.",
+          "qas": [
+            {
+              "question": "faaliyet raporu ve yıllık planlar en geç ne zaman iletilmelidir?",
+              "answers": [
+                {
+                  "text": "en geç kasım ayı sonuna kadar.",
+                  "answer_start": 69
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: topluluk açma talepleri; bir eğitim-öğretim yılını kapsayacak şekilde, güz döneminde (ekim ayında) ve bahar döneminde (mart ayında) olmak üzere yılda iki kere komisyon kararıyla onaylanır.",
+          "qas": [
+            {
+              "question": "topluluk açma talepleri yılda kaç kez ve hangi aylarda değerlendirilir?",
+              "answers": [
+                {
+                  "text": "yılda iki kere, ekim ve mart aylarında.",
+                  "answer_start": 147
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 14: tutulması zorunlu kayıt ve defterler: a) üye kayıt defteri, b) gelen-giden evrak defteri, c) karar defteri, d) demirbaş kayıt defteri.",
+          "qas": [
+            {
+              "question": "toplulukların tutması zorunlu olan defterler nelerdir?",
+              "answers": [
+                {
+                  "text": "üye kayıt defteri, gelen-giden evrak defteri, karar defteri ve demirbaş kayıt defteri.",
+                  "answer_start": 121
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: gtü logolu ürünlerin satışı ve telif hakkı tamamen gtü'ye aittir. i̇zinsiz ve telif hakkı ödemeden çoğaltılması ve satılması kesinlikle yasaktır.",
+          "qas": [
+            {
+              "question": "gtü logolu ürünlerin telif hakkı kime aittir?",
+              "answers": [
+                {
+                  "text": "tamamen gtü'ye aittir.",
+                  "answer_start": 53
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 5: öğrenci toplulukları komisyonu her eğitim-öğretim döneminde, en az birer kez olmak üzere yılda iki kere toplanır.",
+          "qas": [
+            {
+              "question": "öğrenci toplulukları komisyonu minimum yılda kaç kez toplanır?",
+              "answers": [
+                {
+                  "text": "en az birer kez olmak üzere yılda iki kere.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 16: gerçekleştirilecek olan tüm etkinliklerin, etkinlik tarihinden en az 15 gün önce etkinlik ve protokol birimi ve öğrenci toplulukları komisyonuna bildirilmesi gerekmektedir.",
+          "qas": [
+            {
+              "question": "etkinlikler ne kadar süre öncesinden bildirilmelidir?",
+              "answers": [
+                {
+                  "text": "en az 15 gün önce.",
+                  "answer_start": 73
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: topluluk; akademik liderinin herhangi bir nedenle görevinden ayrılması halinde, akademik lider değişikliğini gerekçesi ile birlikte yönetim kurulunda görüşerek, akademik lider değişikliğini en geç on beş gün içinde öğrenci toplulukları komisyonuna bildirir.",
+          "qas": [
+            {
+              "question": "akademik lider değişikliği ne kadar süre içinde bildirilmelidir?",
+              "answers": [
+                {
+                  "text": "en geç on beş gün içinde.",
+                  "answer_start": 200
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 17: öğrenci topluluklarının düzenlediği etkinliklerde, eğitim-öğretim işleyişini aksatmamak adına, derslerden muafiyet söz konusu değildir.",
+          "qas": [
+            {
+              "question": "topluluk etkinlikleri için derslerden muafiyet var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, muafiyet söz konusu değildir.",
+                  "answer_start": 116
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: geçerli mazereti olmaksızın üst üste üç kere toplantıya katılmayan üye, yönetim kurulu üyeliğinden ayrılmış sayılır.",
+          "qas": [
+            {
+              "question": "kaç kez mazeretsiz toplantıya katılmayan yönetim kurulu üyesi görevden ayrılmış sayılır?",
+              "answers": [
+                {
+                  "text": "üst üste üç kere.",
+                  "answer_start": 38
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: topluluklar, kendi alan ve amaçları kapsamında etkinlik yapabilirler. diğer toplulukların kuruluş amaçları kapsamında etkinlik yapamaz ancak birlikte organize edebilirler.",
+          "qas": [
+            {
+              "question": "topluluklar diğer toplulukların amaçları kapsamında etkinlik düzenleyebilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, yapamaz ancak birlikte organize edebilirler.",
+                  "answer_start": 137
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 19: bu yönerge hükümlerini, gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "question": "yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü.",
+                  "answer_start": 34
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: herhangi bir topluluk, akademik lider olarak rektör'ü öneremez.",
+          "qas": [
+            {
+              "question": "rektör akademik lider olarak önerilebilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, öneremez.",
+                  "answer_start": 64
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: öğrenci toplulukları alt komite kuramaz.",
+          "qas": [
+            {
+              "question": "öğrenci toplulukları alt komite kurabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, kuramaz.",
+                  "answer_start": 41
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: toplulukların gerçekleştireceği etkinliklerde, ulaşım, ikram, davet yazısı ve basılı etkinlik programı (afiş, poster, web sayfası çıktısı vb.) masrafları için başvurması durumunda, sağlık kültür ve spor daire başkanlığı bütçesinin ilgili harcama kalemine konulacak ödenekten masraflar karşılanabilir.",
+          "qas": [
+            {
+              "question": "topluluk etkinliklerinin hangi masrafları sağlık kültür ve spor daire başkanlığı tarafından karşılanabilir?",
+              "answers": [
+                {
+                  "text": "ulaşım, ikram, davet yazısı ve basılı etkinlik programı (afiş, poster, web sayfası çıktısı vb.) masrafları.",
+                  "answer_start": 57
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0013 Önlisans-Lisans Programları Yatay Geçiş Yönergesi R3",
+      "paragraphs": [
+        {
+          "context": "madde 2- (4) ön lisans ve lisans diploma programlarının hazırlık sınıfına; ön lisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.",
+          "qas": [
+            {
+              "question": "lisans programlarının hangi yarıyıllarına yatay geçiş yapılamaz?",
+              "answers": [
+                {
+                  "text": "i̇lk iki yarıyıl ile son iki yarıyıla.",
+                  "answer_start": 169
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (2) üniversite bünyesindeki aynı düzeyde aynı veya farklı merkezi yerleştirme puan türü ile öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, o tarihe değin aldığı tüm derslerde başarılı olması ve bu derslerde sağladığı ağırlıklı genel not ortalamasının 4 üzerinden en az 3,5 olması şartı aranır.",
+          "qas": [
+            {
+              "question": "kurum içi yatay geçiş için gereken minimum genel not ortalaması kaçtır?",
+              "answers": [
+                {
+                  "text": "4 üzerinden en az 3,5.",
+                  "answer_start": 303
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- (1) gtü'ye diğer yükseköğretim programlarından geçişte her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki, 51 ve 100 arası olan programlarda üç, 101 ve üzerinde olan diploma programlarında ise dört, kurumlar arası yatay geçiş kontenjanı yükseköğretim kurulu tarafından belirlenir.",
+          "qas": [
+            {
+              "question": "ösym giriş genel kontenjanı 51-100 arası olan programlarda yatay geçiş kontenjanı kaç kişidir?",
+              "answers": [
+                {
+                  "text": "51 ve 100 arası olan programlarda üç.",
+                  "answer_start": 196
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (2) kurumlar arası yatay geçiş için öğrencinin, kayıtlı olduğu programda bitirmiş olduğu dönemlerde bütün derslerini başarmış olması ve genel not ortalamasının en az 100 üzerinden 85, 4 üzerinden 3,5 olması şartı aranır.",
+          "qas": [
+            {
+              "question": "kurumlar arası yatay geçiş için 100'lük sistemde gereken minimum not ortalaması kaçtır?",
+              "answers": [
+                {
+                  "text": "85.",
+                  "answer_start": 189
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (1) kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eş değer diploma programları arasında ve yükseköğretim kurulu tarafından yayınlanan kontenjanlar çerçevesinde fakülteler için yalnız üçüncü ve beşinci dönemlere, meslek yüksekokulu için ikinci ve üçüncü dönemlere yapılır.",
+          "qas": [
+            {
+              "question": "fakülteler için kurumlar arası yatay geçiş hangi dönemlere yapılabilir?",
+              "answers": [
+                {
+                  "text": "üçüncü ve beşinci dönemlere.",
+                  "answer_start": 215
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (1) gtü içi yatay geçişler, ön lisans diploma programlarının ikinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere, lisans diploma programlarının üçüncü yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere yapılır.",
+          "qas": [
+            {
+              "question": "lisans programları için gtü içi yatay geçişler hangi yarıyıllar arasında yapılabilir?",
+              "answers": [
+                {
+                  "text": "üçüncü yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere.",
+                  "answer_start": 164
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- (2) başvurular, adayların genel not ortalaması ile programın puan türünde yükseköğretime kayıt olduğu yıldaki ösys/yks puanının en az %40'ı hesaplamaya dâhil edilerek üniversite senatosu tarafından belirlenmiş olan kriterlere göre değerlendirilir.",
+          "qas": [
+            {
+              "question": "yatay geçiş başvurularında ösys/yks puanının en az yüzde kaçı hesaplamaya dahil edilir?",
+              "answers": [
+                {
+                  "text": "en az %40'ı.",
+                  "answer_start": 137
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (1) kontenjanın ilan edildiği her yıl için ösym kılavuzunda öngörülen öğrenci kontenjanının %15'ini geçmeyecek biçimde, ilgili yönetim kurulları tarafından karara bağlanır.",
+          "qas": [
+            {
+              "question": "kurum içi yatay geçiş kontenjanı ösym kontenjanının en fazla yüzde kaçı olabilir?",
+              "answers": [
+                {
+                  "text": "%15'i.",
+                  "answer_start": 101
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (3) gtü'ye diğer öğretim kurumlarından yatay geçiş yapmak isteyenlerin başvuruları, en az %30 i̇ngilizce öğretim programı uygulayan bir yükseköğrenim kurumunda öğrenim görüp hazırlık sınıfını başarıyla tamamlamış olmaları veya gtü senatosu'nun kabul ettiği i̇ngilizce başarı belgelerinden herhangi birini sağlamaları...",
+          "qas": [
+            {
+              "question": "gtü'ye yatay geçiş için başvuran öğrencilerin geldiği kurumda minimum yüzde kaç i̇ngilizce eğitim olmalıdır?",
+              "answers": [
+                {
+                  "text": "en az %30.",
+                  "answer_start": 93
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- (1) gtü'ye diğer yükseköğretim programlarından geçişte her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki...",
+          "qas": [
+            {
+              "question": "ösym giriş kontenjanı 50 ve altında olan programlarda yatay geçiş kontenjanı kaç kişidir?",
+              "answers": [
+                {
+                  "text": "ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki",
+                  "answer_start": 119
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (1) kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eş değer diploma programları arasında ve yükseköğretim kurulu tarafından yayınlanan kontenjanlar çerçevesinde meslek yüksekokulu için ikinci ve üçüncü dönemlere yapılır.",
+          "qas": [
+            {
+              "question": "meslek yüksekokulu için kurumlar arası yatay geçiş hangi dönemlere yapılabilir?",
+              "answers": [
+                {
+                  "text": "i̇kinci ve üçüncü dönemlere.",
+                  "answer_start": 214
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (1) gtü içi yatay geçişler, ön lisans diploma programlarının ikinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere...",
+          "qas": [
+            {
+              "question": "ön lisans programları için gtü içi yatay geçişler hangi yarıyıllar arasında yapılabilir?",
+              "answers": [
+                {
+                  "text": "i̇kinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 15-bu yönerge 2023-2024 eğitim öğretim yılından itibaren geçerlidir.",
+          "qas": [
+            {
+              "question": "bu yönerge hangi eğitim-öğretim yılından itibaren geçerlidir?",
+              "answers": [
+                {
+                  "text": "2023-2024 eğitim öğretim yılından itibaren.",
+                  "answer_start": 20
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- yatay geçişle gelen öğrencilerin önceki diploma programından aldıkları ve başarılı oldukları derslerin intibakı yapılır ve bu derslere ilişkin daha önce alınan notlar transkriptlerine işlenir.",
+          "qas": [
+            {
+              "question": "yatay geçişle gelen öğrencilerin önceki programda aldıkları başarılı dersler için ne yapılır?",
+              "answers": [
+                {
+                  "text": "i̇ntibakı yapılır ve notlar transkriptlerine işlenir.",
+                  "answer_start": 169
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- yatay geçiş yapan öğrencinin toplam öğrenim süresi ayrıldığı programda okuduğu süre de dâhil olmak üzere gtü ön lisans/lisans eğitim ve öğretim yönetmeliği'nde belirtilen süre kadardır.",
+          "qas": [
+            {
+              "question": "yatay geçiş yapan öğrencinin toplam öğrenim süresine önceki programda okuduğu süre dahil midir?",
+              "answers": [
+                {
+                  "text": "toplam öğrenim süresi ayrıldığı programda okuduğu süre de dâhildir.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu yükseköğretim kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler, türkiye'deki yükseköğretim kurumlarına yatay geçiş başvurusu yapabilirler.",
+          "qas": [
+            {
+              "question": "hangi özel durumlarda yurt dışından yatay geçiş başvurusu yapılabilir?",
+              "answers": [
+                {
+                  "text": "şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu yök tarafından tespit edilen ülkelerden.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (4) i̇ngilizce başarı belgeleri bulunmayan adayların başvuruları; gtü yabancı diller bölümü tarafından yatay geçiş başvuru süresinin dolmasını izleyen haftada yapılacak sınavda başarılı olmaları hâlinde kesinleşir.",
+          "qas": [
+            {
+              "question": "i̇ngilizce başarı belgesi olmayan adaylar için nasıl bir yol izlenir?",
+              "answers": [
+                {
+                  "text": "gtü yabancı diller bölümü tarafından yapılacak sınavda başarılı olmaları gerekir.",
+                  "answer_start": 72
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- (3) başvurularla ilgili ön değerlendirmeyi, ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.",
+          "qas": [
+            {
+              "question": "yatay geçiş başvurularının ön değerlendirmesini kim yapar?",
+              "answers": [
+                {
+                  "text": "i̇lgili yönetim kurulları tarafından oluşturulan komisyonlar.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (2) başarı şartını taşıyan diğer adaylar, başarı sırasına göre yedek aday olarak ilan edilir. belirlenen süre içinde asıl adaylardan başvuru yapılmaması hâlinde sırayla yedekler çağrılır.",
+          "qas": [
+            {
+              "question": "asıl adayların başvuru yapmaması durumunda nasıl bir yol izlenir?",
+              "answers": [
+                {
+                  "text": "sırayla yedek adaylar çağrılır.",
+                  "answer_start": 187
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (6) i̇kinci ana dal diploma programındaki öğrenci, ana dal diploma programında kurum içi geçiş hükümlerine uygun koşulları sağladığında ikinci ana dal diploma programına yatay geçiş yapabilir.",
+          "qas": [
+            {
+              "question": "i̇kinci ana dal programındaki öğrenci hangi durumda yatay geçiş yapabilir?",
+              "answers": [
+                {
+                  "text": "ana dal diploma programında kurum içi geçiş hükümlerine uygun koşulları sağladığında.",
+                  "answer_start": 60
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (5) merkezi yerleştirme puanıyla yatay geçişlerde öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği üniversitenin diploma programının girdiği yıldaki taban puanına eşit veya yüksek olması durumunda, hazırlık sınıfı da dâhil olmak üzere yatay geçiş için başvuru yapabilir.",
+          "qas": [
+            {
+              "question": "merkezi yerleştirme puanıyla yatay geçiş için gereken temel şart nedir?",
+              "answers": [
+                {
+                  "text": "öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği programın taban puanına eşit veya yüksek olması.",
+                  "answer_start": 52
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, üniversitenin internet sayfasında duyurulur.",
+          "qas": [
+            {
+              "question": "yatay geçiş değerlendirme sonuçları nerede ilan edilir?",
+              "answers": [
+                {
+                  "text": "üniversitenin internet sayfasında.",
+                  "answer_start": 101
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- (1) fakültelerin ilgili kurulları, mühendislik programları için asgari kontenjanın 8 katına kadar öneri verebilirler.",
+          "qas": [
+            {
+              "question": "mühendislik programları için kontenjan önerisi asgari kontenjanın kaç katına kadar olabilir?",
+              "answers": [
+                {
+                  "text": "8 katına kadar.",
+                  "answer_start": 92
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 16- bu yönerge gtü rektörü tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "yönergeyi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gtü rektörü.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- kesin kaydı yapılan öğrencinin yatay geçiş programında alacağı dersler, ilgili bölümün önerisi ile fakülte veya meslek yüksekokulu yönetim kurulunca karara bağlanır.",
+          "qas": [
+            {
+              "question": "yatay geçiş yapan öğrencinin alacağı dersler nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "i̇lgili bölümün önerisi ile fakülte veya meslek yüksekokulu yönetim kurulunca karara bağlanır.",
+                  "answer_start": 81
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (3) kurum içi yatay geçiş kontenjanları, ilgili diploma programının son dört yıla ait taban puanları, varsa kurum içi yatay geçiş için belirlenen ve senato tarafından öngörülen ilave şartlarla birlikte, son başvurunun kabul edileceği günden en az 15 gün öncesinde kurumun internet sayfasında ilan edilir.",
+          "qas": [
+            {
+              "question": "kurum içi yatay geçiş kontenjanları ne zaman ilan edilir?",
+              "answers": [
+                {
+                  "text": "son başvurunun kabul edileceği günden en az 15 gün önce.",
+                  "answer_start": 212
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (4) programların kurum içi kontenjanları, aynı fakülte veya meslek yüksekokulu bünyesindeki diploma programları için ayrı ayrı belirlenebilir.",
+          "qas": [
+            {
+              "question": "kurum içi kontenjanlar nasıl belirlenebilir?",
+              "answers": [
+                {
+                  "text": "aynı fakülte veya meslek yüksekokulu bünyesindeki diploma programları için ayrı ayrı belirlenebilir.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (3) merkezi yerleştirme puanıyla yatay geçiş için adayların başvuruları yükseköğretim kurumlarının ilgili kurulları tarafından değerlendirilerek ösys puanı en yüksek adaydan başlanarak sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir.",
+          "qas": [
+            {
+              "question": "merkezi yerleştirme puanıyla yatay geçişte sıralama nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "ösys puanı en yüksek adaydan başlanarak sıralama yapılır.",
+                  "answer_start": 146
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- gtü senatosu'nun 07.08.2019 tarih ve 2019/08 oturum sayılı kararı ile kabul edilen gtü lisans programları yatay geçiş yönergesi ve değişiklikleri yürürlükten kaldırılmıştır.",
+          "qas": [
+            {
+              "question": "hangi tarihli yönerge yürürlükten kaldırılmıştır?",
+              "answers": [
+                {
+                  "text": "07.08.2019 tarih ve 2019/08 oturum sayılı kararı ile kabul edilen gtü lisans programları yatay geçiş yönergesi.",
+                  "answer_start": 27
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- bu yönergede olmayan, güncellenen ve tereddüde düşülen konularda yükseköğretim kurulu başkanlığı tarafından 24 nisan 2010 tarih ve 27561 sayılı resmî gazete'de yayınlanmış bulunan yönetmelik hükümleri geçerlidir.",
+          "qas": [
+            {
+              "question": "yönergede olmayan konularda hangi mevzuat geçerlidir?",
+              "answers": [
+                {
+                  "text": "24 nisan 2010 tarih ve 27561 sayılı resmî gazete'de yayınlanmış bulunan yönetmelik hükümleri.",
+                  "answer_start": 118
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

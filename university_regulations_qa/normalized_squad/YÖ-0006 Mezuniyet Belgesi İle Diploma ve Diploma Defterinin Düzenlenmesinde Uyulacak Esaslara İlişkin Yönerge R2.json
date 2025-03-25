@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0006 Mezuniyet Belgesi İle Diploma ve Diploma Defterinin Düzenlenmesinde Uyulacak Esaslara İlişkin Yönerge R2",
+      "paragraphs": [
+        {
+          "context": "madde 1 – bu yönerge; gebze teknik üniversitesi (gtü) önlisans/lisans öğretim ve sınav yönetmeliği, gtü lisansüstü eğitim ve öğretim yönetmeliği, gtü çift ana dal programı yönergesi ve gtü yan dal programı yönergesi uyarınca açılan önlisans/lisans, lisansüstü, yandal ve çift ana dal programlarını bitirenler için hazırlanacak mezuniyet belgeleri, diplomaları ve sertifikaları ile diploma defterlerinin düzenlenmesine ilişkin esasları belirlemek için hazırlanmıştır.",
+          "qas": [
+            {
+              "question": "bu yönerge hangi amaçla hazırlanmıştır?",
+              "answers": [
+                {
+                  "text": "mezuniyet belgeleri, diplomaları ve sertifikaları ile diploma defterlerinin düzenlenmesine ilişkin esasları belirlemek için hazırlanmıştır.",
+                  "answer_start": 327
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 3 – (1) öğrenim gördükleri programların koşullarını yerine getirerek mezuniyet hakkı kazanan öğrencilere, öğrenci i̇şleri daire başkanlığı tarafından diplomalar düzenlenir.",
+          "qas": [
+            {
+              "question": "diplomalar kim tarafından düzenlenir?",
+              "answers": [
+                {
+                  "text": "öğrenci i̇şleri daire başkanlığı tarafından.",
+                  "answer_start": 112
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – (1) diploması henüz düzenlenmemiş ön lisans/ lisans/ lisansüstü / tamamlama mezunlarına, istekleri üzerine bir yıl geçerliliği olan geçici mezuniyet belgesi verilir.",
+          "qas": [
+            {
+              "question": "geçici mezuniyet belgesi ne kadar süre geçerlidir?",
+              "answers": [
+                {
+                  "text": "bir yıl geçerlidir.",
+                  "answer_start": 115
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – (1) diplomanın sol alt köşesinde ilgili meslek yüksekokulu müdürü, dekan veya enstitü müdürünün, sağ alt köşesinde ise gebze teknik üniversitesi rektörü'nün adı, soyadı ve imzası yer alır.",
+          "qas": [
+            {
+              "question": "diplomada kimlerin imzası bulunur?",
+              "answers": [
+                {
+                  "text": "ilgili meslek yüksekokulu müdürü, dekan veya enstitü müdürünün ve gebze teknik üniversitesi rektörü'nün.",
+                  "answer_start": 43
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 7 – (1) mezuniyet belgesi, diploma ve duplikata (ikinci nüsha) da fotoğraf yer almaz.",
+          "qas": [
+            {
+              "question": "hangi belgelerde fotoğraf yer almaz?",
+              "answers": [
+                {
+                  "text": "mezuniyet belgesi, diploma ve duplikata (ikinci nüsha) da.",
+                  "answer_start": 14
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – diplomalar, türkçe ve i̇ngilizce olarak yazılır.",
+          "qas": [
+            {
+              "question": "diplomalar hangi dillerde düzenlenir?",
+              "answers": [
+                {
+                  "text": "türkçe ve i̇ngilizce olarak.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 12 – (2) i̇mza, mavi mürekkepli kalemle atılır.",
+          "qas": [
+            {
+              "question": "diplomadaki imzalar hangi renk kalemle atılır?",
+              "answers": [
+                {
+                  "text": "mavi mürekkepli kalemle.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 14 – (1) diploma öğrencinin kendisine; noter yoluyla vekâlet verdiği resmi vekiline teslim edilir.",
+          "qas": [
+            {
+              "question": "diploma kimlere teslim edilebilir?",
+              "answers": [
+                {
+                  "text": "öğrencinin kendisine; noter yoluyla vekâlet verdiği resmi vekiline.",
+                  "answer_start": 23
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 14 – (2) posta veya kargo gibi yollarla diploma teslimi yapılmaz.",
+          "qas": [
+            {
+              "question": "diploma hangi yollarla teslim edilmez?",
+              "answers": [
+                {
+                  "text": "posta veya kargo gibi yollarla.",
+                  "answer_start": 15
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 14 – (3) vefat eden mezun öğrencinin diploması, istekleri halinde veraset ilamını ilk ibraz eden kanuni mirasçısına verilir.",
+          "qas": [
+            {
+              "question": "vefat eden öğrencinin diploması kime verilir?",
+              "answers": [
+                {
+                  "text": "veraset ilamını ilk ibraz eden kanuni mirasçısına.",
+                  "answer_start": 72
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (1) diplomasını kaybeden kişi, ulusal gazetelerden birine kayıp ilânı verir ve kayıp ilanının çıktısı, dilekçe, başvuru formu ve nüfus cüzdan sureti ile diplomasını almış olduğu ilgili meslek yüksekokulu/ dekanlık/ enstitüye başvurur.",
+          "qas": [
+            {
+              "question": "diplomasını kaybeden kişi ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "ulusal gazetelerden birine kayıp ilânı verir ve kayıp ilanının çıktısı, dilekçe, başvuru formu ve nüfus cüzdan sureti ile diplomasını almış olduğu ilgili meslek yüksekokulu/ dekanlık/ enstitüye başvurur.",
+                  "answer_start": 42
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 16 - (1) diploma eki, kayıtlı oldukları programları başarıyla tamamlayan öğrencilere diploma ile birlikte verilen ve formatı avrupa komisyonu, avrupa konseyi ve unesco/cepes tarafından geliştirilen modeli temel alan bir belgedir.",
+          "qas": [
+            {
+              "question": "diploma eki nedir?",
+              "answers": [
+                {
+                  "text": "kayıtlı oldukları programları başarıyla tamamlayan öğrencilere diploma ile birlikte verilen ve formatı avrupa komisyonu, avrupa konseyi ve unesco/cepes tarafından geliştirilen modeli temel alan bir belgedir.",
+                  "answer_start": 28
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 16 - (4) mezun olan önlisans, lisans, lisansüstü öğrencilerine ücretsiz ve i̇ngilizce olarak verilir.",
+          "qas": [
+            {
+              "question": "diploma eki hangi dilde ve nasıl verilir?",
+              "answers": [
+                {
+                  "text": "ücretsiz ve i̇ngilizce olarak verilir.",
+                  "answer_start": 69
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 13 – diplomalar, öğrencinin mezun olduğu tarihten itibaren en geç bir yıl içinde öğrenci i̇şleri daire başkanlığı tarafından hazırlanarak, gebze teknik üniversitesi rektörlüğü'nün onayına sunulur.",
+          "qas": [
+            {
+              "question": "diplomalar ne kadar süre içinde hazırlanır?",
+              "answers": [
+                {
+                  "text": "öğrencinin mezun olduğu tarihten itibaren en geç bir yıl içinde.",
+                  "answer_start": 23
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – (4) diploması hazır olan öğrenciye geçici mezuniyet belgesi verilmez. doğrudan diploması verilir.",
+          "qas": [
+            {
+              "question": "hangi durumda geçici mezuniyet belgesi verilmez?",
+              "answers": [
+                {
+                  "text": "diploması hazır olan öğrenciye.",
+                  "answer_start": 14
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (2) tahribata uğraması nedeniyle orijinal şekli ibraz edilen diploma için ilan şartı aranmaksızın aynı yol izlenerek ikinci nüshaları verilir.",
+          "qas": [
+            {
+              "question": "tahribata uğrayan diploma için kayıp ilanı vermek gerekli midir?",
+              "answers": [
+                {
+                  "text": "hayır, ilan şartı aranmaksızın ikinci nüshaları verilir.",
+                  "answer_start": 128
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (5) i̇kinci nüsha olduğu belirtilerek düzenlenen diplomanın, ön sol üst köşesinde dupli̇kata (i̇kinci nüsha) ve arka sağ alt köşesinde ilgili yönetim kurulu kararı ile birlikte kaybı/tahribatı nedeniyle i̇kinci nüshası düzenlenmiştir ibaresi yer alır.",
+          "qas": [
+            {
+              "question": "ikinci nüsha diplomada hangi ibareler yer alır?",
+              "answers": [
+                {
+                  "text": "ön sol üst köşesinde dupli̇kata (i̇kinci nüsha) ve arka sağ alt köşesinde ilgili yönetim kurulu kararı ile birlikte kaybı/tahribatı nedeniyle i̇kinci nüshası düzenlenmiştir ibaresi.",
+                  "answer_start": 72
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – (1) diplomanın ön yüzünde: a) üniversitenin adı b) diploma başlığı c) öğrencinin adı soyadı ç) bitirilen bölüm ve/veya anabilim dalı/programı d) mezun olunan programın derecesi (ön lisans, lisans, yüksek lisans, doktora) e) sahip olunan hak ve yetkiler",
+          "qas": [
+            {
+              "question": "mezuniyet belgesi ile diploma ve diploma defterinin düzenlenmesinde uyulacak esaslara i̇lişkin yönerge'ye göre diplomanın ön yüzünde hangi bilgiler yer alır?",
+              "answers": [
+                {
+                  "text": "üniversitenin adı, diploma başlığı, öğrencinin adı soyadı, bitirilen bölüm ve/veya anabilim dalı/programı, mezun olunan programın derecesi, sahip olunan hak ve yetkiler.",
+                  "answer_start": 39
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – diplomanın arka yüzünde: a) mezun olan kişinin; t.c. kimlik numarası, b) adı-soyadı, c) mezuniyet tarihi ç) diploma no d) düzenlenme tarihi e) diplomayı düzenleyenin adı, soyadı, imzası",
+          "qas": [
+            {
+              "question": "mezuniyet belgesi ile diploma ve diploma defterinin düzenlenmesinde uyulacak esaslara i̇lişkin yönerge'ye göre diplomanın arka yüzünde hangi bilgiler bulunur?",
+              "answers": [
+                {
+                  "text": "mezun olan kişinin t.c. kimlik numarası, adı-soyadı, mezuniyet tarihi, diploma no, düzenlenme tarihi, diplomayı düzenleyenin adı, soyadı, imzası.",
+                  "answer_start": 38
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – (3) diplomada yabancı uyruklu mezun öğrenciler için de aynı bilgiler bulunur, fakat t.c. kimlik numarası yerine yabancı kimlik numarası yer alır.",
+          "qas": [
+            {
+              "question": "yabancı uyruklu öğrencilerin diplomasında t.c. kimlik numarası yerine ne yazılır?",
+              "answers": [
+                {
+                  "text": "yabancı kimlik numarası yer alır.",
+                  "answer_start": 122
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 7 – (2) i̇kinci öğretim uygulaması yapılan programlardan mezun olanların diplomalarında, ikinci öğretim programlarından mezun oldukları belirtilmez.",
+          "qas": [
+            {
+              "question": "ikinci öğretim programlarından mezun olanların diplomalarında bu durum belirtilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, ikinci öğretim programlarından mezun oldukları belirtilmez.",
+                  "answer_start": 95
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 7 – (3) diplomada mezuniyet ortalaması belirtilmez.",
+          "qas": [
+            {
+              "question": "mezuniyet belgesi ile diploma ve diploma defterinin düzenlenmesinde uyulacak esaslara i̇lişkin yönerge'ye göre diplomada mezuniyet ortalaması yer alır mı?",
+              "answers": [
+                {
+                  "text": "hayır, diplomada mezuniyet ortalaması belirtilmez.",
+                  "answer_start": 14
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 16 - (2) diploma eki, diplomanın akademik ve profesyonel anlamda tanınmasını kolaylaştırır, ancak diplomanın yerini alamaz ve uluslararası akademik tanınırlığı garanti etmez.",
+          "qas": [
+            {
+              "question": "diploma ekinin işlevi ve sınırlılıkları nelerdir?",
+              "answers": [
+                {
+                  "text": "diplomanın akademik ve profesyonel anlamda tanınmasını kolaylaştırır, ancak diplomanın yerini alamaz ve uluslararası akademik tanınırlığı garanti etmez.",
+                  "answer_start": 28
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 17 – (1) mahkeme kararına dayalı nüfus kaydı değişikliği, diplomanın arkasına şerh düşülüp tarih konularak, gebze teknik üniversitesi öğrenci i̇şleri daire başkanı imzası ile imzalanır ve ıslak mühür vurulur.",
+          "qas": [
+            {
+              "question": "mahkeme kararına dayalı nüfus kaydı değişikliği diplomaya nasıl işlenir?",
+              "answers": [
+                {
+                  "text": "diplomanın arkasına şerh düşülüp tarih konularak, gebze teknik üniversitesi öğrenci i̇şleri daire başkanı imzası ile imzalanır ve ıslak mühür vurulur.",
+                  "answer_start": 64
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (7) duplikatasını (ikinci nüsha) kaybedenlere aynı usul ve esaslar uygulanmak suretiyle yine ikinci nüsha diploma verilir. duplikata kaçıncı kez verilirse verilsin üzerinde ikinci nüsha ifadesi yer alır.",
+          "qas": [
+            {
+              "question": "ikinci nüsha diplomasını kaybedenlere ne yapılır?",
+              "answers": [
+                {
+                  "text": "aynı usul ve esaslar uygulanmak suretiyle yine ikinci nüsha diploma verilir ve kaçıncı kez verilirse verilsin üzerinde ikinci nüsha ifadesi yer alır.",
+                  "answer_start": 144
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (3) diploma tahribata uğradığı için yeni diploma isteyenler, diplomanın aslını göstermek zorundadırlar.",
+          "qas": [
+            {
+              "question": "tahribat nedeniyle yeni diploma almak isteyenler ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "diplomanın aslını göstermek zorundadırlar.",
+                  "answer_start": 72
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 10 – (1) öğrenci i̇şleri daire başkanlığı tarafından hazırlanan diploma, diploma defterine işlenir ve imza için önce meslek yüksekokulu müdürü/dekan/enstitü müdürüne ardından gebze teknik üniversitesi rektörlüğüne sunulur.",
+          "qas": [
+            {
+              "question": "diploma hazırlandıktan sonra imza süreci nasıl işler?",
+              "answers": [
+                {
+                  "text": "önce meslek yüksekokulu müdürü/dekan/enstitü müdürüne ardından gebze teknik üniversitesi rektörlüğüne sunulur.",
+                  "answer_start": 118
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 11 – diploma numaraları ile diploma defterlerinin sayfa numaraları, her yıl yeniden başlatılmayıp devam ettirilir.",
+          "qas": [
+            {
+              "question": "diploma numaraları her yıl yeniden mi başlatılır?",
+              "answers": [
+                {
+                  "text": "hayır, diploma numaraları ile diploma defterlerinin sayfa numaraları, her yıl yeniden başlatılmayıp devam ettirilir.",
+                  "answer_start": 11
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 12 – (1) diplomalar, düzenleme tarihinde görevde bulunan rektör, dekan, müdür tarafından imzalanır.",
+          "qas": [
+            {
+              "question": "diplomaları kimler imzalar?",
+              "answers": [
+                {
+                  "text": "düzenleme tarihinde görevde bulunan rektör, dekan, müdür.",
+                  "answer_start": 27
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 20 – bu yönergeyi, gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "question": "mezuniyet belgesi ile diploma ve diploma defterinin düzenlenmesinde uyulacak esaslara i̇lişkin yönerge'yi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü yürütür.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

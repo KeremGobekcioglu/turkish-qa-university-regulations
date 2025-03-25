@@ -1,0 +1,319 @@
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+temel bi̇li̇mler fakültesi̇ li̇sans eği̇ti̇mi̇
+staj yönergesi̇
+doküman no
+yayın tarihi
+revizyon tarihi
+revizyon no
+sayfa
+yö-0071
+17.07.2020
+-
+0
+6-1
+amaç
+madde 1. (1) bu yönergenin amacı; gebze teknik üniversitesi temel bilimler fakültesi bölümlerinde öğrenim gören
+lisans  öğrencilerinin  lisans  eğitim  ve  öğretim  yönetmeliğinde  belirtilen  ilkeler  çerçevesinde  pratik  bilgi  ve
+becerilerini artırmak amacıyla yapılan ve eğitim-öğretim programının zorunlu bir parçası olan staj faaliyetlerine ilişkin
+usul ve esaslarını belirler.
+kapsam
+madde  2.  (1)  bu  yönerge;  gebze teknik  üniversitesi temel  bilimler  fakültesi  bölümlerinde  öğrenim  gören lisans
+öğrencilerinin  yurt  içi  ve  yurt  dışı  kurum  ve  kuruluşlarında  yapacakları  stajların  planlanması,  yürütülmesi,
+değerlendirilmesi ve denetlenmesi ile ilgili temel esasları kapsar.
+dayanak
+madde 3. (1) bu yönerge, gebze teknik üniversitesi lisans eğitim ve öğretim yönetmeliği ile 2547, 5510 ve 6111
+sayılı kanunların ilgili maddelerine dayanılarak hazırlanmıştır.
+tanımlar
+madde 4. (1) bu yönergede geçen;
+a) bölüm: gebze teknik üniversitesi temel bilimler fakültesi bölümlerini,
+b) bölüm i̇ntibak komisyonu: bölüm başkanlıkları tarafından oluşturulan komisyonları,
+c)  bölüm  staj  komisyonu:  gebze  teknik  üniversitesi  temel  bilimler  fakültesi  bölümlerinin  oluşturdukları  staj
+komisyonlarını,
+ç)  fakülte: gebze teknik üniversitesi temel bilimler fakültesini,
+d) i̇steğe bağlı staj: gebze teknik üniversitesi temel bilimler fakültesi lisans öğrencilerin öğretim planı dışındaki
+zorunlu olmayan stajları,
+e)  kurum: öğrencinin staj yapacağı/yaptığı kurumu,
+f)  öğrenci: gebze teknik üniversitesi temel bilimler fakültesi bölümlerinin öğrencisini,
+g) sgk: sosyal güvenlik kurumunu,
+ğ)  stajyer: staj yapan gebze teknik üniversitesi temel bilimler fakültesi bölümlerinin öğrencisini,
+h) uzun dönem staj: üniversite tarafından kurumlar ile yapılan protokoller çerçevesinde yapılan stajları,
+ı)   üniversite: gebze teknik üniversitesi’ni
+i)  zorunlu  staj:  gebze  teknik  üniversitesi  temel  bilimler  fakültesi  bölümlerinin  lisans  öğrencilerin  öğretim
+planında geçen ve yapmakla yükümlü oldukları stajları ifade eder.
+sorumluluklar
+madde 5. (1) bu yönerge kapsamında öğrencilerin staj yapacakları kurumun belirlenmesinden staj dersinin sonunda
+değerlendirmelerine kadar geçen süreç içerisinde sorumluluk dağılımı şu şekildedir:
+a) fakülte:  yönergede  belirtildiği  şekilde  evrakların  düzenlenmesi,  gerekli  onayların  takibi,  sgk  işlemlerinin
+yapılması, gerekli koordinasyonun sağlanması ve yönerge kapsamındaki diğer tüm kurallara uygun şekilde sürecin
+yürütülmesinden sorumludur.
+b) kurum:  kurum  yetkililerinin,  staja  katılan  öğrencileri  mesleki  pratiklerini  geliştirecek  biçimde  yönlendirmeleri
+beklenir. kurumlar, staj çalışmalarında i̇ş güvenliği ve sağlığı kurallarını uygulamak ve sağlamak ile sorumludur.
+c)  öğrenci: gerekli bildirimleri yaparak onayları almak, süreci takip etmek ve yönerge kapsamındaki tüm kurallara
+uymakla yükümlüdürler.
+ç)  staj  komisyonu:  başvuruları  ve  yapılan  stajı  yönergede  belirtilen  prensipler  çerçevesinde  değerlendirmeye  ve
+gerekli onayları vermeye yetkilidirler.
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+temel bi̇li̇mler fakültesi̇ li̇sans eği̇ti̇mi̇
+staj yönergesi̇
+doküman no
+yayın tarihi
+revizyon tarihi
+revizyon no
+sayfa
+yö-0071
+17.07.2020
+-
+0
+6-2
+bölüm staj komisyonu
+madde  6.  (1)  her  bölümde  öğrencilerin  staj  işlerini  yürütmek  üzere  bir  staj  komisyonu  kurulur.  staj  komisyonu,
+bölüm başkanının önerisiyle bölüm kurulu tarafından 3 yıl süreyle görevlendirilen biri başkan olmak üzere, en az 3
+öğretim üyesinden oluşur. görev süresi dolan üyeler tekrar seçilebilir. görev süresi bitmeden ayrılmak zorunda kalan
+üye için aynı şekilde atama süreci işletilir.
+(2)  staj yerinin uygunluğuna karar verir.
+(3)  stajların değerlendirmesini yapar.
+(4)  yurtiçi  ve  yurtdışındaki  kamu  veya  özel  kurum  ve  kuruluşların  bölüm  için  tahsis  ettikleri  stajyer  kontenjanları
+varsa, bunları ilan eder ve önceden belirlenmiş kıstaslara göre dağıtır.
+(5)  bölüm staj uygulama esaslarını hazırlar.
+(6)  bölüm staj komisyonu kararları, bölüm web sayfasından öğrencilere duyurulur.
+staj süresi, dönemleri ve yeri
+madde  7.  (1)  gtü  temel  bilimler  fakültesi  lisans  öğrencileri,  öğretim  planlarında  staj  dersi  var  ise  öğrenimleri
+boyunca zorunlu stajlarını en az 40 iş günü yapmakla yükümlüdür. mezun olabilmek için bu sürenin tamamlanması
+zorunludur.
+(2) zorunlu  stajlar,  tek  dönemde  (40  gün)  veya  iki  dönemde  (20  +  20  veya  25  +  15  gün)  yapılabilir.  stajını  iki
+dönemde yapmak isteyen öğrenciler stajlarını tercihen iki ayrı yerde yapmalıdır.
+(3)  öğrenciler,  zorunlu  stajları  sırasında  kendilerini  daha  fazla  geliştirmek  amacıyla  belirlenen  zorunlu  gününden
+fazla gün çalışma yapabilir. fazla kısmı isteğe bağlı staj olarak değerlendirilir. i̇steğe bağlı stajlar tek bir seferde
+en az 15 iş günü olmalıdır. bu süre altındakiler değerlendirilmez. yurtdışında ve gönüllü olarak yapılan stajlarda
+sigorta masrafları dâhil her türlü sorumluluk öğrenciye aittir.
+(4)  bu yönergenin 7 inci maddesinin 5’inci ve 6’ıncı fıkrasında belirtilen istisnai durumlar dışında zorunlu stajlar
+bahar ve güz yarıyılları arasındaki akademik tatil süresi içerisinde yapılır.
+(5)  üniversite tarafından kurumlar ile yapılan protokoller çerçevesinde öğrenciler bir eğitim dönemi içerisinde veya
+yaz okulu sırasında öğretim planını aksatmayacak şekilde uzun dönem staj yapabilir, yaz okuluna devam edilen
+günler staja sayılmaz. bu staja seçilecek öğrenciye kurum ve ilgili bölüm staj komisyonu karar verir.  bu staj,
+bölüm staj komisyonunun değerlendirmesi sonucunda 40 iş gününe karşılık gelen zorunlu staja sayılabilir.
+(6)  8’inci  yarıyılını
+tamamlamamış  öğrenciler  normal  öğretim
+programlarını  aksatmamak  şartıyla  bölüm  staj  komisyonunun  kararı  ile  eğitim  öğretim  dönemlerinde  de
+stajlarını yapabilirler.
+tamamlamasına  rağmen  zorunlu  stajlarını
+(7)  resmi tatil ilan edilen günlerde staj yapılamaz (yurtdışında yapılan stajlar için o yerin resmi tatil günlerinde staj
+yapılamaz).  staj  yapılan  iş  yerinin  resmi  tatillere  denk  gelmemek  kaydıyla  hafta  sonları  da  (cumartesi-pazar)
+faaliyette  olması  durumunda  öğrenci  hafta  sonu  staj  yapabilir.  bu  durumu  öğrencinin  staj  yöneticisi  tarafından
+onaylanmış bir belge ile belirtmesi gerekmektedir. bununla birlikte bir haftada en fazla 6 gün staj yapılabilir (bu
+durum yurtdışında yapılan stajlar için de geçerlidir).
+(8)  staj yeri bulma ve staj yapacağı kurumun staja başlama gereklerini yerine getirme sorumluluğu öğrenciye aittir.
+öğrencilerin bulup önerdiği staj yerinin uygun olup olmadığına, bölüm staj komisyonu karar verir.
+(9)  öğrenci kabul edildiği kurumda staja başlamadan önce staj fişini ilgili birimlere onaylatmak zorundadır.
+(10) öğrenciler  yurtdışında  kendi  girişimleri  veya  erasmus  gibi  programlar  kanalı  ile  buldukları  yerlerde  de  staj
+yapabilirler. erasmus programı kanalı ile yapılacak stajlarda gtü erasmus + öğrenci ve personel değişim
+yönergesi  uygulanır.  yurtdışında  zorunlu  ve  gönüllü  olarak  yapılan  stajlarda  sigorta  masrafları  dâhil  her  türlü
+sorumluluk öğrenciye aittir.
+(11) bölümler birinci ve ikinci dönem zorunlu stajlara ilişkin farklı staj türü belirleyebilir. farklı staj türüne ihtiyaç var
+ise; bu staj türleri bölüm kurulları tarafından belirlenir ve staj komisyonları tarafından uygulamada dikkate alınır.
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+temel bi̇li̇mler fakültesi̇ li̇sans eği̇ti̇mi̇
+staj yönergesi̇
+doküman no
+yayın tarihi
+revizyon tarihi
+revizyon no
+sayfa
+yö-0071
+17.07.2020
+-
+0
+6-3
+staj uygulama esasları
+staj öncesi yapılacaklar
+madde 8. staj öncesi yapılacak işlemler aşağıda sıralanmıştır:
+(1) staj  prosedürünün  işlemesi  için  uygun  görülen  takvim  her  akademik  yılbaşında  her  bölümün  staj  komisyonları
+tarafından  belirlenen  tarihlerde  bölüm  web  sayfalarında  ilan  edilir.    her  bölümün  staj  için  başvuru  kabulu  her
+bölümün staj komisyonu tarafından belirlenen tarihlerde yapılır.
+(2) öğrenci,  dekanlıktan  “staj  zorunluluk  belgesi'ni  alır.  bu  belge  ile  birlikte  staj  yapmayı  düşündüğü
+işletme/işletmeler ile ön görüşme yapar. staj yapmaya karar verilen işletme için “öğrenci staj fişi”nden iki nüsha
+doldurur  ve  onaylatılmak  üzere  staj  komisyonu  tarafından  bu  fişlerin  incelemesinin  7 iş  gününe  kadar süreceği
+göz  önüne  alınarak  bölüm  sekreterliği  aracılığıyla  staj  komisyonu'na  teslim  eder.  sigorta  girişlerinin
+yapılabilmesi için hâlihazırda sigortalı olup olmadığı bilgisinin öğrenci staj fişine işlenmiş olması gerekmektedir.
+staj fişlerinde yapılacak staj süresi (toplam iş günü ve tarih aralığı) ve hangi tür staj (zorunlu veya gönüllü staj)
+olduğu  belirtimediği  takdirde  staj  fişi  onaylanmaz.  staj  komisyonu  bu  fişleri  inceleyerek  kabul  ettikleri  stajları
+onaylanmak üzere dekanlığa iletir.
+(3) dekanlık  tarafından  onaylanan  fişlerin  bir  nüshası  öğrenci  tarafından  staj  yapacağı  firmaya  ulaştırılır.  firma
+öğrenci adına bir “kabul belgesi” düzenler.
+(4) öğrenci,  kabul  belgesi  ve  eğer  sigortalı  ise  bunun  belgesi  (i̇nternet  çıktısı  kabul  edilecektir)  ile  staj  başlama
+tarihinden  en  az  15  gün  önce  dekanlığa  başvurarak  “staj  değerlendirme  belgesi”ni  ve  fakülte  tarafından
+onaylanmış staj defterini alır ve işletme veya kuruluşta stajına başlar.
+(5) öğrenciler  stajlarına  ancak  sigorta  girişleri  tamamlandıktan  sonra  başlayabileceklerdir.  sigorta  girişleri
+yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.
+(6) staj  komisyonu,  öğrencilerin  hangi  işletme  veya  kuruluşta  staj  yaptıklarının  listesini  kendi  staj  dosyalarında
+muhafaza eder.
+(7) staj komisyonu izniyle ve koşullar uygun olduğunda, yurtiçi/yurtdışı yükseköğretim kurumlarında staj yapılabilir.
+(8) öğrenci  staj  yapmak  istediği  kurumdan  alacağı  staj  yapma  isteğinin  kabul  edildiğine  dair  başlıklı  veya  kaşeli,
+tarihli  ve  stajın  adını  içeren  onaylı  bir  belge  ile  staj  komisyonu’na  başvurur.  öğrencinin  başvurusu  staj
+komisyonu  tarafından  incelenerek  ve  gerektiğinde  staj  yeriyle  ilgili  detaylı  bilgiler  istenerek  stajın  o  kurumda
+yapılıp yapılmayacağına karar verilir.
+(9) yurtiçinde  veya  yurtdışında  yapılacak  stajlarda  sigorta  yapılması  zorunludur. yurtiçinde  yapılmak  üzere  zorunlu
+staj  başvurusu  kabul  edilen  öğrencilerin  sigorta  işlemleri  gtü  temel  bilimler  fakültesi  tarafından  yapılır.
+yurtdışında  zorunlu  veya  gönüllü  olarak  yapılacak  stajlarda  sigorta  masrafları  dâhil  her  türlü  sorumluluk
+öğrenciye aittir.
+staj süresince yapılacaklar
+madde 9. staj defteri / dosyası %100 i̇ngilizce programlarındaki öğrenciler tarafından i̇ngilizce olarak teknik resim,
+yazı ve çizim kurallarına uygun şekilde, mürekkeple, tükenmez kalemle veya bilgisayarda doldurulur. i̇ngilizce olarak
+hazırlanan dosyalara türkçe özet eklenir.
+madde  10.  öğrenci,  defteri  işletmedeki  staj  süresi  içinde  doldurur  ve  çalışma  süresince  ve  sonunda  gerekli  yerleri
+işletme  yetkililerine  onaylatır.  staj  defterinin  her  sayfasının  işletmedeki  staj  sorumlusu  veya  sorumluları  tarafından
+paraflanmış olması, ilk ve son sayfaların ise imzalı ve kaşeli olması gerekmektedir.
+staj sonrası yapılacaklar
+madde 11. stajyer değerlendirme belgesi, işletme tarafından gizli olarak doldurulur, onaylanır ve kapalı zarfa konur.
+onaylayan işletme yetkilisinin ismi, unvanı ve görevi belge üzerinde açıkça belirtilmelidir. kapalı zarf içindeki söz
+konusu belge, staj defteri ile birlikte işletme tarafından posta yolu ile veya öğrenci eliyle dekanlığa gönderilir.
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+temel bi̇li̇mler fakültesi̇ li̇sans eği̇ti̇mi̇
+staj yönergesi̇
+doküman no
+yayın tarihi
+revizyon tarihi
+revizyon no
+sayfa
+yö-0071
+17.07.2020
+-
+0
+6-4
+madde  12.  staj  ile  ilgili  defter  ve  belgelerin,  stajı  izleyen  eğitim-öğretim  yarıyılının  ikinci  haftası  sonuna  kadar
+dekanlığa  ulaştırılması  öğrencinin  sorumluluğundadır.  bu  süreden  sonra  staj  dosyası  kabul  edilmez  ve  dosyası
+zamanında teslim edilmeyen stajlar geçersiz sayılır.
+staj değerlendirilme esasları
+madde 13.
+(1)    staj  evraklarının  hepsi  bölüm  staj  komisyonlarınca  değerlendirilerek,  sonuçları  ilgiliye  en  geç  başvurunun
+yapıldığı  tarihten  itibaren  üçüncü  hafta  içerisinde  bildirir.  staj  komisyonu  itirazları  iki  hafta  içerisinde
+değerlendirerek  karara  bağlar.  staj  komisyonu  bütün  değerlendirme  sonuçlarını  en  geç  dokuz  hafta  içerisinde
+bölüm başkanlığı vasıtasıyla dekanlığa bildirir.
+(2)  i̇lk  değerlendirme  sonucunda  öğrencinin  stajı  başarılı  olarak  kabul  edilir  ya  da  evraklar  “eksik”  ibaresi  ile
+tamamlanmak  üzere  öğrenciye  geri  iade  edilir.  15  günlük  ek  sürenin  sonunda  staj  komisyonu,  eksikleri
+tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır, bu değerlendirme sonunda öğrencinin
+yapmış  olduğu  staj  kabul  veya  reddedilir.  stajı  reddedilen  öğrenciler  reddedilen  stajı  bir  sonraki  dönemde
+tekrarlamakla yükümlüdürler.
+(3)  staj  komisyonu,  gerekli  gördüğü  durumlarda  stajın  amacına  ve  kurallarına  uygun  yürütülmesi  için  gerekli
+izlemeyi  yapabilir  veya  stajın  yapıldığı  kurum  ile  iletişime  geçip,  staj  yapan  öğrenci  hakkında  bilgi  alarak
+öğrencilerin izlenmesini sağlayabilir.
+(4)  her dönem stajı bir ders olarak değerlendirilir ve öğrencinin not belgesinde, stajın yapıldığı tarihi izleyen yarıyıl
+programında, ilgili bölüme ait bir ders koduyla gösterilir. bu dersler için ilgili yönetmeliğe uygun olarak başarılı /
+başarısız notlarından biri verilir.
+(5)  öğrencinin  stajda  başarılı  sayılması  için  öncelikle  kurumlarca  doldurulacak  staj  değerlendirme  formuna  göre
+başarılı olması zorunludur. değerlendirmede başarısız olan öğrencilerin stajlarını yenilemesi zorunludur.
+(6)  gönüllü  staj  değerlendirmeleri  sadece  ilgili  firma  tarafından  doldurulmuş  olan  “gönüllü  staj  değerlendirme
+belgesi” ile değerlendirilir.
+(7)  staj komisyonları; zorunlu stajını tamamladığı gün itibariyle stajının kabul edilmesi durumunda mezun olabilecek
+durumdaki öğrencilerin stajlarını öncelikli olarak değerlendirir.
+öğrenci yükümlülükleri
+madde  14.  (1)  öğrenciler  staj  yaptıkları  işletmenin  çalışma  düzenine,  kural,  talimat  ve  emirlerine  uymak,  daimi
+personel  gibi  işyerinin  ticari,  sosyal  ve  kültürel  faaliyetlerine  katılmak  ve  yöneticilerin  verdikleri  mesleki  eğitimle
+ilgili görevleri yapmak zorundadırlar. aksi durumda stajları başarılı sayılmaz. öğrenciye mesleki eğitime aykırı görev
+verildiği takdirde, staj komisyonun izni çerçevesinde staj yerini değiştirebilir.
+(2)  stajyerler, kusurları nedeni ile verecekleri zararlardan dolayı o işyeri elemanlarının sorumluluklarına tabidir.
+(3)  öğrenciler, staj süresince mazeretsiz olarak staj süresinin %10’undan fazla devamsızlık yapamazlar.
+(4)  stajyer öğrenciler için yükseköğretim  kurumları  öğrenci  disiplin yönetmeliği’nin  hükümleri staj  sırasında  da
+geçerlidir.
+özel durumlar
+madde 15. (1) çift ana dal programı kapsamında olan öğrencinin ikinci dalı ile ilgili staj aktiviteleri ilgili çift ana dal
+programında belirtilen esaslarla belirlenir.
+(2)  yan dal programı kapsamında olan öğrenci, ilgili bölüm tarafından aksi belirtilmedikçe, yan dalı ile ilgili meslek
+stajı yapmak zorunda değildir.
+(3)  yatay  ve  dikey  geçiş  sınavı  ile  fakültemizde  öğrenim  görmeye  hak  kazanan  intibak  öğrencilerinin  daha  önce
+intibak  komisyonunca
+temel  stajdan  muafiyetleri,
+ilgili  bölümün
+almış  oldukları  eğitim  nedeniyle
+değerlendirilerek karara bağlanır.
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+temel bi̇li̇mler fakültesi̇ li̇sans eği̇ti̇mi̇
+staj yönergesi̇
+doküman no
+yayın tarihi
+revizyon tarihi
+revizyon no
+sayfa
+yö-0071
+17.07.2020
+-
+0
+6-5
+yürürlükten kaldırılan yönerge
+madde  16.  (1)  26.09.2012  tarihine  uygulamaya  giren  ve  24/12/2014  tarih  ve  2014/40  sayılı  senato  kararı  ile  isim
+değişikliği revizesi yapılmış olan moleküler biyoloji ve genetik bölümü staj yönergesi yürürlükten kaldırılmıştır.
+hüküm bulunmayan haller
+madde  17.  (1)  bu  yönergede  hüküm  bulunmayan  hallerde;  2547  sayılı  kanun,  yükseköğretim  kurulu,
+üniversitelerarası kurul, gebze teknik üniversitesi lisans eğitim-öğretim yönetmeliği, senato, üniversite yönetim
+kurulu, fakülte yönetim kurulu kararları ve ilgili mevzuat hükümleri uygulanır.
+yürütme
+madde 18. (1) bu yönerge gebze teknik üniversitesi rektörlüğünce yürütülür.
+yürürlük
+madde 19. (1) bu yönerge 2019 –2020 öğretim yılı bahar yarıyılından itibaren yürürlüğe girer.
+staj prosedürü
+5510 sayılı sosyal sigortalar ve genel sağlık sigortası kanunu’nun 5-b maddesinde “yüksek öğrenimleri sırasında
+zorunlu  staja tabi tutulan  öğrenciler”  hakkında  “i̇ş  kazası  ve  meslek  hastalığı sigortası  uygulanır.”; 11.  maddenin  6.
+maddesinde ise  “yükseköğrenimleri sırasında  zorunlu  staja  tabi  tutulan  öğrencilerin  bildirimleri  öğrenim  gördükleri
+yükseköğretim kurumlarınca yapılır.” denmektedir.
+ayrıca  staj,  öğrencilerin  lisans  eğitim  ve  öğrenimlerinin  parçası  olarak,  teorik  olarak  öğrendiklerinin  pratik
+uygulamalarını  gördükleri/yaptıkları,  kendilerini  iş  hayatına  hazırladıkları,  ilgili  sektör  kuruluşları  ile  tanışıp  iş
+bağlantısı yapma fırsatı buldukları bir faaliyet olarak değerlendirilmektedir.
+dolayısıyla staja başlayacak öğrencilerimizin aşağıdaki prosedüre uymaları gerekmektedir.
+1)  staj prosedürünün işlemesi için uygun görülen takvim her akademik yılbaşında her bölümün staj komisyonları
+tarafından belirlenen tarihlerde bölüm web sayfalarında ilan edilir.
+2)  öğrenci,  dekanlıktan  “staj  zorunluluk  belgesi”  alır.  bu  belge  ile  birlikte  staj  yapmayı  düşündüğü
+işletme/işletmeler ile ön görüşme yapar. firma öğrenci adına “kabul belgesi”ni düzenler.
+3)  öğrenci  kabul  belgesi  veya  kabul  belgeleriyle  birlikte  bilgisayarda  düzenlediği  staj  fişini  onaylatmak  üzere
+bölüm  sekreterliği  aracılığıyla  bölüm  staj  komisyonuna  başvurur.  sigorta  girişlerinin  yapılabilmesi  için
+hâlihazırda  sigortalı  olup  olmadığı  bilgisinin  staj  fişine  işlenmiş  olması  önemlidir.  staj  komisyonu  ve  bölüm
+başkanlığınca onaylanan fişler öğrenci ile veya bölüm sekreterliği tarafından dekanlığa gönderilir.
+4)  öğrenci, staj fişi dekanlık tarafından onaylandıktan sonra, staj yeri kabul formu – müstehaklık belgesi ve staj
+fişi fotokopilerini stajı başlamadan en az 15 (on beş) iş günü öncesinde temel bilimler fak. dekanlığına teslim
+eder.  öğrencilerimiz;  sigortalı  ise  sigortalı  olduğunu  gösteren  belge,  sigortalı  değil  ise  müstehaklık  belgesi
+(i̇nternet  çıktısı  kabul  edilecektir),  staj  fişi  ve  kabul  belgesi  ile  sigorta  giriş  işlemini  yaptırır.  öğrenciler
+stajlarına ancak sigorta girişleri tamamlandıktan sonra başlayabileceklerdir.
+öğrenci  dekanlıktan  sigortalı  i̇şe  giriş  bildirgesi’ni  iki  nüsha  halinde  alır,  birini,  staj  fişi,  staj  kabul
+belgesi ve müstehaklık belgesi ile birlikte kendi bölümüne imza ile teslim eder. sigortalı i̇şe giriş bildirgesi’nin
+diğer nüshasını staj yapacağı firmaya verir.
+5)  öğrenci dekanlıktan teslim alacağı staj defteri’ni zorunlu stajı süresince her güne en az bir sayfa olmak üzere
+düzenler  ve  staj  bitiminde  her  sayfası  firma  yetkilisi  ve  öğrenci  tarafından  imzalanır.  “zorunlu  staj
+değerlendirme belgesi”ni ise staja başlarken firma yetkilisine teslim eder ve staj bitiminde kapalı zarf içerisinde
+teslim alır. i̇steğe bağlı staj için “i̇steğe bağlı staj değerlendirme belgesinde bu seçenek işaretlenmedir. zorunlu
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+temel bi̇li̇mler fakültesi̇ li̇sans eği̇ti̇mi̇
+staj yönergesi̇
+doküman no
+yayın tarihi
+revizyon tarihi
+revizyon no
+sayfa
+yö-0071
+17.07.2020
+-
+0
+6-6
+stajlarda olduğu gibi staj defteri düzenlemelidir.
+öğrenci, hazırlayacağı staj defteri ve staj değerlendirme belgesini değerlendirilmek üzere, yaz dönemi stajı
+için en geç stajı izleyen eğitim-öğretim yarıyılının ikinci haftası sonuna kadar, dönem içinde biten staj için ise staj
+bitiminden  itibaren  3  (üç)  hafta  içerisinde  bölüm  sekreterliğine  imza  karşılığında  ulaştıracaktır.  (bu  süreden
+sonra  staj  defteri  ve  staj  değerlendirme  formu  kabul  edilmez  ve  dosyası  zamanında  teslim  edilmeyen  stajlar
+geçersiz sayılır).
+i̇lgili bölüm’ ün staj komisyonu o döneme ait staj dosyalarını değerlendirerek sonuçları temel bilimler fakültesi
+dekanlığına yazılı olarak, öğrencinin adı, soyadı, numarası, staj tarihleri, kabul edilen staj gününü bildirir.
+yönerge’nin kabul edildiği senato kararı
+sayısı
+tarihi
+2020/13
+02/07/2020
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-

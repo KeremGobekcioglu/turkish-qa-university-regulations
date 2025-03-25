@@ -1,0 +1,630 @@
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-1 
+GENEL ESASLAR 
+MADDE 1: Amaç ve Kapsam 
+Bu yönergenin amacı; Gebze Teknik Üniversitesi Mimarlık Fakültesi bünyesindeki bölümlerde öğrenim gören 
+lisans  öğrencilerinin  “Gebze  Teknik  Üniversitesi  Lisans  Eğitim  ve  Öğretim  Yönetmeliği’ndeki  ilkeler 
+çerçevesinde,  kuramsal  ve  uygulamalı  derslerde  edindikleri  bilgi  ve  becerilerini  gerçek  tasarım,  yapım, 
+yönetim ve üretim süreçlerinde pekiştirmelerini, bu süreçlerde ortaya çıkan özgün durumlarla lisans sonrası 
+eğitimlerine  ve  uzmanlık  alanlarına  yön  vermelerini  sağlamak  amacıyla  yapılan  ve  eğitim-öğretim 
+programının  zorunlu  bir  parçası  olan  staj  faaliyetlerine  ilişkin  usul  ve  esaslarının  belirlenmesidir.  Bu 
+çerçevede,  Gebze  Teknik  Üniversitesi  Mimarlık  Fakültesi  öğrencilerinin  yurt  içi  ve  yurt  dışı  kurum  ve 
+kuruluşlarında  yapacakları  stajların  planlanması,  yürütülmesi,  değerlendirilmesi  ve  denetlenmesi  ile  ilgili 
+temel esasları kapsamaktadır. 
+MADDE 2: Dayanak 
+Bu Yönerge, Gebze Teknik Üniversitesi Lisans Eğitim ve Öğretim Yönetmeliği ile 2547, 5510 ve 6111 sayılı 
+kanunların  ilgili  maddelerine  ve  GTÜ  Erasmus+  Öğrenci  ve  Personel  Değişim  Yönergesi’ne  dayanarak 
+hazırlanmıştır. 
+MADDE 3: Tanımlar 
+Bu Yönerge’de geçen; 
+a)  Dekanlık: Gebze Teknik Üniversitesi Mimarlık Fakültesini, 
+b)  Bölüm: Gebze Teknik Üniversitesi Mimarlık Fakültesi bünyesindeki bölümleri, 
+c)  Zorunlu Staj: Gebze Teknik Üniversitesi Mimarlık Fakültesi bünyesindeki bölümlerde yer alan lisans 
+öğrencilerinin öğretim planında geçen, yapmakla yükümlü oldukları stajları, 
+d)  İsteğe Bağlı Staj: Gebze Teknik Üniversitesi Mimarlık Fakültesi bünyesindeki bölümlerde yer alan 
+lisans öğrencilerinin öğretim planında geçen yapmakla yükümlü oldukları stajların dışındaki stajları, 
+e)  Kurum: Öğrencinin staj yapacağı/yaptığı kurumu, 
+f)  Öğrenci:  Gebze  Teknik  Üniversitesi  Mimarlık  Fakültesi  bünyesindeki  bölümlerde  yer  alan  lisans 
+öğrencisini, 
+g)  Staj  Komisyonu:  Gebze  Teknik  Üniversitesi  Mimarlık  Fakültesi  bünyesindeki  bölümlerin  Staj 
+Komisyonlarını, 
+h)  Stajyer: Staj yapan Gebze Teknik Üniversitesi Mimarlık Fakültesi bünyesindeki bölümlerde yer alan 
+lisans öğrencisini, 
+ifade eder. 
+MADDE 4: Staj Yapılabilecek Alanlar 
+Stajın  yurt  içi  ve/veya  yurt  dışında  yapılabileceği  alanlar  bölümlere  göre  Madde  4a  ve  Madde  4b’de 
+tanımlanmaktadır. 
+MADDE 4a: Mimarlık Bölümü Staj Yapılabilecek Alanlar 
+Mimarlık Bölümü Stajının yurtiçi ve/veya yurt dışında yapılabileceği alanlar aşağıda belirtilmektedir: 
+•  Mimarlık  büroları:  Mimarlık  büroları  temelde  binaların  projelendirme  (tasarım)  işlerinin  yapıldığı 
+işletmelerdir. Bu işletmelerde esas olarak binaların 1/500 ölçekten 1/1 ölçeğe kadar uzanan ölçeklerde 
+tasarımları yapılmakta, ayrıca bu bürolarda bina tasarımıyla ilgili çeşitli disiplinlerin koordinasyonu 
+veya  yönetimi  yapılmaktadır  (tasarım  yönetimi).  Bu  işletmelerde  temelde  proje  yönetim  isleri 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-2 
+niteliğinde, fizibilite çalışmaları, ihale çalışmaları, sözleşme yönetimi ve inşaat kontrollüğü gibi temel 
+işler de görülebilmektedir. 
+•  Proje Yönetimi Firmaları (ve/veya Kontrollük Örgütleri): Proje yönetimi firmalarının pratik çalışma 
+bağlamında  temel  işlevi,  mal  sahibi  (proje  sahibi)  adına  bina  üretim  sürecindeki  tüm  faaliyetlerin 
+planlanması  ve  kontrol  edilmesi,  bir  başka  deyişle  mal  sahibi  adına  bina  üretiminin  yürütülmesi, 
+gerçekleştirilmesi  ve  yönetilmesi  işi  olarak  anlaşılmaktadır.  Bu  firmalar  temelde  bina  üretim 
+faaliyetine  katılan  tüm  birimlerin,  (işletmelerin)  yapacakları  işleri  tanımlayan,  bunlarla  mal  sahibi 
+adına sözleşme yapan ve bu birimlerin faaliyetlerini sözleşmelere göre kontrol eden firmalardır. 
+•  Yapı  Denetim  Firmaları:  Yapı  denetim  firmaları,  yapım  faaliyetlerinin  ve  bu  işlerde  kullanılan 
+malzemelerin standartlara uygunluğunu denetlemekle ve jeoteknik raporlar ile uygulama projelerini 
+kontrol etmekle yükümlüdürler. 
+•  İnşaat  Firmaları  Merkez  Örgütü:  İnşaat  firmaları  merkez  örgütü  kavramı,  binaların  yapım  isini 
+üstlenmiş firmaların şantiye birimleri dışında genel olarak merkez adıyla nitelenen işlevsel birimlerinin 
+tümünü  tanımlamaktadır.  Merkez  örgütlerinde  inşaat  firmaları  teklif  hazırlama,  ihalelere  katılma, 
+firma  şantiyelerini  kontrol  etme,  izleme,  makine  ve  ekipman  yönetimi,  malzeme  temini,  maliyet 
+kontrol,  kesin  hesap  ve  benzeri  bazı  çalışmalar  gerçekleştirilmektedir.  Bu  çalışmaların 
+gerçekleştirilmesinde doğrudan doğruya mimarlar görev alabilmektedir. 
+•  İnşaat Firmaları Şantiyeleri: İnşaat firmaları şantiyeleri, inşaat firmalarının merkezi örgütü dışında, 
+doğrudan  doğruya  bina  üretim  faaliyetini  gerçekleştiren  örgütsel  birimlerdir.  Şantiyelerde  üretim 
+faaliyetiyle  ilgili  olarak  mimarlar  tarafından  yapılan  çok  sayıda  çalışma  söz  konusudur.  Bunlar 
+temelde, uygulamanın yürütülmesi ve kontrolü, kalite kontrolü, hak ediş, metraj, kesin hesap, geçici 
+ve kesin kabul, temin ve kaynak planlaması ve benzeri islerdir. 
+•  Kamu Kuruluşları: Yerel yönetimlerin bakanlıklara bağlı genel müdürlüklerinin ve/veya diğer kamu 
+kuruluşlarının  ilgili  birimlerinde  (örneğin  bakanlıklara  bağlı  çeşitli  müdürlüklerde)  mimarlık 
+faaliyetleri yapılabilmektedir. 
+•  Atölye,  Yaz  Okulları:  Çeşitli  kuruluşların  düzenledikleri  atölyeler,  yaz  okulları  diğer  mesleki 
+etkinlikler, arkeolojik kazı alanlarında ve/veya tarihi sit alanlarında ve/veya tarihi  yapılarda mimari 
+belgeleme,  yüzey/alan  araştırmaları,  Kalkınma  Bakanlığı,  TÜBİTAK,  BAP  ve  Döner  Sermaye 
+projeleri.  (Bu  başlık  altında  tanımlanmış  alanlardaki  staj  yeri  önerilerinin  kabulü  ya  da  reddi  Staj 
+Komisyonu’nun takdirine bırakılmıştır) 
+•  Öğrenciler  yurtdışında  kendi  girişimleri  veya  ERASMUS  gibi  programlar  kanalı  ile  de  staj 
+yapabilirler.  ERASMUS  programı  kanalı  ile  yapılacak  stajlarda  GTÜ  ERASMUS+  Öğrenci  ve 
+Personel Değişim Yönergesi uygulanır. 
+MADDE 4b: Şehir ve Bölge Planlama Bölümü Staj Yapılabilecek Alanlar 
+Şehir  ve  Bölge  Planlama  Bölümü  Stajının  yurtiçi  ve/veya  yurt  dışında  yapılabileceği  alanlar  aşağıda 
+belirtilmektedir: 
+•  Kamu Kuruluşları: Merkezî yönetimin merkez ve taşra örgütleri ile yerel yönetimler içerisinde ilgili 
+yasalar çerçevesinde doğrudan planlama ve ilgili görev ve yetkileri bulunan kuruluşlardır. 
+•  Planlama  Büroları:  Şehir  ve  bölge  planlama  çalışmalarına  ilişkin  araştırma  raporları,  alan 
+araştırmaları,  analizler  ve/veya  çeşitli  ölçeklerdeki  her  türlü  planlama  çalışmalarının  yapılabildiği 
+Şehir Plancıları Odası  büro tescil belgesine sahip, bünyesinde şehir plancısı bulunduran özel  ya  da 
+tüzel kuruluşlardır. 
+•  Diğer Araştırma-Planlama Kuruluşları: GTÜ veya başka üniversiteler bünyesinde yürütülen araştırma 
+projeleri,  ulusal  ve  uluslararası  atölye  çalışmaları,  döner  sermaye  ve  teknopark  bünyesinde 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-3 
+gerçekleştirilen  uygulama  projeleri,  Bilimsel  Araştırma  Projeleri  (BAP),  TÜBİTAK  Projeleri  ve 
+kurumların Ar-Ge işletmelerindeki projeleri, sivil toplum kuruluşları ile meslek odalarının araştırma 
+çalışmaları vb. akademik faaliyetleridir (Bu başlık altında tanımlanmış alanlardaki staj yeri önerilerinin 
+kabulü ya da reddi Staj Komisyonunun takdirine bırakılmıştır). 
+•  Öğrenciler  yurt  dışında  kendi  girişimleri  veya  ERASMUS  gibi  programlar  kanalı  ile  de  staj 
+yapabilirler.  ERASMUS  programı  kanalı  ile  yapılacak  stajlarda  GTÜ  ERASMUS+  Öğrenci  ve 
+Personel Değişim Yönergesi uygulanır. 
+MADDE 5: Staj Komisyonunun Oluşturulması ve Görevleri 
+Her bölümde öğrencilerin staj işlerini yürütmek üzere bir Staj Komisyonu oluşturulur. Staj Komisyonu, Bölüm 
+Başkanı’nın önerisiyle Bölüm Kurulu tarafından üç yıl süreyle görevlendirilen biri başkan (öğretim üyesi ya 
+da görevlisi) olmak üzere, en az üç öğretim elemanından oluşur. Üyelerin ikinci kez seçilmesi mümkündür. 
+Görev süresi bitmeden ayrılan bir üye yerine, kalan süreyi tamamlamak üzere başka bir üye seçilir. 
+Staj Komisyonunun görevleri aşağıda belirtilmiştir: 
+a)  Çeşitli  kurum  ve  kuruluşlarca  tahsis  edilen  staj  yerlerini  ilan  etmek,  yapılan  başvuruları 
+değerlendirmek, bu yerlere öğrencilerin dağıtımını yapmak, 
+b)  Öğrencilerin staj ile ilgili başvurularını değerlendirmek, staj yerlerinin uygunluğuna karar vermek ve 
+stajla ilgili sorunlarına çözüm bulmak, 
+c)  Stajyerlerin staj raporları ile staj belgelerini inceleyerek stajın kabul veya reddine karar vermek, staj 
+sonucunu  listeler  halinde  öğrencilere  duyurmak  üzere  Bölüm  Başkanlığına  bildirmek  ve  Bölüm 
+kayıtlarına geçirmek, 
+d)  Öğrencilerin bilgilendirilmesi amacıyla yılda iki kez staj semineri düzenlemek, 
+e)  Staj Komisyonu kararlarını, Bölüm web sayfasında duyurmak, 
+f)  Gerekli görülen durumlarda öğrencinin stajını yerinde denetlemek ve sözlü sınava tabi tutmak, 
+g)  Bu yönergede bulunmayan veya açıklamaya ihtiyaç duyulan diğer hususları karara bağlamak. 
+MADDE 6: Staj Süresi ve Bu Sürenin Staj Yapılabilecek Alanlara Dağılımı 
+Staj  süresi  ve  bu  sürenin  staj  yapılabilecek  alanlara  dağılımı  bölümlere  göre  Madde  6a  ve  Madde  6b’de 
+tanımlanmaktadır. 
+MADDE 6a: Mimarlık Bölümü Staj Süresi ve Bu Sürenin Staj Yapılabilecek Alanlara Dağılımı 
+Staj yapılabilecek alanlarda (Madde 4a’da adı geçen alanlar) yapılacak stajın toplam ve fiili çalışma süresi en 
+az 45 iş günüdür. 45 günlük staj süresi büro ve şantiye stajı şeklinde iki aşamada gerçekleştirilecektir. Bu iki 
+aşamanın hangisinin daha önce yapılacağı öğrencinin seçimine bırakılmıştır. Bu aşamalardan biri olan büro 
+stajı en az 20 iş günü yapılacaktır. Büro stajı sadece bina tasarımı ile ilgili bir çalışma niteliğindedir ve Madde 
+4a’da  tanımlanan  alanlar  ve/veya  işletmelerin  sadece  bina  tasarımı  ile  ilgili  birimlerinde  tasarım  faaliyeti 
+olarak yapılacaktır. En az 25 iş günü olan şantiye stajı ise sadece inşaat firmaları şantiyelerindeki faaliyetlerle 
+ilgili olacaktır. 
+Öğrenciler, zorunlu stajlarını isteğe bağlı olarak, belirtilen asgari süreden (büro için 20, şantiye için 25) daha 
+fazla yapabilirler. Fazla kısmı isteğe bağlı staj olarak değerlendirilecektir. 
+Ayrıca  öğrenciler,  normal  öğretim  programını  aksatmayacak  şekilde  Bölüm  Staj  Komisyonu’nun  uygun 
+bulduğu hallerde zorunlu stajlar dışında isteğe bağlı staj da yapabilirler. 
+Staj yeri bulma sorumluluğu öğrenciye aittir. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-4 
+MADDE 6b: Şehir ve Bölge Planlama Bölümü Staj Süresi ve Bu Sürenin Staj Yapılabilecek Alanlara 
+Dağılımı 
+Staj yapılabilecek alanlarda (Madde 4b’de adı geçen alanlar) yapılacak stajın toplam ve fiili çalışma süresi en 
+az 50 iş günüdür. Bu sürenin 25 iş günü zorunlu olan kamu kuruluşu stajını kapsar. Yine zorunlu olan 25 iş 
+günü ise kamu kuruluşu, planlama bürosu veya diğer araştırma-planlama kuruluşlarında  yapılabilir. Bu iki 
+aşamanın hangisinin daha önce yapılacağı öğrencinin seçimine bırakılmıştır. 
+Zorunlu staj, eğitimi programında 4. yarıyıl projesinin başarıyla tamamlanması sonrasında yapılır. Öğrenciler, 
+zorunlu stajlarını isteğe bağlı olarak belirtilen asgari süreden daha fazla yapabilirler. Fazla kısmı isteğe bağlı 
+staj olarak değerlendirilir. 
+Ayrıca  öğrenciler,  normal  öğretim  programını  aksatmayacak  şekilde  Bölüm  Staj  Komisyonunun  uygun 
+görüşüyle lisans eğitiminin herhangi bir aşamasında isteğe bağlı staj da yapabilirler. İsteğe bağlı yapılan stajlar 
+zorunlu staj yerine geçmez. 
+Staj yeri bulma sorumluluğu öğrenciye aittir. 
+MADDE 7: Staj Yapılabilecek Dönemler 
+Staj yapılabilecek dönemler, Fakülte Yönetim Kurulunun kabul edeceği özel durumlar hariç, eğitim-öğretim 
+ve sınav dönemleri dışındadır ve 4. yarıyılı izleyen yaz tatilinden itibaren yapılabilir. Staj çalışmalarının en 
+erken  başlama  tarihi  final  sınavı  sonu,  en  geç  bitiş  tarihi  ise  gelecek  eğitim-öğretim  yılının  başlangıcıdır. 
+Resmî tatil günlerindeki çalışmalar staj süresi olarak kabul edilmez. 
+Yaz okulundan ders alan öğrenciler bu süre içerisinde staj yapamazlar. 
+Tek dersi veya sadece bitirme ödevi/projesi kalan öğrenciler, sınav dönemi dışında staj yapabilirler. Haftada 
+en  az  2  serbest  tam  iş  günü  bulunan  (öğrencinin  saat  18.00’den  önce  dersinin  olmadığı)  ve  6.  yarıyılını 
+tamamlamış veya programlarındaki tüm derslerinden başarı sağlamış olan öğrenciler, öğretim ile birlikte staj 
+yapabilir. 
+MADDE 8: Staj Yerlerinin Belirlenmesi ve Kabulü 
+Staj yapılacak yerin Staj Komisyonu tarafından uygun görülerek kabul edilmesi gereklidir. Bu amaçla öğrenci, 
+Bölüm  web  sitesinde  ilan  edilen  “Staj  Yeri  Onay  Formu’nu  staj  yapmak  istediği  kuruma  imzalatır;  tarih 
+bilgileri, stajın adı ve onaylayan yetkilinin (bu kişi büro stajı için mimar, şantiye stajı için mimar ya da inşaat 
+mühendisi,  kamu  kuruluşu,  planlama  bürosu  ve  diğer  araştırma-planlama  kuruluşları  için  şehir  plancısı 
+olmalıdır) ilgili meslek odası sicil numarasını içeren kaşeli/onaylı belge ile içinde bulunulan yılın nisan ayının 
+son  cuma  gününden  önce  Staj  Komisyonuna  başvurur.  Öğrencinin  başvurusu  Staj  Komisyonu  tarafından 
+incelenerek  ve  gerektiğinde  staj  yeriyle  ilgili  detaylı  bilgiler  istenerek,  stajın  o  kurumda  yapılıp 
+yapılamayacağına  dair  karar  verilir.  Uygun  bulunan  “Staj  Yeri  Onay  Formu”  Staj  Komisyonu  üyeleri 
+tarafından imzalanır. 
+Staj Komisyonunun bilgisi ve kabulü dâhilinde yurt dışında da staj yapılabilir. Bu durumda hem yabancı dilde 
+hazırlanan hem de yeminli tercüme büroları tarafından Türkçeye çevrilen staj raporlarının Staj Komisyonuna 
+teslim edilmesi şarttır. Yurt içinde veya yurt dışında yapılacak stajlarda sigorta yapılması zorunludur. Yurt 
+içinde yapılmak üzere staj başvurusu kabul edilen öğrencilerin sigorta işlemleri 5510 Sayılı “Sosyal Sigortalar 
+ve Genel Sağlık Sigortası Kanunu” kapsamında yapılır. Yurt dışı stajlarında sigorta masrafları dâhil her türlü 
+sorumluluk öğrenciye aittir. 
+MADDE 9: Stajın Değerlendirilmesi 
+Öğrenci, staj süresince yaptığı çalışmalar hakkında Bölümlerin belirlediği esaslara göre staj raporunu Türkçe, 
+yurt dışı stajlarında  İngilizce olarak hazırlar. Öğrenciler staj raporunu ve kendilerine kapalı zarf içerisinde 
+elden teslim edilecek “Staj Değerlendirme  Formu”nu stajı  izleyen eğitim-öğretim  yarıyılının en  geç ikinci 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-5 
+haftası sonunda Bölüm Sekreterliğine teslim ederler. Staj raporunun her sayfası kuruluştaki yetkili (bu kişi 
+büro stajı için mimar, şantiye stajı için mimar ya da inşaat mühendisi, kamu kuruluşu, planlama bürosu ve 
+diğer araştırma-planlama kuruluşları için şehir plancısı olmalıdır) tarafından imzalı, kaşeli ve üye oldukları 
+meslek  odasındaki  sicil  numaraları  yazılı  olarak  teslim  edilmelidir.  Staj  dosyalarının  değerlendirmeye 
+alınabilmesi  için;  staj  yerinin  önceden  Staj  Komisyonu  tarafından  uygun  bulunup  kabul  edilmiş  olması, 
+istenen belge ve raporların tam olması ve belirtilen asgari sürelere uyulması gereklidir. Geç teslim edilen staj 
+defteri  ve  Staj  Değerlendirme  Formu  değerlendirilmeye  alınmaz.  Ayrıca  öğrencinin  stajda  başarılı 
+sayılabilmesi için öncelikle staj yaptığı kuruluşlarca doldurulacak Staj Değerlendirme Formu’na göre başarılı 
+olması zorunludur. 
+Staj Komisyonu, staj belgelerinin değerlendirilmesinde aşağıdaki kriterleri göz önüne alır: 
+•  Yapılan staj çalışmasının belirlenen amaç ve hedefler doğrultusunda öğrencinin eğitimine katkısı, 
+•  Öğrencinin yaptığı işteki başarısı, 
+•  Yapılan işin tanımlanmasındaki beceri düzeyi, 
+•  Öğrencinin mesleki uygulamadaki sorunları kavrayış düzeyi. 
+İlk  değerlendirme sonucunda öğrencinin stajı  başarılı  olarak kabul  edilir  ya da evraklar  “eksik” ibaresi  ile 
+tamamlanmak üzere öğrenciye iade edilir. Verilen ek sürenin sonunda Staj Komisyonu, eksikleri tamamlanmış 
+olması gereken evrakı ikinci ve son kez olarak değerlendirmeye alır. Bu değerlendirmenin sonunda staj, kabul 
+veya reddedilir. Stajı reddedilen öğrenciler reddedilen stajı bir sonraki dönemde tekrarlamakla yükümlüdür. 
+Bölüm  Staj  Komisyonları  tarafından  yapılan  son  değerlendirmeler  yazılı  olarak  Bölüm  Başkanlıklarına, 
+Bölüm  Başkanlıklarından  Dekanlığa,  sonrasında  alınan  Yönetim  Kurulu  kararı  da  Öğrenci  İşleri  Daire 
+Başkanlığı’na bildirilir. Ayrıca ilgili yarıyılın 7. haftasında Bölümlerin web sayfasında ilan edilir, 8. haftada 
+itirazlar değerlendirilerek karara bağlanır. 
+Her  staj  bir  ders  olarak  değerlendirilir  ve  öğrencinin  not  belgesinde,  stajın  yapıldığı  tarihi  izleyen  yarıyıl 
+programında,  ilgili  bölüme  ait  bir  ders  koduyla  gösterilir.  Bu  dersler  için  ilgili  yönetmeliğe  uygun  olarak 
+başarılı / başarısız notlarından biri verilir. 
+Staj belgelerinin değerlendirilmesinde ve öğrencinin stajlardan muaf tutulma işlemlerinde, açıklanan hususlar 
+dışında kalan hâllerde Fakülte Yönetim Kurulu yetkilidir. 
+MADDE 10: Staj Konusunda Danışmanlık 
+Bölüm  Staj  Komisyonları,  bahar  yarıyılının  4.  haftasında  bir  toplantı  düzenleyerek  stajın  önemi,  amacı, 
+koşulları ve kapsamına yönelik bilgiler verir. Toplantıda, istenen belgeler ile ilgili ayrıntılı açıklamalar yapılır. 
+Toplantı öncesinde, Staj Komisyonları tarafından toplantı ile ilgili bilgiler (toplantı tarihi, toplantı yeri vb.) 
+duyuru panosunda ve Bölümlerin web sayfalarında ilan edilir. 
+Öğrenciler  staj  ile  ilgili  sorularını  yazılı  olarak  Komisyona  iletebilirler.  İlgili  soru  ve  sorunlara  ilişkin 
+açıklamalar,  Bölüm Staj Komisyonları  tarafından belirlenen tarihlerde staj  duyuru panosunda  yazılı  olarak 
+ilan edilir. 
+MADDE 11: Staj Belgelerinin Saklanması 
+Staj  Değerlendirme  Formu,  Staj  Raporu  ve  Staj  Komisyonu  tarafından  doldurulan  Staj  Yeri  Onay  Formu 
+öğrencinin dosyasında muhafaza edilir. Teslim alınan staj dosyaları kabul tarihinden başlamak üzere, Bölüm 
+Başkanlıklarınca belirlenen bir yerde, 5 (beş) yıl süreyle saklanır. Saklanma süresi dolan staj defterleri, ilgili 
+mevzuat hükümleri çerçevesinde, Bölüm Başkanlıklarınca uygun görülen bir şekilde imha edilir. 
+Staj kabul tarihinden başlamak üzere 2 (iki) yılın sonunda yapılan staj ile ilgili öğrenci itirazları hiçbir şekilde 
+kabul edilmez. 
+MADDE 12: Bölümlerin staj esasları Madde 12a ve Madde 12b’de tanımlanmaktadır. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-6 
+MADDE 12a: Mimarlık Bölümü Staj Esasları 
+(1) Büro (Mimari Tasarım) Stajı Esasları 
+a) Büro (Mimari Tasarım) Stajının Amaçları 
+Büro stajı  yapacak olan öğrenciden öncelikle beklenen, bölümde mimari tasarım derslerinde aldığı bilgiler 
+doğrultusunda beceri ve tecrübesini arttırıcı pratik yapma olanağını bulmasıdır. Bununla birlikte, büro stajı 
+süresinde, gerçek hayattaki mimari tasarım ve projelendirme alanındaki uygulamaları yerinde görmek ve bir 
+disiplinler arası faaliyette bulunmak suretiyle yeni bilgi ve becerilerin kazanılması esastır. Büro stajının bir 
+diğer amacı da, mimarlık eğitimi sırasında almış olduğu bilgilerin ve kazandığı becerilerin, gerçek hayattaki 
+diğer  koşullarla  birlikte  değerlendirildiğinde,  diploma  sonrası  meslek  hayatında  yapabileceği  işler  ve 
+çalışabileceği alanlar konusunda yol gösterici olmasını sağlamaktır. 
+b) Büro Stajı Sonunda İstenen Belgeler 
+Büro (mimari tasarım) stajı yapan bir öğrencinin, yaptığı stajın değerlendirilmesine esas olacak bir takım belge 
+ve dokümanları Staj Komisyonu’na teslim etmesi gereklidir. Bu belge ve dokümanların sunulacağı raporda 
+aranan temel özellikler şöyledir; 
+ Öğrencinin bilgi ve beceri düzeyi ile ilişkili olması 
+ Bizzat  öğrencinin  kendisi  tarafından  yapılmış  olduğunu  ifade  edecek  nitelik  ve  inandırıcılıkta 
+bulunması 
+ Belirli bir takdim düzeninde açık ve net olması 
+A4 boyutunda(bölümün web sayfasında yer alan kapak sayfası ile) ve cilt/dosya düzeninde hazırlanacak staj 
+raporunda yer alması beklenen bilgiler aşağıdaki şekildedir; 
+Büro Günlüğü 
+Bu bölüm büro stajı yapanlar tarafından bir tür büro günlüğü olarak algılanıp gerekli kayıtlar yapılacaktır. Bu 
+kayıtların içeriğinde, her gün büroda yapılan genel faaliyetler, öğrenci tarafından yapılan eskiz, çizim, maket 
+vb.  gibi  mimarlık  ile  ilgili  faaliyetler  net  ve  anlaşılır  biçimde  staj  defterine  günü  gününe  kaydedilecek  ve 
+onaylatılacaktır. 
+Büro Organizasyon Şeması (Büronun İşleyiş Biçimi) 
+Bu  bölümde,  büroda  çalışan  elemanlar  ve  bu  elemanların  faaliyet  alanları  ile  birlikte  büroda  üstlendikleri 
+görevler tanımlanacaktır. Büro organizasyon şeması olarak da ifade edilebilecek olan bu bölümde, hiyerarşik 
+düzen içinde yapılan islerin tanımlanması, tasarımcı (karar verici) ile diğer elemanların yaptıkları islerin nasıl 
+bir isleyiş biçimi gösterdiği ve staj yapan öğrencinin bu organizasyondaki rolü açık bir biçimde ele alınacaktır. 
+Raporda  ayrıca,  staj  yapan  öğrencinin  bürodaki  görevine  yer  verilecek  ve  çalışma  sisteminin  bir 
+değerlendirilmesi yapılacaktır. Öğrenci açısından olumlu ve olumsuz bulunan konular kritik edilecektir. 
+Büroda Yapılan İşlere Yönelik Bilgiler 
+Büro stajı yapan öğrenci, bu bölümde yukarıda istenen bilgilere ilave olarak, staj süresince yaptığı işler ile 
+ilgili detaylı görsel ve açıklamalara yer verecektir. Bu bölümde mimarlık eğitimi almakta olan bir öğrencinin 
+sahip  olduğu  bilgiler  doğrultusunda,  yaptığı  işlerin  bir  analizini  yapması  istenilmektedir.  Öğrenci  mimari 
+tasarımdan  uygulama  projesine  ve  yapıma  kadar  olan  süreyi  göz  önünde  bulundurarak  kendi  yaptığı  iş  ve 
+eylemleri tanımlayacak, bunların süreç içindeki önemini irdeleyecektir. Bu şekilde, belirli bir işte görev alan 
+bir  mimar  adayı  olarak,  insanın  farkında  olmadan  yaptığı  mimarlık  eylemlerinin  daha  tanımlı  bir  hale 
+getirilmesi suretiyle fayda sağlanması amaçlanmaktadır. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-7 
+Büro stajı yapan öğrenci, staj süresinin sonunda, staj raporunda yer alan sırayla, kendisinin bizzat yaptığı her 
+türlü çalışmaya ait belgelerin birer kopyasını rapora ekleyecektir. Bu raporda ayrıca, öğrencinin bizzat 
+yaptığı işin, bürodaki genel iş düzeni içerisindeki önemini ortaya koyacak diğer belgeler de yer alacaktır. Bu 
+raporda yer alacak belgelerin başlıcaları; mimari tasarım etütleri, mimari projeler, detay çizimler, 
+perspektifler, maket fotoğrafları, vb. dir. 
+(2) Şantiye Stajı Esasları 
+a) Şantiye Stajının Amacı 
+Şantiyede staj yapan öğrenci, staj yaptığı şantiyede binanın gerçekleştirilmesi ya da onarımı için var olan tüm 
+maddi  ve  insan  gücü  potansiyelini,  bu  potansiyelin  unsurlarını,  bunların  arasındaki  ilişkiyi  tanımış  ve 
+şantiyede  sistemin  nasıl  işlediğini  öğrenmiş  olmalıdır.  Öte  yandan  şantiyede  üretimin  gerçekleşmesini 
+sağlayan,  çok  sayıda  birbirinden  farklı  nitelikte  iş  yapılmaktadır.  Öğrenci  şantiyedeki  çalışma  sırasında,  o 
+şantiyede gerçekleştirilen işlerden en az birini ayrıntılı bir şekilde öğrenmeli, bunun için de o şantiyede böyle 
+bir  işin  bizzat  içinde  olmalı  ve  çalışmalıdır.  Bazı  şantiyelerde  tasarımla  ilgili  birimler  de  bulunmaktadır. 
+Şantiye stajı bu tasarım biriminde yapılamaz. 
+b) Şantiye Stajı Sonunda İstenen Belge ve Raporlar 
+Şantiye  stajı  yapan  öğrenci,  staj  raporunu  ve  staj  değerlendirme  formunu  aşağıda  tanımlanan  biçimde 
+hazırlamak ve staj  sonrasında Bölüm Başkanlığı’na teslim etmek zorundadır. A4 boyutunda(bölümün  web 
+sayfasında yer alan kapak ile) ve cilt/dosya düzeninde hazırlanacak staj raporunda yer alması istenen bilgiler 
+aşağıdaki şekildedir; 
+Şantiye Günlüğü 
+Bu bölüm şantiye stajı yapanlar tarafından bir tür şantiye günlüğü olarak algılanıp gerekli kayıtlar yapılacaktır. 
+Şantiye günlüğüne her gün şantiyede meydana gelen önemli olaylar ve öğrencinin bizzat çalıştığı işle ilgili 
+gelişmeler kaydedilecektir. 
+Şantiye Düzeni ile İlgili Bilgiler 
+Şantiye  düzeni  ile  ilgili  olarak,  şantiyede  var  olan  potansiyelin  ve  isleyişin  genel  anlamda  tanıtılması 
+beklenmektedir. 
+Şantiyede Çalışılan İş ile İlgili Bilgiler 
+Şantiyelerde bina üretiminin gerçekleştirilmesinde uygulamanın yürütülmesi, hak ediş ve metraj hazırlama, 
+süresel  planlama,  malzeme,  ekipman,  işgücü  yönetimi,  satın  alma,  idari  işler,  maliyet  kontrol,  muhasebe, 
+finansman, taşeron  yönetimi  vb. gibi çeşitli işler yürütülmektedir.  Öğrenci  şantiye stajı  raporunda  çalıştığı 
+işlerin ayrıntılarına yer vermek durumundadır. 
+(3) Büro (Mimari Tasarım) ve Şantiye Dışı Alanlarda Yapılacak İsteğe Bağlı Stajın Esasları 
+a) İsteğe Bağlı Stajın Amacı 
+Büro ve şantiye stajları dışında, mimarlık mesleğinin disiplinler arası ilişkilerini tanıtıcı ve kavratıcı farklı 
+alanlarda deneyim kazanmak amacıyla, aşağıda belirtilen alanlardan birinde staj yapabilir: 
+a)  Proje yönetim firmaları, yapı denetim firmaları, müşavirlik firmaları, inşaat firmaları merkez ofisleri 
+ve kamu kuruluşlarının ilgili birimleri, 
+b)  Kalkınma Bakanlığı, TÜBİTAK, BAP, Döner Sermaye vb. araştırma projeleri, 
+c)  Yaz  okulları,  atölyeler,  diğer  mesleki  etkinlikler,  arkeolojik  kazı  alanlarında  ve/veya  tarihi  sit 
+alanlarında ve/veya tarihi yapılarda mimari belgeleme ve alan araştırmaları. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-8 
+b) İsteğe Bağlı Staj Sonunda İstenen Belge ve Raporlar 
+Madde  4a.  kapsamında  tanımlanan  staj  yerleri  bağlamında  staj  yapılan  alan  büro  ya  da  şantiye  stajı 
+niteliklerinden  hangisine  yakınsa,  o  gruba  ait  belgeler  hazırlanarak  teslim  edilecektir.  Ayrıca  gerekli 
+görüldüğünde, komisyonun önerisi doğrultusunda özel raporlar hazırlanacaktır. 
+Yaz okulları, atölyeler, alan araştırmalarında aşağıdaki belgeler istenir; 
+Staj Günlüğü 
+Çalışma süresince yapılan çalışmalar günlük olarak yazılacak ve yürütücü tarafından onaylanacaktır. 
+Rapor 
+Yapılan  çalışmanın  genel  tanımı,  amacı  ve  içeriği,  çalışmayı  örgütleyen  kişiler  ve  kurumlar,  katılan  grup 
+ve/veya kişilerin tanıtımı, ele alınan konuların tür ve nitelikleri belirtilecektir. Bu kapsamda yapılan kişisel 
+çalışmanın ayrıntılı açıklaması, sonuçları ve uygulamaya esas olan örnek sunulacaktır. 
+Başarı Belgesi 
+Yaz  okulları,  atölyeler  sonunda  öğrencinin  çalışmasının  başarılı  olduğunu  gösteren  belgenin  kopyası  staj 
+zarfının içine konulacaktır. 
+MADDE 12b: Şehir ve Bölge Planlama Bölümü Staj Esasları 
+(1) Kamu Kuruluşu Stajının Esasları 
+a) Kamu Kuruluşu Stajının Amacı 
+Kamu kuruluşu stajının amacı; şehir ve bölge planlama meslek alanı ile doğrudan ilgili kamu kurumlarının 
+işleyişleri çerçevesinde planlama sürecinin ve uygulamalarının deneyimlenmesi ve yeni bilgi ve becerilerin 
+kazanılmasıdır. Eğitici personel, varsa şehir plancısı, yoksa imza yetkisi olan birim yöneticisi ve/veya daha 
+üst düzeyde yönetici olmalıdır. 
+b) Kamu Kuruluşu Stajı Sonunda İstenen Belge ve Raporlar 
+Kamu  kuruluşu  stajı  yapan  öğrencinin,  staj  raporunu  ve  Staj  Değerlendirme  Formu’nu  Bölüm  Staj 
+Komisyonuna teslim etmesi gerekmektedir. A4 boyutunda (Bölümün web sayfasında yer alan kapak ile) ve 
+cilt/dosya düzeninde hazırlanacak staj raporunda yer alması istenen bilgiler aşağıdaki gibidir: 
+Kamu Kuruluşu Günlüğü 
+Staj  raporunda,  her  staj  gününe  ait  olmak  üzere,  kamu  kuruluşunda  yapılan  genel  faaliyetler,  öğrenci 
+tarafından bizzat hazırlanan araştırma raporları, tespit çalışmaları, değişik ölçeklerdeki fiziki planlara ilişkin 
+şema ve çizimler, net ve anlaşılır biçimde staj defterine günü gününe kaydedilecek ve onaylatılacaktır. 
+Kamu Kuruluşu Organizasyon Şeması (Kamu Kuruluşunun İşleyiş Biçimi) 
+Bu bölümde, öğrencinin staj yaptığı kamu kuruluşunda yer alan birimler ve birimlerin üstlendikleri görevler, 
+öğrencinin  bulunduğu  birim  de  belirtilerek  kamu  kuruluşunun  çalışma  alanı  ve  organizasyon  şeması 
+tanımlanacaktır. Bununla birlikte, planlama süreci şeması oluşturularak şehir plancısı (karar verici) ile diğer 
+elemanların yaptıkları işlerin nasıl bir işleyiş biçimi gösterdiği ve staj yapan öğrencinin bu süreç içindeki rolü 
+açık  bir  biçimde  ele  alınacaktır.  Ayrıca,  staj  yapan  öğrenciden  kamu  kuruluşundaki  görevine  ve  çalışma 
+sistemine ilişkin bir değerlendirilme yapması beklenmektedir. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-9 
+Kamu Kuruluşunda Yapılan İşlere Yönelik Bilgiler 
+Kamu  kuruluşu  stajı  yapan  öğrenci,  staj  raporunda,  staj  süresince  yaptığı  işler  ile  ilgili  detaylı  görsel  ve 
+açıklamalara yer verecek, yaptığı işlerin analizini ve değerlendirmesini yapacaktır. Öğrenci planlama süreci 
+içinde kendi yaptığı iş ve eylemleri tanımlayacak ve kendisinin bizzat yaptığı her türlü çalışmaya ait belgelerin 
+(analiz, sentez, şemalar, plan ve projeler gibi) birer kopyasını rapora ekleyecektir. 
+(2) Planlama Bürosu Stajı Esasları 
+a) Planlama Bürosu Stajının Amacı 
+Planlama bürosu stajının amacı öğrencinin beceri ve tecrübelerini artırmak ve gerçek yaşam uygulamalarını 
+deneyimlemektir. En az beş yıllık şehir planlama deneyimi olan ve en az üç şehir plancısının çalıştığı bürolarda 
+yapılması gerekmektedir. Eğitici personel, şehir plancısı olmalıdır. 
+b) Planlama Bürosu Stajı Sonunda İstenen Belgeler 
+Planlama bürosu stajı yapan öğrencinin, stajın değerlendirilmesine esas olacak birtakım belge ve dokümanları 
+içeren staj raporunu Staj Komisyonuna teslim etmesi gerekmektedir. Hazırlanacak raporun, öğrencinin bilgi 
+ve beceri düzeyi ile ilişkili olması, öğrencinin kendisi tarafından yapılmış olduğunu ifade edecek nitelik ve 
+inandırıcılıkta olması ve belirli bir takdim düzeninde açık ve net olarak sunulması istenmektedir. 
+A4 boyutunda (Bölümün web sayfasında yer alan kapak sayfası ile) ve cilt/dosya düzeninde hazırlanacak staj 
+raporunda yer alması beklenen bilgiler aşağıdaki gibidir: 
+Planlama Bürosu Günlüğü 
+Staj raporunda her staj gününe ait olmak üzere, büroda  yapılan genel  faaliyetler, öğrenci  tarafından bizzat 
+hazırlanan araştırma raporları, tespit çalışmaları, değişik ölçeklerdeki fiziki planlara ilişkin şema ve çizimler 
+net ve anlaşılır biçimde staj defterine günü gününe kaydedilecek ve onaylatılacaktır.  
+Planlama Bürosu Organizasyon Şeması (Büronun İşleyiş Biçimi) 
+Bu bölümde, planlama süreci şeması yanında büronun çalışma alanı ve organizasyon şeması, büroda çalışan 
+elemanlar  ve  bu  elemanların  faaliyet  alanları  ile  birlikte  büroda  üstlendikleri  görevler  tanımlanacaktır.  Bu 
+çerçevede; plancı (karar verici) ile diğer elemanların yaptıkları işlerin nasıl bir isleyiş biçimi gösterdiği ve staj 
+yapan öğrencinin bu organizasyondaki rolü açık bir biçimde ele alınacaktır. Ayrıca, staj yapan öğrenciden, 
+bürodaki görevine ve çalışma sistemine ilişkin bir değerlendirme yapması beklenmektedir. 
+Planlama Bürosunda Yapılan İşlere Yönelik Bilgiler 
+Planlama  bürosu  stajı  yapan  öğrenci,  staj  raporunda,  staj  süresince  yaptığı  işler  ile  ilgili  detaylı  görsel  ve 
+açıklamalara yer verecek, yaptığı işlerin analizini ve değerlendirmesini yapacaktır. Öğrenci planlama süreci 
+içinde kendi yaptığı iş ve eylemleri tanımlayacak ve kendisinin bizzat yaptığı her türlü çalışmaya ait belgelerin 
+(analiz, sentez, şemalar, plan ve projeler gibi) birer kopyasını rapora ekleyecektir. 
+(3) Diğer Araştırma-Planlama Kuruluşları Stajının Esasları 
+a) Diğer Araştırma-Planlama Kuruluşları Stajının Amacı 
+Diğer  Araştırma-Planlama  Kuruluşları  stajının  amacı;  öğrencinin  kamu  kuruluşları  ve  planlama  büroları 
+dışında,  şehir  planlama  mesleğinin  disiplinler  arası  ilişkilerini  farklı  alanlarda  deneyimlemesi  ve  derslerde 
+edindiği  teorik  bilgiler  ile  planlama  uygulamaları  arasındaki  bağlantıyı  kurmasını  sağlamaktır.  Eğitici 
+personelin, kendi meslek alanında en az beş yıllık deneyimi olan şehir plancısı olması gerekmektedir. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-10 
+b) Diğer Araştırma-Planlama Kuruluşları Stajı Sonunda İstenen Belge ve Raporlar 
+Diğer Araştırma-Planlama Kuruluşları Stajı yapan öğrencinin, staj raporunu ve Staj Değerlendirme Formu’nu 
+Bölüm Staj Komisyonu’na teslim etmesi gerekmektedir. A4 boyutunda (Bölümün web sayfasında yer alan 
+kapak ile) ve cilt/dosya düzeninde hazırlanacak staj raporunda yer alması istenen bilgiler aşağıdaki gibidir: 
+Diğer Araştırma-Planlama Kuruluşları Günlüğü 
+Staj raporunda her staj gününe ait olmak üzere, staj yapılan araştırma-planlama kuruluşunda yapılan genel 
+faaliyetler,  öğrenci  tarafından  bizzat  hazırlanan  araştırma  raporları,  tespit  çalışmaları,  analizler,  değişik 
+ölçeklerdeki  fiziki  planlara  ilişkin  şema  ve  çizimler  net  ve  anlaşılır  biçimde  staj  defterine  günü  gününe 
+kaydedilecek ve onaylatılacaktır. 
+Diğer Araştırma-Planlama Kuruluşları Organizasyon Şeması (İşleyiş Biçimi) 
+Bu  bölümde,  öğrencinin  staj  yaptığı  araştırma-planlama  kuruluşunda  yer  alan  birimler  ve  birimlerin 
+üstlendikleri görevler, öğrencinin bulunduğu birim de belirtilerek kuruluşunun çalışma alanı ve organizasyon 
+şeması tanımlanacaktır. Bununla birlikte, planlama süreci şeması oluşturularak plancı (karar verici) ile diğer 
+elemanların yaptıkları işlerin nasıl bir işleyiş biçimi gösterdiği ve staj yapan öğrencinin bu süreç içindeki rolü 
+açık bir biçimde ele alınacaktır. Ayrıca, staj yapan öğrenciden araştırma-planlama kuruluşundaki görevine ve 
+çalışma sistemine ilişkin bir değerlendirme yapması beklenmektedir. 
+Diğer Araştırma-Planlama Kuruluşunda Yapılan İşlere Yönelik Bilgiler 
+Diğer Araştırma-Planlama Kuruluşları Stajı yapan öğrenci, staj raporunda, staj süresince yaptığı işler ile ilgili 
+detaylı görsel ve açıklamalara yer verecek, yaptığı işlerin analizini ve değerlendirmesini yapacaktır. Öğrenci 
+planlama  süreci  içinde  kendi  yaptığı  iş  ve  eylemleri  tanımlayacak  ve  kendisinin  bizzat  yaptığı  her  türlü 
+çalışmaya ait belgelerin (analiz, sentez, şemalar, plan ve projeler gibi) birer kopyasını rapora ekleyecektir. 
+(4) İsteğe Bağlı Stajın Esasları 
+a) İsteğe Bağlı Stajın Amacı 
+Kamu Kuruluşu, Planlama Bürosu ve diğer Araştırma-Planlama Kuruluşlarında  yapılması gereken zorunlu 
+staj  dışında,  lisans  eğitiminin  herhangi  bir  aşamasında  isteğe  bağlı  staj  da  yapılabilir.  Bununla  birlikte, 
+planlama mesleğinin disiplinler arası ilişkilerini kavramak ve farklı alanlarda deneyim kazanmak amacıyla 
+aşağıda belirtilen alanlarda Bölüm Staj Komisyonun uygun görüşü ile isteğe bağlı staj yapabilir: 
+a)  Bünyesinde şehir plancısı bulunan gayrimenkul firmaları, 
+b)  Koruma, yenileme ve dönüşüm çalışmaları, kentsel ölçekteki diğer planlama ile ilgili çalışmalar, 
+c)  Atölye niteliğindeki yaz okulları ve planlama meslek alanı ile ilgili diğer etkinlikler. 
+b) İsteğe Bağlı Staj Sonunda İstenen Belge ve Raporlar 
+Kamu Kuruluşu, Planlama Bürosu veya diğer Araştırma-Planlama Kuruluşlarından birinde isteğe bağlı staj 
+yapılması durumunda, bu kurum ve kuruluşlar için zorunlu stajda istenen belge ve raporlar isteğe bağlı staj 
+sonunda da hazırlanmalıdır. Yukarıda belirtilen diğer alanlarda isteğe bağlı staj yapılması durumunda ise, staj 
+yapılan  alanın  nitelikleri  kamu  kuruluşu/planlama  bürosu/diğer  araştırma-planlama  kuruluşları  stajı 
+niteliklerinden  hangisine  yakınsa,  o  gruba  ait  belgeler  hazırlanarak  teslim  edilmelidir.  Ayrıca  gerekli 
+görüldüğünde, komisyonun önerisi doğrultusunda özel raporlar hazırlanması gerekmektedir. 
+Yaz okulları, atölyeler ve alan araştırmalarında aşağıdaki belgeler istenir: 
+Staj Günlüğü 
+Çalışma süresince yapılan çalışmalar günlük olarak yazılmalı ve yürütücü tarafından onaylanmalıdır. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-11 
+Rapor 
+Yapılan çalışmanın genel tanımı, amacı ve içeriği, çalışmayı gerçekleştiren kişiler ve kurumlar, katılan grup 
+ve/veya kişilerin tanıtımı, ele alınan konuların tür ve nitelikleri belirtilmelidir. Bu kapsamda yapılan kişisel 
+çalışmanın ayrıntılı açıklaması, sonuçları ve uygulamaya esas olan örnek sunulmalıdır. 
+Başarı Belgesi 
+Yaz okulları, atölyeler ve alan araştırmaları sonrasında öğrencinin başarılı olduğunu gösteren belgenin kopyası 
+staj zarfının içine konulmalıdır. 
+MADDE 13: Staj Değerlendirme Formu 
+Staj Değerlendirme Formu, öğrencinin zorunlu ve isteğe bağlı staj çalışması süresince, tutum ve davranışlarına 
+yönelik değerlendirmeleri içeren ve staj yapılan mimarlık bürosu/ şantiye/ kamu kuruluşu/ planlama bürosu/ 
+araştırma-planlama kuruluşu ile bu kuruluşlar dışında isteğe bağlı staj yapılan kuruluşlardaki yetkili tarafından 
+doldurulacak bir belgedir. Öğrenci, Bölümlerin web sayfasında yer alan Staj Değerlendirme Formu'nu stajın 
+başlangıcında  yetkiliye  elden  götürmeli,  staj  sonrasında  kapalı  zarf  içinde  yetkiliden  teslim  alarak  staj 
+dosyasının içine koymalı ve diğer belgelerle birlikte Bölüm Başkanlıklarına teslim etmelidir. 
+MADDE 14: Öğrenci Yükümlülükleri 
+•  Öğrenciler  staj  yaptıkları  kuruluşun  çalışma  düzenine,  kural,  talimat  ve  emirlerine  uymak,  daimî 
+personel  gibi  iş  yerinin  ticari,  sosyal  ve  kültürel  faaliyetlerine  katılmak  ve  yöneticilerin  verdikleri 
+mesleki  eğitimle  ilgili  görevleri  yapmak  zorundadırlar.  Aksi  durumda  stajları  başarılı  sayılmaz. 
+Öğrenciye  mesleki  eğitime  aykırı  görev  verildiği  takdirde,  Staj  Komisyonu  öğrencinin  staj  yerini 
+değiştirmesini isteyebilir. 
+•  Stajyerler, kusurları nedeni ile verecekleri zararlardan dolayı o işyeri elemanlarının sorumluluklarına 
+tabidir. 
+•  Öğrenciler, staj süresince mazeretsiz olarak staj süresinin %10’undan fazla devamsızlık yapamazlar. 
+•  Stajyer  öğrenciler  için  Gebze  Teknik  Üniversitesinin  ve  Yükseköğretim  Kurumları  Öğrenci  Disiplin 
+Yönetmeliği’nin hükümleri staj sırasında da geçerlidir. 
+MADDE 15: İş Kazası ve Meslek Hastalığı Sigortası 
+Staj süresince öğrencilere 5510 Sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu uygulanır. 
+Bu bağlamda öğrenciler stajlarına ancak sigorta girişleri tamamlandıktan sonra başlayabileceklerdir. Sigortalı 
+olduğunu  beyan  eden  ve  belgeleyen  öğrenciler  dışındaki  öğrencilerin,  sigorta  girişleri  yapılmadan  yapılan 
+çalışmaları staj süresinden sayılmayacaktır. 
+Sigorta  girişlerinin  yapılabilmesi  için  öğrencinin  hâlihazırda  sigortalı  olup  olmadığı  bilgisini  Dekanlığa 
+bildirmesi gerekmektedir. Öğrenci, staja başlayacağı tarihten en az 5 iş günü önce Staj Yeri Onay Formu ile 
+eğer  sigortalıysa  sigortalı  olduğunu  gösteren  belge,  sigortalı  değilse  müstahaklık  belgesini  veya  Sağlık 
+Provizyon  Aktivasyon  Sistemi’nden  alacağı  internet  çıktısını  Dekanlık  muhasebe  birimine  teslim  eder. 
+Dekanlık tarafından sigorta giriş  belgesi  düzenlenerek öğrencinin sigortalı  olarak işe  giriş  kaydı  yapılır ve 
+imza  karşılığında  öğrenciye  teslim  edilir.  Bu  belge  öğrenci  tarafından  staj  yapacağı  firma/kurum/kuruluşa 
+ulaştırılır. Firma/kurum/kuruluş öğrenci adına bir “Kabul Belgesi” düzenler. Öğrencilerin staj bitiş süreleri 
+Dekanlık muhasebe birimi tarafından takip edilir. Sigorta çıkış bildirgesi düzenlenerek öğrencinin sigorta ile 
+ilişiği kesilir. Düzenlenen sigorta çıkış bildirgesinin bir kopyası öğrenciye verilir. 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 
+GEBZE TEKNİK ÜNİVERSİTESİ 
+MİMARLIK FAKÜLTESİ LİSANS EĞİTİMİ 
+STAJ YÖNERGESİ 
+Doküman No 
+YÖ-0018 
+Yayın Tarihi 
+16.12.2017 
+Revizyon Tarihi  16.05.2019 
+Revizyon No 
+Sayfa 
+2 
+12-12 
+MADDE 16: Özel Durumlar 
+•  Dikey  Geçiş  Sınavı  ile  Bölümlerde  öğrenim  görmeye  hak  kazanan  intibak  öğrencilerinin  daha  önce 
+almış  oldukları  eğitim  nedeniyle  zorunlu  stajdan  muafiyetleri,  ilgili  bölümün  intibak  komisyonunca 
+değerlendirilerek Dekanlık tarafından Yönetim Kurulu kararı ile karara bağlanır. 
+•  Bölümlere  yatay  geçişle  gelen  öğrencilerin  geldikleri  yükseköğrenim  kurumunda  kayıtlı  oldukları 
+sürede yaptıkları stajların bir kısmı ya da tamamı, bu Yönergedeki şartları taşıması koşuluyla Bölüm 
+Staj Komisyonlarının onayı ve Dekanlık tarafından Yönetim Kurulu kararı ile kabul edilebilir. 
+Yürürlükten Kaldırılan Yönerge 
+MADDE 17: (1) Gebze Teknik Üniversitesi Senatosunun 12.09.2012 tarih ve 2012/28-03 sayılı kararları ile 
+yürürlüğe giren Gebze Teknik Üniversitesi Mimarlık Fakültesi Mimarlık Bölümü Staj Yönergesi yürürlükten 
+kaldırılmıştır. 
+Yürürlük 
+MADDE  18:  (1)  Bu  Yönerge  ve  Staj  Prosedürü  2018-2019  Eğitim  ve  Öğretim  Yılı  Bahar  Yarıyılı’ndan 
+itibaren yürürlüğe girer. 
+Yürütme 
+MADDE 19: (1) Gebze Teknik Üniversitesi, Mimarlık Fakültesi Dekanlığınca Yürütülür. 
+Gebze Teknik Üniversitesi Mimarlık Fakültesi Mimarlık Bölümü Staj Yönergesi 
+Yönerge’nin Kabul Edildiği Senato Kararı 
+Tarihi 
+12.09.2012 
+Sayısı 
+2012/28-03 
+Yönerge’de Değişiklik Yapan Senato Kararları 
+Tarihi 
+24.12.2014 
+06.12.2017 
+08.05.2019 
+Sayısı 
+2014/40 
+2017/11 
+2019/05 
+Form No: FR-0356 Yayın Tarihi: 23.11.2017 Değ.No:0 Değ.Tarihi:- 

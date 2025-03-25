@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0012 Yandal Programı Yönergesi R3",
+      "paragraphs": [
+        {
+          "context": "madde 1- yan dal programının amacı, ana dal lisans programını (ösym ile kazandığı bölüm) üstün başarıyla yürüten öğrencilerin ilgi duydukları başka bir dalda (yan dal) bilgilenmelerini sağlamaktır.",
+          "qas": [
+            {
+              "question": "yandal programı yönergesi'nin amacı nedir?",
+              "answers": [
+                {
+                  "text": "ana dal lisans programını üstün başarıyla yürüten öğrencilerin ilgi duydukları başka bir dalda bilgilenmelerini sağlamaktır.",
+                  "answer_start": 168
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- yan dal programı en az 60 akts krediden oluşur.",
+          "qas": [
+            {
+              "question": "yan dal programı minimum kaç akts krediden oluşur?",
+              "answers": [
+                {
+                  "text": "en az 60 akts krediden oluşur.",
+                  "answer_start": 26
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- öğrenci, ilan edilmiş olan yan dal programına, ana dal lisans programının en erken üçüncü, en geç altıncı yarıyılın başında başvurabilir.",
+          "qas": [
+            {
+              "question": "yan dal programına ne zaman başvurulabilir?",
+              "answers": [
+                {
+                  "text": "ana dal lisans programının en erken üçüncü, en geç altıncı yarıyılın başında başvurabilir.",
+                  "answer_start": 56
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- öğrencinin yan dal programına başvurabilmesi için başvurusu sırasındaki ana dal programındaki genel not ortalamasının 4 üzerinden en az 2.50 olması gerekir",
+          "qas": [
+            {
+              "question": "yan dal programına başvurabilmek için minimum genel not ortalaması kaç olmalıdır?",
+              "answers": [
+                {
+                  "text": "4 üzerinden en az 2.50 olması gerekir.",
+                  "answer_start": 127
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- öğrenci, aynı anda birden fazla yan dal programına kayıt yaptıramaz. ancak, aynı anda çift ana dal diploma ile yan dal programına kayıt yapılabilir.",
+          "qas": [
+            {
+              "question": "öğrenci aynı anda kaç yan dal programına kayıt yaptırabilir?",
+              "answers": [
+                {
+                  "text": "aynı anda birden fazla yan dal programına kayıt yaptıramaz.",
+                  "answer_start": 19
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- i̇ki dönem üst üste ders almayan öğrencinin yan dal programından kaydı silinir.",
+          "qas": [
+            {
+              "question": "hangi durumda öğrencinin yan dal programından kaydı silinir?",
+              "answers": [
+                {
+                  "text": "i̇ki dönem üst üste ders almayan öğrencinin.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- yan dal programına devam edebilmesi için öğrencinin ana dal programındaki not ortalamasının en az 4 üzerinden 2,50 olması şarttır.",
+          "qas": [
+            {
+              "question": "yan dal programına devam edebilmek için gereken minimum not ortalaması nedir?",
+              "answers": [
+                {
+                  "text": "ana dal programındaki not ortalamasının en az 4 üzerinden 2,50 olması şarttır.",
+                  "answer_start": 62
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 17- ana dal programında mezuniyet hakkını elde eden ve yan dal programını en az 2.00 ortalama ile tamamlayan öğrenciye eğitim aldıkları alanda sadece başarı belgesi (yan dal sertifikası) düzenlenir.",
+          "qas": [
+            {
+              "question": "yan dal sertifikası alabilmek için gereken şartlar nelerdir?",
+              "answers": [
+                {
+                  "text": "ana dal programında mezuniyet hakkını elde eden ve yan dal programını en az 2.00 ortalama ile tamamlayan öğrenciye.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 19- ana dal programından mezuniyet hakkını elde eden ancak yan dal programını bitiremeyen öğrencilere ilgili fakülte yönetim kurullarının kararı ile en fazla iki yarıyıl ek süre tanınır.",
+          "qas": [
+            {
+              "question": "yan dal programını bitiremeyen öğrencilere ne kadar ek süre verilir?",
+              "answers": [
+                {
+                  "text": "en fazla iki yarıyıl ek süre tanınır.",
+                  "answer_start": 155
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 21- yan dal programına tabi olan öğrenciler, ana dal programından mezun oluncaya kadar sadece bu ana dala ait, mezun olduktan sonra ise sadece yan dal programına ait öğrenci katkı payını cezasız öderler.",
+          "qas": [
+            {
+              "question": "yan dal öğrencileri hangi katkı paylarını öderler?",
+              "answers": [
+                {
+                  "text": "ana dal programından mezun oluncaya kadar sadece bu ana dala ait, mezun olduktan sonra ise sadece yan dal programına ait öğrenci katkı payını.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 23- yan dal programını tamamlayan öğrenci, yan dal alanında lisans ve ön lisans diplomasıyla verilen hak ve yetkilerden yararlanamaz.",
+          "qas": [
+            {
+              "question": "yan dal programını tamamlayan öğrenci hangi haklardan yararlanamaz?",
+              "answers": [
+                {
+                  "text": "yan dal alanında lisans ve ön lisans diplomasıyla verilen hak ve yetkilerden yararlanamaz.",
+                  "answer_start": 49
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 24- çift ana dal programından ayrılan bir öğrenci, bir yan dal programının tüm gereklerini yerine getirmişse yan dal sertifikası almaya hak kazanır.",
+          "qas": [
+            {
+              "question": "çift ana dal programından ayrılan öğrenci hangi durumda yan dal sertifikası alabilir?",
+              "answers": [
+                {
+                  "text": "bir yan dal programının tüm gereklerini yerine getirmişse.",
+                  "answer_start": 57
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- öğrenci, yan dal programını, ana dal ve yan dal programlarından öğrenci i̇şleri daire başkanlığına yazılı olarak başvurmak yoluyla kendi isteği ile bırakabilir.",
+          "qas": [
+            {
+              "question": "öğrenci yan dal programından nasıl ayrılabilir?",
+              "answers": [
+                {
+                  "text": "öğrenci i̇şleri daire başkanlığına yazılı olarak başvurmak yoluyla kendi isteği ile.",
+                  "answer_start": 74
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- ana dal programında izinli sayılan öğrenci, yan dal programında da izinli sayılır.",
+          "qas": [
+            {
+              "question": "ana dal programında izinli olan öğrencinin yan dal programındaki durumu ne olur?",
+              "answers": [
+                {
+                  "text": "yan dal programında da izinli sayılır.",
+                  "answer_start": 54
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- yan dal programının amacına uygun biçimde yürütülmesini sağlamak üzere ilgili bölüm başkanınca yan dal programı danışmanı atanır.",
+          "qas": [
+            {
+              "question": "yan dal programı danışmanı kim tarafından atanır?",
+              "answers": [
+                {
+                  "text": "ilgili bölüm başkanınca.",
+                  "answer_start": 81
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- yan dal programına başvurular, akademik takvimde belirlenen sürelerde başvuru formu ve transkript ile yan dal kontenjanı bildiren bölüm başkanlıklarına yapılır.",
+          "qas": [
+            {
+              "question": "yan dal programına başvurular nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "akademik takvimde belirlenen sürelerde başvuru formu ve transkript ile yan dal kontenjanı bildiren bölüm başkanlıklarına yapılır.",
+                  "answer_start": 40
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- öğrencinin yan dal programındaki başarı/başarısızlık durumu, ana dal programındaki başarısı ve mezuniyetini hiçbir biçimde etkilemez.",
+          "qas": [
+            {
+              "question": "yan dal programındaki başarı durumu neyi etkilemez?",
+              "answers": [
+                {
+                  "text": "ana dal programındaki başarısı ve mezuniyetini hiçbir biçimde etkilemez.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 17- yan dal programından sertifika hakkını elde eden öğrenciye, ana dal programından mezuniyet hakkını elde etmeden yan dal programının sertifikası verilmez.",
+          "qas": [
+            {
+              "question": "yan dal sertifikası ne zaman verilmez?",
+              "answers": [
+                {
+                  "text": "ana dal programından mezuniyet hakkını elde etmeden.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 20- yan dal öğrenimi sırasında ana dal programından mezun olan öğrencinin, öğrencilik işlemleri yan dal programına ait fakülte tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "ana dal programından mezun olan yan dal öğrencisinin işlemlerini hangi birim yürütür?",
+              "answers": [
+                {
+                  "text": "yan dal programına ait fakülte tarafından yürütülür.",
+                  "answer_start": 102
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- yan dal programı ilgili bölüm ve fakülte kurullarının önerisi ve üniversite senatosu'nun onayı ile kesinleşir ve ilgili bölümlerin işbirliği ile yürütülür.",
+          "qas": [
+            {
+              "question": "yan dal programı nasıl kesinleşir?",
+              "answers": [
+                {
+                  "text": "ilgili bölüm ve fakülte kurullarının önerisi ve üniversite senatosu'nun onayı ile.",
+                  "answer_start": 26
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 3 – yan dal programının kontenjanları her akademik yılın başında ilgili programın açılmasına karar veren yönetim kurulu tarafından, akademik takvimde belirtilen başvuru tarihlerinden 15 gün önce ilan edilir.",
+          "qas": [
+            {
+              "question": "yan dal programı kontenjanları ne zaman ilan edilir?",
+              "answers": [
+                {
+                  "text": "akademik takvimde belirtilen başvuru tarihlerinden 15 gün önce.",
+                  "answer_start": 138
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- yan dal programına, başvurduğu yarıyıla kadar aldığı lisans programındaki tüm kredili dersleri başarıyla tamamlamış olan öğrenciler başvurabilir.",
+          "qas": [
+            {
+              "question": "yan dal programına kimler başvurabilir?",
+              "answers": [
+                {
+                  "text": "başvurduğu yarıyıla kadar aldığı lisans programındaki tüm kredili dersleri başarıyla tamamlamış olan öğrenciler.",
+                  "answer_start": 29
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- yan dal programından kayıt sildiren öğrenci, aynı yan dal programına tekrar kayıt yaptıramaz.",
+          "qas": [
+            {
+              "question": "kayıt sildiren öğrenci aynı yan dal programına tekrar başvurabilir mi?",
+              "answers": [
+                {
+                  "text": "yan dal programından kayıt sildiren öğrenci, aynı yan dal programına tekrar kayıt yaptıramaz.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 16- öğrenci yan dal programından ayrıldığında, başarısız olduğu yan dal programı derslerini tekrarlamak zorunda değildir.",
+          "qas": [
+            {
+              "question": "yan dal programından ayrılan öğrenci başarısız olduğu dersleri tekrarlamak zorunda mıdır?",
+              "answers": [
+                {
+                  "text": "başarısız olduğu yan dal programı derslerini tekrarlamak zorunda değildir.",
+                  "answer_start": 53
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 21- yüksek lisans programına kayıt oldukları takdirde ayrıca yüksek lisans öğrenci katkı payını da öderler.",
+          "qas": [
+            {
+              "question": "yüksek lisans programına kayıt olan yan dal öğrencileri hangi katkı payını öder?",
+              "answers": [
+                {
+                  "text": "yüksek lisans öğrenci katkı payını da öderler.",
+                  "answer_start": 67
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 22- başka bir üniversitede veya yüksek teknoloji enstitüsünde yan dal programına kayıtlı olan bir öğrenci kendi ana dalında üniversitemize yatay geçiş yaptığında yan dal programında da öğrenci olmak istemesi hâlinde bu yönergenin hükümleri uygulanır.",
+          "qas": [
+            {
+              "question": "başka üniversiteden yatay geçiş yapan yan dal öğrencileri için ne uygulanır?",
+              "answers": [
+                {
+                  "text": "bu yönergenin hükümleri uygulanır.",
+                  "answer_start": 222
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- kabul işlemi başvurulan bölümün bağlı olduğu fakültenin yönetim kurulu kararı ile tamamlanır.",
+          "qas": [
+            {
+              "question": "yan dal programına kabul işlemi nasıl tamamlanır?",
+              "answers": [
+                {
+                  "text": "başvurulan bölümün bağlı olduğu fakültenin yönetim kurulu kararı ile tamamlanır.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- yan dal programı uygulayan bölümler, öğrenci kabul edecekleri bölümler için ayrı ayrı yan dal ders programlarını bölüm kurulu kararı ile belirlerler.",
+          "qas": [
+            {
+              "question": "yan dal ders programları nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "bölüm kurulu kararı ile belirlerler.",
+                  "answer_start": 122
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 27- bu yönerge, gebze teknik üniversitesi senatosu'nda onaylandığı tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "yandal programı yönergesi ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosu'nda onaylandığı tarihte.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- öğrencinin başarılı olduğu ve ana dal programına sayılmayan dersleri, genel not ortalamasına dâhil edilmeksizin transkript ve diploma ekinde yer alır.",
+          "qas": [
+            {
+              "question": "ana dal programına sayılmayan dersler nasıl gösterilir?",
+              "answers": [
+                {
+                  "text": "genel not ortalamasına dâhil edilmeksizin transkript ve diploma ekinde yer alır.",
+                  "answer_start": 80
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

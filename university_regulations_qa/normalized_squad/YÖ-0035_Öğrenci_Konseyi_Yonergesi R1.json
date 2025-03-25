@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0035_Öğrenci_Konseyi_Yonergesi R1",
+      "paragraphs": [
+        {
+          "context": "madde 5- öğrenci temsilci adaylarında aranacak nitelikler: a) i̇lgili fakülte, yüksekokul veya enstitünün kayıtlı öğrencisi olması, b) siyasi parti organlarında üye veya görevli olmaması, c) yükseköğretim kurumlarından uzaklaştırılmasını gerektiren yüz kızartıcı bir suç işlememiş olması, d) seçimin yapıldığı dönemde kayıt dondurmamış olması.",
+          "qas": [
+            {
+              "question": "öğrenci temsilci adaylarında aranan nitelikler nelerdir?",
+              "answers": [
+                {
+                  "text": "i̇lgili fakültenin kayıtlı öğrencisi olması, siyasi parti organlarında görevli olmaması, yüz kızartıcı suç işlememiş olması ve kayıt dondurmamış olması.",
+                  "answer_start": 318
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- bölüm/program/anabilim dalı öğrenci temsilcileri bölüm/anabilim dalının kayıtlı öğrencileri tarafından gtü öğrenci konseyi seçim kurulu'nun belirlediği oylama sistemine göre yapılacak olan seçimle, seçime katılanların salt çoğunluğuyla bir defaya mahsus olmak üzere iki yıl için seçilir.",
+          "qas": [
+            {
+              "question": "bölüm öğrenci temsilcileri kaç yıl için seçilir?",
+              "answers": [
+                {
+                  "text": "i̇ki yıl için.",
+                  "answer_start": 274
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- bölüm/program/anabilim dalı öğrenci temsilcileri seçimlerinde, seçimin yapılabilmesi için birinci tur seçimlerde seçimin yapıldığı bölüm/program/anabilim dalına kayıtlı öğrencilerin (varsa ikinci öğretim öğrencileri dahil) en az % 60'ının, ikinci turda en az % 50'sinin seçimlere katılması şarttır.",
+          "qas": [
+            {
+              "question": "birinci ve ikinci tur seçimlerde katılım oranı en az yüzde kaç olmalıdır?",
+              "answers": [
+                {
+                  "text": "birinci turda en az %60, ikinci turda en az %50.",
+                  "answer_start": 222
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- adaylık başvuruları gtü öğrenci konseyi seçim kurulu'nun belirlediği şekilde, seçim tarihinden bir hafta öncesine kadar yapılır.",
+          "qas": [
+            {
+              "question": "adaylık başvuruları ne zamana kadar yapılmalıdır?",
+              "answers": [
+                {
+                  "text": "seçim tarihinden bir hafta öncesine kadar.",
+                  "answer_start": 88
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- oy verme işlemi seçim için ilan edilmiş tarihlerin ilk günü saat 9:00'da başlar ve son günü saat 16:00'da tamamlanır.",
+          "qas": [
+            {
+              "question": "oy verme işlemi hangi saatler arasında yapılır?",
+              "answers": [
+                {
+                  "text": "i̇lk gün saat 9:00'da başlar ve son gün saat 16:00'da tamamlanır.",
+                  "answer_start": 102
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 17- seçimlerle ilgili her türlü itiraz, seçim sonuçlarının ilanını izleyen ilk iş günü içinde gtü öğrenci konseyi seçim kurulu'na yapılır.",
+          "qas": [
+            {
+              "question": "seçim sonuçlarına itiraz ne zaman yapılabilir?",
+              "answers": [
+                {
+                  "text": "seçim sonuçlarının ilanını izleyen ilk iş günü içinde.",
+                  "answer_start": 46
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- gtü öğrenci konseyi seçim kurulu, bir rektör yardımcısı veya danışmanı başkanlığında üniversite öğretim üyeleri arasından rektör tarafından görevlendirilecek başkan dahil 3 kişiden oluşur.",
+          "qas": [
+            {
+              "question": "gtü öğrenci konseyi seçim kurulu kaç kişiden oluşur?",
+              "answers": [
+                {
+                  "text": "başkan dahil 3 kişiden.",
+                  "answer_start": 167
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- seçimle ilgili tanıtım ve propaganda niteliğindeki her türlü ilan ve afişler, seçimlerden önceki hafta içinde ve gtü öğrenci konseyi seçim kurulu tarafından ilan edilen süre boyunca, bölümlerde bölüm başkanlarının, diğer yerlerde rektörlüğün göstereceği yerlere asılabilir ve seçimden önceki gün mesai saati bitimine kadar kaldırılır.",
+          "qas": [
+            {
+              "question": "seçim propaganda malzemeleri ne zaman kaldırılmalıdır?",
+              "answers": [
+                {
+                  "text": "seçimden önceki gün mesai saati bitimine kadar.",
+                  "answer_start": 286
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 25- öğrenci temsilci kurullarında ve gtü öğrenci konseyinde toplantı yeter sayısı üye tam sayısının salt çoğunluğudur.",
+          "qas": [
+            {
+              "question": "toplantı yeter sayısı nedir?",
+              "answers": [
+                {
+                  "text": "üye tam sayısının salt çoğunluğu.",
+                  "answer_start": 88
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 20- gtü konseyi başkanı, gtü öğrenci konseyi genel kurulu tarafından, kurul üyeleri arasından, seçime katılanların salt çoğunluğuyla ve bir defaya mahsus olmak üzere iki yıl için seçilir.",
+          "qas": [
+            {
+              "question": "gtü konsey başkanı nasıl ve ne kadar süre için seçilir?",
+              "answers": [
+                {
+                  "text": "genel kurul tarafından salt çoğunlukla ve iki yıl için seçilir.",
+                  "answer_start": 172
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- i̇kinci ve üçüncü turlara, ilk turda en çok oy alan 3 aday katılır.",
+          "qas": [
+            {
+              "question": "i̇kinci ve üçüncü tura kaç aday katılabilir?",
+              "answers": [
+                {
+                  "text": "i̇lk turda en çok oy alan 3 aday.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- çift anadal program öğrencileri ancak kayıtlı oldukları anadal bölümlerinde aday olmak üzere başvurabilirler ve oy kullanabilirler.",
+          "qas": [
+            {
+              "question": "çift anadal öğrencileri hangi bölümde aday olabilir ve oy kullanabilir?",
+              "answers": [
+                {
+                  "text": "sadece kayıtlı oldukları anadal bölümlerinde.",
+                  "answer_start": 40
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 17- gtü öğrenci konseyi seçim kurulu gerekli incelemeleri yaparak itirazları en geç iki gün içinde karara bağlar.",
+          "qas": [
+            {
+              "question": "seçim itirazları ne kadar sürede karara bağlanır?",
+              "answers": [
+                {
+                  "text": "en geç iki gün içinde.",
+                  "answer_start": 83
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 18- gtü öğrenci konseyi seçim kurulu seçimlerin yenilenmesi kararı alırsa, seçimler karar tarihinden itibaren en geç dört gün içinde yenilenir.",
+          "qas": [
+            {
+              "question": "seçimlerin yenilenmesi kararı alındığında, yeni seçim ne zaman yapılır?",
+              "answers": [
+                {
+                  "text": "karar tarihinden itibaren en geç dört gün içinde.",
+                  "answer_start": 90
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 27- öğrenci temsilci kurulları ve gtü öğrenci konseyi toplantılarında tutanak tutularak alınan kararlar kayda geçirilir. kararlar üyeler tarafından imzalanır. tutanaklar ve hazırlanacak bütün raporlar üniversite kamuoyuna açıktır.",
+          "qas": [
+            {
+              "question": "toplantı tutanakları ve raporlar kimler tarafından görülebilir?",
+              "answers": [
+                {
+                  "text": "üniversite kamuoyuna açıktır.",
+                  "answer_start": 207
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 29- gtü öğrenci konseyi, görev süresinin sonunda, kendi görev dönemi içerisinde gerçekleştirilen ve takip eden öğrenci temsilciliği dönemi için yapılması önerilen faaliyetleri içeren bir raporu iki nüsha halinde rektörlük makamı'na sunar.",
+          "qas": [
+            {
+              "question": "görev süresi sonunda konsey kaç nüsha rapor sunar ve kime sunar?",
+              "answers": [
+                {
+                  "text": "i̇ki nüsha halinde rektörlük makamı'na sunar.",
+                  "answer_start": 200
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 28- öğrenci temsilci kurulları, gtü öğrenci konseyi ve tüm öğrenci temsilcileri; çalışma ve faaliyetlerini, gtü ile koordine etmek ve gerektiğinde gtü yönetimi'nin onayını alarak, yürürlükteki mevzuata uygun şekilde yürütmek zorundadırlar.",
+          "qas": [
+            {
+              "question": "öğrenci temsilcileri faaliyetlerini nasıl yürütmelidir?",
+              "answers": [
+                {
+                  "text": "gtü ile koordine ederek, gerektiğinde gtü yönetiminin onayını alarak ve mevzuata uygun şekilde.",
+                  "answer_start": 114
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 26- öğrenci temsilci kurulları ve gtü öğrenci konseyi kararlarında, toplantıya katılanların yarısından fazlasının oyu gerekir. oyların eşit olması durumunda öğrenci konseyi başkanının oyu, başkanın olmadığı toplantılarda bu görevi yürüten başkan yardımcısının veya yönetim kurulu üyesinin oyu belirleyicidir.",
+          "qas": [
+            {
+              "question": "oyların eşit olması durumunda kimin oyu belirleyicidir?",
+              "answers": [
+                {
+                  "text": "öğrenci konseyi başkanının, başkanın olmadığı toplantılarda başkan yardımcısının veya yönetim kurulu üyesinin oyu.",
+                  "answer_start": 163
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 22- hazırlık programı b/p/a eğitiminden ayrı olarak yapılmasından dolayı, hazırlık sınıfı öğrencileri kendi aralarında biri lisans diğeri lisansüstü olmak üzere hazırlık programı öğrenci temsilcileri seçerler.",
+          "qas": [
+            {
+              "question": "hazırlık sınıfı öğrencileri kaç temsilci seçer?",
+              "answers": [
+                {
+                  "text": "biri lisans diğeri lisansüstü olmak üzere iki temsilci.",
+                  "answer_start": 118
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 21- her düzeyde seçilen temsilciler en geç dört gün içinde, gtü öğrenci konseyi seçim kurulu başkanı'nın daveti üzerine ve başkanlığında toplanarak bir üst kurula katılacak temsilciyi seçerler.",
+          "qas": [
+            {
+              "question": "üst kurula katılacak temsilci seçimi ne kadar süre içinde yapılmalıdır?",
+              "answers": [
+                {
+                  "text": "en geç dört gün içinde.",
+                  "answer_start": 42
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 32- bu yönerge gtü rektörü tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "yönergeyi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gtü rektörü.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 31- bu yönerge gtü senatosu'nda onaylandığı tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "yönerge ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gtü senatosu'nda onaylandığı tarihte.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 16- sayım işlemi seçim günü saat 16:00'da başlar ve kamuya açık olarak sandık kurulu gözetiminde yapılır.",
+          "qas": [
+            {
+              "question": "oy sayımı ne zaman ve nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "seçim günü saat 16:00'da başlar ve kamuya açık olarak sandık kurulu gözetiminde yapılır.",
+                  "answer_start": 23
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- sandık kurulları gtü öğrenci konseyi seçim kurulu tarafından öğretim üyesi ve görevlileri arasından belirlenir.",
+          "qas": [
+            {
+              "question": "sandık kurulları kimler arasından belirlenir?",
+              "answers": [
+                {
+                  "text": "öğretim üyesi ve görevlileri arasından.",
+                  "answer_start": 71
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- oylama sistemi, madde 8'de tanımlanan gtü öğrenci konseyi seçim kurulu tarafından seçimin yapılacağı dönemin başında kararlaştırılır. bu sistem klasik sandık ve oy pusulası sistemi olabileceği gibi gerekli güvenlik koşullarını sağlayan elektronik bir sistem de olabilir.",
+          "qas": [
+            {
+              "question": "oylama sistemi nasıl olabilir?",
+              "answers": [
+                {
+                  "text": "klasik sandık ve oy pusulası sistemi veya gerekli güvenlik koşullarını sağlayan elektronik bir sistem.",
+                  "answer_start": 153
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 19- f/e/rbb öğrenci temsilcisi b/p/a öğrenci temsilcilerince, kendi aralarından, seçime katılanların salt çoğunluğuyla ve iki yıl için seçilir.",
+          "qas": [
+            {
+              "question": "fakülte/enstitü/rektörlüğe bağlı birim öğrenci temsilcisi kimler tarafından ve ne kadar süre için seçilir?",
+              "answers": [
+                {
+                  "text": "b/p/a öğrenci temsilcilerince, kendi aralarından, seçime katılanların salt çoğunluğuyla ve iki yıl için seçilir.",
+                  "answer_start": 37
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- bu yönerge, yükseköğretim kurumları öğrenci konseyleri ve yükseköğretim kurumları ulusal öğrenci konseyi yönetmeliği'nin 7 inci maddesine dayanılarak hazırlanmıştır.",
+          "qas": [
+            {
+              "question": "yönerge hangi yönetmeliğin hangi maddesine dayanılarak hazırlanmıştır?",
+              "answers": [
+                {
+                  "text": "yükseköğretim kurumları öğrenci konseyleri ve yükseköğretim kurumları ulusal öğrenci konseyi yönetmeliği'nin 7. maddesine.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- i̇lk iki turda seçim yapılamazsa üçüncü turda katılma şartı aranmaz.",
+          "qas": [
+            {
+              "question": "üçüncü turda katılım oranı şartı var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, üçüncü turda katılma şartı aranmaz.",
+                  "answer_start": 43
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- bölüm/program/anabilim dalı öğrenci temsilcisinin seçilme niteliklerini kaybetmesi veya her hangi bir nedenle süresi bitmeden görevinden ayrılması halinde kalan süreyi tamamlamak üzere, ilgili bölüm/program/anabilim dalında bir ay içerisinde aynı usulle yeni bir temsilci seçilir.",
+          "qas": [
+            {
+              "question": "temsilcinin görevden ayrılması durumunda yeni seçim ne kadar süre içinde yapılır?",
+              "answers": [
+                {
+                  "text": "bir ay içerisinde.",
+                  "answer_start": 234
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- adayların tanıtım etkinlikleri, bu süre içinde bölüm başkanlarının uygun göreceği mekan ve saatlerde düzenlenebilir.",
+          "qas": [
+            {
+              "question": "adayların tanıtım etkinlikleri nerede ve ne zaman düzenlenebilir?",
+              "answers": [
+                {
+                  "text": "bölüm başkanlarının uygun göreceği mekan ve saatlerde.",
+                  "answer_start": 57
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Comparison of Find Functions:
+==============================
+find_first: 0 mismatches
+find_last: 0 mismatches
+find_second: 0 mismatches
+==============================
+Best performing function: find_first (least mismatches)

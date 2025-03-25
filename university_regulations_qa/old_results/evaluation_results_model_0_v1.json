@@ -1,0 +1,1059 @@
+{
+  "exact_match": 13.675213675213676,
+  "f1_score": 52.843422545392926,
+  "detailed_results": [
+    {
+      "question": "üniversite fakültelerine girebilmek için hangi şartlar gereklidir?",
+      "context": "madde 5 – (1) (değişik:rg-12/1/2015-29234) üniversite fakültelerine ve bölümlerine girebilmek için, lisans öğrenimiyle ilgili ölçme, seçme ve yerleştirme merkezi (ösym) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak şarttır.",
+      "predicted": "lisans öğrenimiyle ilgili ölçme, seçme ve yerleştirme merkezi ( ösym ) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak",
+      "actual": "lisans öğrenimiyle ilgili ölçme, seçme ve yerleştirme merkezi (ösym) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak",
+      "confidence": 3.4017550945281982,
+      "exact_match": 0,
+      "f1_score": 0.8500000000000001
+    },
+    {
+      "question": "lisans öğrencileri ne öderler?",
+      "context": "madde 6 – (1) lisans öğrencileri, her öğretim yılında, ilgili mevzuatta belirlenen miktarda katkı payı öderler.",
+      "predicted": "ilgili mevzuatta belirlenen miktarda katkı payı öderler.",
+      "actual": "i̇lgili mevzuatta belirlenen miktarda katkı payı",
+      "confidence": 3.3317933082580566,
+      "exact_match": 0,
+      "f1_score": 0.7692307692307692
+    },
+    {
+      "question": "her öğrenci için ne zaman danışman atanır?",
+      "context": "madde 9 – (1) (değişik:rg-12/1/2015-29234) her öğrenci için; üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde ilgili bölüm başkanlığı tarafından bir öğretim üyesi veya öğretim görevlisi danışman olarak atanır.",
+      "predicted": "üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde",
+      "actual": "üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde",
+      "confidence": 3.5256762504577637,
+      "exact_match": 1,
+      "f1_score": 0.8888888888888888
+    },
+    {
+      "question": "kesin kayıtlarını yaptıran öğrencilere ne verilir?",
+      "context": "madde 10 – (değişik:rg-12/1/2015-29234) kesin kayıtlarını yaptıran öğrencilere, rektörlük tarafından, üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+      "predicted": "rektörlük tarafından, üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+      "actual": "rektörlük tarafından, üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı",
+      "confidence": 3.5799601078033447,
+      "exact_match": 0,
+      "f1_score": 0.9523809523809523
+    },
+    {
+      "question": "yatay geçişler hangi yönetmelik hükümlerine göre yürütülür?",
+      "context": "madde 11 – (1) (değişik:rg-12/1/2015-29234) üniversite içinden veya dışından fakültelere yapılacak her türlü yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yükseköğretim kurumlarında önlisans ve lisans düzeyindeki programlar arasında geçiş, çift anadal, yan dal ile kurumlar arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik hükümlerine göre yürütülür.",
+      "predicted": "24 / 4 / 2010 tarihli ve 27561 sayılı resmî gazete ’ de yayımlanan yükseköğretim kurumlarında önlisans ve lisans düzeyindeki programlar arasında geçiş, çift anadal, yan dal ile kurumlar arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik hükümlerine göre yürütülür.",
+      "actual": "24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yönetmelik hükümlerine göre",
+      "confidence": 2.916693687438965,
+      "exact_match": 0,
+      "f1_score": 0.36000000000000004
+    },
+    {
+      "question": "öğretim yılı kaç yarıyıldan oluşur?",
+      "context": "madde 12 – (1) öğretim yılı, güz ve bahar yarıyıllarından oluşur. güz ve bahar yarıyıllarının her birisinin normal süresi ondört haftadır.",
+      "predicted": "ondört haftadır.",
+      "actual": "güz ve bahar yarıyıllarından",
+      "confidence": 2.705336093902588,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "lisans eğitim-öğretim programlarının azami bitirme süresi nedir?",
+      "context": "madde 13 – (1) (değişik:rg-12/1/2015-29234) i̇ngilizce hazırlık programında geçirilen bir yıllık süre hariç, üniversitedeki lisans eğitim-öğretim programları sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+      "predicted": "yedi yıldır.",
+      "actual": "yedi yıl",
+      "confidence": 2.805412769317627,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "üniversitenin fakülte ve bölümlerindeki öğretim nasıl yapılır?",
+      "context": "madde 14 – (1) (değişik:rg-12/1/2015-29234) üniversitenin fakülte ve bölümlerindeki öğretim, yükseköğretim kurulunca belirlenen ve senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve senato tarafından onaylanan öğretim planına göre yapılır.",
+      "predicted": "yükseköğretim kurulunca belirlenen ve senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve senato tarafından onaylanan öğretim planına göre",
+      "actual": "yükseköğretim kurulunca belirlenen ve senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve senato tarafından onaylanan öğretim planına göre",
+      "confidence": 3.9789040088653564,
+      "exact_match": 1,
+      "f1_score": 0.8275862068965517
+    },
+    {
+      "question": "bir dersin önşartı nasıl belirlenir?",
+      "context": "madde 15 – (1) bir dersin önşartı, ilgili bölümün önerisi ve fakülte kurulunun onayı ile belirlenir.",
+      "predicted": "ilgili bölümün önerisi ve fakülte kurulunun onayı ile",
+      "actual": "i̇lgili bölümün önerisi ve fakülte kurulunun onayı ile",
+      "confidence": 3.654245138168335,
+      "exact_match": 0,
+      "f1_score": 0.875
+    },
+    {
+      "question": "bir öğrencinin herhangi bir yarıyılda kredi yükü en fazla ne kadardır?",
+      "context": "madde 16 – (1) her öğrenci bu yönetmeliğin 13 üncü maddesindeki çalışmalara aşağıda belirtilen sınırlar içinde kalarak kayıt olur. öğrencinin herhangi bir yarıyılda kredi yükü en çok 30’dur.",
+      "predicted": "30 ’ dur.",
+      "actual": "30",
+      "confidence": 3.2475180625915527,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "öğrencinin mezun olmadan önce ne yapması zorunludur?",
+      "context": "madde 17 – (1) öğrencinin, mezun olmadan önce istenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması zorunludur.",
+      "predicted": "mezun olmadan önce istenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması zorunludur.",
+      "actual": "i̇stenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması",
+      "confidence": 3.1003785133361816,
+      "exact_match": 0,
+      "f1_score": 0.7272727272727274
+    },
+    {
+      "question": "lisans eğitim ve öğretiminde bir dersteki başarı nasıl belirlenir?",
+      "context": "madde 18 – (1) (değişik:rg-5/6/2013-28668) lisans eğitim ve öğretiminde, öğrencinin bir dersteki başarısı, derse devam ve sınav yöntemi ile belirlenir.",
+      "predicted": "derse devam ve sınav yöntemi ile",
+      "actual": "derse devam ve sınav yöntemi ile",
+      "confidence": 3.952019691467285,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "koşullu dönem not ortalaması nasıl hesaplanır?",
+      "context": "madde 19 – (1) ağırlıklı genel not ortalaması en az 2.00 olan bir öğrenci, bir dönemin sonunda; yabancı dil, türkçe, atatürk i̇lkeleri ve i̇nkılâp tarihi, beden eğitimi, müzik ve resim gibi kültür derslerinin notları dikkate alınmadan hesaplanacak koşullu dönem not ortalamasının 2.00 olması durumunda ilgili dönemde dc ve dd ile başarısız olduğu derslerden de başarılı olmuş sayılır.",
+      "predicted": "yabancı dil, türkçe, atatürk i̇lkeleri ve i̇nkılâp tarihi, beden eğitimi, müzik ve resim gibi kültür derslerinin notları dikkate alınmadan hesaplanacak koşullu dönem not ortalamasının 2. 00 olması durumunda ilgili dönemde dc ve dd ile başarısız olduğu derslerden de başarılı olmuş sayılır.",
+      "actual": "yabancı dil, türkçe, atatürk i̇lkeleri ve i̇nkılâp tarihi, beden eğitimi, müzik ve resim gibi kültür derslerinin notları dikkate alınmadan",
+      "confidence": 3.253589153289795,
+      "exact_match": 0,
+      "f1_score": 0.6
+    },
+    {
+      "question": "ağırlıklı yarıyıl not ortalaması nasıl hesaplanır?",
+      "context": "madde 20 – (1) ağırlıklı yarıyıl not ortalaması, öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir.",
+      "predicted": "öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+      "actual": "öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+      "confidence": 3.626492977142334,
+      "exact_match": 1,
+      "f1_score": 0.6923076923076923
+    },
+    {
+      "question": "ağırlıklı genel not ortalaması nasıl hesaplanır?",
+      "context": "madde 21 – (1) ağırlıklı genel not ortalaması, ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir.",
+      "predicted": "ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+      "actual": "ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+      "confidence": 3.876138687133789,
+      "exact_match": 1,
+      "f1_score": 0.6595744680851063
+    },
+    {
+      "question": "derslere devam zorunluluğu nedir?",
+      "context": "madde 22 – (değişik:rg-7/2/2013-28552) (1) başarı notuna ilişkin esaslar şunlardır: a) derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere %80 oranında devam zorunludur.",
+      "predicted": "derslere % 70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere % 80 oranında",
+      "actual": "derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere %80 oranında",
+      "confidence": 3.0771853923797607,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666667
+    },
+    {
+      "question": "onur öğrencisi kimlerdir?",
+      "context": "madde 24 – (1) mezuniyet sırasında genel not ortalaması 3.00 – 3.49 arasında olan öğrenciler onur öğrencisi, 3.50 ve üstü olanlar ise yüksek onur öğrencisi olarak mezun olurlar ve bu durum transkriptinde belirtilir.",
+      "predicted": "genel not ortalaması 3. 00 – 3. 49 arasında olan öğrenciler onur öğrencisi, 3. 50 ve üstü olanlar ise yüksek onur öğrencisi olarak mezun olurlar ve bu durum transkriptinde belirtilir.",
+      "actual": "genel not ortalaması 3.00 – 3.49 arasında olan öğrenciler",
+      "confidence": 3.2975447177886963,
+      "exact_match": 0,
+      "f1_score": 0.35897435897435903
+    },
+    {
+      "question": "başarılı öğrenci kimdir?",
+      "context": "madde 25 – (1) bir yarıyıl sonunda, ağırlıklı genel not ortalaması 2.00 veya daha yukarı olan öğrenciler başarılı öğrenci sayılır.",
+      "predicted": "ağırlıklı genel not ortalaması 2. 00 veya daha yukarı olan öğrenciler",
+      "actual": "ağırlıklı genel not ortalaması 2.00 veya daha yukarı olan öğrenciler",
+      "confidence": 3.493035078048706,
+      "exact_match": 0,
+      "f1_score": 0.8571428571428572
+    },
+    {
+      "question": "sınamalı öğrenci kimdir?",
+      "context": "madde 26 – (1) (değişik:rg-5/6/2013-28668) i̇kinci yarıyılın sonundan itibaren, herhangi bir yarıyıl sonunda, ağırlıklı genel not ortalaması 1.99 ve aşağı olan öğrenciler sınamalı öğrenci sayılır.",
+      "predicted": "ağırlıklı genel not ortalaması 1. 99 ve aşağı olan öğrenciler",
+      "actual": "ağırlıklı genel not ortalaması 1.99 ve aşağı olan öğrenciler",
+      "confidence": 3.685443878173828,
+      "exact_match": 0,
+      "f1_score": 0.8421052631578948
+    },
+    {
+      "question": "öğrenciler hangi dersleri tekrar etmek zorundadır?",
+      "context": "madde 27 – (1) tüm öğrenciler başarısız oldukları dersleri tekrar etmek zorundadır.",
+      "predicted": "başarısız oldukları dersleri tekrar etmek zorundadır.",
+      "actual": "başarısız oldukları dersleri",
+      "confidence": 3.053572177886963,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "yaz öğretimi dersleri nasıl alınabilir?",
+      "context": "madde 28 – (mülga:rg-23/10/2012-28450) (yeniden düzenleme:rg-5/6/2013-28668)(değişik:rg-12/1/2015-29234) üniversite lisans öğrencileri daha önce almadıkları, alıp başarılı ya da başarısız oldukları dersleri, başka bir üniversitede açılan yaz öğretimi derslerinden ilgili fakülte yönetim kurulunun kararı ile alabilirler.",
+      "predicted": "ilgili fakülte yönetim kurulunun kararı ile alabilirler.",
+      "actual": "başka bir üniversitede açılan yaz öğretimi derslerinden ilgili fakülte yönetim kurulunun kararı ile",
+      "confidence": 3.680192470550537,
+      "exact_match": 0,
+      "f1_score": 0.6
+    },
+    {
+      "question": "yarıyıl sonu sınavları ne zaman yapılır?",
+      "context": "madde 29 – (1) (değişik:rg-12/1/2015-29234) her yarıyılda derslerin bitmesini müteakip, senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde o yarıyıldaki tüm derslere ait yarıyıl sonu/bütünleme sınavları yapılır.",
+      "predicted": "senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde",
+      "actual": "senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde",
+      "confidence": 3.7377023696899414,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "yarıyıl sonu sınavları nasıl yapılabilir?",
+      "context": "madde 30 – (1) yarıyıl sonu sınavları genelde yazılı, dersin niteliğine göre yazılı-sözlü veya yalnızca sözlü olarak da yapılabilir.",
+      "predicted": "dersin niteliğine göre yazılı - sözlü veya yalnızca sözlü olarak da yapılabilir.",
+      "actual": "genelde yazılı, dersin niteliğine göre yazılı-sözlü veya yalnızca sözlü olarak",
+      "confidence": 3.0073184967041016,
+      "exact_match": 0,
+      "f1_score": 0.6363636363636365
+    },
+    {
+      "question": "öğrenci sınav sonucuna nasıl itiraz edebilir?",
+      "context": "madde 31 – (1) öğrenci, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup itiraz edebilir.",
+      "predicted": "dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup itiraz edebilir.",
+      "actual": "dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup",
+      "confidence": 3.4561235904693604,
+      "exact_match": 0,
+      "f1_score": 0.9333333333333333
+    },
+    {
+      "question": "kopya çeken öğrenciye ne notu verilir?",
+      "context": "madde 32 – (1) sınavlarda kopya çeken veya kopya çekmeye teşebbüs eden öğrenciye ilgili dersten ff notu verilir.",
+      "predicted": "ilgili dersten ff notu verilir.",
+      "actual": "ff notu",
+      "confidence": 3.4351181983947754,
+      "exact_match": 0,
+      "f1_score": 0.5714285714285715
+    },
+    {
+      "question": "öğrencinin üniversite ile ilişiği hangi durumda kesilir?",
+      "context": "madde 33 – (1) (değişik fıkra:rg-12/1/2015-29234) aşağıdaki hallerde öğrencinin üniversite ile ilişiği kesilir: kaydının silinmesini yazılı olarak istemiş olmak.",
+      "predicted": "kaydının silinmesini yazılı olarak istemiş olmak",
+      "actual": "kaydının silinmesini yazılı olarak istemiş olmak",
+      "confidence": 3.1572561264038086,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "öğrenci ne zaman öğrenimini bitirmiş sayılır?",
+      "context": "madde 34 – (1) bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan öğrenci, öğrenimini bitirmiş sayılır.",
+      "predicted": "bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan",
+      "actual": "bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan",
+      "confidence": 3.3638360500335693,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "mimarlık bölümü'nde toplam staj süresi kaç iş günüdür ve kaç aşamada gerçekleştirilir?",
+      "context": "madde 6a: staj yapılabilecek alanlarda yapılacak stajın toplam ve fiili çalışma süresi en az 45 iş günüdür. 45 günlük staj süresi büro ve şantiye stajı şeklinde iki aşamada gerçekleştirilecektir.",
+      "predicted": "en az 45 iş günüdür. 45 günlük staj süresi büro ve şantiye stajı şeklinde iki aşamada gerçekleştirilecektir.",
+      "actual": "toplam 45 iş günü ve iki aşamada (büro ve şantiye stajı) gerçekleştirilir.",
+      "confidence": 3.1780128479003906,
+      "exact_match": 0,
+      "f1_score": 0.41379310344827586
+    },
+    {
+      "question": "şehir ve bölge planlama bölümü'nde toplam staj süresi kaç iş günüdür ve bunun kaç günü kamu kuruluşu stajıdır?",
+      "context": "madde 6b: staj yapılabilecek alanlarda yapılacak stajın toplam ve fiili çalışma süresi en az 50 iş günüdür. bu sürenin 25 iş günü zorunlu olan kamu kuruluşu stajını kapsar.",
+      "predicted": "en az 50 iş günüdür. bu sürenin 25 iş günü zorunlu olan kamu kuruluşu stajını kapsar.",
+      "actual": "toplam 50 iş günü ve bunun 25 iş günü kamu kuruluşu stajıdır.",
+      "confidence": 3.095959186553955,
+      "exact_match": 0,
+      "f1_score": 0.42857142857142855
+    },
+    {
+      "question": "staj en erken ne zaman yapılabilir?",
+      "context": "madde 7: staj yapılabilecek dönemler, fakülte yönetim kurulunun kabul edeceği özel durumlar hariç, eğitim-öğretim ve sınav dönemleri dışındadır ve 4. yarıyılı izleyen yaz tatilinden itibaren yapılabilir.",
+      "predicted": "fakülte yönetim kurulunun kabul edeceği özel durumlar hariç, eğitim - öğretim ve sınav dönemleri dışındadır ve 4. yarıyılı izleyen yaz tatilinden itibaren yapılabilir.",
+      "actual": "4. yarıyılı izleyen yaz tatilinden itibaren.",
+      "confidence": 3.8877055644989014,
+      "exact_match": 0,
+      "f1_score": 0.3448275862068966
+    },
+    {
+      "question": "yaz okuluna devam eden öğrenciler aynı dönemde staj yapabilirler mi?",
+      "context": "madde 7: yaz okulundan ders alan öğrenciler bu süre içerisinde staj yapamazlar.",
+      "predicted": "yaz okuluna devam eden öğrenciler aynı dönemde staj yapabilirler mi? madde 7 : yaz okulundan ders alan öğrenciler bu süre içerisinde staj yapamazlar.",
+      "actual": "hayır, yapamazlar.",
+      "confidence": 3.4318900108337402,
+      "exact_match": 0,
+      "f1_score": 0.08
+    },
+    {
+      "question": "stajda izin verilebilecek maksimum mazeretsiz devamsızlık oranı nedir?",
+      "context": "madde 14: öğrenciler, staj süresince mazeretsiz olarak staj süresinin %10'undan fazla devamsızlık yapamazlar.",
+      "predicted": "staj süresince mazeretsiz olarak staj süresinin % 10'undan fazla devamsızlık yapamazlar.",
+      "actual": "staj süresinin %10'u.",
+      "confidence": 3.4048848152160645,
+      "exact_match": 0,
+      "f1_score": 0.28571428571428575
+    },
+    {
+      "question": "staj yeri seçimi kim tarafından onaylanmalıdır?",
+      "context": "madde 8: staj yapılacak yerin staj komisyonu tarafından uygun görülerek kabul edilmesi gereklidir.",
+      "predicted": "staj komisyonu tarafından uygun görülerek kabul edilmesi gereklidir.",
+      "actual": "staj komisyonu tarafından.",
+      "confidence": 3.560060977935791,
+      "exact_match": 0,
+      "f1_score": 0.36363636363636365
+    },
+    {
+      "question": "staj raporu ve değerlendirme formu ne zaman teslim edilmelidir?",
+      "context": "madde 9: öğrenciler staj raporunu ve kendilerine kapalı zarf içerisinde elden teslim edilecek 'staj değerlendirme formu'nu stajı izleyen eğitim-öğretim yarıyılının en geç ikinci haftası sonunda bölüm sekreterliği'ne teslim ederler.",
+      "predicted": "stajı izleyen eğitim - öğretim yarıyılının en geç ikinci haftası sonunda bölüm sekreterliği'ne teslim ederler.",
+      "actual": "stajı izleyen eğitim-öğretim yarıyılının en geç ikinci haftası sonunda.",
+      "confidence": 3.8057239055633545,
+      "exact_match": 0,
+      "f1_score": 0.5833333333333334
+    },
+    {
+      "question": "staj ile ilgili itirazlar için son başvuru süresi nedir?",
+      "context": "madde 11: staj kabul tarihinden başlamak üzere 2 (iki) yılın sonunda yapılan staj ile ilgili öğrenci itirazları hiçbir şekilde kabul edilmez.",
+      "predicted": "staj ile ilgili itirazlar için son başvuru süresi nedir? madde 11 : staj kabul tarihinden başlamak üzere 2 ( iki ) yılın sonunda yapılan staj ile ilgili öğrenci itirazları hiçbir şekilde kabul edilmez.",
+      "actual": "staj kabul tarihinden itibaren 2 yıl.",
+      "confidence": 3.092649221420288,
+      "exact_match": 0,
+      "f1_score": 0.20512820512820512
+    },
+    {
+      "question": "staj komisyonu kaç kişiden oluşur ve görev süresi ne kadardır?",
+      "context": "madde 5: her bölümde öğrencilerin staj işlerini yürütmek üzere bir staj komisyonu oluşturulur. staj komisyonu, bölüm başkanı'nın önerisiyle bölüm kurulu tarafından üç yıl süreyle görevlendirilen biri başkan (öğretim üyesi ya da görevlisi) olmak üzere, en az üç öğretim elemanından oluşur.",
+      "predicted": "bölüm kurulu tarafından üç yıl süreyle görevlendirilen biri başkan ( öğretim üyesi ya da görevlisi ) olmak üzere, en az üç öğretim elemanından oluşur.",
+      "actual": "en az üç öğretim elemanından oluşur ve görev süresi üç yıldır.",
+      "confidence": 3.647571086883545,
+      "exact_match": 0,
+      "f1_score": 0.28571428571428575
+    },
+    {
+      "question": "sigorta girişi için belgeler staj başlangıcından kaç gün önce teslim edilmelidir?",
+      "context": "madde 15: sigorta girişlerinin yapılabilmesi için öğrencinin staja başlayacağı tarihten en az 5 iş günü önce staj yeri onay formu ile gerekli belgeleri dekanlık muhasebe birimine teslim eder.",
+      "predicted": "staj yeri onay formu ile gerekli belgeleri dekanlık muhasebe birimine teslim eder.",
+      "actual": "en az 5 iş günü önce.",
+      "confidence": 3.558162212371826,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "öğretim döneminde staj yapabilmek için gereken şartlar nelerdir?",
+      "context": "madde 7: haftada en az 2 serbest tam iş günü bulunan (öğrencinin saat 18.00'den önce dersinin olmadığı) ve 6. yarıyılını tamamlamış veya programlarındaki tüm derslerinden başarı sağlamış olan öğrenciler, öğretim ile birlikte staj yapabilir.",
+      "predicted": "haftada en az 2 serbest tam iş günü bulunan ( öğrencinin saat 18. 00'den önce dersinin olmadığı ) ve 6. yarıyılını tamamlamış veya programlarındaki tüm derslerinden başarı sağlamış olan öğrenciler, öğretim ile birlikte staj yapabilir.",
+      "actual": "haftada en az 2 serbest tam iş günü bulunması (18.00'den önce dersi olmaması) ve 6. yarıyılını tamamlamış veya tüm derslerinden başarılı olması.",
+      "confidence": 3.1793038845062256,
+      "exact_match": 0,
+      "f1_score": 0.5614035087719298
+    },
+    {
+      "question": "dgs ile gelen öğrencilerin staj muafiyeti nasıl belirlenir?",
+      "context": "madde 16: dikey geçiş sınavı ile bölümlerde öğrenim görmeye hak kazanan intibak öğrencilerinin daha önce almış oldukları eğitim nedeniyle zorunlu stajdan muafiyetleri, ilgili bölümün intibak komisyonunca değerlendirilerek dekanlık tarafından yönetim kurulu kararı ile karara bağlanır.",
+      "predicted": "ilgili bölümün intibak komisyonunca değerlendirilerek dekanlık tarafından yönetim kurulu kararı ile karara bağlanır.",
+      "actual": "i̇lgili bölümün intibak komisyonunca değerlendirilerek dekanlık tarafından yönetim kurulu kararı ile.",
+      "confidence": 4.042040824890137,
+      "exact_match": 0,
+      "f1_score": 0.7500000000000001
+    },
+    {
+      "question": "bu yönerge hangi dönemden itibaren yürürlüğe girmiştir?",
+      "context": "madde 18: bu yönerge ve staj prosedürü 2018-2019 eğitim ve öğretim yılı bahar yarıyılı'ndan itibaren yürürlüğe girer.",
+      "predicted": "2018 - 2019 eğitim ve öğretim yılı bahar yarıyılı'ndan itibaren yürürlüğe girer.",
+      "actual": "2018-2019 eğitim ve öğretim yılı bahar yarıyılı'ndan itibaren.",
+      "confidence": 3.638162612915039,
+      "exact_match": 0,
+      "f1_score": 0.6
+    },
+    {
+      "question": "yönergeyi kim yürütür?",
+      "context": "madde 19: gebze teknik üniversitesi, mimarlık fakültesi dekanlığınca yürütülür.",
+      "predicted": "gebze teknik üniversitesi, mimarlık fakültesi dekanlığınca yürütülür.",
+      "actual": "gebze teknik üniversitesi, mimarlık fakültesi dekanlığı.",
+      "confidence": 3.1888985633850098,
+      "exact_match": 0,
+      "f1_score": 0.7692307692307692
+    },
+    {
+      "question": "staj dosyaları ne kadar süre saklanır?",
+      "context": "madde 11: staj değerlendirme formu, staj raporu ve staj komisyonu tarafından doldurulan staj yeri onay formu öğrencinin dosyasında muhafaza edilir. teslim alınan staj dosyaları kabul tarihinden başlamak üzere, bölüm başkanlıklarınca belirlenen bir yerde, 5 (beş) yıl süreyle saklanır.",
+      "predicted": "bölüm başkanlıklarınca belirlenen bir yerde, 5 ( beş ) yıl süreyle saklanır.",
+      "actual": "5 (beş) yıl süreyle.",
+      "confidence": 3.531461238861084,
+      "exact_match": 0,
+      "f1_score": 0.25
+    },
+    {
+      "question": "büro stajı için staj raporunu onaylayacak yetkili kimdir?",
+      "context": "madde 9: staj raporunun her sayfası kuruluştaki yetkili (bu kişi büro stajı için mimar, şantiye stajı için mimar ya da inşaat mühendisi, kamu kuruluşu, planlama bürosu ve diğer araştırma-planlama kuruluşları için şehir plancısı olmalıdır) tarafından imzalı, kaşeli ve üye oldukları meslek odasındaki sicil numaraları yazılı olarak teslim edilmelidir.",
+      "predicted": "büro stajı için staj raporunu onaylayacak yetkili kimdir? madde 9 : staj raporunun her sayfası kuruluştaki yetkili ( bu kişi büro stajı için mimar, şantiye stajı için mimar ya da inşaat mühendisi, kamu kuruluşu, planlama bürosu ve diğer araştırma - planlama kuruluşları için şehir plancısı olmalıdır ) tarafından imzalı, kaşeli ve üye oldukları meslek odasındaki sicil numaraları yazılı olarak teslim edilmelidir.",
+      "actual": "mimar.",
+      "confidence": 2.933774471282959,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "şehir ve bölge planlama bölümü'nde zorunlu staj ne zaman yapılabilir?",
+      "context": "madde 6b: zorunlu staj, eğitimi programında 4. yarıyıl projesinin başarıyla tamamlanması sonrasında yapılır.",
+      "predicted": "şehir ve bölge planlama bölümü'nde zorunlu staj ne zaman yapılabilir? madde 6b : zorunlu staj, eğitimi programında 4. yarıyıl projesinin başarıyla tamamlanması sonrasında yapılır.",
+      "actual": "4. yarıyıl projesinin başarıyla tamamlanması sonrasında.",
+      "confidence": 3.0950493812561035,
+      "exact_match": 0,
+      "f1_score": 0.33333333333333337
+    },
+    {
+      "question": "staj değerlendirmesinde hangi kriterler göz önüne alınır?",
+      "context": "madde 9: staj komisyonu, staj belgelerinin değerlendirilmesinde aşağıdaki kriterleri göz önüne alır: yapılan staj çalışmasının belirlenen amaç ve hedefler doğrultusunda öğrencinin eğitimine katkısı, öğrencinin yaptığı işteki başarısı, yapılan işin tanımlanmasındaki beceri düzeyi, öğrencinin mesleki uygulamadaki sorunları kavrayış düzeyi.",
+      "predicted": "staj değerlendirmesinde hangi kriterler göz önüne alınır? madde 9 : staj komisyonu, staj belgelerinin değerlendirilmesinde aşağıdaki kriterleri göz önüne alır : yapılan staj çalışmasının belirlenen amaç ve hedefler doğrultusunda öğrencinin eğitimine katkısı, öğrencinin yaptığı işteki başarısı, yapılan işin tanımlanmasındaki beceri düzeyi, öğrencinin mesleki uygulamadaki sorunları kavrayış düzeyi.",
+      "actual": "stajın eğitime katkısı, öğrencinin işteki başarısı, işi tanımlama becerisi ve mesleki sorunları kavrayış düzeyi.",
+      "confidence": 2.745603084564209,
+      "exact_match": 0,
+      "f1_score": 0.29508196721311475
+    },
+    {
+      "question": "stajyer öğrencilerin temel sorumlulukları nelerdir?",
+      "context": "madde 14: öğrenciler staj yaptıkları kuruluşun çalışma düzenine, kural, talimat ve emirlerine uymak, daimî personel gibi iş yerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.",
+      "predicted": "staj yaptıkları kuruluşun çalışma düzenine, kural, talimat ve emirlerine uymak, daimî personel gibi iş yerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.",
+      "actual": "öğrenciler staj yaptıkları kuruluşun çalışma düzenine, kural, talimat ve emirlerine uymak, daimî personel gibi iş yerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.",
+      "confidence": 3.1716392040252686,
+      "exact_match": 0,
+      "f1_score": 0.9180327868852459
+    },
+    {
+      "question": "yurt dışı stajlarında raporlar nasıl teslim edilmelidir?",
+      "context": "madde 8: staj komisyonunun bilgisi ve kabulü dâhilinde yurt dışında da staj yapılabilir. bu durumda hem yabancı dilde hazırlanan hem de yeminli tercüme büroları tarafından türkçeye çevrilen staj raporlarının staj komisyonuna teslim edilmesi şarttır.",
+      "predicted": "yurt dışı stajlarında raporlar nasıl teslim edilmelidir? madde 8 : staj komisyonunun bilgisi ve kabulü dâhilinde yurt dışında da staj yapılabilir. bu durumda hem yabancı dilde hazırlanan hem de yeminli tercüme büroları tarafından türkçeye çevrilen staj raporlarının staj komisyonuna teslim edilmesi şarttır.",
+      "actual": "hem yabancı dilde hem de yeminli tercüme büroları tarafından türkçeye çevrilmiş olarak.",
+      "confidence": 3.2139933109283447,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "staj bilgilendirme toplantısı ne zaman yapılır?",
+      "context": "madde 10: bölüm staj komisyonları, bahar yarıyılının 4. haftasında bir toplantı düzenleyerek stajın önemi, amacı, koşulları ve kapsamına yönelik bilgiler verir.",
+      "predicted": "bahar yarıyılının 4. haftasında bir toplantı düzenleyerek stajın önemi, amacı, koşulları ve kapsamına yönelik bilgiler verir.",
+      "actual": "bahar yarıyılının 4. haftasında.",
+      "confidence": 3.6268348693847656,
+      "exact_match": 0,
+      "f1_score": 0.3
+    },
+    {
+      "question": "staj değerlendirmesinde ilk aşamada kaç sonuç olabilir?",
+      "context": "madde 9: i̇lk değerlendirme sonucunda öğrencinin stajı başarılı olarak kabul edilir ya da evraklar 'eksik' ibaresi ile tamamlanmak üzere öğrenciye iade edilir.",
+      "predicted": "staj değerlendirmesinde ilk aşamada kaç sonuç olabilir? madde 9 : i̇lk değerlendirme sonucunda öğrencinin stajı başarılı olarak kabul edilir ya da evraklar'eksik'ibaresi ile tamamlanmak üzere öğrenciye iade edilir.",
+      "actual": "i̇lk değerlendirme sonucunda öğrencinin stajı başarılı olarak kabul edilir ya da evraklar 'eksik' ibaresi ile tamamlanmak üzere öğrenciye iade edilir.",
+      "confidence": 3.1592700481414795,
+      "exact_match": 0,
+      "f1_score": 0.7083333333333333
+    },
+    {
+      "question": "büro stajının öncelikli amacı nedir?",
+      "context": "madde 12a: büro stajı yapacak olan öğrenciden öncelikle beklenen, bölümde mimari tasarım derslerinde aldığı bilgiler doğrultusunda beceri ve tecrübesini arttırıcı pratik yapma olanağını bulmasıdır.",
+      "predicted": "büro stajının öncelikli amacı nedir? madde 12a : büro stajı yapacak olan öğrenciden öncelikle beklenen, bölümde mimari tasarım derslerinde aldığı bilgiler doğrultusunda beceri ve tecrübesini arttırıcı pratik yapma olanağını bulmasıdır.",
+      "actual": "mimari tasarım derslerinde alınan bilgiler doğrultusunda beceri ve tecrübe kazanmak için pratik yapma olanağı bulmak.",
+      "confidence": 3.136420726776123,
+      "exact_match": 0,
+      "f1_score": 0.4
+    },
+    {
+      "question": "planlama bürosu stajı için büronun sahip olması gereken minimum şartlar nelerdir?",
+      "context": "madde 12b: planlama bürosu stajının amacı öğrencinin beceri ve tecrübelerini artırmak ve gerçek yaşam uygulamalarını deneyimlemektir. en az beş yıllık şehir planlama deneyimi olan ve en az üç şehir plancısının çalıştığı bürolarda yapılması gerekmektedir.",
+      "predicted": "en az beş yıllık şehir planlama deneyimi olan ve en az üç şehir plancısının çalıştığı bürolarda yapılması gerekmektedir.",
+      "actual": "en az beş yıllık şehir planlama deneyimi ve en az üç şehir plancısının çalışıyor olması.",
+      "confidence": 3.356924057006836,
+      "exact_match": 0,
+      "f1_score": 0.606060606060606
+    },
+    {
+      "question": "staj komisyonu gerekli gördüğünde ne yapabilir?",
+      "context": "madde 5: staj komisyonunun görevleri arasında gerekli görülen durumlarda öğrencinin stajını yerinde denetlemek ve sözlü sınava tabi tutmak vardır.",
+      "predicted": "staj komisyonu gerekli gördüğünde ne yapabilir? madde 5 : staj komisyonunun görevleri arasında gerekli görülen durumlarda öğrencinin stajını yerinde denetlemek ve sözlü sınava tabi tutmak vardır.",
+      "actual": "öğrencinin stajını yerinde denetleyebilir ve sözlü sınava tabi tutabilir.",
+      "confidence": 3.3513283729553223,
+      "exact_match": 0,
+      "f1_score": 0.39999999999999997
+    },
+    {
+      "question": "stajın başarılı sayılması için öncelikle ne gereklidir?",
+      "context": "madde 9: ayrıca öğrencinin stajda başarılı sayılabilmesi için öncelikle staj yaptığı kuruluşlarca doldurulacak staj değerlendirme formu'na göre başarılı olması zorunludur.",
+      "predicted": "staj yaptığı kuruluşlarca doldurulacak staj değerlendirme formu'na göre başarılı olması zorunludur.",
+      "actual": "staj yapılan kuruluşun dolduracağı staj değerlendirme formuna göre başarılı olmak.",
+      "confidence": 3.6860361099243164,
+      "exact_match": 0,
+      "f1_score": 0.380952380952381
+    },
+    {
+      "question": "resmi tatil günlerinde yapılan çalışmalar staj süresinden sayılır mı?",
+      "context": "madde 7: resmî tatil günlerindeki çalışmalar staj süresi olarak kabul edilmez.",
+      "predicted": "resmi tatil günlerinde yapılan çalışmalar staj süresinden sayılır mı? madde 7 : resmî tatil günlerindeki çalışmalar staj süresi olarak kabul edilmez.",
+      "actual": "resmî tatil günlerindeki çalışmalar staj süresi olarak kabul edilmez.",
+      "confidence": 3.1972012519836426,
+      "exact_match": 0,
+      "f1_score": 0.6
+    },
+    {
+      "question": "mesleki eğitime aykırı görev verilmesi durumunda ne yapılabilir?",
+      "context": "madde 14: öğrenciye mesleki eğitime aykırı görev verildiği takdirde, staj komisyonu öğrencinin staj yerini değiştirmesini isteyebilir.",
+      "predicted": "mesleki eğitime aykırı görev verilmesi durumunda ne yapılabilir? madde 14 : öğrenciye mesleki eğitime aykırı görev verildiği takdirde, staj komisyonu öğrencinin staj yerini değiştirmesini isteyebilir.",
+      "actual": "staj komisyonu öğrencinin staj yerini değiştirmesini isteyebilir.",
+      "confidence": 3.1855783462524414,
+      "exact_match": 0,
+      "f1_score": 0.375
+    },
+    {
+      "question": "sigorta girişi için öğrenci öncelikle neyi bildirmelidir?",
+      "context": "madde 15: sigorta girişlerinin yapılabilmesi için öğrencinin hâlihazırda sigortalı olup olmadığı bilgisini dekanlığa bildirmesi gerekmektedir.",
+      "predicted": "dekanlığa bildirmesi gerekmektedir.",
+      "actual": "hâlihazırda sigortalı olup olmadığı bilgisini.",
+      "confidence": 3.3941259384155273,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "yatay geçişle gelen öğrencilerin önceki stajları nasıl değerlendirilir?",
+      "context": "madde 16: bölümlere yatay geçişle gelen öğrencilerin geldikleri yükseköğrenim kurumunda kayıtlı oldukları sürede yaptıkları stajların bir kısmı ya da tamamı, bu yönergedeki şartları taşıması koşuluyla bölüm staj komisyonlarının onayı ve dekanlık tarafından yönetim kurulu kararı ile kabul edilebilir.",
+      "predicted": "bölüm staj komisyonlarının onayı ve dekanlık tarafından yönetim kurulu kararı ile kabul edilebilir.",
+      "actual": "yönergedeki şartları taşıması koşuluyla bölüm staj komisyonlarının onayı ve dekanlık tarafından yönetim kurulu kararı ile kabul edilebilir.",
+      "confidence": 3.429304599761963,
+      "exact_match": 0,
+      "f1_score": 0.8666666666666666
+    },
+    {
+      "question": "lisans programlarının hangi yarıyıllarına yatay geçiş yapılamaz?",
+      "context": "madde 2- (4) ön lisans ve lisans diploma programlarının hazırlık sınıfına; ön lisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.",
+      "predicted": "lisans programlarının hangi yarıyıllarına yatay geçiş yapılamaz? madde 2 - ( 4 ) ön lisans ve lisans diploma programlarının hazırlık sınıfına ; ön lisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.",
+      "actual": "i̇lk iki yarıyıl ile son iki yarıyıla.",
+      "confidence": 2.4015870094299316,
+      "exact_match": 0,
+      "f1_score": 0.1176470588235294
+    },
+    {
+      "question": "kurum içi yatay geçiş için gereken minimum genel not ortalaması kaçtır?",
+      "context": "madde 4- (2) üniversite bünyesindeki aynı düzeyde aynı veya farklı merkezi yerleştirme puan türü ile öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, o tarihe değin aldığı tüm derslerde başarılı olması ve bu derslerde sağladığı ağırlıklı genel not ortalamasının 4 üzerinden en az 3,5 olması şartı aranır.",
+      "predicted": "o tarihe değin aldığı tüm derslerde başarılı olması ve bu derslerde sağladığı ağırlıklı genel not ortalamasının 4 üzerinden en az 3, 5 olması şartı aranır.",
+      "actual": "4 üzerinden en az 3,5.",
+      "confidence": 3.3577747344970703,
+      "exact_match": 0,
+      "f1_score": 0.26666666666666666
+    },
+    {
+      "question": "ösym giriş genel kontenjanı 51-100 arası olan programlarda yatay geçiş kontenjanı kaç kişidir?",
+      "context": "madde 5- (1) gtü'ye diğer yükseköğretim programlarından geçişte her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki, 51 ve 100 arası olan programlarda üç, 101 ve üzerinde olan diploma programlarında ise dört, kurumlar arası yatay geçiş kontenjanı yükseköğretim kurulu tarafından belirlenir.",
+      "predicted": "yükseköğretim kurulu tarafından belirlenir.",
+      "actual": "51 ve 100 arası olan programlarda üç.",
+      "confidence": 3.6218395233154297,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "kurumlar arası yatay geçiş için 100'lük sistemde gereken minimum not ortalaması kaçtır?",
+      "context": "madde 6- (2) kurumlar arası yatay geçiş için öğrencinin, kayıtlı olduğu programda bitirmiş olduğu dönemlerde bütün derslerini başarmış olması ve genel not ortalamasının en az 100 üzerinden 85, 4 üzerinden 3,5 olması şartı aranır.",
+      "predicted": "kayıtlı olduğu programda bitirmiş olduğu dönemlerde bütün derslerini başarmış olması ve genel not ortalamasının en az 100 üzerinden 85, 4 üzerinden 3, 5 olması şartı aranır.",
+      "actual": "85.",
+      "confidence": 3.6944406032562256,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "fakülteler için kurumlar arası yatay geçiş hangi dönemlere yapılabilir?",
+      "context": "madde 6- (1) kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eş değer diploma programları arasında ve yükseköğretim kurulu tarafından yayınlanan kontenjanlar çerçevesinde fakülteler için yalnız üçüncü ve beşinci dönemlere, meslek yüksekokulu için ikinci ve üçüncü dönemlere yapılır.",
+      "predicted": "yükseköğretim kurulu tarafından yayınlanan kontenjanlar çerçevesinde fakülteler için yalnız üçüncü ve beşinci dönemlere, meslek yüksekokulu için ikinci ve üçüncü dönemlere yapılır.",
+      "actual": "üçüncü ve beşinci dönemlere.",
+      "confidence": 3.458037853240967,
+      "exact_match": 0,
+      "f1_score": 0.24
+    },
+    {
+      "question": "lisans programları için gtü içi yatay geçişler hangi yarıyıllar arasında yapılabilir?",
+      "context": "madde 4- (1) gtü içi yatay geçişler, ön lisans diploma programlarının ikinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere, lisans diploma programlarının üçüncü yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere yapılır.",
+      "predicted": "ön lisans diploma programlarının ikinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere, lisans diploma programlarının üçüncü yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere yapılır.",
+      "actual": "üçüncü yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere.",
+      "confidence": 3.3661584854125977,
+      "exact_match": 0,
+      "f1_score": 0.4571428571428572
+    },
+    {
+      "question": "yatay geçiş başvurularında ösys/yks puanının en az yüzde kaçı hesaplamaya dahil edilir?",
+      "context": "madde 2- (2) başvurular, adayların genel not ortalaması ile programın puan türünde yükseköğretime kayıt olduğu yıldaki ösys/yks puanının en az %40'ı hesaplamaya dâhil edilerek üniversite senatosu tarafından belirlenmiş olan kriterlere göre değerlendirilir.",
+      "predicted": "genel not ortalaması ile programın puan türünde yükseköğretime kayıt olduğu yıldaki ösys / yks puanının en az % 40'ı hesaplamaya dâhil edilerek üniversite senatosu tarafından belirlenmiş olan kriterlere göre değerlendirilir.",
+      "actual": "en az %40'ı.",
+      "confidence": 3.6138134002685547,
+      "exact_match": 0,
+      "f1_score": 0.1212121212121212
+    },
+    {
+      "question": "kurum içi yatay geçiş kontenjanı ösym kontenjanının en fazla yüzde kaçı olabilir?",
+      "context": "madde 4- (1) kontenjanın ilan edildiği her yıl için ösym kılavuzunda öngörülen öğrenci kontenjanının %15'ini geçmeyecek biçimde, ilgili yönetim kurulları tarafından karara bağlanır.",
+      "predicted": "ilgili yönetim kurulları tarafından karara bağlanır.",
+      "actual": "%15'i.",
+      "confidence": 3.3544580936431885,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "gtü'ye yatay geçiş için başvuran öğrencilerin geldiği kurumda minimum yüzde kaç i̇ngilizce eğitim olmalıdır?",
+      "context": "madde 6- (3) gtü'ye diğer öğretim kurumlarından yatay geçiş yapmak isteyenlerin başvuruları, en az %30 i̇ngilizce öğretim programı uygulayan bir yükseköğrenim kurumunda öğrenim görüp hazırlık sınıfını başarıyla tamamlamış olmaları veya gtü senatosu'nun kabul ettiği i̇ngilizce başarı belgelerinden herhangi birini sağlamaları...",
+      "predicted": "en az % 30 i̇ngilizce öğretim programı uygulayan bir yükseköğrenim kurumunda öğrenim görüp hazırlık sınıfını başarıyla tamamlamış olmaları veya gtü senatosu'nun kabul ettiği i̇ngilizce başarı belgelerinden herhangi birini sağlamaları",
+      "actual": "en az %30.",
+      "confidence": 3.2647032737731934,
+      "exact_match": 0,
+      "f1_score": 0.125
+    },
+    {
+      "question": "ösym giriş kontenjanı 50 ve altında olan programlarda yatay geçiş kontenjanı kaç kişidir?",
+      "context": "madde 5- (1) gtü'ye diğer yükseköğretim programlarından geçişte her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki...",
+      "predicted": "",
+      "actual": "ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki",
+      "confidence": 2.8029701709747314,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "meslek yüksekokulu için kurumlar arası yatay geçiş hangi dönemlere yapılabilir?",
+      "context": "madde 6- (1) kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eş değer diploma programları arasında ve yükseköğretim kurulu tarafından yayınlanan kontenjanlar çerçevesinde meslek yüksekokulu için ikinci ve üçüncü dönemlere yapılır.",
+      "predicted": "yükseköğretim kurulu tarafından yayınlanan kontenjanlar çerçevesinde meslek yüksekokulu için ikinci ve üçüncü dönemlere yapılır.",
+      "actual": "i̇kinci ve üçüncü dönemlere.",
+      "confidence": 3.583322525024414,
+      "exact_match": 0,
+      "f1_score": 0.22222222222222224
+    },
+    {
+      "question": "ön lisans programları için gtü içi yatay geçişler hangi yarıyıllar arasında yapılabilir?",
+      "context": "madde 4- (1) gtü içi yatay geçişler, ön lisans diploma programlarının ikinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere...",
+      "predicted": "ön lisans diploma programlarının ikinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere...",
+      "actual": "i̇kinci yarıyıldan başlamak ve üçüncü yarıyıl dâhil olmak üzere.",
+      "confidence": 3.303147077560425,
+      "exact_match": 0,
+      "f1_score": 0.6363636363636364
+    },
+    {
+      "question": "bu yönerge hangi eğitim-öğretim yılından itibaren geçerlidir?",
+      "context": "madde 15-bu yönerge 2023-2024 eğitim öğretim yılından itibaren geçerlidir.",
+      "predicted": "2023 - 2024 eğitim öğretim yılından itibaren geçerlidir.",
+      "actual": "2023-2024 eğitim öğretim yılından itibaren.",
+      "confidence": 3.2826032638549805,
+      "exact_match": 0,
+      "f1_score": 0.4615384615384615
+    },
+    {
+      "question": "yatay geçişle gelen öğrencilerin önceki programda aldıkları başarılı dersler için ne yapılır?",
+      "context": "madde 7- yatay geçişle gelen öğrencilerin önceki diploma programından aldıkları ve başarılı oldukları derslerin intibakı yapılır ve bu derslere ilişkin daha önce alınan notlar transkriptlerine işlenir.",
+      "predicted": "transkriptlerine işlenir.",
+      "actual": "i̇ntibakı yapılır ve notlar transkriptlerine işlenir.",
+      "confidence": 3.499277114868164,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "yatay geçiş yapan öğrencinin toplam öğrenim süresine önceki programda okuduğu süre dahil midir?",
+      "context": "madde 11- yatay geçiş yapan öğrencinin toplam öğrenim süresi ayrıldığı programda okuduğu süre de dâhil olmak üzere gtü ön lisans/lisans eğitim ve öğretim yönetmeliği'nde belirtilen süre kadardır.",
+      "predicted": "gtü ön lisans / lisans eğitim ve öğretim yönetmeliği'nde belirtilen süre kadardır.",
+      "actual": "toplam öğrenim süresi ayrıldığı programda okuduğu süre de dâhildir.",
+      "confidence": 4.2739057540893555,
+      "exact_match": 0,
+      "f1_score": 0.09523809523809525
+    },
+    {
+      "question": "hangi özel durumlarda yurt dışından yatay geçiş başvurusu yapılabilir?",
+      "context": "madde 12- şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu yükseköğretim kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler, türkiye'deki yükseköğretim kurumlarına yatay geçiş başvurusu yapabilirler.",
+      "predicted": "hangi özel durumlarda yurt dışından yatay geçiş başvurusu yapılabilir? madde 12 - şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu yükseköğretim kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler, türkiye'deki yükseköğretim kurumlarına yatay geçiş başvurusu yapabilirler.",
+      "actual": "şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu yök tarafından tespit edilen ülkelerden.",
+      "confidence": 3.080031394958496,
+      "exact_match": 0,
+      "f1_score": 0.4905660377358491
+    },
+    {
+      "question": "i̇ngilizce başarı belgesi olmayan adaylar için nasıl bir yol izlenir?",
+      "context": "madde 6- (4) i̇ngilizce başarı belgeleri bulunmayan adayların başvuruları; gtü yabancı diller bölümü tarafından yatay geçiş başvuru süresinin dolmasını izleyen haftada yapılacak sınavda başarılı olmaları hâlinde kesinleşir.",
+      "predicted": "gtü yabancı diller bölümü tarafından yatay geçiş başvuru süresinin dolmasını izleyen haftada yapılacak sınavda başarılı olmaları hâlinde kesinleşir.",
+      "actual": "gtü yabancı diller bölümü tarafından yapılacak sınavda başarılı olmaları gerekir.",
+      "confidence": 4.280874252319336,
+      "exact_match": 0,
+      "f1_score": 0.6428571428571429
+    },
+    {
+      "question": "yatay geçiş başvurularının ön değerlendirmesini kim yapar?",
+      "context": "madde 2- (3) başvurularla ilgili ön değerlendirmeyi, ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.",
+      "predicted": "ilgili yönetim kurulları tarafından oluşturulan komisyonlar yapar.",
+      "actual": "i̇lgili yönetim kurulları tarafından oluşturulan komisyonlar.",
+      "confidence": 3.6667897701263428,
+      "exact_match": 0,
+      "f1_score": 0.6153846153846153
+    },
+    {
+      "question": "asıl adayların başvuru yapmaması durumunda nasıl bir yol izlenir?",
+      "context": "madde 3- (2) başarı şartını taşıyan diğer adaylar, başarı sırasına göre yedek aday olarak ilan edilir. belirlenen süre içinde asıl adaylardan başvuru yapılmaması hâlinde sırayla yedekler çağrılır.",
+      "predicted": "başarı sırasına göre yedek aday olarak ilan edilir. belirlenen süre içinde asıl adaylardan başvuru yapılmaması hâlinde sırayla yedekler çağrılır.",
+      "actual": "sırayla yedek adaylar çağrılır.",
+      "confidence": 3.1536340713500977,
+      "exact_match": 0,
+      "f1_score": 0.2608695652173913
+    },
+    {
+      "question": "i̇kinci ana dal programındaki öğrenci hangi durumda yatay geçiş yapabilir?",
+      "context": "madde 4- (6) i̇kinci ana dal diploma programındaki öğrenci, ana dal diploma programında kurum içi geçiş hükümlerine uygun koşulları sağladığında ikinci ana dal diploma programına yatay geçiş yapabilir.",
+      "predicted": "ana dal diploma programında kurum içi geçiş hükümlerine uygun koşulları sağladığında ikinci ana dal diploma programına yatay geçiş yapabilir.",
+      "actual": "ana dal diploma programında kurum içi geçiş hükümlerine uygun koşulları sağladığında.",
+      "confidence": 4.002003192901611,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "merkezi yerleştirme puanıyla yatay geçiş için gereken temel şart nedir?",
+      "context": "madde 6- (5) merkezi yerleştirme puanıyla yatay geçişlerde öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği üniversitenin diploma programının girdiği yıldaki taban puanına eşit veya yüksek olması durumunda, hazırlık sınıfı da dâhil olmak üzere yatay geçiş için başvuru yapabilir.",
+      "predicted": "geçmek istediği üniversitenin diploma programının girdiği yıldaki taban puanına eşit veya yüksek olması durumunda, hazırlık sınıfı da dâhil olmak üzere yatay geçiş için başvuru yapabilir.",
+      "actual": "öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği programın taban puanına eşit veya yüksek olması.",
+      "confidence": 3.5655100345611572,
+      "exact_match": 0,
+      "f1_score": 0.39024390243902435
+    },
+    {
+      "question": "yatay geçiş değerlendirme sonuçları nerede ilan edilir?",
+      "context": "madde 3- (1) her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, üniversitenin internet sayfasında duyurulur.",
+      "predicted": "üniversitenin internet sayfasında duyurulur.",
+      "actual": "üniversitenin internet sayfasında.",
+      "confidence": 3.758544445037842,
+      "exact_match": 0,
+      "f1_score": 0.5714285714285715
+    },
+    {
+      "question": "mühendislik programları için kontenjan önerisi asgari kontenjanın kaç katına kadar olabilir?",
+      "context": "madde 5- (1) fakültelerin ilgili kurulları, mühendislik programları için asgari kontenjanın 8 katına kadar öneri verebilirler.",
+      "predicted": "mühendislik programları için asgari kontenjanın 8 katına kadar öneri verebilirler.",
+      "actual": "8 katına kadar.",
+      "confidence": 3.3459603786468506,
+      "exact_match": 0,
+      "f1_score": 0.30769230769230765
+    },
+    {
+      "question": "yönergeyi kim yürütür?",
+      "context": "madde 16- bu yönerge gtü rektörü tarafından yürütülür.",
+      "predicted": "gtü rektörü tarafından yürütülür.",
+      "actual": "gtü rektörü.",
+      "confidence": 4.308710098266602,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "yatay geçiş yapan öğrencinin alacağı dersler nasıl belirlenir?",
+      "context": "madde 9- kesin kaydı yapılan öğrencinin yatay geçiş programında alacağı dersler, ilgili bölümün önerisi ile fakülte veya meslek yüksekokulu yönetim kurulunca karara bağlanır.",
+      "predicted": "ilgili bölümün önerisi ile fakülte veya meslek yüksekokulu yönetim kurulunca karara bağlanır.",
+      "actual": "i̇lgili bölümün önerisi ile fakülte veya meslek yüksekokulu yönetim kurulunca karara bağlanır.",
+      "confidence": 3.9478235244750977,
+      "exact_match": 0,
+      "f1_score": 0.9166666666666666
+    },
+    {
+      "question": "kurum içi yatay geçiş kontenjanları ne zaman ilan edilir?",
+      "context": "madde 4- (3) kurum içi yatay geçiş kontenjanları, ilgili diploma programının son dört yıla ait taban puanları, varsa kurum içi yatay geçiş için belirlenen ve senato tarafından öngörülen ilave şartlarla birlikte, son başvurunun kabul edileceği günden en az 15 gün öncesinde kurumun internet sayfasında ilan edilir.",
+      "predicted": "ilgili diploma programının son dört yıla ait taban puanları, varsa kurum içi yatay geçiş için belirlenen ve senato tarafından öngörülen ilave şartlarla birlikte, son başvurunun kabul edileceği günden en az 15 gün öncesinde kurumun internet sayfasında ilan edilir.",
+      "actual": "son başvurunun kabul edileceği günden en az 15 gün önce.",
+      "confidence": 3.677478313446045,
+      "exact_match": 0,
+      "f1_score": 0.375
+    },
+    {
+      "question": "kurum içi kontenjanlar nasıl belirlenebilir?",
+      "context": "madde 4- (4) programların kurum içi kontenjanları, aynı fakülte veya meslek yüksekokulu bünyesindeki diploma programları için ayrı ayrı belirlenebilir.",
+      "predicted": "aynı fakülte veya meslek yüksekokulu bünyesindeki diploma programları için ayrı ayrı belirlenebilir.",
+      "actual": "aynı fakülte veya meslek yüksekokulu bünyesindeki diploma programları için ayrı ayrı belirlenebilir.",
+      "confidence": 3.262305974960327,
+      "exact_match": 1,
+      "f1_score": 0.9166666666666666
+    },
+    {
+      "question": "merkezi yerleştirme puanıyla yatay geçişte sıralama nasıl yapılır?",
+      "context": "madde 8- (3) merkezi yerleştirme puanıyla yatay geçiş için adayların başvuruları yükseköğretim kurumlarının ilgili kurulları tarafından değerlendirilerek ösys puanı en yüksek adaydan başlanarak sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir.",
+      "predicted": "yükseköğretim kurumlarının ilgili kurulları tarafından değerlendirilerek ösys puanı en yüksek adaydan başlanarak sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir.",
+      "actual": "ösys puanı en yüksek adaydan başlanarak sıralama yapılır.",
+      "confidence": 3.935394287109375,
+      "exact_match": 0,
+      "f1_score": 0.4285714285714285
+    },
+    {
+      "question": "hangi tarihli yönerge yürürlükten kaldırılmıştır?",
+      "context": "madde 14- gtü senatosu'nun 07.08.2019 tarih ve 2019/08 oturum sayılı kararı ile kabul edilen gtü lisans programları yatay geçiş yönergesi ve değişiklikleri yürürlükten kaldırılmıştır.",
+      "predicted": "gtü senatosu'nun 07. 08. 2019 tarih ve 2019 / 08 oturum sayılı kararı ile kabul edilen gtü lisans programları yatay geçiş yönergesi ve değişiklikleri yürürlükten kaldırılmıştır.",
+      "actual": "07.08.2019 tarih ve 2019/08 oturum sayılı kararı ile kabul edilen gtü lisans programları yatay geçiş yönergesi.",
+      "confidence": 3.4638214111328125,
+      "exact_match": 0,
+      "f1_score": 0.6190476190476191
+    },
+    {
+      "question": "yönergede olmayan konularda hangi mevzuat geçerlidir?",
+      "context": "madde 13- bu yönergede olmayan, güncellenen ve tereddüde düşülen konularda yükseköğretim kurulu başkanlığı tarafından 24 nisan 2010 tarih ve 27561 sayılı resmî gazete'de yayınlanmış bulunan yönetmelik hükümleri geçerlidir.",
+      "predicted": "yükseköğretim kurulu başkanlığı tarafından 24 nisan 2010 tarih ve 27561 sayılı resmî gazete'de yayınlanmış bulunan yönetmelik hükümleri geçerlidir.",
+      "actual": "24 nisan 2010 tarih ve 27561 sayılı resmî gazete'de yayınlanmış bulunan yönetmelik hükümleri.",
+      "confidence": 3.6995556354522705,
+      "exact_match": 0,
+      "f1_score": 0.7741935483870968
+    },
+    {
+      "question": "uluslararası öğrencilerin lisans programlarına başvuru, kabul ve kayıt yönergesi'nin amacı nedir?",
+      "context": "madde 2- bu yönergenin amacı; gebze teknik üniversitesi'nin lisans programlarına yurt dışından kabul edilecek öğrencilere ilişkin esasları belirlemektir.",
+      "predicted": "gebze teknik üniversitesi'nin lisans programlarına yurt dışından kabul edilecek öğrencilere ilişkin esasları belirlemektir.",
+      "actual": "gebze teknik üniversitesi'nin lisans programlarına yurt dışından kabul edilecek öğrencilere ilişkin esasları belirlemektir.",
+      "confidence": 4.3595499992370605,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "bir aday kaç bölüm için tercih yapabilir?",
+      "context": "madde 5- aday en fazla üç (3) bölüm için tercih yapabilir.",
+      "predicted": "en fazla üç ( 3 ) bölüm için tercih yapabilir.",
+      "actual": "en fazla üç (3) bölüm için tercih yapabilir.",
+      "confidence": 3.85516619682312,
+      "exact_match": 0,
+      "f1_score": 0.7777777777777777
+    },
+    {
+      "question": "sat reasoning testinde hangi puanlar değerlendirmeye alınır?",
+      "context": "madde 5- 2- sat i testi: sat reasoning testinde math ve critical reading testlerinde 1600 üzerinden en az 1100 toplam puan ve 800 üzerinden en az 600 math puanı olanlar değerlendirmeye alınır.",
+      "predicted": "1600 üzerinden en az 1100 toplam puan ve 800 üzerinden en az 600 math puanı olanlar değerlendirmeye alınır.",
+      "actual": "math ve critical reading testlerinde 1600 üzerinden en az 1100 toplam puan ve 800 üzerinden en az 600 math puanı olanlar.",
+      "confidence": 3.313598155975342,
+      "exact_match": 0,
+      "f1_score": 0.6153846153846153
+    },
+    {
+      "question": "diploma notu değerlendirmesinde minimum başarı yüzdesi nedir?",
+      "context": "madde 5- 3- ülkelerinde geçerli olan diploma notu, lise bitirme veya üniversite giriş sınavlarından en az %70 başarılı olanlar değerlendirmeye alınır.",
+      "predicted": "lise bitirme veya üniversite giriş sınavlarından en az % 70 başarılı olanlar değerlendirmeye alınır.",
+      "actual": "en az %70 başarılı olanlar değerlendirmeye alınır.",
+      "confidence": 3.4156737327575684,
+      "exact_match": 0,
+      "f1_score": 0.5714285714285714
+    },
+    {
+      "question": "başvuruları kim değerlendirir?",
+      "context": "madde 6- başvuruların değerlendirilmesi gtü uluslararası öğrenci kabul komisyonu tarafından yapılır. komisyon'un yapısı senato kararı ile belirlenir.",
+      "predicted": "gtü uluslararası öğrenci kabul komisyonu tarafından yapılır. komisyon'un yapısı senato kararı ile belirlenir.",
+      "actual": "gtü uluslararası öğrenci kabul komisyonu tarafından yapılır.",
+      "confidence": 4.317978858947754,
+      "exact_match": 0,
+      "f1_score": 0.7000000000000001
+    },
+    {
+      "question": "başvuru sonuçları nasıl duyurulur?",
+      "context": "madde 7- başvuru sonuçları internet ortamında gtü web sayfasında duyurulur.",
+      "predicted": "gtü web sayfasında duyurulur.",
+      "actual": "internet ortamında gtü web sayfasında duyurulur.",
+      "confidence": 4.110330581665039,
+      "exact_match": 0,
+      "f1_score": 0.8
+    },
+    {
+      "question": "kayıtlar nerede yapılır?",
+      "context": "madde 8- kayıtlar her yıl ilan edilen tarihler arasında ve gtü öğrenci i̇şleri dairesi başkanlığında yapılır.",
+      "predicted": "gtü öğrenci i̇şleri dairesi başkanlığında yapılır.",
+      "actual": "gtü öğrenci i̇şleri dairesi başkanlığında yapılır.",
+      "confidence": 4.066927433013916,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "öğrenim ücretinde indirim yapılması için başarı notu kaç olmalıdır?",
+      "context": "madde 9 – (3) bir eğitim-öğretim yılı sonunda başarı notu 85 ve üzeri olan uluslararası öğrencinin başvurması durumunda öğrenim ücreti üzerinden %50'ye kadar indirim üniversite yönetim kurulu tarafından yapılabilir.",
+      "predicted": "üniversite yönetim kurulu tarafından yapılabilir.",
+      "actual": "85 ve üzeri olan uluslararası öğrenciler.",
+      "confidence": 3.4253311157226562,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "lisans eğitimine başlamak için öncelikle ne gereklidir?",
+      "context": "madde 10- lisans eğitimine başlayabilmek için öğrenciler öncelikle türkçe düzeylerinin yeterli olduğunu belgelemelidirler.",
+      "predicted": "türkçe düzeylerinin yeterli olduğunu belgelemelidirler.",
+      "actual": "türkçe düzeylerinin yeterli olduğunu belgelemelidirler.",
+      "confidence": 3.4402520656585693,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "türkçe düzeyi yetersiz olan öğrencilere ne kadar süre verilir?",
+      "context": "madde 10- türkçe düzeyleri yetersiz olan öğrenciler, türkçe öğrenmek için bir yıl süre ile izinli sayılırlar.",
+      "predicted": "türkçe öğrenmek için bir yıl süre ile izinli sayılırlar.",
+      "actual": "türkçe öğrenmek için bir yıl süre ile izinli sayılırlar.",
+      "confidence": 3.5238261222839355,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "eğitime başlayabilmek için gereken minimum türkçe düzeyi nedir?",
+      "context": "madde 10- gebze teknik üniversitesi sürekli eğitim merkezi (gtü-sem) tarafından yapılan türkçe yeterlilik sınavından en az (c1) düzeyini sağlayanlar, eğitime başlayabilirler.",
+      "predicted": "gebze teknik üniversitesi sürekli eğitim merkezi ( gtü - sem ) tarafından yapılan türkçe yeterlilik sınavından en az ( c1 ) düzeyini sağlayanlar, eğitime başlayabilirler.",
+      "actual": "en az (c1) düzeyi.",
+      "confidence": 3.2541229724884033,
+      "exact_match": 0,
+      "f1_score": 0.13793103448275865
+    },
+    {
+      "question": "türkçe düzeyini yeterli seviyeye getiremeyen öğrencilere ne kadar ek süre verilir?",
+      "context": "madde 10- türkçesi yetersiz olan ve kendi imkânları ile eğitim gören uluslararası öğrencilere türkçesini yeterli düzeye yükseltmeleri için verilen bir yıllık izin süresi sonunda türkçesini yeterli düzeye getirememeleri halinde bir yıl daha ek süre verilir.",
+      "predicted": "türkçe düzeyini yeterli seviyeye getiremeyen öğrencilere ne kadar ek süre verilir? madde 10 - türkçesi yetersiz olan ve kendi imkânları ile eğitim gören uluslararası öğrencilere türkçesini yeterli düzeye yükseltmeleri için verilen bir yıllık izin süresi sonunda türkçesini yeterli düzeye getirememeleri halinde bir yıl daha ek süre verilir.",
+      "actual": "bir yıl daha ek süre verilir.",
+      "confidence": 3.3526458740234375,
+      "exact_match": 0,
+      "f1_score": 0.22641509433962262
+    },
+    {
+      "question": "uluslararası öğrencilerin lisans programlarına başvuru, kabul ve kayıt yönergesi ne zaman yürürlüğe girer?",
+      "context": "madde 12- bu yönerge gtü senatosu tarafından kabul edildikten sonra yürürlüğe girer.",
+      "predicted": "gtü senatosu tarafından kabul edildikten sonra yürürlüğe girer.",
+      "actual": "gtü senatosu tarafından kabul edildikten sonra yürürlüğe girer.",
+      "confidence": 4.278698444366455,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "uluslararası öğrencilerin lisans programlarına başvuru, kabul ve kayıt yönergesi'ni kim yürütür?",
+      "context": "madde 13 - bu yönergeyi gebze teknik üniversitesi rektörü yürütür.",
+      "predicted": "gebze teknik üniversitesi rektörü yürütür.",
+      "actual": "gebze teknik üniversitesi rektörü yürütür.",
+      "confidence": 4.019789695739746,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "uluslararası öğrenci kontenjanları nasıl belirlenir?",
+      "context": "madde 4- uluslararası öğrenci kontenjanları, bölüm başkanlıklarının önerileri dikkate alınarak, fakülte yönetim kurullarınca belirlendikten sonra senatoya sunulur ve senato tarafından onaylandıktan sonra yök'e gönderilir.",
+      "predicted": "senatoya sunulur ve senato tarafından onaylandıktan sonra yök'e gönderilir.",
+      "actual": "bölüm başkanlıklarının önerileri dikkate alınarak, fakülte yönetim kurullarınca belirlendikten sonra senatoya sunulur ve senato tarafından onaylandıktan sonra yök'e gönderilir.",
+      "confidence": 3.795339345932007,
+      "exact_match": 0,
+      "f1_score": 0.6428571428571429
+    },
+    {
+      "question": "türkiye burslusu öğrenciler ek süreden nasıl yararlanabilir?",
+      "context": "madde 10- türkçesi yetersiz görülen öğrencilerin kayıtları silinir. türkiye bursları kapsamında gtü'ye yerleşmiş olan uluslararası öğrenciler; ancak burslarının kesilerek kendi imkanları ile eğitime devam etmeleri halinde ek süreden yararlanabilirler.",
+      "predicted": "gtü'ye yerleşmiş olan uluslararası öğrenciler ; ancak burslarının kesilerek kendi imkanları ile eğitime devam etmeleri halinde ek süreden yararlanabilirler.",
+      "actual": "burslarının kesilerek kendi imkanları ile eğitime devam etmeleri halinde.",
+      "confidence": 3.98992919921875,
+      "exact_match": 0,
+      "f1_score": 0.5714285714285714
+    },
+    {
+      "question": "hangi sınavların geçerlilik süresi iki yıldır?",
+      "context": "madde 5- lise bitirme sınavı statüsünde olan sınavların (abitur, international baccalaureate, gce, tawjihi vb.) sonuçlarının geçerliliği süresizdir. ancak üniversite giriş sınavı statüsünde olan sınavların (sat vb.) geçerlilik süreleri iki yıl ile sınırlıdır.",
+      "predicted": "iki yıl ile sınırlıdır.",
+      "actual": "üniversite giriş sınavı statüsünde olan sınavların (sat vb.).",
+      "confidence": 3.181279420852661,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "kabul edilen adaylara ne gönderilir?",
+      "context": "madde 7- kabul edilen ve kayda geleceklerini beyan eden adaylara öğrenim vizesi alabilmeleri için başvuru evraklarında beyan ettikleri adrese bir kabul mektubu gönderilir.",
+      "predicted": "öğrenim vizesi alabilmeleri için başvuru evraklarında beyan ettikleri adrese bir kabul mektubu gönderilir.",
+      "actual": "öğrenim vizesi alabilmeleri için kabul mektubu gönderilir.",
+      "confidence": 3.678257942199707,
+      "exact_match": 0,
+      "f1_score": 0.7000000000000001
+    },
+    {
+      "question": "%30 i̇ngilizce programlarda öğrenciler hangi durumda ders aşamasına geçebilir?",
+      "context": "madde 10- eğitim dili %30 i̇ngilizce olan programlarda okuyanlar gtü i̇ngilizce yeterlilik sınavından başarılı olmaları ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgelemeleri halinde ders aşamasından öğrenimlerine devam ederler.",
+      "predicted": "gtü i̇ngilizce yeterlilik sınavından başarılı olmaları ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgelemeleri halinde ders aşamasından öğrenimlerine devam ederler.",
+      "actual": "gtü i̇ngilizce yeterlilik sınavından başarılı olmaları ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgelemeleri halinde.",
+      "confidence": 4.32347297668457,
+      "exact_match": 0,
+      "f1_score": 0.6829268292682927
+    },
+    {
+      "question": "güvenlik açısından tereddüt oluşan adaylar hakkında karar nasıl verilir?",
+      "context": "madde 6- başvuran adayın puanı sıralamada yer almasına rağmen, güvenlik açısından aday hakkında tereddüt oluşması durumunda değerlendirme ilgili komisyonun takdirindedir.",
+      "predicted": "ilgili komisyonun takdirindedir.",
+      "actual": "değerlendirme ilgili komisyonun takdirindedir.",
+      "confidence": 3.5213747024536133,
+      "exact_match": 0,
+      "f1_score": 0.8571428571428571
+    },
+    {
+      "question": "kontenjanların doldurulması konusunda gtü'nün yetkisi nedir?",
+      "context": "madde 6- gtü ilan edilen kontenjanları doldurup doldurmamakta serbesttir. gerekli durumlarda, bölümler arası kontenjan aktarımı yapılabilir.",
+      "predicted": "bölümler arası kontenjan aktarımı yapılabilir.",
+      "actual": "gtü ilan edilen kontenjanları doldurup doldurmamakta serbesttir ve gerekli durumlarda, bölümler arası kontenjan aktarımı yapılabilir.",
+      "confidence": 3.8169054985046387,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "%100 i̇ngilizce programlarda öğrenciler derslere nasıl başlayabilir?",
+      "context": "madde 10- %100 i̇ngilizce eğitim yapan programlara başvuran öğrenciler, programları gereği verilmekte olan türkçe yök derslerini almaları gerektiği bilgisi ile bu hususu kabul ederek derse başlamak isteğini belirten imzalı dilekçeleri ile derslere başlayabilirler.",
+      "predicted": "% 100 i̇ngilizce programlarda öğrenciler derslere nasıl başlayabilir? madde 10 - % 100 i̇ngilizce eğitim yapan programlara başvuran öğrenciler, programları gereği verilmekte olan türkçe yök derslerini almaları gerektiği bilgisi ile bu hususu kabul ederek derse başlamak isteğini belirten imzalı dilekçeleri ile derslere başlayabilirler.",
+      "actual": "türkçe yök derslerini almaları gerektiği bilgisi ile bu hususu kabul ederek derse başlamak isteğini belirten imzalı dilekçeleri ile.",
+      "confidence": 3.113893985748291,
+      "exact_match": 0,
+      "f1_score": 0.5573770491803278
+    },
+    {
+      "question": "uluslararası öğrencilerin öğrenim ücreti nasıl belirlenir?",
+      "context": "madde 9 – (1) yurt dışından kabul edilecek veya uluslararası öğrencilerden cumhurbaşkanlığı kararı ile her yıl tespit edilen asgari ve azami sınırlar içinde kalmak kaydıyla üniversite senatosu tarafından belirlenen ve yükseköğretim kurulu tarafından kabul edilen miktarda öğrenim ücreti alınır.",
+      "predicted": "üniversite senatosu tarafından belirlenen ve yükseköğretim kurulu tarafından kabul edilen miktarda öğrenim ücreti alınır.",
+      "actual": "cumhurbaşkanlığı kararı ile her yıl tespit edilen asgari ve azami sınırlar içinde kalmak kaydıyla üniversite senatosu tarafından belirlenen ve yükseköğretim kurulu tarafından kabul edilen miktarda.",
+      "confidence": 3.5117433071136475,
+      "exact_match": 0,
+      "f1_score": 0.4615384615384615
+    },
+    {
+      "question": "yurt dışından başvuran öğrencilerden hangi maddi belge istenir?",
+      "context": "madde 9 – (2) üniversiteye yurt dışından başvuracak olanların, türkiye'de yükseköğretimlerini sürdürmeyi sağlayacakları miktarda maddi imkânlarının olduğunu geçim güvencesi olarak belgelemeleri gerekir.",
+      "predicted": "yurt dışından başvuran öğrencilerden hangi maddi belge istenir? madde 9 – ( 2 ) üniversiteye yurt dışından başvuracak olanların, türkiye'de yükseköğretimlerini sürdürmeyi sağlayacakları miktarda maddi imkânlarının olduğunu geçim güvencesi olarak belgelemeleri gerekir.",
+      "actual": "türkiye'de yükseköğretimlerini sürdürmeyi sağlayacakları miktarda maddi imkânlarının olduğunu gösteren geçim güvencesi belgesi.",
+      "confidence": 3.1760644912719727,
+      "exact_match": 0,
+      "f1_score": 0.45454545454545453
+    },
+    {
+      "question": "%100 i̇ngilizce programlardaki öğrenciler ne zaman türkçe yeterlilik belgesi teslim etmelidir?",
+      "context": "madde 10- bu şekilde derse başlayan öğrenciler mezun olmadan önce türkçe düzeyi yeterlidir belgesini teslim etmelidirler.",
+      "predicted": "mezun olmadan önce türkçe düzeyi yeterlidir belgesini teslim etmelidirler.",
+      "actual": "mezun olmadan önce.",
+      "confidence": 3.8795132637023926,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "başvuru bilgileri nasıl duyurulur?",
+      "context": "madde 5- başvurulara ilişkin açıklamalar ve başvuru tarihleri gtü'nün web sayfasında duyurulur.",
+      "predicted": "gtü'nün web sayfasında duyurulur.",
+      "actual": "gtü'nün web sayfasında duyurulur.",
+      "confidence": 4.320041179656982,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "adaylar hangi durumda haklarını kaybederler?",
+      "context": "madde 7- bildirilen süre içinde kayda gelmeyen adaylar haklarını kaybederler.",
+      "predicted": "adaylar hangi durumda haklarını kaybederler? madde 7 - bildirilen süre içinde kayda gelmeyen adaylar haklarını kaybederler.",
+      "actual": "bildirilen süre içinde kayda gelmemeleri durumunda.",
+      "confidence": 3.0866036415100098,
+      "exact_match": 0,
+      "f1_score": 0.36363636363636365
+    },
+    {
+      "question": "hangi türkçe düzeyleri yetersiz kabul edilir?",
+      "context": "madde 10- 1. (a) ve (b) düzeyi; türkçe düzeyi yetersizdir. 2. (c1) ve üzeri düzeyde; türkçe düzeyi yeterlidir.",
+      "predicted": "hangi türkçe düzeyleri yetersiz kabul edilir? madde 10 - 1. ( a ) ve ( b ) düzeyi ; türkçe düzeyi yetersizdir. 2. ( c1 ) ve üzeri düzeyde ; türkçe düzeyi yeterlidir.",
+      "actual": "(a) ve (b) düzeyi.",
+      "confidence": 2.7806596755981445,
+      "exact_match": 0,
+      "f1_score": 0.054054054054054064
+    },
+    {
+      "question": "hangi öğrenciler i̇ngilizce hazırlık sınıfına devam eder?",
+      "context": "madde 10- gtü i̇ngilizce yeterlilik sınavından başarılı olamayan ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgeleyemeyen öğrenciler i̇ngilizce hazırlık sınıfına devam ederler.",
+      "predicted": "gtü i̇ngilizce yeterlilik sınavından başarılı olamayan ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgeleyemeyen öğrenciler i̇ngilizce hazırlık sınıfına devam ederler.",
+      "actual": "gtü i̇ngilizce yeterlilik sınavından başarılı olamayan ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgeleyemeyen öğrenciler.",
+      "confidence": 3.5974926948547363,
+      "exact_match": 0,
+      "f1_score": 0.6829268292682927
+    },
+    {
+      "question": "türkçe yeterlilik düzeyi hangi kurumların belgelerine göre belirlenir?",
+      "context": "madde 10- programlara yerleştirilenlerin türkçe yeterlilik düzeyleri, yök tarafından kabul edilmiş türkçe eğitim veren merkezlerden (tömer) ve yunus emre enstitüsünden alınan başarı belgesine göre belirlenir.",
+      "predicted": "yök tarafından kabul edilmiş türkçe eğitim veren merkezlerden ( tömer ) ve yunus emre enstitüsünden alınan başarı belgesine göre belirlenir.",
+      "actual": "yök tarafından kabul edilmiş türkçe eğitim veren merkezlerden (tömer) ve yunus emre enstitüsünden alınan başarı belgesine göre.",
+      "confidence": 4.414048671722412,
+      "exact_match": 0,
+      "f1_score": 0.8108108108108107
+    }
+  ]
+}

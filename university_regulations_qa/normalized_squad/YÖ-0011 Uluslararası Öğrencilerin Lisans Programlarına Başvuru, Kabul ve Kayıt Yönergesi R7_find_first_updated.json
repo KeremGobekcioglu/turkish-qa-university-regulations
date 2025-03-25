@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0011 Uluslararası Öğrencilerin Lisans Programlarına Başvuru, Kabul ve Kayıt Yönergesi R7",
+      "paragraphs": [
+        {
+          "context": "madde 2- bu yönergenin amacı; gebze teknik üniversitesi'nin lisans programlarına yurt dışından kabul edilecek öğrencilere ilişkin esasları belirlemektir.",
+          "qas": [
+            {
+              "question": "uluslararası öğrencilerin lisans programlarına başvuru, kabul ve kayıt yönergesi'nin amacı nedir?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi'nin lisans programlarına yurt dışından kabul edilecek öğrencilere ilişkin esasları belirlemektir.",
+                  "answer_start": 30
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- aday en fazla üç (3) bölüm için tercih yapabilir.",
+          "qas": [
+            {
+              "question": "bir aday kaç bölüm için tercih yapabilir?",
+              "answers": [
+                {
+                  "text": "en fazla üç (3) bölüm için tercih yapabilir.",
+                  "answer_start": 14
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- 2- sat i testi: sat reasoning testinde math ve critical reading testlerinde 1600 üzerinden en az 1100 toplam puan ve 800 üzerinden en az 600 math puanı olanlar değerlendirmeye alınır.",
+          "qas": [
+            {
+              "question": "sat reasoning testinde hangi puanlar değerlendirmeye alınır?",
+              "answers": [
+                {
+                  "text": "math ve critical reading testlerinde 1600 üzerinden en az 1100 toplam puan ve 800 üzerinden en az 600 math puanı olanlar.",
+                  "answer_start": 48
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- 3- ülkelerinde geçerli olan diploma notu, lise bitirme veya üniversite giriş sınavlarından en az %70 başarılı olanlar değerlendirmeye alınır.",
+          "qas": [
+            {
+              "question": "diploma notu değerlendirmesinde minimum başarı yüzdesi nedir?",
+              "answers": [
+                {
+                  "text": "en az %70 başarılı olanlar değerlendirmeye alınır.",
+                  "answer_start": 100
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- başvuruların değerlendirilmesi gtü uluslararası öğrenci kabul komisyonu tarafından yapılır. komisyon'un yapısı senato kararı ile belirlenir.",
+          "qas": [
+            {
+              "question": "başvuruları kim değerlendirir?",
+              "answers": [
+                {
+                  "text": "gtü uluslararası öğrenci kabul komisyonu tarafından yapılır.",
+                  "answer_start": 40
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- başvuru sonuçları internet ortamında gtü web sayfasında duyurulur.",
+          "qas": [
+            {
+              "question": "başvuru sonuçları nasıl duyurulur?",
+              "answers": [
+                {
+                  "text": "internet ortamında gtü web sayfasında duyurulur.",
+                  "answer_start": 27
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- kayıtlar her yıl ilan edilen tarihler arasında ve gtü öğrenci i̇şleri dairesi başkanlığında yapılır.",
+          "qas": [
+            {
+              "question": "kayıtlar nerede yapılır?",
+              "answers": [
+                {
+                  "text": "gtü öğrenci i̇şleri dairesi başkanlığında yapılır.",
+                  "answer_start": 59
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – (3) bir eğitim-öğretim yılı sonunda başarı notu 85 ve üzeri olan uluslararası öğrencinin başvurması durumunda öğrenim ücreti üzerinden %50'ye kadar indirim üniversite yönetim kurulu tarafından yapılabilir.",
+          "qas": [
+            {
+              "question": "öğrenim ücretinde indirim yapılması için başarı notu kaç olmalıdır?",
+              "answers": [
+                {
+                  "text": "85 ve üzeri olan uluslararası öğrenciler.",
+                  "answer_start": 54
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- lisans eğitimine başlayabilmek için öğrenciler öncelikle türkçe düzeylerinin yeterli olduğunu belgelemelidirler.",
+          "qas": [
+            {
+              "question": "lisans eğitimine başlamak için öncelikle ne gereklidir?",
+              "answers": [
+                {
+                  "text": "türkçe düzeylerinin yeterli olduğunu belgelemelidirler.",
+                  "answer_start": 67
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- türkçe düzeyleri yetersiz olan öğrenciler, türkçe öğrenmek için bir yıl süre ile izinli sayılırlar.",
+          "qas": [
+            {
+              "question": "türkçe düzeyi yetersiz olan öğrencilere ne kadar süre verilir?",
+              "answers": [
+                {
+                  "text": "türkçe öğrenmek için bir yıl süre ile izinli sayılırlar.",
+                  "answer_start": 53
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- gebze teknik üniversitesi sürekli eğitim merkezi (gtü-sem) tarafından yapılan türkçe yeterlilik sınavından en az (c1) düzeyini sağlayanlar, eğitime başlayabilirler.",
+          "qas": [
+            {
+              "question": "eğitime başlayabilmek için gereken minimum türkçe düzeyi nedir?",
+              "answers": [
+                {
+                  "text": "en az (c1) düzeyi.",
+                  "answer_start": 117
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- türkçesi yetersiz olan ve kendi imkânları ile eğitim gören uluslararası öğrencilere türkçesini yeterli düzeye yükseltmeleri için verilen bir yıllık izin süresi sonunda türkçesini yeterli düzeye getirememeleri halinde bir yıl daha ek süre verilir.",
+          "qas": [
+            {
+              "question": "türkçe düzeyini yeterli seviyeye getiremeyen öğrencilere ne kadar ek süre verilir?",
+              "answers": [
+                {
+                  "text": "bir yıl daha ek süre verilir.",
+                  "answer_start": 227
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- bu yönerge gtü senatosu tarafından kabul edildikten sonra yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "uluslararası öğrencilerin lisans programlarına başvuru, kabul ve kayıt yönergesi ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gtü senatosu tarafından kabul edildikten sonra yürürlüğe girer.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 13 - bu yönergeyi gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "question": "uluslararası öğrencilerin lisans programlarına başvuru, kabul ve kayıt yönergesi'ni kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü yürütür.",
+                  "answer_start": 24
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- uluslararası öğrenci kontenjanları, bölüm başkanlıklarının önerileri dikkate alınarak, fakülte yönetim kurullarınca belirlendikten sonra senatoya sunulur ve senato tarafından onaylandıktan sonra yök'e gönderilir.",
+          "qas": [
+            {
+              "question": "uluslararası öğrenci kontenjanları nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "bölüm başkanlıklarının önerileri dikkate alınarak, fakülte yönetim kurullarınca belirlendikten sonra senatoya sunulur ve senato tarafından onaylandıktan sonra yök'e gönderilir.",
+                  "answer_start": 45
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- türkçesi yetersiz görülen öğrencilerin kayıtları silinir. türkiye bursları kapsamında gtü'ye yerleşmiş olan uluslararası öğrenciler; ancak burslarının kesilerek kendi imkanları ile eğitime devam etmeleri halinde ek süreden yararlanabilirler.",
+          "qas": [
+            {
+              "question": "türkiye burslusu öğrenciler ek süreden nasıl yararlanabilir?",
+              "answers": [
+                {
+                  "text": "burslarının kesilerek kendi imkanları ile eğitime devam etmeleri halinde.",
+                  "answer_start": 149
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- lise bitirme sınavı statüsünde olan sınavların (abitur, international baccalaureate, gce, tawjihi vb.) sonuçlarının geçerliliği süresizdir. ancak üniversite giriş sınavı statüsünde olan sınavların (sat vb.) geçerlilik süreleri iki yıl ile sınırlıdır.",
+          "qas": [
+            {
+              "question": "hangi sınavların geçerlilik süresi iki yıldır?",
+              "answers": [
+                {
+                  "text": "üniversite giriş sınavı statüsünde olan sınavların (sat vb.).",
+                  "answer_start": 155
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- kabul edilen ve kayda geleceklerini beyan eden adaylara öğrenim vizesi alabilmeleri için başvuru evraklarında beyan ettikleri adrese bir kabul mektubu gönderilir.",
+          "qas": [
+            {
+              "question": "kabul edilen adaylara ne gönderilir?",
+              "answers": [
+                {
+                  "text": "öğrenim vizesi alabilmeleri için kabul mektubu gönderilir.",
+                  "answer_start": 152
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- eğitim dili %30 i̇ngilizce olan programlarda okuyanlar gtü i̇ngilizce yeterlilik sınavından başarılı olmaları ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgelemeleri halinde ders aşamasından öğrenimlerine devam ederler.",
+          "qas": [
+            {
+              "question": "%30 i̇ngilizce programlarda öğrenciler hangi durumda ders aşamasına geçebilir?",
+              "answers": [
+                {
+                  "text": "gtü i̇ngilizce yeterlilik sınavından başarılı olmaları ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgelemeleri halinde.",
+                  "answer_start": 65
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- başvuran adayın puanı sıralamada yer almasına rağmen, güvenlik açısından aday hakkında tereddüt oluşması durumunda değerlendirme ilgili komisyonun takdirindedir.",
+          "qas": [
+            {
+              "question": "güvenlik açısından tereddüt oluşan adaylar hakkında karar nasıl verilir?",
+              "answers": [
+                {
+                  "text": "değerlendirme ilgili komisyonun takdirindedir.",
+                  "answer_start": 124
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- gtü ilan edilen kontenjanları doldurup doldurmamakta serbesttir. gerekli durumlarda, bölümler arası kontenjan aktarımı yapılabilir.",
+          "qas": [
+            {
+              "question": "kontenjanların doldurulması konusunda gtü'nün yetkisi nedir?",
+              "answers": [
+                {
+                  "text": "gtü ilan edilen kontenjanları doldurup doldurmamakta serbesttir ve gerekli durumlarda, bölümler arası kontenjan aktarımı yapılabilir.",
+                  "answer_start": 7
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- %100 i̇ngilizce eğitim yapan programlara başvuran öğrenciler, programları gereği verilmekte olan türkçe yök derslerini almaları gerektiği bilgisi ile bu hususu kabul ederek derse başlamak isteğini belirten imzalı dilekçeleri ile derslere başlayabilirler.",
+          "qas": [
+            {
+              "question": "%100 i̇ngilizce programlarda öğrenciler derslere nasıl başlayabilir?",
+              "answers": [
+                {
+                  "text": "türkçe yök derslerini almaları gerektiği bilgisi ile bu hususu kabul ederek derse başlamak isteğini belirten imzalı dilekçeleri ile.",
+                  "answer_start": 107
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – (1) yurt dışından kabul edilecek veya uluslararası öğrencilerden cumhurbaşkanlığı kararı ile her yıl tespit edilen asgari ve azami sınırlar içinde kalmak kaydıyla üniversite senatosu tarafından belirlenen ve yükseköğretim kurulu tarafından kabul edilen miktarda öğrenim ücreti alınır.",
+          "qas": [
+            {
+              "question": "uluslararası öğrencilerin öğrenim ücreti nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "cumhurbaşkanlığı kararı ile her yıl tespit edilen asgari ve azami sınırlar içinde kalmak kaydıyla üniversite senatosu tarafından belirlenen ve yükseköğretim kurulu tarafından kabul edilen miktarda.",
+                  "answer_start": 75
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – (2) üniversiteye yurt dışından başvuracak olanların, türkiye'de yükseköğretimlerini sürdürmeyi sağlayacakları miktarda maddi imkânlarının olduğunu geçim güvencesi olarak belgelemeleri gerekir.",
+          "qas": [
+            {
+              "question": "yurt dışından başvuran öğrencilerden hangi maddi belge istenir?",
+              "answers": [
+                {
+                  "text": "türkiye'de yükseköğretimlerini sürdürmeyi sağlayacakları miktarda maddi imkânlarının olduğunu gösteren geçim güvencesi belgesi.",
+                  "answer_start": 58
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- bu şekilde derse başlayan öğrenciler mezun olmadan önce türkçe düzeyi yeterlidir belgesini teslim etmelidirler.",
+          "qas": [
+            {
+              "question": "%100 i̇ngilizce programlardaki öğrenciler ne zaman türkçe yeterlilik belgesi teslim etmelidir?",
+              "answers": [
+                {
+                  "text": "mezun olmadan önce.",
+                  "answer_start": 47
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- başvurulara ilişkin açıklamalar ve başvuru tarihleri gtü'nün web sayfasında duyurulur.",
+          "qas": [
+            {
+              "question": "başvuru bilgileri nasıl duyurulur?",
+              "answers": [
+                {
+                  "text": "gtü'nün web sayfasında duyurulur.",
+                  "answer_start": 62
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- bildirilen süre içinde kayda gelmeyen adaylar haklarını kaybederler.",
+          "qas": [
+            {
+              "question": "adaylar hangi durumda haklarını kaybederler?",
+              "answers": [
+                {
+                  "text": "bildirilen süre içinde kayda gelmemeleri durumunda.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- 1. (a) ve (b) düzeyi; türkçe düzeyi yetersizdir. 2. (c1) ve üzeri düzeyde; türkçe düzeyi yeterlidir.",
+          "qas": [
+            {
+              "question": "hangi türkçe düzeyleri yetersiz kabul edilir?",
+              "answers": [
+                {
+                  "text": "(a) ve (b) düzeyi.",
+                  "answer_start": 13
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- gtü i̇ngilizce yeterlilik sınavından başarılı olamayan ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgeleyemeyen öğrenciler i̇ngilizce hazırlık sınıfına devam ederler.",
+          "qas": [
+            {
+              "question": "hangi öğrenciler i̇ngilizce hazırlık sınıfına devam eder?",
+              "answers": [
+                {
+                  "text": "gtü i̇ngilizce yeterlilik sınavından başarılı olamayan ya da bu sınava eşdeğer i̇ngilizce yeterlilik sınavlarından başarılı olduklarını belgeleyemeyen öğrenciler.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- programlara yerleştirilenlerin türkçe yeterlilik düzeyleri, yök tarafından kabul edilmiş türkçe eğitim veren merkezlerden (tömer) ve yunus emre enstitüsünden alınan başarı belgesine göre belirlenir.",
+          "qas": [
+            {
+              "question": "türkçe yeterlilik düzeyi hangi kurumların belgelerine göre belirlenir?",
+              "answers": [
+                {
+                  "text": "yök tarafından kabul edilmiş türkçe eğitim veren merkezlerden (tömer) ve yunus emre enstitüsünden alınan başarı belgesine göre.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

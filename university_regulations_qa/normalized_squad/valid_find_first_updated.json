@@ -1,0 +1,1749 @@
+{
+  "data": [
+    {
+      "title": "YN-0001 Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği R7",
+      "paragraphs": [
+        {
+          "context": "madde 4 – (1) bu yönetmelikte geçen; a) akts: avrupa kredi transfer sistemini,",
+          "qas": [
+            {
+              "question": "akts nedir?",
+              "answers": [
+                {
+                  "text": "avrupa kredi transfer sistemini",
+                  "answer_start": 46
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 5– (1) öğrenci adayları, ösym kılavuzunda belirtilen şartlarda ve tarihlerde kayıt işlemlerini yaptırır.",
+          "qas": [
+            {
+              "question": "öğrenci adayları kayıt işlemlerini nasıl yaptırabilirler?",
+              "answers": [
+                {
+                  "text": "ösym kılavuzunda belirtilen şartlarda ve tarihlerde yaptırır.",
+                  "answer_start": 26
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 5– (4) kayıt olan öğrenciler, üniversite tarafından düzenlenen ve tarihi ilan edilen i̇ngilizce seviye tespit sınavına alınırlar.",
+          "qas": [
+            {
+              "question": "i̇ngilizce yeterlik sınavına kimler girebilir?",
+              "answers": [
+                {
+                  "text": "kayıt olan öğrenciler",
+                  "answer_start": 13
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 6– (1) 2547 sayılı kanunun 46 ncı maddesi ve ilgili diğer mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir.",
+          "qas": [
+            {
+              "question": "öğrenci katkı payı ne zaman ödenir?",
+              "answers": [
+                {
+                  "text": "dönem başlarında akademik takvimde belirtilen tarihlerde",
+                  "answer_start": 148
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 7– (1) üniversite içinden veya dışından yapılacak her türlü yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yükseköğretim kurumlarında önlisans ve lisans düzeyindeki programlar arasında geçiş, çift anadal, yan dal ile kurumlar arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik hükümlerine göre yürütülür.",
+          "qas": [
+            {
+              "question": "yatay geçişler hangi yönetmelik hükümlerine göre yürütülür?",
+              "answers": [
+                {
+                  "text": "24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yönetmelik hükümlerine göre",
+                  "answer_start": 92
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 8 – (1) her öğrenci için senato tarafından çıkarılan yönergeye göre danışman atanır. danışmanlık süreci bu yönerge esasları çerçevesinde mezuniyete kadar yürütülür.",
+          "qas": [
+            {
+              "question": "danışmanlık süreci nasıl yürütülür?",
+              "answers": [
+                {
+                  "text": "senato tarafından çıkarılan yönerge esasları çerçevesinde mezuniyete kadar",
+                  "answer_start": 121
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – (1) kesin kayıtlarını yaptıran öğrencilere, üniversite tarafından öğrenci olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+          "qas": [
+            {
+              "question": "öğrencilere kimlik kartı ne zaman verilir?",
+              "answers": [
+                {
+                  "text": "kesin kayıtlarını yaptıran öğrencilere",
+                  "answer_start": 14
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 11 – (1) öğretim yılı, güz ve bahar yarıyıllarından oluşur.",
+          "qas": [
+            {
+              "question": "eğitim-öğretim yılı kaç yarıyıldan oluşur?",
+              "answers": [
+                {
+                  "text": "güz ve bahar yarıyıllarından",
+                  "answer_start": 29
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 12 – (1) derslerin kredi değerleri bölümlerin teklifi üzerine ilgili kurullarda onaylandıktan sonra senato tarafından belirlenir.",
+          "qas": [
+            {
+              "question": "ders kredileri nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "bölümlerin teklifi üzerine ilgili kurullarda onaylandıktan sonra senato tarafından",
+                  "answer_start": 41
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 13 – (2) öğretim planları; ilgili bölümün önerisi, ilgili kurullar ve senato kararı ile belirlenir ve güncellenebilir.",
+          "qas": [
+            {
+              "question": "öğretim planları nasıl güncellenebilir?",
+              "answers": [
+                {
+                  "text": "i̇lgili bölümün önerisi, ilgili kurullar ve senato kararı ile",
+                  "answer_start": 33
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 14 – (1) i̇ngilizce hazırlık programında geçirilen süre hariç, üniversitedeki lisans eğitim-öğretim programları sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+          "qas": [
+            {
+              "question": "eğitim-öğretim süresi ne kadardır?",
+              "answers": [
+                {
+                  "text": "sekiz yarıyıl, azami bitirme süresi yedi yıl",
+                  "answer_start": 118
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (1) bir dersin ön ve eş şartı; ilgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve senato kararı ile belirlenir.",
+          "qas": [
+            {
+              "question": "bir dersin ön ve eş şartı nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "i̇lgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve senato kararı ile",
+                  "answer_start": 42
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 16 -(1) lisans öğrencilerinin yarıyıllık asgari kredi yükü 20 akts’dir.",
+          "qas": [
+            {
+              "question": "lisans öğrencilerinin yarıyıllık asgari kredi yükü nedir?",
+              "answers": [
+                {
+                  "text": "20 akts",
+                  "answer_start": 65
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 17 – (1) akademik takvimde belirlenen tarihlerde ders seçimi yaparak kayıt yenileyen öğrenciler, akademik takvimdeki ders ekleme-çıkarma günleri içerisinde...",
+          "qas": [
+            {
+              "question": "ders ekleme-çıkarma işlemleri ne zaman yapılır?",
+              "answers": [
+                {
+                  "text": "akademik takvimdeki ders ekleme-çıkarma günleri içerisinde",
+                  "answer_start": 103
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 18– (1) bitirme çalışması, ön lisans programlarında üçüncü ve/veya dördüncü yarıyıl, lisans programlarında yedinci ve/veya sekizinci yarıyıl dersi olarak yer alır.",
+          "qas": [
+            {
+              "question": "bitirme çalışması hangi yarıyıllarda yer alır?",
+              "answers": [
+                {
+                  "text": "ön lisans programlarında üçüncü ve/veya dördüncü yarıyıl, lisans programlarında yedinci ve/veya sekizinci yarıyıl",
+                  "answer_start": 33
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 19– (1) kayıtlı öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle...",
+          "qas": [
+            {
+              "question": "yarıyıl izni hangi durumlarda verilir?",
+              "answers": [
+                {
+                  "text": "sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle",
+                  "answer_start": 33
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 20– (2) değişim programları ilgili mevzuat hükümleri çerçevesinde senato tarafından belirlenen esaslara göre yürütülür.",
+          "qas": [
+            {
+              "question": "değişim programları nasıl yürütülür?",
+              "answers": [
+                {
+                  "text": "i̇lgili mevzuat hükümleri çerçevesinde senato tarafından belirlenen esaslara göre",
+                  "answer_start": 34
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 21– (5) yaz öğretimi, 7/3/2021 tarihli ve 31416 sayılı resmî gazete’de yayımlanan gebze teknik üniversitesi yaz öğretimi yönetmeliği çerçevesinde gerçekleştirilir.",
+          "qas": [
+            {
+              "question": "yaz öğretimi hangi yönetmelik çerçevesinde gerçekleştirilir?",
+              "answers": [
+                {
+                  "text": "7/3/2021 tarihli ve 31416 sayılı resmî gazete’de yayımlanan gebze teknik üniversitesi yaz öğretimi yönetmeliği çerçevesinde",
+                  "answer_start": 28
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 22– (1) derslerin işlenişi, devam durumu, değerlendirme ölçütleri ve içeriği yarıyıl başında ilgili öğretim elemanı tarafından hazırlanan ders bilgi formu ile öğrencilere duyurulur.",
+          "qas": [
+            {
+              "question": "ders bilgi formu ne zaman duyurulur?",
+              "answers": [
+                {
+                  "text": "yarıyıl başında",
+                  "answer_start": 83
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 23– (1) teorik derslerde en az %70, laboratuvar ve uygulamalı derslerde en az %80 devam zorunluluğu aranır.",
+          "qas": [
+            {
+              "question": "teorik derslerde devam zorunluluğu nedir?",
+              "answers": [
+                {
+                  "text": "en az %70",
+                  "answer_start": 31
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 24– (1) öğrencinin bir dersteki başarısı, ders bilgi formunda belirtilen değerlendirme ölçütlerine göre belirlenir.",
+          "qas": [
+            {
+              "question": "ders değerlendirme ölçütleri nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "ders bilgi formunda belirtilen değerlendirme ölçütlerine göre",
+                  "answer_start": 48
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 25– (4) resmî tatil günlerinde sınav yapılmaz.",
+          "qas": [
+            {
+              "question": "sınavlar hangi günlerde yapılmaz?",
+              "answers": [
+                {
+                  "text": "resmî tatil günlerinde",
+                  "answer_start": 14
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 26– (1) öğrencilere verilen notlar ve işaretler aşağıda gösterilmiştir: a) ex (muaf), b) na (devamsız-başarısız), c) nc (kredisiz/ortalama dışı), ç) s (yeterli), d) u (yetersiz), e) vf (yetersiz-başarısız)",
+          "qas": [
+            {
+              "question": "öğrencilere verilen notlar ve işaretler nelerdir?",
+              "answers": [
+                {
+                  "text": "ex (muaf), na (devamsız-başarısız), nc (kredisiz/ortalama dışı), s (yeterli), u (yetersiz), vf (yetersiz-başarısız)",
+                  "answer_start": 93
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 27– (1) bir dersi başarı ile tamamlamak için o dersten cc ve üstü veya s notu almak gerekir.",
+          "qas": [
+            {
+              "question": "bir dersi başarı ile tamamlamak için hangi notlar alınmalıdır?",
+              "answers": [
+                {
+                  "text": "cc ve üstü veya s notu",
+                  "answer_start": 61
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 28– (1) öğrenci, yarıyıl içi sınav sonuçlarına, notun ilan edilmesinden itibaren 5 iş günü içerisinde ilgili bölüm başkanlığına yazılı olarak başvurup itiraz edebilir.",
+          "qas": [
+            {
+              "question": "not itirazı nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "notun ilan edilmesinden itibaren 5 iş günü içerisinde ilgili bölüm başkanlığına yazılı olarak",
+                  "answer_start": 54
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 29– (1) haklı ve geçerli nedenlerle sınavlarına giremeyen öğrencilere, ilgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte kullanılmak üzere mazeret sınav hakkı verilir.",
+          "qas": [
+            {
+              "question": "mazeret sınavı hakkı nasıl verilir?",
+              "answers": [
+                {
+                  "text": "i̇lgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte",
+                  "answer_start": 77
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 30– (1) ağırlıklı yarıyıl not ortalaması, öğrencinin belirli bir yarıyılda aldığı derslerin kredilerinin 4’lük sistemdeki notları ile çarpılması sonucu elde edilecek sayılar toplamının başarı notu ex, nc, s, u olan dersler hariç krediler toplamına bölünmesi ile bulunacak değerdir.",
+          "qas": [
+            {
+              "question": "ağırlıklı yarıyıl not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "derslerin kredilerinin 4’lük sistemdeki notları ile çarpılması sonucu elde edilecek sayılar toplamının, başarı notu ex, nc, s, u olan dersler hariç krediler toplamına bölünmesi ile",
+                  "answer_start": 87
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 31– (1) kayıtlı olduğu sekiz dönem içinde mezun olan ve genel not ortalaması 3,00-3,49 arasında olan öğrenciler onur öğrencisi olarak mezun olurlar.",
+          "qas": [
+            {
+              "question": "onur öğrencisi kimlerdir?",
+              "answers": [
+                {
+                  "text": "kayıtlı olduğu sekiz dönem içinde mezun olan ve genel not ortalaması 3,00-3,49 arasında olan öğrenciler",
+                  "answer_start": 14
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "YÖ-0032_Prof._Dr._Nejat_Goyunc_Kutuphanesi_Hizmetlerinden_Yararlanma_Yonergesi R1",
+      "paragraphs": [
+        {
+          "context": "madde 4- öğretim üyeleri: 15 kitap, 1 dönem; araştırma görevlileri ve okutmanlar: 10 kitap, 1 dönem; doktora ve yüksek lisans öğrencileri: 10 kitap, 35 gün; lisans öğrencileri ve idari personel: 6 kitap, 28 gün.",
+          "qas": [
+            {
+              "question": "lisans öğrencileri kaç kitabı, kaç gün süreyle ödünç alabilir?",
+              "answers": [
+                {
+                  "text": "6 kitabı, 28 gün süreyle.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "512"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- ödünç alınan materyalin süresi; öğretim üyelerince 4, diğer tüm kullanıcılarca 2 kez uzatılabilir.",
+          "qas": [
+            {
+              "question": "öğretim üyeleri dışındaki kullanıcılar ödünç süresini kaç kez uzatabilir?",
+              "answers": [
+                {
+                  "text": "2 kez.",
+                  "answer_start": 88
+                }
+              ],
+              "id": "513"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- referans ve rezerv bölümü kitapları, süreli yayınlar ve tezler ödünç verilmez.",
+          "qas": [
+            {
+              "question": "hangi materyaller ödünç verilmez?",
+              "answers": [
+                {
+                  "text": "referans ve rezerv bölümü kitapları, süreli yayınlar ve tezler.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "514"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- ayırtılan materyal 3 gün içerisinde ödünç verme bankosundan alınmalıdır.",
+          "qas": [
+            {
+              "question": "ayırtılan materyal kaç gün içinde alınmalıdır?",
+              "answers": [
+                {
+                  "text": "3 gün içinde.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "515"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- bütün hatırlatmalara rağmen 60 gün içerisinde iade edilmeyen kitaplar kayıp sayılır.",
+          "qas": [
+            {
+              "question": "kitaplar kaç gün sonra kayıp sayılır?",
+              "answers": [
+                {
+                  "text": "60 gün sonra.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "516"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- kullanıcıdan, kaybettiği veya hasar verdiği materyali 1 ay içerisinde temin etmesi istenir.",
+          "qas": [
+            {
+              "question": "kaybedilen veya hasar verilen materyal kaç ay içinde temin edilmelidir?",
+              "answers": [
+                {
+                  "text": "1 ay içinde.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "517"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- bir kullanıcı, aynı anda en çok 10 makale isteği yapabilir.",
+          "qas": [
+            {
+              "question": "bir kullanıcı aynı anda maksimum kaç makale isteği yapabilir?",
+              "answers": [
+                {
+                  "text": "en çok 10 makale isteği.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "518"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- bir kullanıcı, aynı anda en çok 3 ödünç kitap isteği yapabilir.",
+          "qas": [
+            {
+              "question": "bir kullanıcı aynı anda maksimum kaç ödünç kitap isteği yapabilir?",
+              "answers": [
+                {
+                  "text": "en çok 3 ödünç kitap isteği.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "519"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- diğer üniversite ve bilimsel kuruluşların kütüphaneleri, kütüphaneden 1 ay süreyle ve bu yönergenin ilgili hükümlerine uymak koşuluyla ödünç kitap alabilir.",
+          "qas": [
+            {
+              "question": "diğer üniversite kütüphaneleri kaç ay süreyle ödünç kitap alabilir?",
+              "answers": [
+                {
+                  "text": "1 ay süreyle.",
+                  "answer_start": 80
+                }
+              ],
+              "id": "520"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- ödünç aldığı materyali süresi içinde iade etmeyen kullanıcı, sürenin bitişini izleyen her gün için 'gecikme cezası' ödemekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "gecikme cezası ne zaman başlar?",
+              "answers": [
+                {
+                  "text": "sürenin bitişini izleyen her gün için.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "521"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- üniversitenin akademik ve idari personeli ile tüm kayıtlı öğrencileri, kütüphanenin doğal üyesidirler.",
+          "qas": [
+            {
+              "question": "kimler kütüphanenin doğal üyesidir?",
+              "answers": [
+                {
+                  "text": "üniversitenin akademik ve idari personeli ile tüm kayıtlı öğrencileri.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "522"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- üzerinde gecikme cezası veya gecikmiş kitap bulunan kullanıcılar ödünç verme hizmetinden yararlanamaz.",
+          "qas": [
+            {
+              "question": "hangi durumlarda kullanıcılar ödünç verme hizmetinden yararlanamaz?",
+              "answers": [
+                {
+                  "text": "üzerinde gecikme cezası veya gecikmiş kitap bulunduğunda.",
+                  "answer_start": 2
+                }
+              ],
+              "id": "523"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- kullanıcı; süresinin dolmamış olmasına rağmen geri çağırılması daire başkanlığınca gerekli görülen materyali, en geç 3 gün içerisinde kütüphaneye iade etmekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "geri çağrılan materyal kaç gün içinde iade edilmelidir?",
+              "answers": [
+                {
+                  "text": "en geç 3 gün içerisinde.",
+                  "answer_start": 119
+                }
+              ],
+              "id": "524"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- gecikme cezaları kesinlikle iptal edilmez.",
+          "qas": [
+            {
+              "question": "gecikme cezaları iptal edilebilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, kesinlikle iptal edilmez.",
+                  "answer_start": 19
+                }
+              ],
+              "id": "525"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- 'gecikme cezası', 'kayıp i̇şlem bedeli' ve fotokopi ücreti, her yılbaşında daire başkanlığının önerisi ve rektörlük makamının onayı ile belirlenir.",
+          "qas": [
+            {
+              "question": "ücretler ne zaman ve kim tarafından belirlenir?",
+              "answers": [
+                {
+                  "text": "her yılbaşında daire başkanlığının önerisi ve rektörlük makamının onayı ile.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "526"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- ödünç aldığı materyali süresi içinde iade etmeyen kullanıcılara aşağıdaki sürelerde 3 kez 'gecikme hatırlatma mesajı' gönderilir: 1. mesaj, iade tarihinden 1 gün sonra; 2. mesaj, iade tarihinden 10 gün sonra; 3. mesaj, iade tarihinden 30 gün sonra.",
+          "qas": [
+            {
+              "question": "gecikme hatırlatma mesajları kaç kez ve ne zaman gönderilir?",
+              "answers": [
+                {
+                  "text": "3 kez: i̇ade tarihinden 1 gün sonra, 10 gün sonra ve 30 gün sonra.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "527"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- üniversite dışından gelen kullanıcılar, daire başkanlığının izniyle kütüphane materyalinden yararlanabilir; ancak üye olamazlar.",
+          "qas": [
+            {
+              "question": "üniversite dışından gelen kullanıcılar kütüphaneye üye olabilirler mi?",
+              "answers": [
+                {
+                  "text": "hayır, olamazlar.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "528"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- ödünç materyal alma işlemi sırasında üye, gtü kimliğini kütüphane görevlisine göstermekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "ödünç materyal alırken ne gösterilmelidir?",
+              "answers": [
+                {
+                  "text": "gtü kimliği.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "529"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- öğretim üyesi ve araştırma görevlisi olan kullanıcıların kütüphane koleksiyonundan sağlanamayan belge(makale, chapter, rapor, patent, standart vb.) gereksinimleri, yurtiçi ve yurtdışı kütüphanelerinden karşılanır.",
+          "qas": [
+            {
+              "question": "kimler kütüphanelerarası belge sağlama hizmetinden yararlanabilir?",
+              "answers": [
+                {
+                  "text": "öğretim üyesi ve araştırma görevlisi olan kullanıcılar.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "530"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- kütüphane koleksiyonunda bulunmayan kitaplar, öğretim üyesi ve araştırma görevlisi olan kullanıcılar için kütüphanelerarası i̇şbirliği kapsamında ödünç getirtilir.",
+          "qas": [
+            {
+              "question": "kütüphanelerarası ödünç kitap getirtme hizmetinden kimler yararlanabilir?",
+              "answers": [
+                {
+                  "text": "öğretim üyesi ve araştırma görevlisi olan kullanıcılar.",
+                  "answer_start": 56
+                }
+              ],
+              "id": "531"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- kullanıcılar, 5846 sayılı fikir ve sanat eserleri kanunu'nun ilgili maddelerine aykırı olmamak koşuluyla kütüphane koleksiyonunda bulunan yayınlardan ücreti karşılığında fotokopi çektirebilirler.",
+          "qas": [
+            {
+              "question": "fotokopi hizmeti hangi kanun çerçevesinde verilir?",
+              "answers": [
+                {
+                  "text": "5846 sayılı fikir ve sanat eserleri kanunu.",
+                  "answer_start": 23
+                }
+              ],
+              "id": "532"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- başka bir kullanıcı tarafından ayırtılan materyalin (ders kitapları hariç) süresi uzatılamaz.",
+          "qas": [
+            {
+              "question": "ayırtılan materyallerin süresi uzatılabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, ders kitapları hariç uzatılamaz.",
+                  "answer_start": 77
+                }
+              ],
+              "id": "533"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- kullanıcı, başkası tarafından ödünç alınan bir materyali kütüphane web sayfasından veya ödünç verme bankosundan kendi adına ayırtabilir.",
+          "qas": [
+            {
+              "question": "materyal ayırtma işlemi nerelerden yapılabilir?",
+              "answers": [
+                {
+                  "text": "kütüphane web sayfasından veya ödünç verme bankosundan.",
+                  "answer_start": 66
+                }
+              ],
+              "id": "534"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- belge istekleri, kütüphane web sayfasında bulunan 'makale i̇stek formu' doldurularak iletilir. bu işlem için kütüphaneden şifre alınmalıdır.",
+          "qas": [
+            {
+              "question": "belge istekleri nasıl iletilir?",
+              "answers": [
+                {
+                  "text": "kütüphane web sayfasında bulunan 'makale i̇stek formu' doldurularak ve şifre alınarak.",
+                  "answer_start": 18
+                }
+              ],
+              "id": "535"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- bütün hatırlatmalara rağmen 60 gün içerisinde iade edilmeyen kitaplar kayıp sayılır ve 30 günlük 'gecikme cezası', kitabın güncel piyasa fiyatı ve 'kayıp i̇şlem bedeli'nin toplamı kullanıcıdan tahsil edilir.",
+          "qas": [
+            {
+              "question": "kayıp sayılan kitaplar için kullanıcıdan ne tahsil edilir?",
+              "answers": [
+                {
+                  "text": "30 günlük gecikme cezası, kitabın güncel piyasa fiyatı ve kayıp i̇şlem bedeli'nin toplamı.",
+                  "answer_start": 96
+                }
+              ],
+              "id": "536"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- öğretim üyeleri: 15 kitap, 1 dönem; araştırma görevlileri ve okutmanlar: 10 kitap, 1 dönem;",
+          "qas": [
+            {
+              "question": "öğretim üyeleri ile araştırma görevlileri ve okutmanlar arasında ödünç alınabilecek kitap sayısı bakımından nasıl bir fark vardır?",
+              "answers": [
+                {
+                  "text": "öğretim üyeleri 15 kitap, araştırma görevlileri ve okutmanlar 10 kitap alabilir.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "537"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- yurtiçinden sağlanan kitabın getirtilmesi ile gönderilmesine ilişkin posta/kargo ücreti ve yurtdışından sağlanan isteklerde ilgili kurumların belirlediği ödünç kitap ücreti ile geri gönderme posta/kargo ücreti kullanıcı tarafından karşılanır.",
+          "qas": [
+            {
+              "question": "kütüphanelerarası ödünç kitap hizmetinde masraflar kim tarafından karşılanır?",
+              "answers": [
+                {
+                  "text": "kullanıcı tarafından.",
+                  "answer_start": 220
+                }
+              ],
+              "id": "538"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- süre uzatma, şahsen kütüphaneye gelerek veya elektronik ortamda yapılabilir.",
+          "qas": [
+            {
+              "question": "süre uzatma işlemi hangi yollarla yapılabilir?",
+              "answers": [
+                {
+                  "text": "şahsen kütüphaneye gelerek veya elektronik ortamda.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "539"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- ayırtılan materyal, kütüphaneye iade edildiğinde kullanıcıya 'alınmaya hazır' mesajı e-posta ile gönderilir.",
+          "qas": [
+            {
+              "question": "ayırtılan materyal hazır olduğunda kullanıcı nasıl bilgilendirilir?",
+              "answers": [
+                {
+                  "text": "e-posta ile 'alınmaya hazır' mesajı gönderilerek.",
+                  "answer_start": 94
+                }
+              ],
+              "id": "540"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- bu yönerge hükümleri, gebze teknik üniversitesi rektörü tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü.",
+                  "answer_start": 32
+                }
+              ],
+              "id": "541"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "YÖ-0017 Mimari Tasarm VIII Dersi Uygulama Esasları R2",
+      "paragraphs": [
+        {
+          "context": "madde 4: öğrencinin mimari tasarım viii dersini alabilmesi için eğitim-öğretim programındaki ilk dört yarıyıldaki dersler ile mimari tasarım viii dersinden önceki son dönemde mimari tasarım viii dersinin ön koşulu olan derslerden başarılı olması ve staj yükümlülüklerini tamamlamış olması gerekir.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersini alabilmek için hangi şartların sağlanması gerekir?",
+              "answers": [
+                {
+                  "text": "i̇lk dört yarıyıldaki derslerden, ön koşul derslerinden başarılı olunması ve staj yükümlülüklerinin tamamlanması gerekir.",
+                  "answer_start": 207
+                }
+              ],
+              "id": "452"
+            }
+          ]
+        },
+        {
+          "context": "madde 5: mimari tasarım viii dersi, gebze teknik üniversitesi ve diğer üniversitelerin yaz okulu programlarından alınamaz.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersi yaz okulundan alınabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, alınamaz.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "453"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: öğrenci mimari tasarım viii dersi projesini belirtilen tarih ve saatte sözlü olarak savunur. savunma en çok 20 dakika sürer.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersi savunması maksimum kaç dakika sürer?",
+              "answers": [
+                {
+                  "text": "en çok 20 dakika.",
+                  "answer_start": 111
+                }
+              ],
+              "id": "454"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: zorunlu sebepler dışında ikiden fazla ara jüriye girmeyen öğrenciye final jüri hakkı verilmez.",
+          "qas": [
+            {
+              "question": "kaç ara jüriye katılmayan öğrenci final jüri hakkını kaybeder?",
+              "answers": [
+                {
+                  "text": "i̇kiden fazla ara jüriye katılmayan.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "455"
+            }
+          ]
+        },
+        {
+          "context": "madde 3: mimari tasarım viii dersi öğrencinin düzenli tashih almadan tek başına hazırladığı, belirli aralıklarla düzenlenen jüriler tarafından denetlenen bir proje-tasarım çalışmasıdır.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersi nasıl hazırlanır?",
+              "answers": [
+                {
+                  "text": "öğrencinin düzenli tashih almadan tek başına hazırladığı ve belirli aralıklarla jüriler tarafından denetlenen bir çalışma olarak.",
+                  "answer_start": 31
+                }
+              ],
+              "id": "456"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: mimari tasarım viii dersinin mazeret ve yaz okulu hakkı yoktur.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersinde mazeret hakkı var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, yoktur.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "457"
+            }
+          ]
+        },
+        {
+          "context": "madde 12: tek ders sınavı ile ilgili olarak gtü lisans eğitim ve öğretim yönetmeliğinin ilgili maddesi gereği proje çalışması olarak değerlendirilen mimari tasarım viii dersinde tek ders sınav hakkı yoktur.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersinde tek ders sınav hakkı var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, yoktur.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "458"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: mimari tasarım viii dersi jürisi yarıyıl içinde en az iki defa öğrencilerin mimari tasarım viii dersi projelerini izlemek üzere toplanacağı ara jüri tarihlerini belirleyerek yarıyılın ilk haftası içinde ilan eder.",
+          "qas": [
+            {
+              "question": "yarıyıl içinde minimum kaç ara jüri yapılır?",
+              "answers": [
+                {
+                  "text": "en az iki defa.",
+                  "answer_start": 57
+                }
+              ],
+              "id": "459"
+            }
+          ]
+        },
+        {
+          "context": "madde 9: belirtilen gün veya saatte mimari tasarım viii dersi projesini teslim etmeyen öğrenci sınava alınmaz.",
+          "qas": [
+            {
+              "question": "projesini zamanında teslim etmeyen öğrenci için ne olur?",
+              "answers": [
+                {
+                  "text": "sınava alınmaz.",
+                  "answer_start": 95
+                }
+              ],
+              "id": "460"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: sınav açık ya da kapalı sözlü savunma şeklinde olur. gerektiğinde eskiz sınavı da yapılabilir.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersi sınavı hangi şekillerde yapılabilir?",
+              "answers": [
+                {
+                  "text": "açık ya da kapalı sözlü savunma şeklinde ve gerektiğinde eskiz sınavı da yapılabilir.",
+                  "answer_start": 16
+                }
+              ],
+              "id": "461"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: mimari tasarım viii dersinden başarısız olan öğrencinin başarısız olduğu konu ve çalışma ile tüm ilişiği kesilir.",
+          "qas": [
+            {
+              "question": "dersten başarısız olan öğrencinin önceki çalışması ile ilgili ne olur?",
+              "answers": [
+                {
+                  "text": "başarısız olduğu konu ve çalışma ile tüm ilişiği kesilir.",
+                  "answer_start": 66
+                }
+              ],
+              "id": "462"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: bu yönerge hükümleri gtü mimarlık fakültesi mimarlık bölüm başkanı tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gtü mimarlık fakültesi mimarlık bölüm başkanı.",
+                  "answer_start": 31
+                }
+              ],
+              "id": "463"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: ara jürilerin not ortalaması ara sınav notu olarak kabul edilir.",
+          "qas": [
+            {
+              "question": "ara sınav notu nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "ara jürilerin not ortalaması olarak.",
+                  "answer_start": 5
+                }
+              ],
+              "id": "464"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: mimari tasarım viii dersinin konusunu, kapsamını, çalışma ölçütleri ile takvimini belirlemek ve derse kayıt süresinin bitiminden sonra akademik ders yılının ilk haftası sonunda mimarlık bölüm başkanlığı'na bildirmek.",
+          "qas": [
+            {
+              "question": "dersin konusu, kapsamı ve takvimi ne zaman bildirilir?",
+              "answers": [
+                {
+                  "text": "derse kayıt süresinin bitiminden sonra akademik ders yılının ilk haftası sonunda.",
+                  "answer_start": 105
+                }
+              ],
+              "id": "465"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: mazeret jürisi, öğrencinin bulunmadığı bir ortamda jüri üyeleri tarafından gerçekleştirilir.",
+          "qas": [
+            {
+              "question": "mazeret jürisi nasıl gerçekleştirilir?",
+              "answers": [
+                {
+                  "text": "öğrencinin bulunmadığı bir ortamda jüri üyeleri tarafından.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "466"
+            }
+          ]
+        },
+        {
+          "context": "madde 6: mimarlık bölüm kurulu gerekli gördüğü takdirde, fakülte içindeki diğer bölümlerden ve/veya fakülte dışından ve diğer üniversitelerin ilgili bölümlerinden öğretim elemanları ile meslek ve/veya uzmanlık alanındaki çalışma ve eserleriyle tanınmış mimarlar ve/veya şehir bölge planlama uzmanlarının jüri üyesi olarak görevlendirilmesi için karar alarak mimarlık bölüm başkanlığı'nın onayına sunabilir.",
+          "qas": [
+            {
+              "question": "jüri üyeleri kimlerden oluşabilir?",
+              "answers": [
+                {
+                  "text": "fakülte içi ve dışından öğretim elemanları, tanınmış mimarlar ve şehir bölge planlama uzmanları.",
+                  "answer_start": 244
+                }
+              ],
+              "id": "467"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: her yarıyıl ders görevlendirmeleri sırasında bölüm başkanlığı tarafından belirlenerek fakülte kurulu tarafından onaylanan mimari tasarım viii dersi jürisi, yarıyılın ilk haftası içinde mimari tasarım viii dersi konu/konularını belirleyerek dekanlığa yazılı olarak bildirir ve öğrencilere ilan eder.",
+          "qas": [
+            {
+              "question": "dersin konuları ne zaman ve nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "yarıyılın ilk haftası içinde jüri tarafından belirlenir, dekanlığa yazılı olarak bildirilir ve öğrencilere ilan edilir.",
+                  "answer_start": 249
+                }
+              ],
+              "id": "468"
+            }
+          ]
+        },
+        {
+          "context": "madde 13: bu yönergede hüküm bulunmayan durumlarda gtü lisans eğitim ve öğretim yönetmeliği, mimari tasarım dersleri uygulama esasları yönergesi ve/veya bölüm ve fakülte kurullarınca alınacak ilke kararları uygulanır.",
+          "qas": [
+            {
+              "question": "yönergede hüküm bulunmayan durumlarda hangi mevzuat uygulanır?",
+              "answers": [
+                {
+                  "text": "gtü lisans eğitim ve öğretim yönetmeliği, mimari tasarım dersleri uygulama esasları yönergesi ve/veya bölüm ve fakülte kurullarınca alınacak ilke kararları.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "469"
+            }
+          ]
+        },
+        {
+          "context": "madde 14: mimari tasarım viii dersi uygulama esasları yönergesi, gtü senatosu tarafından kabul edildiği tarihte yürürlüğe girer ve gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için geçerli olur.",
+          "qas": [
+            {
+              "question": "yönerge kimler için geçerlidir?",
+              "answers": [
+                {
+                  "text": "gtü mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için.",
+                  "answer_start": 152
+                }
+              ],
+              "id": "470"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: mimari tasarım viii dersinin sunum niteliklerini ve özelliklerini belirleyerek ilan etmek.",
+          "qas": [
+            {
+              "question": "dersin sunum nitelikleri ve özellikleri kim tarafından belirlenir?",
+              "answers": [
+                {
+                  "text": "mimari tasarım viii dersi jürisi tarafından.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "471"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: mimari tasarım viii dersine ait yükümlülüklerini yukarıda yazılı koşullar çerçevesinde yerine getirmeyen ve başarısız olan öğrenciler bir sonraki dönemde mimari tasarım viii dersi için bölüm başkanlığı tarafından görevlendirilen jüri tarafından belirlenen yeni mimari tasarım viii dersi koşullarına uymak zorundadır.",
+          "qas": [
+            {
+              "question": "dersten başarısız olan öğrenci bir sonraki dönem ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "bölüm başkanlığı tarafından görevlendirilen jüri tarafından belirlenen yeni mimari tasarım viii dersi koşullarına uymak zorundadır.",
+                  "answer_start": 195
+                }
+              ],
+              "id": "472"
+            }
+          ]
+        },
+        {
+          "context": "madde 5: bu yönergenin 4. madde hükmüne bağlı olmak kaydıyla öğrenci mimari tasarım viii dersine, alacağı diğer derslerle birlikte danışmanın onayı ile kayıt yaptırır.",
+          "qas": [
+            {
+              "question": "derse kayıt için kimin onayı gereklidir?",
+              "answers": [
+                {
+                  "text": "danışmanın onayı.",
+                  "answer_start": 131
+                }
+              ],
+              "id": "473"
+            }
+          ]
+        },
+        {
+          "context": "madde 3: mimari tasarım viii dersi öğrencinin kayıtlı olduğu mimarlık bölümü'nün anabilim dallarında ve öğretim planlarında yer alan derslerde edinilen bilgilerin sistematik bir şekilde kullanılmasını sağlayan... bir proje-tasarım çalışmasıdır.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersinin temel amacı nedir?",
+              "answers": [
+                {
+                  "text": "öğrencinin edindiği bilgilerin sistematik bir şekilde kullanılmasını sağlamak.",
+                  "answer_start": 135
+                }
+              ],
+              "id": "474"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: mazereti nedeniyle ara jürilerden birine giremeyen öğrenci, tabi olduğu lisans yönetmeliğinde belirtilen süre içerisinde mazeret belgesi ile birlikte jüri için istenenleri bölüm sekreterliğine teslim eder.",
+          "qas": [
+            {
+              "question": "ara jüriye mazereti nedeniyle giremeyen öğrenci ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "lisans yönetmeliğinde belirtilen süre içerisinde mazeret belgesi ile birlikte jüri için istenenleri bölüm sekreterliğine teslim etmelidir.",
+                  "answer_start": 76
+                }
+              ],
+              "id": "475"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: öğrencinin mimari tasarım viii dersi sürecindeki gelişimini izlemek.",
+          "qas": [
+            {
+              "question": "jürinin görevlerinden biri nedir?",
+              "answers": [
+                {
+                  "text": "öğrencinin mimari tasarım viii dersi sürecindeki gelişimini izlemek.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "476"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: mimari tasarım viii dersinin sınavı mimarlık bölüm başkanlığı tarafından yarıyılın ilk haftası içinde ilan edilen tarihte mimari tasarım viii jürisi tarafından yapılır.",
+          "qas": [
+            {
+              "question": "final sınavının tarihi ne zaman ilan edilir?",
+              "answers": [
+                {
+                  "text": "yarıyılın ilk haftası içinde.",
+                  "answer_start": 83
+                }
+              ],
+              "id": "477"
+            }
+          ]
+        },
+        {
+          "context": "madde 1: bu yönergenin amacı, 'gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümü' ders programında yer alan mimari tasarım viii dersi ile ilgili ilkeleri belirlemektir.",
+          "qas": [
+            {
+              "question": "yönergenin amacı nedir?",
+              "answers": [
+                {
+                  "text": "mimari tasarım viii dersi ile ilgili ilkeleri belirlemektir.",
+                  "answer_start": 119
+                }
+              ],
+              "id": "478"
+            }
+          ]
+        },
+        {
+          "context": "madde 6: mimarlık bölüm başkanlığı, bölüm öğretim üyesi ve elemanlarından oluşan mimari tasarım viii dersi jürisini oluşturarak ders görevlendirmeleri ile birlikte dekanlığa bildirerek ilan eder.",
+          "qas": [
+            {
+              "question": "jüri üyeleri kim tarafından belirlenir?",
+              "answers": [
+                {
+                  "text": "mimarlık bölüm başkanlığı tarafından.",
+                  "answer_start": 18
+                }
+              ],
+              "id": "479"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: ara jürilerin not ortalaması ara sınav notu olarak kabul edilir.",
+          "qas": [
+            {
+              "question": "ara sınav notu neye göre belirlenir?",
+              "answers": [
+                {
+                  "text": "ara jürilerin not ortalamasına göre.",
+                  "answer_start": 4
+                }
+              ],
+              "id": "480"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: mimari tasarım viii dersinin istenen nitelik ve ölçülerle, programa uygunluğunu izlemek.",
+          "qas": [
+            {
+              "question": "jürinin görevlerinden bir diğeri nedir?",
+              "answers": [
+                {
+                  "text": "dersin istenen nitelik ve ölçülerle, programa uygunluğunu izlemek.",
+                  "answer_start": 29
+                }
+              ],
+              "id": "481"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "YN-0009_Yonetmelik_Formu_Lisans_Egitim_ve_Ogretim_Yonetmeligi-2",
+      "paragraphs": [
+        {
+          "context": "madde 5 – (1) (değişik:rg-12/1/2015-29234) üniversite fakültelerine ve bölümlerine girebilmek için, lisans öğrenimiyle ilgili ölçme, seçme ve yerleştirme merkezi (ösym) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak şarttır.",
+          "qas": [
+            {
+              "question": "üniversite fakültelerine girebilmek için hangi şartlar gereklidir?",
+              "answers": [
+                {
+                  "text": "lisans öğrenimiyle ilgili ölçme, seçme ve yerleştirme merkezi (ösym) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak",
+                  "answer_start": 100
+                }
+              ],
+              "id": "34"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – (1) lisans öğrencileri, her öğretim yılında, ilgili mevzuatta belirlenen miktarda katkı payı öderler.",
+          "qas": [
+            {
+              "question": "lisans öğrencileri ne öderler?",
+              "answers": [
+                {
+                  "text": "i̇lgili mevzuatta belirlenen miktarda katkı payı",
+                  "answer_start": 55
+                }
+              ],
+              "id": "35"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – (1) (değişik:rg-12/1/2015-29234) her öğrenci için; üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde ilgili bölüm başkanlığı tarafından bir öğretim üyesi veya öğretim görevlisi danışman olarak atanır.",
+          "qas": [
+            {
+              "question": "her öğrenci için ne zaman danışman atanır?",
+              "answers": [
+                {
+                  "text": "üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde",
+                  "answer_start": 61
+                }
+              ],
+              "id": "36"
+            }
+          ]
+        },
+        {
+          "context": "madde 10 – (değişik:rg-12/1/2015-29234) kesin kayıtlarını yaptıran öğrencilere, rektörlük tarafından, üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+          "qas": [
+            {
+              "question": "kesin kayıtlarını yaptıran öğrencilere ne verilir?",
+              "answers": [
+                {
+                  "text": "rektörlük tarafından, üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı",
+                  "answer_start": 80
+                }
+              ],
+              "id": "37"
+            }
+          ]
+        },
+        {
+          "context": "madde 11 – (1) (değişik:rg-12/1/2015-29234) üniversite içinden veya dışından fakültelere yapılacak her türlü yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yükseköğretim kurumlarında önlisans ve lisans düzeyindeki programlar arasında geçiş, çift anadal, yan dal ile kurumlar arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik hükümlerine göre yürütülür.",
+          "qas": [
+            {
+              "question": "yatay geçişler hangi yönetmelik hükümlerine göre yürütülür?",
+              "answers": [
+                {
+                  "text": "24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yönetmelik hükümlerine göre",
+                  "answer_start": 135
+                }
+              ],
+              "id": "38"
+            }
+          ]
+        },
+        {
+          "context": "madde 12 – (1) öğretim yılı, güz ve bahar yarıyıllarından oluşur. güz ve bahar yarıyıllarının her birisinin normal süresi ondört haftadır.",
+          "qas": [
+            {
+              "question": "öğretim yılı kaç yarıyıldan oluşur?",
+              "answers": [
+                {
+                  "text": "güz ve bahar yarıyıllarından",
+                  "answer_start": 29
+                }
+              ],
+              "id": "39"
+            }
+          ]
+        },
+        {
+          "context": "madde 13 – (1) (değişik:rg-12/1/2015-29234) i̇ngilizce hazırlık programında geçirilen bir yıllık süre hariç, üniversitedeki lisans eğitim-öğretim programları sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+          "qas": [
+            {
+              "question": "lisans eğitim-öğretim programlarının azami bitirme süresi nedir?",
+              "answers": [
+                {
+                  "text": "yedi yıl",
+                  "answer_start": 199
+                }
+              ],
+              "id": "40"
+            }
+          ]
+        },
+        {
+          "context": "madde 14 – (1) (değişik:rg-12/1/2015-29234) üniversitenin fakülte ve bölümlerindeki öğretim, yükseköğretim kurulunca belirlenen ve senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve senato tarafından onaylanan öğretim planına göre yapılır.",
+          "qas": [
+            {
+              "question": "üniversitenin fakülte ve bölümlerindeki öğretim nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "yükseköğretim kurulunca belirlenen ve senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve senato tarafından onaylanan öğretim planına göre",
+                  "answer_start": 93
+                }
+              ],
+              "id": "41"
+            }
+          ]
+        },
+        {
+          "context": "madde 15 – (1) bir dersin önşartı, ilgili bölümün önerisi ve fakülte kurulunun onayı ile belirlenir.",
+          "qas": [
+            {
+              "question": "bir dersin önşartı nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "i̇lgili bölümün önerisi ve fakülte kurulunun onayı ile",
+                  "answer_start": 35
+                }
+              ],
+              "id": "42"
+            }
+          ]
+        },
+        {
+          "context": "madde 16 – (1) her öğrenci bu yönetmeliğin 13 üncü maddesindeki çalışmalara aşağıda belirtilen sınırlar içinde kalarak kayıt olur. öğrencinin herhangi bir yarıyılda kredi yükü en çok 30’dur.",
+          "qas": [
+            {
+              "question": "bir öğrencinin herhangi bir yarıyılda kredi yükü en fazla ne kadardır?",
+              "answers": [
+                {
+                  "text": "30",
+                  "answer_start": 183
+                }
+              ],
+              "id": "43"
+            }
+          ]
+        },
+        {
+          "context": "madde 17 – (1) öğrencinin, mezun olmadan önce istenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması zorunludur.",
+          "qas": [
+            {
+              "question": "öğrencinin mezun olmadan önce ne yapması zorunludur?",
+              "answers": [
+                {
+                  "text": "i̇stenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması",
+                  "answer_start": 46
+                }
+              ],
+              "id": "44"
+            }
+          ]
+        },
+        {
+          "context": "madde 18 – (1) (değişik:rg-5/6/2013-28668) lisans eğitim ve öğretiminde, öğrencinin bir dersteki başarısı, derse devam ve sınav yöntemi ile belirlenir.",
+          "qas": [
+            {
+              "question": "lisans eğitim ve öğretiminde bir dersteki başarı nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "derse devam ve sınav yöntemi ile",
+                  "answer_start": 107
+                }
+              ],
+              "id": "45"
+            }
+          ]
+        },
+        {
+          "context": "madde 19 – (1) ağırlıklı genel not ortalaması en az 2.00 olan bir öğrenci, bir dönemin sonunda; yabancı dil, türkçe, atatürk i̇lkeleri ve i̇nkılâp tarihi, beden eğitimi, müzik ve resim gibi kültür derslerinin notları dikkate alınmadan hesaplanacak koşullu dönem not ortalamasının 2.00 olması durumunda ilgili dönemde dc ve dd ile başarısız olduğu derslerden de başarılı olmuş sayılır.",
+          "qas": [
+            {
+              "question": "koşullu dönem not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "yabancı dil, türkçe, atatürk i̇lkeleri ve i̇nkılâp tarihi, beden eğitimi, müzik ve resim gibi kültür derslerinin notları dikkate alınmadan",
+                  "answer_start": 96
+                }
+              ],
+              "id": "46"
+            }
+          ]
+        },
+        {
+          "context": "madde 20 – (1) ağırlıklı yarıyıl not ortalaması, öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir.",
+          "qas": [
+            {
+              "question": "ağırlıklı yarıyıl not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+                  "answer_start": 49
+                }
+              ],
+              "id": "47"
+            }
+          ]
+        },
+        {
+          "context": "madde 21 – (1) ağırlıklı genel not ortalaması, ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir.",
+          "qas": [
+            {
+              "question": "ağırlıklı genel not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+                  "answer_start": 47
+                }
+              ],
+              "id": "48"
+            }
+          ]
+        },
+        {
+          "context": "madde 22 – (değişik:rg-7/2/2013-28552) (1) başarı notuna ilişkin esaslar şunlardır: a) derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere %80 oranında devam zorunludur.",
+          "qas": [
+            {
+              "question": "derslere devam zorunluluğu nedir?",
+              "answers": [
+                {
+                  "text": "derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere %80 oranında",
+                  "answer_start": 87
+                }
+              ],
+              "id": "49"
+            }
+          ]
+        },
+        {
+          "context": "madde 24 – (1) mezuniyet sırasında genel not ortalaması 3.00 – 3.49 arasında olan öğrenciler onur öğrencisi, 3.50 ve üstü olanlar ise yüksek onur öğrencisi olarak mezun olurlar ve bu durum transkriptinde belirtilir.",
+          "qas": [
+            {
+              "question": "onur öğrencisi kimlerdir?",
+              "answers": [
+                {
+                  "text": "genel not ortalaması 3.00 – 3.49 arasında olan öğrenciler",
+                  "answer_start": 35
+                }
+              ],
+              "id": "50"
+            }
+          ]
+        },
+        {
+          "context": "madde 25 – (1) bir yarıyıl sonunda, ağırlıklı genel not ortalaması 2.00 veya daha yukarı olan öğrenciler başarılı öğrenci sayılır.",
+          "qas": [
+            {
+              "question": "başarılı öğrenci kimdir?",
+              "answers": [
+                {
+                  "text": "ağırlıklı genel not ortalaması 2.00 veya daha yukarı olan öğrenciler",
+                  "answer_start": 36
+                }
+              ],
+              "id": "51"
+            }
+          ]
+        },
+        {
+          "context": "madde 26 – (1) (değişik:rg-5/6/2013-28668) i̇kinci yarıyılın sonundan itibaren, herhangi bir yarıyıl sonunda, ağırlıklı genel not ortalaması 1.99 ve aşağı olan öğrenciler sınamalı öğrenci sayılır.",
+          "qas": [
+            {
+              "question": "sınamalı öğrenci kimdir?",
+              "answers": [
+                {
+                  "text": "ağırlıklı genel not ortalaması 1.99 ve aşağı olan öğrenciler",
+                  "answer_start": 110
+                }
+              ],
+              "id": "52"
+            }
+          ]
+        },
+        {
+          "context": "madde 27 – (1) tüm öğrenciler başarısız oldukları dersleri tekrar etmek zorundadır.",
+          "qas": [
+            {
+              "question": "öğrenciler hangi dersleri tekrar etmek zorundadır?",
+              "answers": [
+                {
+                  "text": "başarısız oldukları dersleri",
+                  "answer_start": 30
+                }
+              ],
+              "id": "53"
+            }
+          ]
+        },
+        {
+          "context": "madde 28 – (mülga:rg-23/10/2012-28450) (yeniden düzenleme:rg-5/6/2013-28668)(değişik:rg-12/1/2015-29234) üniversite lisans öğrencileri daha önce almadıkları, alıp başarılı ya da başarısız oldukları dersleri, başka bir üniversitede açılan yaz öğretimi derslerinden ilgili fakülte yönetim kurulunun kararı ile alabilirler.",
+          "qas": [
+            {
+              "question": "yaz öğretimi dersleri nasıl alınabilir?",
+              "answers": [
+                {
+                  "text": "başka bir üniversitede açılan yaz öğretimi derslerinden ilgili fakülte yönetim kurulunun kararı ile",
+                  "answer_start": 208
+                }
+              ],
+              "id": "54"
+            }
+          ]
+        },
+        {
+          "context": "madde 29 – (1) (değişik:rg-12/1/2015-29234) her yarıyılda derslerin bitmesini müteakip, senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde o yarıyıldaki tüm derslere ait yarıyıl sonu/bütünleme sınavları yapılır.",
+          "qas": [
+            {
+              "question": "yarıyıl sonu sınavları ne zaman yapılır?",
+              "answers": [
+                {
+                  "text": "senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde",
+                  "answer_start": 88
+                }
+              ],
+              "id": "55"
+            }
+          ]
+        },
+        {
+          "context": "madde 30 – (1) yarıyıl sonu sınavları genelde yazılı, dersin niteliğine göre yazılı-sözlü veya yalnızca sözlü olarak da yapılabilir.",
+          "qas": [
+            {
+              "question": "yarıyıl sonu sınavları nasıl yapılabilir?",
+              "answers": [
+                {
+                  "text": "genelde yazılı, dersin niteliğine göre yazılı-sözlü veya yalnızca sözlü olarak",
+                  "answer_start": 38
+                }
+              ],
+              "id": "56"
+            }
+          ]
+        },
+        {
+          "context": "madde 31 – (1) öğrenci, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup itiraz edebilir.",
+          "qas": [
+            {
+              "question": "öğrenci sınav sonucuna nasıl itiraz edebilir?",
+              "answers": [
+                {
+                  "text": "dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup",
+                  "answer_start": 61
+                }
+              ],
+              "id": "57"
+            }
+          ]
+        },
+        {
+          "context": "madde 32 – (1) sınavlarda kopya çeken veya kopya çekmeye teşebbüs eden öğrenciye ilgili dersten ff notu verilir.",
+          "qas": [
+            {
+              "question": "kopya çeken öğrenciye ne notu verilir?",
+              "answers": [
+                {
+                  "text": "ff notu",
+                  "answer_start": 96
+                }
+              ],
+              "id": "58"
+            }
+          ]
+        },
+        {
+          "context": "madde 33 – (1) (değişik fıkra:rg-12/1/2015-29234) aşağıdaki hallerde öğrencinin üniversite ile ilişiği kesilir: kaydının silinmesini yazılı olarak istemiş olmak.",
+          "qas": [
+            {
+              "question": "öğrencinin üniversite ile ilişiği hangi durumda kesilir?",
+              "answers": [
+                {
+                  "text": "kaydının silinmesini yazılı olarak istemiş olmak",
+                  "answer_start": 112
+                }
+              ],
+              "id": "59"
+            }
+          ]
+        },
+        {
+          "context": "madde 34 – (1) bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan öğrenci, öğrenimini bitirmiş sayılır.",
+          "qas": [
+            {
+              "question": "öğrenci ne zaman öğrenimini bitirmiş sayılır?",
+              "answers": [
+                {
+                  "text": "bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan",
+                  "answer_start": 15
+                }
+              ],
+              "id": "60"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

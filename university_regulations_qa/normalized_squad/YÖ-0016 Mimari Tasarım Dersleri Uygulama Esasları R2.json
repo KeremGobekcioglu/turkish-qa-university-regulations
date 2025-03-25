@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0016 Mimari Tasarım Dersleri Uygulama Esasları R2",
+      "paragraphs": [
+        {
+          "context": "madde 2: gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümünde 4 yıllık lisans eğitimi süresince toplam 8 (sekiz) adet mimari tasarım dersi verilmektedir.",
+          "qas": [
+            {
+              "question": "gtü mimarlık bölümünde lisans eğitimi boyunca kaç adet mimari tasarım dersi verilmektedir?",
+              "answers": [
+                {
+                  "text": "toplam 8 (sekiz) adet.",
+                  "answer_start": 107
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 4: mimari tasarım dersleri gebze teknik üniversitesi ve diğer üniversitelerin yaz okulu programlarından alınamaz.",
+          "qas": [
+            {
+              "question": "mimari tasarım dersleri yaz okulundan alınabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, alınamaz.",
+                  "answer_start": 110
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 6: ara sınavlara girmek zorunludur. i̇ki ve daha fazla ara sınava girmeyen öğrenciye final sınavı hakkı verilmez.",
+          "qas": [
+            {
+              "question": "kaç ara sınava girmeyen öğrenci final sınavı hakkını kaybeder?",
+              "answers": [
+                {
+                  "text": "i̇ki ve daha fazla ara sınava girmeyen öğrenci.",
+                  "answer_start": 42
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: eskiz sınavının ağırlığı tüm mimari tasarım dersleri için %10 olup, yarıyılın başında hazırlanan ders bilgi formunda belirtilir.",
+          "qas": [
+            {
+              "question": "eskiz sınavının ağırlığı yüzde kaçtır?",
+              "answers": [
+                {
+                  "text": "%10.",
+                  "answer_start": 67
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 9: savunma mimari tasarım viii dışındaki tasarım derslerinde en çok 10 dakika sürer.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dışındaki tasarım derslerinde savunma süresi en fazla kaç dakikadır?",
+              "answers": [
+                {
+                  "text": "en çok 10 dakika.",
+                  "answer_start": 67
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 12: mimari tasarım derslerinde aranan devam koşulu gtü lisans eğitim ve öğretim yönetmeliği'nin ilgili maddesi gereği %80'dir.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerinde devam zorunluluğu yüzde kaçtır?",
+              "answers": [
+                {
+                  "text": "%80.",
+                  "answer_start": 124
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 13: özgün niteliğiyle diğer derslerden farklılaşan mimari tasarım derslerinde koşullu ders geçme hakkı geçerli değildir. bu derslerde, koşullu dönem not ortalaması dikkate alınmaksızın dc ve dd notları başarısızlığı ifade eder.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerinde dc ve dd notları ne anlama gelir?",
+              "answers": [
+                {
+                  "text": "başarısızlığı ifade eder.",
+                  "answer_start": 208
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: mimari tasarım derslerine ait çalışmaların bölüm tarafından saklanma süresi 2 yıldır.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerine ait çalışmalar kaç yıl saklanır?",
+              "answers": [
+                {
+                  "text": "2 yıl.",
+                  "answer_start": 86
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 15: gtü lisans eğitim ve öğretim yönetmeliği'nin ilgili maddesi gereği proje çalışması olarak değerlendirilen mimari tasarım derslerinde tek ders sınav hakkı yoktur.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerinde tek ders sınav hakkı var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, yoktur.",
+                  "answer_start": 164
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: belirtilen tarih ve gün dışında hiçbir şekilde teslim yapılamaz, bu konuda hiçbir mazeret kabul edilmez.",
+          "qas": [
+            {
+              "question": "proje tesliminde mazeret kabul edilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, hiçbir mazeret kabul edilmez.",
+                  "answer_start": 84
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 13: mimari tasarım dersleri dönem süresine yayılan uygulamalı dersler olduğu için yaz okulu hakkı yoktur.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerinde yaz okulu hakkı var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, yoktur.",
+                  "answer_start": 104
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 11: öğrenciler sadece maddi hata itirazında bulunabilir, öğretim elemanlarının not takdirine ilişkin hata itirazında bulunamazlar.",
+          "qas": [
+            {
+              "question": "öğrenciler not itirazında hangi durumda bulunabilirler?",
+              "answers": [
+                {
+                  "text": "sadece maddi hata durumunda.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 14: başarılı bulunan öğrenci çalışmaları bölüm tarafından gerekli görüldüğünde sergilenebilir ve/veya mimarlık alanındaki yayınlarda yayınlanabilir.",
+          "qas": [
+            {
+              "question": "başarılı öğrenci çalışmaları nasıl değerlendirilebilir?",
+              "answers": [
+                {
+                  "text": "sergilenebilir ve/veya mimarlık alanındaki yayınlarda yayınlanabilir.",
+                  "answer_start": 85
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 18: bu yönerge hükümleri gtü mimarlık fakültesi mimarlık bölüm başkanı tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gtü mimarlık fakültesi mimarlık bölüm başkanı.",
+                  "answer_start": 31
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 12: devam koşulunu sağlamak için öğrencinin fiziksel olarak eğitim mekânında bulunması yeterli değildir.",
+          "qas": [
+            {
+              "question": "derslere devam için sadece fiziksel olarak bulunmak yeterli midir?",
+              "answers": [
+                {
+                  "text": "hayır, yeterli değildir.",
+                  "answer_start": 93
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 4: mimari tasarım i, ii, iii, iv, v, vi, vii derslerinin herhangi birinden başarısız olan öğrenci devam eden dönemde aynı dersi tekrarlamak durumunda olup bir sonraki mimari tasarım dersini alamaz.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerinden birinden başarısız olan öğrenci bir sonraki dönem ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "aynı dersi tekrarlamak zorundadır ve bir sonraki mimari tasarım dersini alamaz.",
+                  "answer_start": 161
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 4: öğrencinin mimari tasarım viii dersini alabilmesi için tüm mimari tasarım derslerini almış ve başarmış olması gereklidir.",
+          "qas": [
+            {
+              "question": "mimari tasarım viii dersini alabilmek için hangi şart aranır?",
+              "answers": [
+                {
+                  "text": "tüm mimari tasarım derslerini almış ve başarmış olmak.",
+                  "answer_start": 62
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 5: derslerin yürütücülerinin belirlenmesinde, öncelikle bölümdeki kadrolu öğretim üyesi ve öğretim görevlilerinden yararlanılacaktır.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerinin yürütücüleri belirlenirken öncelik kimlere verilir?",
+              "answers": [
+                {
+                  "text": "bölümdeki kadrolu öğretim üyesi ve öğretim görevlilerine.",
+                  "answer_start": 62
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 6: final sınav programlarında, projelerin teslimi ile jüri değerlendirmesi arasında ön değerlendirme için en az 1 (bir) gün aralık bırakılır.",
+          "qas": [
+            {
+              "question": "proje teslimi ile jüri değerlendirmesi arasında minimum kaç gün olmalıdır?",
+              "answers": [
+                {
+                  "text": "en az 1 (bir) gün.",
+                  "answer_start": 112
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: görevli olmayan öğretim elemanlarına yapılan teslimler geçersizdir.",
+          "qas": [
+            {
+              "question": "proje teslimi kimler tarafından kabul edilir?",
+              "answers": [
+                {
+                  "text": "sadece görevli öğretim elemanları tarafından.",
+                  "answer_start": 1
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 7: eskiz sınavı, öğrenciye eğitimi süresince katıldığı tüm disiplinlerde edindiği bilgi birikimini değerlendirme, kullanma bilinç ve yetisini vermeye yöneliktir.",
+          "qas": [
+            {
+              "question": "eskiz sınavının amacı nedir?",
+              "answers": [
+                {
+                  "text": "öğrencinin tüm disiplinlerde edindiği bilgi birikimini değerlendirme ve kullanma bilinç ve yetisini vermek.",
+                  "answer_start": 46
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 3: mimari tasarım derslerinde yapılan projelere o yarıyıla kadar ve o yarıyılda görülen diğer tüm derslerde edilen bilgi ve becerilerin kullanılması/yansıtılması esastır.",
+          "qas": [
+            {
+              "question": "mimari tasarım derslerindeki projelerde hangi bilgi ve beceriler kullanılmalıdır?",
+              "answers": [
+                {
+                  "text": "o yarıyıla kadar ve o yarıyılda görülen diğer tüm derslerde edilen bilgi ve beceriler.",
+                  "answer_start": 54
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 4: mimari tasarım i dersini ilk defa alacak olan öğrencilerin bu dersi güz yarıyılında alması gerekmektedir.",
+          "qas": [
+            {
+              "question": "mimari tasarım i dersi hangi dönemde alınmalıdır?",
+              "answers": [
+                {
+                  "text": "güz yarıyılında.",
+                  "answer_start": 77
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 14: bölüm tarafından ilan edilen iade tarihinde teslim alınmayan çalışmalar geri dönüşüm kutularına atılır.",
+          "qas": [
+            {
+              "question": "i̇ade tarihinde teslim alınmayan çalışmalara ne olur?",
+              "answers": [
+                {
+                  "text": "geri dönüşüm kutularına atılır.",
+                  "answer_start": 82
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 2: mimari tasarım dersleri teori ve uygulamayı içeren, zorunlu temel dersler niteliğinde ve 'grup dersi' olarak yapılmakta olup birden fazla öğretim üyesi ve elemanı tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "mimari tasarım dersleri nasıl bir ders niteliğindedir?",
+              "answers": [
+                {
+                  "text": "teori ve uygulamayı içeren, zorunlu temel dersler niteliğinde ve 'grup dersi' olarak yapılan derslerdir.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 10: teslim süresi bölüm kurulu kararı dışında hiçbir şekilde uzatılamaz.",
+          "qas": [
+            {
+              "question": "teslim süresi kim tarafından uzatılabilir?",
+              "answers": [
+                {
+                  "text": "sadece bölüm kurulu kararıyla uzatılabilir.",
+                  "answer_start": 15
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 6: mücbir sebepler haricinde bir öğrencinin birden çok kez ara sınavlara katılmaması söz konusu değildir.",
+          "qas": [
+            {
+              "question": "öğrenci ara sınavlara birden fazla kez katılmama hakkına ne zaman sahiptir?",
+              "answers": [
+                {
+                  "text": "sadece mücbir sebeplerin varlığında.",
+                  "answer_start": 0
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 17: bu yönerge, gtü senatosu tarafından kabul edildiği tarihte yürürlüğe girer ve gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için geçerli olur.",
+          "qas": [
+            {
+              "question": "yönerge kimler için geçerlidir?",
+              "answers": [
+                {
+                  "text": "gtü mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için.",
+                  "answer_start": 109
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 16: bu yönergede hüküm bulunmayan durumlarda gtü lisans eğitim ve öğretim yönetmeliği ve/veya bölüm ve fakülte kurullarınca alınacak ilke kararları uygulanır.",
+          "qas": [
+            {
+              "question": "yönergede hüküm bulunmayan durumlarda hangi mevzuat uygulanır?",
+              "answers": [
+                {
+                  "text": "gtü lisans eğitim ve öğretim yönetmeliği ve/veya bölüm ve fakülte kurullarınca alınacak ilke kararları.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 8: mimari tasarım derslerinin yarıyıl sonu sınavları (değerlendirme/final jürileri) öğrenci tarafından bir yarıyıl boyunca çalışmış olduğu tasarım konusunun ders yürütücüleri tarafından istenen şekil ve nitelikte, imza karşılığında teslim edilmesi ile başlar.",
+          "qas": [
+            {
+              "question": "yarıyıl sonu sınavları nasıl başlar?",
+              "answers": [
+                {
+                  "text": "öğrencinin bir yarıyıl boyunca çalışmış olduğu tasarım konusunun ders yürütücüleri tarafından istenen şekil ve nitelikte, imza karşılığında teslim edilmesi ile.",
+                  "answer_start": 97
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YO-0071_Temel_Bilimler_Fakultesi_Lisans_Eitimi_Staj_Yonergesi_R0",
+      "paragraphs": [
+        {
+          "context": "madde 7- (1) gtü temel bilimler fakültesi lisans öğrencileri, öğretim planlarında staj dersi var ise öğrenimleri boyunca zorunlu stajlarını en az 40 iş günü yapmakla yükümlüdür.",
+          "qas": [
+            {
+              "question": "zorunlu staj için gereken minimum süre kaç iş günüdür?",
+              "answers": [
+                {
+                  "text": "en az 40 iş günü.",
+                  "answer_start": 140
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (2) zorunlu stajlar, tek dönemde (40 gün) veya iki dönemde (20 + 20 veya 25 + 15 gün) yapılabilir. stajını iki dönemde yapmak isteyen öğrenciler stajlarını tercihen iki ayrı yerde yapmalıdır.",
+          "qas": [
+            {
+              "question": "zorunlu staj kaç dönemde yapılabilir ve nasıl bölünebilir?",
+              "answers": [
+                {
+                  "text": "tek dönemde (40 gün) veya iki dönemde (20 + 20 veya 25 + 15 gün).",
+                  "answer_start": 30
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (3) i̇steğe bağlı stajlar tek bir seferde en az 15 iş günü olmalıdır. bu süre altındakiler değerlendirilmez.",
+          "qas": [
+            {
+              "question": "i̇steğe bağlı staj için minimum süre ne kadardır?",
+              "answers": [
+                {
+                  "text": "en az 15 iş günü.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (7) resmi tatil ilan edilen günlerde staj yapılamaz (yurtdışında yapılan stajlar için o yerin resmi tatil günlerinde staj yapılamaz). bununla birlikte bir haftada en fazla 6 gün staj yapılabilir.",
+          "qas": [
+            {
+              "question": "bir haftada maksimum kaç gün staj yapılabilir?",
+              "answers": [
+                {
+                  "text": "en fazla 6 gün.",
+                  "answer_start": 172
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- staj ile ilgili defter ve belgelerin, stajı izleyen eğitim-öğretim yarıyılının ikinci haftası sonuna kadar dekanlığa ulaştırılması öğrencinin sorumluluğundadır.",
+          "qas": [
+            {
+              "question": "staj belgeleri ne zamana kadar teslim edilmelidir?",
+              "answers": [
+                {
+                  "text": "stajı izleyen eğitim-öğretim yarıyılının ikinci haftası sonuna kadar.",
+                  "answer_start": 48
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- (3) öğrenciler, staj süresince mazeretsiz olarak staj süresinin %10'undan fazla devamsızlık yapamazlar.",
+          "qas": [
+            {
+              "question": "stajda izin verilen maksimum mazeretsiz devamsızlık oranı nedir?",
+              "answers": [
+                {
+                  "text": "staj süresinin %10'u.",
+                  "answer_start": 59
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (4) öğrenci, kabul belgesi ve eğer sigortalı ise bunun belgesi ile staj başlama tarihinden en az 15 gün önce dekanlığa başvurarak 'staj değerlendirme belgesi'ni ve fakülte tarafından onaylanmış staj defterini alır.",
+          "qas": [
+            {
+              "question": "staj evrakları için başvuru ne zaman yapılmalıdır?",
+              "answers": [
+                {
+                  "text": "staj başlama tarihinden en az 15 gün önce.",
+                  "answer_start": 76
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (1) staj evraklarının hepsi bölüm staj komisyonlarınca değerlendirilerek, sonuçları ilgiliye en geç başvurunun yapıldığı tarihten itibaren üçüncü hafta içerisinde bildirir.",
+          "qas": [
+            {
+              "question": "staj değerlendirme sonuçları ne zaman bildirilir?",
+              "answers": [
+                {
+                  "text": "en geç başvurunun yapıldığı tarihten itibaren üçüncü hafta içerisinde.",
+                  "answer_start": 103
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (1) her bölümde öğrencilerin staj işlerini yürütmek üzere bir staj komisyonu kurulur. staj komisyonu, bölüm başkanının önerisiyle bölüm kurulu tarafından 3 yıl süreyle görevlendirilen biri başkan olmak üzere, en az 3 öğretim üyesinden oluşur.",
+          "qas": [
+            {
+              "question": "staj komisyonu kaç yıl süreyle görevlendirilir ve minimum kaç kişiden oluşur?",
+              "answers": [
+                {
+                  "text": "3 yıl süreyle ve en az 3 öğretim üyesinden.",
+                  "answer_start": 200
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- staj defteri / dosyası %100 i̇ngilizce programlarındaki öğrenciler tarafından i̇ngilizce olarak teknik resim, yazı ve çizim kurallarına uygun şekilde, mürekkeple, tükenmez kalemle veya bilgisayarda doldurulur. i̇ngilizce olarak hazırlanan dosyalara türkçe özet eklenir.",
+          "qas": [
+            {
+              "question": "%100 i̇ngilizce programlarındaki öğrenciler staj defterini nasıl hazırlamalıdır?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce olarak hazırlamalı ve türkçe özet eklemelidir.",
+                  "answer_start": 219
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (2) i̇lk değerlendirme sonucunda öğrencinin stajı başarılı olarak kabul edilir ya da evraklar 'eksik' ibaresi ile tamamlanmak üzere öğrenciye geri iade edilir. 15 günlük ek sürenin sonunda staj komisyonu, eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır.",
+          "qas": [
+            {
+              "question": "eksik evraklar için verilen ek süre ne kadardır?",
+              "answers": [
+                {
+                  "text": "15 gün.",
+                  "answer_start": 170
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- (1) çift ana dal programı kapsamında olan öğrencinin ikinci dalı ile ilgili staj aktiviteleri ilgili çift ana dal programında belirtilen esaslarla belirlenir.",
+          "qas": [
+            {
+              "question": "çift anadal öğrencilerinin ikinci dal stajları nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "i̇lgili çift anadal programında belirtilen esaslarla.",
+                  "answer_start": 103
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- (2) yan dal programı kapsamında olan öğrenci, ilgili bölüm tarafından aksi belirtilmedikçe, yan dalı ile ilgili meslek stajı yapmak zorunda değildir.",
+          "qas": [
+            {
+              "question": "yandal öğrencileri yandal stajı yapmak zorunda mıdır?",
+              "answers": [
+                {
+                  "text": "i̇lgili bölüm tarafından aksi belirtilmedikçe, yapmak zorunda değildir.",
+                  "answer_start": 135
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (4) her dönem stajı bir ders olarak değerlendirilir ve öğrencinin not belgesinde, stajın yapıldığı tarihi izleyen yarıyıl programında, ilgili bölüme ait bir ders koduyla gösterilir.",
+          "qas": [
+            {
+              "question": "staj nasıl değerlendirilir ve not belgesinde nasıl gösterilir?",
+              "answers": [
+                {
+                  "text": "bir ders olarak değerlendirilir ve stajın yapıldığı tarihi izleyen yarıyıl programında, ilgili bölüme ait bir ders koduyla gösterilir.",
+                  "answer_start": 92
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 19- (1) bu yönerge 2019–2020 öğretim yılı bahar yarıyılından itibaren yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "yönerge ne zaman yürürlüğe girmiştir?",
+              "answers": [
+                {
+                  "text": "2019–2020 öğretim yılı bahar yarıyılından itibaren.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- öğrenci, defteri işletmedeki staj süresi içinde doldurur ve çalışma süresince ve sonunda gerekli yerleri işletme yetkililerine onaylatır. staj defterinin her sayfasının işletmedeki staj sorumlusu veya sorumluları tarafından paraflanmış olması, ilk ve son sayfaların ise imzalı ve kaşeli olması gerekmektedir.",
+          "qas": [
+            {
+              "question": "staj defterinin sayfaları nasıl onaylanmalıdır?",
+              "answers": [
+                {
+                  "text": "her sayfa staj sorumlusu tarafından paraflanmalı, ilk ve son sayfalar imzalı ve kaşeli olmalıdır.",
+                  "answer_start": 206
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- stajyer değerlendirme belgesi, işletme tarafından gizli olarak doldurulur, onaylanır ve kapalı zarfa konur. onaylayan işletme yetkilisinin ismi, unvanı ve görevi belge üzerinde açıkça belirtilmelidir.",
+          "qas": [
+            {
+              "question": "stajyer değerlendirme belgesi nasıl teslim edilmelidir?",
+              "answers": [
+                {
+                  "text": "gizli olarak doldurulup, onaylanıp kapalı zarfa konulmalıdır.",
+                  "answer_start": 56
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (5) öğrencinin stajda başarılı sayılması için öncelikle kurumlarca doldurulacak staj değerlendirme formuna göre başarılı olması zorunludur. değerlendirmede başarısız olan öğrencilerin stajlarını yenilemesi zorunludur.",
+          "qas": [
+            {
+              "question": "stajın başarılı sayılması için öncelikle ne gereklidir?",
+              "answers": [
+                {
+                  "text": "kurumlarca doldurulacak staj değerlendirme formuna göre başarılı olması.",
+                  "answer_start": 66
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (7) staj komisyonları; zorunlu stajını tamamladığı gün itibariyle stajının kabul edilmesi durumunda mezun olabilecek durumdaki öğrencilerin stajlarını öncelikli olarak değerlendirir.",
+          "qas": [
+            {
+              "question": "hangi öğrencilerin stajları öncelikli olarak değerlendirilir?",
+              "answers": [
+                {
+                  "text": "stajının kabul edilmesi durumunda mezun olabilecek durumdaki öğrencilerin.",
+                  "answer_start": 76
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- (1) öğrenciler staj yaptıkları işletmenin çalışma düzenine, kural, talimat ve emirlerine uymak, daimi personel gibi işyerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.",
+          "qas": [
+            {
+              "question": "stajyerlerin işyerindeki temel sorumlulukları nelerdir?",
+              "answers": [
+                {
+                  "text": "i̇şletmenin çalışma düzenine, kural ve talimatlara uymak, faaliyetlere katılmak ve verilen mesleki görevleri yapmak.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (10) öğrenciler yurtdışında kendi girişimleri veya erasmus gibi programlar kanalı ile buldukları yerlerde de staj yapabilirler. yurtdışında zorunlu ve gönüllü olarak yapılan stajlarda sigorta masrafları dâhil her türlü sorumluluk öğrenciye aittir.",
+          "qas": [
+            {
+              "question": "yurtdışı stajlarında sigorta masrafları kime aittir?",
+              "answers": [
+                {
+                  "text": "her türlü sorumluluk öğrenciye aittir.",
+                  "answer_start": 218
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (5) öğrenciler stajlarına ancak sigorta girişleri tamamlandıktan sonra başlayabileceklerdir. sigorta girişleri yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.",
+          "qas": [
+            {
+              "question": "sigorta girişi yapılmadan önce yapılan çalışmalar stajdan sayılır mı?",
+              "answers": [
+                {
+                  "text": "sigorta girişleri yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.",
+                  "answer_start": 102
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (3) staj komisyonu, gerekli gördüğü durumlarda stajın amacına ve kurallarına uygun yürütülmesi için gerekli izlemeyi yapabilir veya stajın yapıldığı kurum ile iletişime geçip, staj yapan öğrenci hakkında bilgi alarak öğrencilerin izlenmesini sağlayabilir.",
+          "qas": [
+            {
+              "question": "staj komisyonu gerekli gördüğünde ne yapabilir?",
+              "answers": [
+                {
+                  "text": "stajın uygun yürütülmesi için izleme yapabilir veya kurumla iletişime geçip öğrenci hakkında bilgi alabilir.",
+                  "answer_start": 115
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (11) bölümler birinci ve ikinci dönem zorunlu stajlara ilişkin farklı staj türü belirleyebilir. farklı staj türüne ihtiyaç var ise; bu staj türleri bölüm kurulları tarafından belirlenir ve staj komisyonları tarafından uygulamada dikkate alınır.",
+          "qas": [
+            {
+              "question": "farklı staj türleri kim tarafından belirlenir?",
+              "answers": [
+                {
+                  "text": "bölüm kurulları tarafından.",
+                  "answer_start": 157
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- (2) stajyerler, kusurları nedeni ile verecekleri zararlardan dolayı o işyeri elemanlarının sorumluluklarına tabidir.",
+          "qas": [
+            {
+              "question": "stajyerlerin verdikleri zararlardan kim sorumludur?",
+              "answers": [
+                {
+                  "text": "i̇şyeri elemanlarının sorumluluklarına tabidir.",
+                  "answer_start": 80
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (6) gönüllü staj değerlendirmeleri sadece ilgili firma tarafından doldurulmuş olan 'gönüllü staj değerlendirme belgesi' ile değerlendirilir.",
+          "qas": [
+            {
+              "question": "gönüllü stajlar nasıl değerlendirilir?",
+              "answers": [
+                {
+                  "text": "sadece firma tarafından doldurulmuş olan 'gönüllü staj değerlendirme belgesi' ile.",
+                  "answer_start": 45
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- (3) yatay ve dikey geçiş sınavı ile fakültemizde öğrenim görmeye hak kazanan intibak öğrencilerinin daha önce almış oldukları eğitim nedeniyle temel stajdan muafiyetleri, ilgili bölümün intibak komisyonunca değerlendirilerek karara bağlanır.",
+          "qas": [
+            {
+              "question": "yatay ve dikey geçiş yapan öğrencilerin staj muafiyeti kim tarafından değerlendirilir?",
+              "answers": [
+                {
+                  "text": "i̇lgili bölümün intibak komisyonunca.",
+                  "answer_start": 179
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 18- (1) bu yönerge gebze teknik üniversitesi rektörlüğünce yürütülür.",
+          "qas": [
+            {
+              "question": "yönergeyi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörlüğü.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (2) 15 günlük ek sürenin sonunda staj komisyonu, eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır, bu değerlendirme sonunda öğrencinin yapmış olduğu staj kabul veya reddedilir.",
+          "qas": [
+            {
+              "question": "i̇kinci değerlendirme sonucunda staj için kaç seçenek vardır?",
+              "answers": [
+                {
+                  "text": "bu değerlendirme sonunda öğrencinin yapmış olduğu staj kabul veya reddedilir.",
+                  "answer_start": 143
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (8) staj yeri bulma ve staj yapacağı kurumun staja başlama gereklerini yerine getirme sorumluluğu öğrenciye aittir. öğrencilerin bulup önerdiği staj yerinin uygun olup olmadığına, bölüm staj komisyonu karar verir.",
+          "qas": [
+            {
+              "question": "staj yeri bulma sorumluluğu kime aittir ve uygunluğuna kim karar verir?",
+              "answers": [
+                {
+                  "text": "staj yeri bulma sorumluluğu öğrenciye aittir ve uygunluğuna bölüm staj komisyonu karar verir.",
+                  "answer_start": 189
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "Gebze Teknik Üniversitesi Yönetmelik",
+      "paragraphs": [
+        {
+          "context": "MADDE 1 – (1) Bu Yönetmeliğin amacı; Gebze Teknik Üniversitesine bağlı fakültelerde yürütülen lisans düzeyinde ve meslek yüksekokullarında yürütülen ön lisans düzeyinde eğitim-öğretim esaslarına ilişkin hususları düzenlemektir.",
+          "qas": [
+            {
+              "question": "Bu yönetmeliğin amacı nedir?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesine bağlı fakültelerde yürütülen lisans düzeyinde ve meslek yüksekokullarında yürütülen ön lisans düzeyinde eğitim-öğretim esaslarına ilişkin hususları düzenlemektir.",
+                  "answer_start": 39
+                }
+              ],
+              "id": 1
+            }
+          ]
+        },
+        {
+          "context": "MADDE 3 – (1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır.",
+          "qas": [
+            {
+              "question": "Bu yönetmelik hangi kanuna dayanılarak hazırlanmıştır?",
+              "answers": [
+                {
+                  "text": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve 44 üncü maddelerine dayanılarak hazırlanmıştır.",
+                  "answer_start": 14
+                }
+              ],
+              "id": 2
+            }
+          ]
+        },
+        {
+          "context": "MADDE 4 – (1) Bu Yönetmelikte geçen; a) AKTS: Avrupa Kredi Transfer Sistemini,",
+          "qas": [
+            {
+              "question": "AKTS nedir?",
+              "answers": [
+                {
+                  "text": "Avrupa Kredi Transfer Sistemini",
+                  "answer_start": 34
+                }
+              ],
+              "id": 3
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5– (1) Öğrenci adayları, ÖSYM kılavuzunda belirtilen şartlarda ve tarihlerde kayıt işlemlerini yaptırır.",
+          "qas": [
+            {
+              "question": "Öğrenci adayları kayıt işlemlerini nasıl yaptırabilirler?",
+              "answers": [
+                {
+                  "text": "ÖSYM kılavuzunda belirtilen şartlarda ve tarihlerde yaptırır.",
+                  "answer_start": 26
+                }
+              ],
+              "id": 4
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5– (4) Kayıt olan öğrenciler, Üniversite tarafından düzenlenen ve tarihi ilan edilen İngilizce seviye tespit sınavına alınırlar.",
+          "qas": [
+            {
+              "question": "İngilizce yeterlik sınavına kimler girebilir?",
+              "answers": [
+                {
+                  "text": "Kayıt olan öğrenciler",
+                  "answer_start": 10
+                }
+              ],
+              "id": 5
+            }
+          ]
+        },
+        {
+          "context": "MADDE 6– (1) 2547 sayılı Kanunun 46 ncı maddesi ve ilgili diğer mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir.",
+          "qas": [
+            {
+              "question": "Öğrenci katkı payı ne zaman ödenir?",
+              "answers": [
+                {
+                  "text": "Dönem başlarında akademik takvimde belirtilen tarihlerde",
+                  "answer_start": 127
+                }
+              ],
+              "id": 6
+            }
+          ]
+        },
+        {
+          "context": "MADDE 7– (1) Üniversite içinden veya dışından yapılacak her türlü yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yürütülür.",
+          "qas": [
+            {
+              "question": "Yatay geçişler hangi yönetmelik hükümlerine göre yürütülür?",
+              "answers": [
+                {
+                  "text": "24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan yönetmelik hükümlerine göre",
+                  "answer_start": 91
+                }
+              ],
+              "id": 7
+            }
+          ]
+        },
+        {
+          "context": "MADDE 8 – (1) Her öğrenci için Senato tarafından çıkarılan yönergeye göre danışman atanır. Danışmanlık süreci bu yönerge esasları çerçevesinde mezuniyete kadar yürütülür.",
+          "qas": [
+            {
+              "question": "Danışmanlık süreci nasıl yürütülür?",
+              "answers": [
+                {
+                  "text": "Senato tarafından çıkarılan yönerge esasları çerçevesinde mezuniyete kadar",
+                  "answer_start": 61
+                }
+              ],
+              "id": 8
+            }
+          ]
+        },
+        {
+          "context": "MADDE 9 – (1) Kesin kayıtlarını yaptıran öğrencilere, Üniversite tarafından öğrenci olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+          "qas": [
+            {
+              "question": "Öğrencilere kimlik kartı ne zaman verilir?",
+              "answers": [
+                {
+                  "text": "Kesin kayıtlarını yaptıran öğrencilere",
+                  "answer_start": 20
+                }
+              ],
+              "id": 9
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Öğretim yılı, güz ve bahar yarıyıllarından oluşur.",
+          "qas": [
+            {
+              "question": "Eğitim-öğretim yılı kaç yarıyıldan oluşur?",
+              "answers": [
+                {
+                  "text": "Güz ve bahar yarıyıllarından",
+                  "answer_start": 24
+                }
+              ],
+              "id": 10
+            }
+          ]
+        },
+        {
+          "context": "MADDE 12 – (1) Derslerin kredi değerleri bölümlerin teklifi üzerine ilgili kurullarda onaylandıktan sonra Senato tarafından belirlenir.",
+          "qas": [
+            {
+              "question": "Ders kredileri nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "Bölümlerin teklifi üzerine ilgili kurullarda onaylandıktan sonra Senato tarafından",
+                  "answer_start": 50
+                }
+              ],
+              "id": 11
+            }
+          ]
+        },
+        {
+          "context": "MADDE 13 – (2) Öğretim planları; ilgili bölümün önerisi, ilgili kurullar ve Senato kararı ile belirlenir ve güncellenebilir.",
+          "qas": [
+            {
+              "question": "Öğretim planları nasıl güncellenebilir?",
+              "answers": [
+                {
+                  "text": "İlgili bölümün önerisi, ilgili kurullar ve Senato kararı ile",
+                  "answer_start": 18
+                }
+              ],
+              "id": 12
+            }
+          ]
+        },
+        {
+          "context": "MADDE 14 – (1) İngilizce hazırlık programında geçirilen süre hariç, Üniversitedeki lisans eğitim-öğretim programları sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+          "qas": [
+            {
+              "question": "Eğitim-öğretim süresi ne kadardır?",
+              "answers": [
+                {
+                  "text": "Sekiz yarıyıl, azami bitirme süresi yedi yıl",
+                  "answer_start": 85
+                }
+              ],
+              "id": 13
+            }
+          ]
+        },
+        {
+          "context": "MADDE 15 – (1) Bir dersin ön ve eş şartı; ilgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve Senato kararı ile belirlenir.",
+          "qas": [
+            {
+              "question": "Bir dersin ön ve eş şartı nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "İlgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve Senato kararı ile",
+                  "answer_start": 34
+                }
+              ],
+              "id": 14
+            }
+          ]
+        },
+        {
+          "context": "MADDE 16 -(1) Lisans öğrencilerinin yarıyıllık asgari kredi yükü 20 AKTS’dir.",
+          "qas": [
+            {
+              "question": "Lisans öğrencilerinin yarıyıllık asgari kredi yükü nedir?",
+              "answers": [
+                {
+                  "text": "20 AKTS",
+                  "answer_start": 58
+                }
+              ],
+              "id": 15
+            }
+          ]
+        },
+        {
+          "context": "MADDE 17 – (1) Akademik takvimde belirlenen tarihlerde ders seçimi yaparak kayıt yenileyen öğrenciler, akademik takvimdeki ders ekleme-çıkarma günleri içerisinde...",
+          "qas": [
+            {
+              "question": "Ders ekleme-çıkarma işlemleri ne zaman yapılır?",
+              "answers": [
+                {
+                  "text": "Akademik takvimdeki ders ekleme-çıkarma günleri içerisinde",
+                  "answer_start": 86
+                }
+              ],
+              "id": 16
+            }
+          ]
+        },
+        {
+          "context": "MADDE 18– (1) Bitirme çalışması, ön lisans programlarında üçüncü ve/veya dördüncü yarıyıl, lisans programlarında yedinci ve/veya sekizinci yarıyıl dersi olarak yer alır.",
+          "qas": [
+            {
+              "question": "Bitirme çalışması hangi yarıyıllarda yer alır?",
+              "answers": [
+                {
+                  "text": "Ön lisans programlarında üçüncü ve/veya dördüncü yarıyıl, lisans programlarında yedinci ve/veya sekizinci yarıyıl",
+                  "answer_start": 20
+                }
+              ],
+              "id": 17
+            }
+          ]
+        },
+        {
+          "context": "MADDE 19– (1) Kayıtlı öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle...",
+          "qas": [
+            {
+              "question": "Yarıyıl izni hangi durumlarda verilir?",
+              "answers": [
+                {
+                  "text": "Sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle",
+                  "answer_start": 19
+                }
+              ],
+              "id": 18
+            }
+          ]
+        },
+        {
+          "context": "MADDE 20– (2) Değişim programları ilgili mevzuat hükümleri çerçevesinde Senato tarafından belirlenen esaslara göre yürütülür.",
+          "qas": [
+            {
+              "question": "Değişim programları nasıl yürütülür?",
+              "answers": [
+                {
+                  "text": "İlgili mevzuat hükümleri çerçevesinde Senato tarafından belirlenen esaslara göre",
+                  "answer_start": 36
+                }
+              ],
+              "id": 19
+            }
+          ]
+        },
+        {
+          "context": "MADDE 21– (5) Yaz öğretimi, 7/3/2021 tarihli ve 31416 sayılı Resmî Gazete’de yayımlanan Gebze Teknik Üniversitesi Yaz Öğretimi Yönetmeliği çerçevesinde gerçekleştirilir.",
+          "qas": [
+            {
+              "question": "Yaz öğretimi hangi yönetmelik çerçevesinde gerçekleştirilir?",
+              "answers": [
+                {
+                  "text": "7/3/2021 tarihli ve 31416 sayılı Resmî Gazete’de yayımlanan Gebze Teknik Üniversitesi Yaz Öğretimi Yönetmeliği çerçevesinde",
+                  "answer_start": 19
+                }
+              ],
+              "id": 20
+            }
+          ]
+        },
+        {
+          "context": "MADDE 22– (1) Derslerin işlenişi, devam durumu, değerlendirme ölçütleri ve içeriği yarıyıl başında ilgili öğretim elemanı tarafından hazırlanan ders bilgi formu ile öğrencilere duyurulur.",
+          "qas": [
+            {
+              "question": "Ders bilgi formu ne zaman duyurulur?",
+              "answers": [
+                {
+                  "text": "Yarıyıl başında",
+                  "answer_start": 93
+                }
+              ],
+              "id": 21
+            }
+          ]
+        },
+        {
+          "context": "MADDE 23– (1) Teorik derslerde en az %70, laboratuvar ve uygulamalı derslerde en az %80 devam zorunluluğu aranır.",
+          "qas": [
+            {
+              "question": "Teorik derslerde devam zorunluluğu nedir?",
+              "answers": [
+                {
+                  "text": "En az %70",
+                  "answer_start": 25
+                }
+              ],
+              "id": 22
+            }
+          ]
+        },
+        {
+          "context": "MADDE 24– (1) Öğrencinin bir dersteki başarısı, ders bilgi formunda belirtilen değerlendirme ölçütlerine göre belirlenir.",
+          "qas": [
+            {
+              "question": "Ders değerlendirme ölçütleri nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "Ders bilgi formunda belirtilen değerlendirme ölçütlerine göre",
+                  "answer_start": 51
+                }
+              ],
+              "id": 23
+            }
+          ]
+        },
+        {
+          "context": "MADDE 25– (4) Resmî tatil günlerinde sınav yapılmaz.",
+          "qas": [
+            {
+              "question": "Sınavlar hangi günlerde yapılmaz?",
+              "answers": [
+                {
+                  "text": "Resmî tatil günlerinde",
+                  "answer_start": 22
+                }
+              ],
+              "id": 24
+            }
+          ]
+        },
+        {
+          "context": "MADDE 26– (1) Öğrencilere verilen notlar ve işaretler aşağıda gösterilmiştir: a) EX (Muaf), b) NA (Devamsız-başarısız), c) NC (Kredisiz/ortalama dışı), ç) S (Yeterli), d) U (Yetersiz), e) VF (Yetersiz-başarısız)",
+          "qas": [
+            {
+              "question": "Öğrencilere verilen notlar ve işaretler nelerdir?",
+              "answers": [
+                {
+                  "text": "EX (Muaf), NA (Devamsız-başarısız), NC (Kredisiz/ortalama dışı), S (Yeterli), U (Yetersiz), VF (Yetersiz-başarısız)",
+                  "answer_start": 56
+                }
+              ],
+              "id": 25
+            }
+          ]
+        },
+        {
+          "context": "MADDE 27– (1) Bir dersi başarı ile tamamlamak için o dersten CC ve üstü veya S notu almak gerekir.",
+          "qas": [
+            {
+              "question": "Bir dersi başarı ile tamamlamak için hangi notlar alınmalıdır?",
+              "answers": [
+                {
+                  "text": "CC ve üstü veya S notu",
+                  "answer_start": 49
+                }
+              ],
+              "id": 26
+            }
+          ]
+        },
+        {
+          "context": "MADDE 28– (1) Öğrenci, yarıyıl içi sınav sonuçlarına, notun ilan edilmesinden itibaren 5 iş günü içerisinde ilgili bölüm başkanlığına yazılı olarak başvurup itiraz edebilir.",
+          "qas": [
+            {
+              "question": "Not itirazı nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "Notun ilan edilmesinden itibaren 5 iş günü içerisinde ilgili bölüm başkanlığına yazılı olarak",
+                  "answer_start": 64
+                }
+              ],
+              "id": 27
+            }
+          ]
+        },
+        {
+          "context": "MADDE 29– (1) Haklı ve geçerli nedenlerle sınavlarına giremeyen öğrencilere, ilgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte kullanılmak üzere mazeret sınav hakkı verilir.",
+          "qas": [
+            {
+              "question": "Mazeret sınavı hakkı nasıl verilir?",
+              "answers": [
+                {
+                  "text": "İlgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte",
+                  "answer_start": 66
+                }
+              ],
+              "id": 28
+            }
+          ]
+        },
+        {
+          "context": "MADDE 30– (1) Ağırlıklı yarıyıl not ortalaması, öğrencinin belirli bir yarıyılda aldığı derslerin kredilerinin 4’lük sistemdeki notları ile çarpılması sonucu elde edilecek sayılar toplamının başarı notu EX, NC, S, U olan dersler hariç krediler toplamına bölünmesi ile bulunacak değerdir.",
+          "qas": [
+            {
+              "question": "Ağırlıklı yarıyıl not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "Derslerin kredilerinin 4’lük sistemdeki notları ile çarpılması sonucu elde edilecek sayılar toplamının, başarı notu EX, NC, S, U olan dersler hariç krediler toplamına bölünmesi ile",
+                  "answer_start": 72
+                }
+              ],
+              "id": 29
+            }
+          ]
+        },
+        {
+          "context": "MADDE 31– (1) Kayıtlı olduğu sekiz dönem içinde mezun olan ve genel not ortalaması 3,00-3,49 arasında olan öğrenciler onur öğrencisi olarak mezun olurlar.",
+          "qas": [
+            {
+              "question": "Onur öğrencisi kimlerdir?",
+              "answers": [
+                {
+                  "text": "Kayıtlı olduğu sekiz dönem içinde mezun olan ve genel not ortalaması 3,00-3,49 arasında olan öğrenciler",
+                  "answer_start": 18
+                }
+              ],
+              "id": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

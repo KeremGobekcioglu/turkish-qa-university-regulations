@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0002 Önlisans-Lisans İngilizce Hazırlık Eğitim-Öğretim ve Sınav Yönergesi R7",
+      "paragraphs": [
+        {
+          "context": "madde 1. (1) gebze teknik üniversitesi'nde (gtü) önlisans-lisans ingilizce hazırlık eğitim-öğretiminin amacı, öğrencilere kendilerini ingilizce dilinde yazılı ve sözlü olarak ifade edebilecek, bilimsel- teknik gelişmeleri ve ingilizce yayınları izleyebilecek düzeyde bilgi ve beceri kazandırmaktır.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "i̇ngilizce hazırlık eğitiminin amacı nedir?",
+              "answers": [
+                {
+                  "text": "öğrencilere kendilerini ingilizce dilinde yazılı ve sözlü olarak ifade edebilecek, bilimsel- teknik gelişmeleri ve ingilizce yayınları izleyebilecek düzeyde bilgi ve beceri kazandırmaktır",
+                  "answer_start": 110
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 2. (1) bu yönerge, 23.03.2016 tarih ve 29662 sayılı resmi gazete'de yayımlanan yükseköğretim kurumlarında yabancı dil öğretimi ve yabancı dille öğretim yapılmasında uyulacak esaslara ilişkin yönetmelik çerçevesinde, gtü'de önlisans-lisans öncesi ingilizce dili hazırlık sınıfında yürütülen eğitim ve öğretim ile uygulanacak sınavlara ilişkin hükümleri kapsar.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "bu yönerge neyi kapsar?",
+              "answers": [
+                {
+                  "text": "gtü'de önlisans-lisans öncesi ingilizce dili hazırlık sınıfında yürütülen eğitim ve öğretim ile uygulanacak sınavlara ilişkin hükümleri",
+                  "answer_start": 222
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 4. (1) öliys'de 100 tam puan üzerinden en az 60 (cc) alan öğrenciler, kayıt oldukları programlarda ingilizce eğitimi ve öğretimi takip edebilmeleri için yeterli kabul edilir.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "öli̇ys'de başarılı sayılmak için en az kaç puan gerekir?",
+              "answers": [
+                {
+                  "text": "100 tam puan üzerinden en az 60 (cc)",
+                  "answer_start": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 6. (1) öliys, iki yıl geçerlidir.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "öli̇ys sınavı kaç yıl geçerlidir?",
+              "answers": [
+                {
+                  "text": "iki yıl",
+                  "answer_start": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 7. (1) hazırlık programına alınan öğrenciler, dil beceri düzeylerinin saptanabilmesi için yerleştirme sınavına alınarak düzeylerine göre kurlara ve her kur için sınıflara ayrılırlar.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "öğrenciler hazırlık programında nasıl gruplandırılır?",
+              "answers": [
+                {
+                  "text": "dil beceri düzeylerinin saptanabilmesi için yerleştirme sınavına alınarak düzeylerine göre kurlara ve her kur için sınıflara ayrılırlar",
+                  "answer_start": 52
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (1) hazırlık öğretimi güz ve bahar olmak üzere iki yarıyıldan oluşur ve gtü senatosunca akademik takvimle belirlenir.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "hazırlık öğretimi nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "gtü senatosunca akademik takvimle",
+                  "answer_start": 81
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 9. (1) ydb ingilizce hazırlık derslerine her bir kur için % 85 devam zorunluluğu vardır.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "i̇ngilizce hazırlık derslerinde devam zorunluluğu yüzde kaçtır?",
+              "answers": [
+                {
+                  "text": "% 85",
+                  "answer_start": 64
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 10. (1) haklı ve geçerli nedenlerle ara sınavlara giremeyen öğrencilere, ydb kararı ile ve aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte kullanılmak üzere mazeret sınav hakkı verilir.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "mazeret sınavı hakkı nasıl verilir?",
+              "answers": [
+                {
+                  "text": "ydb kararı ile ve aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte",
+                  "answer_start": 79
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 10. (1) öğrencilerin yarıyıl mazeret sınavına girebilmeleri için; sınav tarihinden itibaren 5 iş günü içerisinde mazeret dilekçelerini bağlı oldukları ydb başkanlığına teslim etmeleri gerekir.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "mazeret sınavına girmek için kaç gün içinde dilekçe verilmelidir?",
+              "answers": [
+                {
+                  "text": "5 iş günü",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 11. (1) öğrenciler sınav sonuçlarının ilanından sonra, dönem içi sınavları ve öliys için en geç 3 (üç) iş günü içinde yazılı olarak yabancı diller bölüm başkanlığına başvurarak sınav kâğıtlarının ve başarı değerlendirmesinin yeniden incelenmesini isteyebilir.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "sınav sonuçlarına itiraz süresi ne kadardır?",
+              "answers": [
+                {
+                  "text": "3 (üç) iş günü",
+                  "answer_start": 102
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (2) bahar dönemi sonu itibari ile akademik dönem bitiminde yapılan öliys'ye katılabilmek için, öğrencilerin güz ve bahar dönemlerinde uygulanacak sınavların ortalamasının 100 üzerinden 65 olması gerekir.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "öli̇ys'ye katılabilmek için sınav ortalaması kaç olmalıdır?",
+              "answers": [
+                {
+                  "text": "100 üzerinden 65",
+                  "answer_start": 180
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (2) mazeretsiz sınava katılmayan öğrencilere değerlendirme notu sıfır verilir.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "mazeretsiz sınava katılmayan öğrencilere ne verilir?",
+              "answers": [
+                {
+                  "text": "değerlendirme notu sıfır",
+                  "answer_start": 54
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 13. (1) bu yönerge üniversite senatosu'nda kabul edildiği tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "bu yönerge ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "üniversite senatosu'nda kabul edildiği tarihte",
+                  "answer_start": 25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 14. (1) bu yönerge hükümlerini gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "bu yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü",
+                  "answer_start": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (1) ydb başkanlığı, her bir kurun haftalık ders programını dönem başlarında belirler.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "haftalık ders programı ne zaman belirlenir?",
+              "answers": [
+                {
+                  "text": "dönem başlarında",
+                  "answer_start": 68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (2) güz döneminde uygulanacak sınavların ortalaması 65 ve üzeri olan öğrenciler güz döneminde yapılacak olan öliys'ye girmeye hak kazanır.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "güz dönemi öli̇ys sınavına girmek için gereken ortalama nedir?",
+              "answers": [
+                {
+                  "text": "65 ve üzeri",
+                  "answer_start": 61
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 9. (1) ydb başkanlığınca kabul edilen bir mazereti olmaksızın devam şartını yerine getirmeyen öğrencilerin, bulundukları sınıfla ilişikleri kesilir ve hazırlık programı sınavlarına katılamazlar.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "devam şartını yerine getirmeyen öğrencilere ne olur?",
+              "answers": [
+                {
+                  "text": "bulundukları sınıfla ilişikleri kesilir ve hazırlık programı sınavlarına katılamazlar",
+                  "answer_start": 114
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 10. (2) final sınavları ile öliys için mazeret sınavı yapılmaz. ancak olağan üstü durumlarda (afet ve salgınlarda) ydb başkanlığı kararı ile ve ydb başkanlığının belirleyeceği gün ve saatte uygulanmak üzere final sınavları ile öliys için mazeret sınav hakkı verilir.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "hangi durumlarda final ve öli̇ys için mazeret sınavı yapılabilir?",
+              "answers": [
+                {
+                  "text": "olağan üstü durumlarda (afet ve salgınlarda)",
+                  "answer_start": 76
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 11. (1) sınav sonuçlarının yeniden değerlendirilebilmesi için yabancı diller bölüm başkanlığı tarafından sınav danışmanlarından oluşan bir komisyon kurulur.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "sınav sonuçlarının yeniden değerlendirilmesi için ne yapılır?",
+              "answers": [
+                {
+                  "text": "yabancı diller bölüm başkanlığı tarafından sınav danışmanlarından oluşan bir komisyon kurulur",
+                  "answer_start": 68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 11. (1) sonuç dilekçenin veriliş tarihinden itibaren en geç 5 (beş) iş günü içinde öğrenciye bildirilir. komisyon kararı kesindir.",
+          "qas": [
+            {
+              "id": "20",
+              "question": "sınav sonucuna itiraz değerlendirmesi kaç gün içinde bildirilir?",
+              "answers": [
+                {
+                  "text": "5 (beş) iş günü",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 7. (1) ilk iki hafta içerisinde ilgili öğretim elemanlarının talebi ve bölüm başkanlığının uygun görmesi halinde kurlar veya sınıflar arası değişim yapılabilir.",
+          "qas": [
+            {
+              "id": "21",
+              "question": "kurlar veya sınıflar arası değişim ne zaman yapılabilir?",
+              "answers": [
+                {
+                  "text": "ilk iki hafta içerisinde",
+                  "answer_start": 13
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (1) ydb başkanlığı, her kur içinde yapılan değerlendirme ölçütlerine göre kur başında öğrencilerin ders programlarını ve sınıflarını belirler.",
+          "qas": [
+            {
+              "id": "22",
+              "question": "ydb başkanlığı neye göre öğrencilerin ders programlarını ve sınıflarını belirler?",
+              "answers": [
+                {
+                  "text": "her kur içinde yapılan değerlendirme ölçütlerine göre",
+                  "answer_start": 29
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 9. (1) bir kur içinde devamsızlık limiti dolmayan öğrencinin kalan günleri sonraki kura aktarılmaz.",
+          "qas": [
+            {
+              "id": "23",
+              "question": "devamsızlık limiti dolmayan öğrencinin kalan günleri ne olur?",
+              "answers": [
+                {
+                  "text": "sonraki kura aktarılmaz",
+                  "answer_start": 81
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 5. (1) ingilizce hazırlık eğitimi sonunda öliys'ye girmeye hak kazanamayanlar, öliys sonucunda başarılı olamayanlar ve herhangi bir nedenle öliys'ye katılmayanlar için ingilizce hazırlık sınıfında tekrar edilen ikinci yıl derslere devam mecburiyeti aranmaz.",
+          "qas": [
+            {
+              "id": "24",
+              "question": "hazırlık sınıfını tekrar eden öğrenciler için ne zorunlu değildir?",
+              "answers": [
+                {
+                  "text": "derslere devam mecburiyeti",
+                  "answer_start": 228
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (2) ydb her akademik yılın başında öğrencilere sorumlu oldukları sınavları ve bu sınavların ağırlıklarını duyurur.",
+          "qas": [
+            {
+              "id": "25",
+              "question": "ydb ne zaman sınavları ve ağırlıklarını duyurur?",
+              "answers": [
+                {
+                  "text": "her akademik yılın başında",
+                  "answer_start": 17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (2) ydb başkanlığı program hedefleri doğrultusunda sınavların sayısı ve ağırlıklarını yıl içinde değiştirebilir.",
+          "qas": [
+            {
+              "id": "26",
+              "question": "ydb başkanlığı neyi yıl içinde değiştirebilir?",
+              "answers": [
+                {
+                  "text": "sınavların sayısı ve ağırlıklarını",
+                  "answer_start": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 10. (2) öğrencilerin final sınavları ile öliys için mazeret sınavına girebilmeleri için; sınav tarihinden itibaren 5 iş günü içerisinde mazeret dilekçelerini bağlı oldukları ydb başkanlığına teslim etmeleri gerekir.",
+          "qas": [
+            {
+              "id": "27",
+              "question": "final ve öli̇ys mazeret sınavı için dilekçe nereye teslim edilir?",
+              "answers": [
+                {
+                  "text": "ydb başkanlığına",
+                  "answer_start": 180
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 11. (1) öğrenciler sınav sonuçlarının ilanından sonra, dönem içi sınavları ve öliys için en geç 3 (üç) iş günü içinde yazılı olarak yabancı diller bölüm başkanlığına başvurarak sınav kâğıtlarının ve başarı değerlendirmesinin yeniden incelenmesini isteyebilir.",
+          "qas": [
+            {
+              "id": "28",
+              "question": "öğrenciler sınav sonuçları için nasıl itiraz edebilir?",
+              "answers": [
+                {
+                  "text": "yazılı olarak yabancı diller bölüm başkanlığına başvurarak",
+                  "answer_start": 124
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 8. (1) ancak ders kayıtları bitmeden önce senato tarafından kabul edilen şartlardan birini sağlayarak muafiyet aldıkları takdirde ilgili dönemden itibaren bölüm derslerine başlayabilirler.",
+          "qas": [
+            {
+              "id": "29",
+              "question": "öğrenciler hangi durumda bölüm derslerine başlayabilir?",
+              "answers": [
+                {
+                  "text": "senato tarafından kabul edilen şartlardan birini sağlayarak muafiyet aldıkları takdirde",
+                  "answer_start": 48
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "madde 11. (1) komisyon itiraz edilen sınav kâğıtlarını ve değerlendirme sonuçlarını yeniden inceler. sonuç dilekçenin veriliş tarihinden itibaren en geç 5 (beş) iş günü içinde öğrenciye bildirilir. komisyon kararı kesindir.",
+          "qas": [
+            {
+              "id": "30",
+              "question": "komisyonun verdiği karar nasıldır?",
+              "answers": [
+                {
+                  "text": "kesindir",
+                  "answer_start": 214
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

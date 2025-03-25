@@ -1,0 +1,165 @@
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+çi̇ft anadal programi (çap) yönergesi̇
+yö-0004
+doküman no
+yayın tarihi
+06.12.2017
+revizyon tarihi  04.01.2024
+revizyon no
+sayfa
+2
+3-1
+amaç
+madde  1-  (1)  çift  ana  dal  programının  (çap)  amacı,  ana  dal  ön  lisans  veya  lisans  programını  (öss  ile
+kazandığı bölüm) üstün başarıyla yürüten öğrencilerin aynı zamanda ikinci bir dalda (çift ana dal) ön lisans veya
+lisans diploması almak üzere öğrenim görmelerini sağlamaktır.
+çift ana dal programı açılması
+madde  2-  (1)  çift  ana  dal  programı  ön  lisans  diploma  programları  ile  diğer  ön  lisans  programları  arasında,
+lisans  programları  ile  diğer  lisans  programları  arasında  ilgili  bölüm  kurulunun  teklifi  ve  meslek  yüksekokulu
+kurulu  veya  fakülte  kurullarının  önerisi  ve  üniversite  senatosu’nun  onayı  ile  kesinleşir  ve  ilgili  bölümlerin  iş
+birliği ile yürütülür.
+kontenjan
+madde  3-  (1)  çap  kontenjanları  akademik  takvimde  belirtilen  başvuru  tarihlerinden  15  gün  önce  ilan  edilir.
+çift ana dal yapacak olan öğrencilerin kontenjanı, ana dal diploma programındaki genel not ortalaması en az 3.00
+olmak şartıyla, ana dal diploma programının ilgili sınıfında başarı sıralaması %20 oranından az olmamak üzere
+üniversite senatosunca belirlenir.
+başvuru ve kabul koşulları
+madde  4-  (1)  öğrenci  ilan  edilmiş  olan  çift  ana  dal  programına,  ana  dal  ön  lisans  için  2.  veya  3.  yarıyılın
+başında, ana dal lisans programının 3. veya 5. yarıyılın başında başvurabilir.
+(2)  öğrencinin başvurduğu döneme kadar ana dal ön lisans veya lisans programında alması gereken tüm kredili
+dersleri almış ve başarıyla tamamlamış olması gerekir.
+(3) öğrencinin  başvurusu  sırasındaki  genel  not  ortalamasının  en  az  3.00  olması  gereklidir.  ana  dal  diploma
+programının ilgili sınıfında başarı sıralaması itibari ile en üst %20 içinde bulunması gerekmektedir.
+(4) ana  dal  diploma  programındaki  genel  not  ortalaması  4.00  üzerinden  3.00  olan  ancak  ana  dal  diploma
+programının  ilgili  sınıfında  başarı  sıralaması  itibari  ile  en  üst  %20  de  yer  almayan  öğrencilerden  çift  ana  dal
+yapılacak  programın  ilgili  yıldaki  taban  puanından  az  olmamak  üzere  puana  sahip  olanlar  da  çift  ana  dal
+programına başvuru yapabilir.
+(5) başarı sıralaması şartı aranan programlarda çift ana dal yapmak isteyen öğrencinin, bu yönergede belirlenen
+diğer şartların yanı sıra kayıt olduğu yıldaki ilgili programın yükseköğretim kurulu tarafından belirlenen başarı
+sıralaması şartını sağlamış olması gerekir.
+(6) çift ana dal programına başvurular üniversite senatosunca belirlenen tarihte başvuru formu ve transkript ile
+çift ana dal programının yapıldığı bölümlere yapılır.
+değerlendirme
+madde  5-  (1)  başvurular,  adayların  genel  not  ortalaması,  farklı  puan  türlerindeki  programlara  geçiş  için
+merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak
+ve ayrılan kontenjana göre değerlendirilir. (eşit ortalama ve kontenjan fazlası hâlinde son dönemden itibaren not
+ortalamaları dikkate alınır).
+madde 6- (1) başvurularla ilgili ön değerlendirmeyi, ilgili yönetim kurulları tarafından bölümlerde oluşturulan
+komisyonlar yapar.
+öğrencilerin ikinci ana dal diploma programına kabulü, o programın yürütüldüğü ilgili bölümün önerisi üzerine
+fakülte yönetim kurulunun onayı ile yapılır.
+(2) çap için başvuruları kabul edilen öğrenciler, yedekleri ile birlikte kayıtlardan bir hafta önce ilan edilir. kabul
+edilen öğrenciler kayıt haftası içerisinde her iki ana dala da kayıt yaptırırlar.
+çift ana dal programı
+madde 7- (1) öğrencinin çift ana dal programındaki başarı/başarısızlık durumu, ana dal programındaki başarısı
+ve mezuniyetini hiçbir biçimde etkilemez. çift ana dal programı için ayrı transkript düzenlenir.
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+çi̇ft anadal programi (çap) yönergesi̇
+yö-0004
+doküman no
+yayın tarihi
+06.12.2017
+revizyon tarihi  04.01.2024
+revizyon no
+sayfa
+2
+3-2
+madde 8- (1) çift ana dal programı uygulayan bölümler, öğrenci kabul edecekleri diğer bölümler için ayrı ayrı
+çap ders programlarını bölüm kurulu kararı ile belirlerler. çift ana dal programı ön lisans programları için 60
+akts,  lisans  programları  için  120  akts  krediden  az  olamaz.  program,  fakülte  kurulu  tarafından  üniversite
+senatosuna  gönderilip  onaylandıktan  sonra  kesinleşir.  öğrenciler,  çift  ana  dal  programı  öğrenimleri  süresince
+öğrencisi bulundukları çift ana dal bölümünün öğretim planında bulunan derslere karşılık gelen toplam kredinin
+en az % 30 unun, %100 i̇ngilizce bölümlerde tamamını i̇ngilizce verilen derslerden almak zorundadır. çift ana dal
+programının  amacına  uygun  biçimde  yürütülmesini  sağlamak  üzere  ilgili  bölüm  başkanınca  bir  çift  ana  dal
+programı  koordinatörü  atanır.  çift  ana  dal  programı  koordinatörü  öğrencilerin  ana  dal  lisans  programı
+danışmanları ile iletişim içinde görev yapar.
+madde 9- (1) öğrenci, aynı anda birden fazla çift ana dal programına kayıt yaptıramaz. ancak, aynı anda çift
+ana dal diploma ile yan dal programına kayıt yapılabilir.
+başarı ve mezuniyet
+madde 10- (1) öğrencinin çift ana dal programından mezun olabilmesi için ana dal programındaki genel not
+ortalamasının en az 2,72 olması gerekir.
+madde 11- (1) tüm çift ana dal öğrenimi süresince öğrencinin ana dal programındaki genel not ortalaması bir
+defaya  mahsus  olmak  üzere  2,50’ye  kadar  düşebilir.  ana  dal  programındaki  genel  not  ortalaması  ikinci  kez
+2,72’nin altına düşen öğrencinin, ikinci ana dal (çap) diploma programından kaydı silinir.
+madde  12-  (1)  öğrenci  çift  ana  dal  programını,  ana  dal  ve  çift  ana  dal  programlarını  öğrenci  i̇şleri  daire
+başkanlığına yazılı olarak başvurmak yoluyla kendi isteği ile bırakabilir.
+(2) ana dal programında izinli sayılan öğrenci, otomatik olarak çift ana dal programında da izinli sayılır.
+madde  13-  (1)  çift  ana  dal  programından  iki  dönem  üst  üste  ders  almayan  öğrencinin  çift  ana  dal  diploma
+programından kaydı silinir.
+madde 14- (1) öğrenci çift ana dal programından ayrıldığında, başarısız olduğu çift ana dal programı derslerini
+tekrarlamak zorunda değildir.
+(2)  çift  ana  dal  programından  çıkarılan  öğrencilerin  ikinci  ana  dal  programında  almış  oldukları  derslerinin  ne
+şekilde  değerlendirileceği,  senato  tarafından  belirlenir.  öğrencinin  ana  dal  programında  kabul  edilmeyen  ikinci
+ana  dal  programında  başarılı  olduğu  dersler  genel  not  ortalamasına  dâhil  edilmeksizin  transkript  ve  diploma
+ekinde yer alır.
+madde 15- (1) çift ana dal programında hem ana dal hem de çift ana dala ait varsa bitirme çalışmaları ile varsa
+farklı türdeki pratik çalışmaların yapılması zorunludur.
+madde  16-  (1)  ana  dal  programında  mezuniyet  hakkını  elde  eden  ve  2,72  ortalaması  olan,  çift  ana  dal
+programını  en  az  2.00  ortalama  ile  tamamlayan  öğrenciye  çift  ana  dal  lisans  diploması  verilir.  i̇stek  üzerine
+diploma  hazırlanıncaya  kadar  öğrenciye  ilgili  fakülte  dekanının  ve  öğrenci  i̇şleri  daire  başkanının
+imzalarının  yer  aldığı  "geçici  mezuniyet  belgesi"  verilebilir.  çift  ana  dal  programından  mezuniyet  hakkını
+elde  eden  öğrenciye,  ana  dal  programından  mezuniyet  hakkını  elde  etmeden  çift  ana  dal  programının  lisans
+diploması verilmez.  çift ana  dal  programında  başarılı  olamayan, ancak  aynı  bölümde  açılmış  yan  dal  programı
+derslerini tamamlamış bulunan öğrenciye, “öğrencinin isteği hâlinde” yan dal sertifikası verilir.
+madde 17. (1) ana dal programından mezuniyet hakkını elde eden ancak çift ana dal programını bitiremeyen
+öğrencilerin öğrenim süresi ikinci ana dal programına kayıt yaptırdığı eğitim-öğretim yılından itibaren 2547 sayılı
+kanunun 44 üncü maddesinin ( c ) fıkrasında belirtilen azami süredir.
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-
+t.c.
+gebze tekni̇k üni̇versi̇tesi̇
+çi̇ft anadal programi (çap) yönergesi̇
+yö-0004
+doküman no
+yayın tarihi
+06.12.2017
+revizyon tarihi  04.01.2024
+revizyon no
+sayfa
+2
+3-3
+madde 18- (1) çap öğrenimi sırasında ana dal programından mezun olan öğrencinin öğrencilik işlemleri çift
+ana dal programına ait fakülte tarafından yürütülür.
+madde 19- (1) çap’a tabi olan öğrenciler, ana dal programından mezun oluncaya kadar sadece bu ana dala ait,
+mezun olduktan sonra ise sadece çift ana dal programına ait öğrenci katkı payını cezasız öderler. yüksek lisans
+programına kayıt oldukları takdirde ayrıca yüksek lisans öğrenci katkı payını da öderler.
+madde 20- (1) başka bir üniversitede veya yüksek teknoloji üniversitesinde çift ana dal programına kayıtlı olan
+bir öğrenci, kendi ana dalında üniversitemize yatay geçiş yaptığında; çift ana dal programında da öğrenci olmak
+istemesi hâlinde bu yönergenin hükümleri uygulanır.
+madde  21-  (1)  bu  yönergede  olmayan,  güncellenen  ve  tereddüde  düşülen  konularda  yükseköğretim  kurulu
+başkanlığı tarafından 24 nisan 2010 tarih ve 27561 sayılı resmî gazete’de yayınlanmış bulunan “yükseköğretim
+kurumlarında ön lisans ve lisans düzeyindeki programlar arasında geçiş, çift ana dal, yan dal ile kurumlar
+arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik” hükümleri geçerlidir.
+yürürlükten kaldırılan yönerge
+madde 22. (1) gtü senatosu’nun 28.07.2010 tarih ve 2010/18 oturum sayılı toplantısı kararı ile kabul edilen
+gebze teknik üniversitesi çift ana dal programı (çap) yönergesi yürürlükten kaldırılmıştır.
+yürürlük
+madde 23- (1) bu yönerge, gebze teknik üniversitesi senatosu’nda onaylandığı tarihte yürürlüğe girer.
+yürütme
+madde 24- (1) bu yönergeyi, gebze teknik üniversitesi rektörü yürütür.
+yönergenin görüşüldüğü senato kararı
+tarihi
+28.07.2010
+sayısı
+2010/18
+yönergede değişiklik yapan senato kararı
+sayısı
+tarihi
+2013/07
+13.02.2013
+2014/20
+29.05.2014
+2014/40
+24.12.2014
+2017/02
+02.02.2017
+2023/35
+21.12.2023
+1
+2
+3
+4
+5
+form no: fr-0356 yayın tarihi: 23.11.2017 değ.no:0 değ.tarihi:-

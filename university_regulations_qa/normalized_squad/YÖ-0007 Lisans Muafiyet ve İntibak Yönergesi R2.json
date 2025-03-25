@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0007 Lisans Muafiyet ve İntibak Yönergesi R2",
+      "paragraphs": [
+        {
+          "context": "madde 1 – bu yönergenin amacı, gebze teknik üniversitesi'ne yeni kayıt yaptıran öğrencilerin daha önce, uzaktan eğitim programları hariç, gebze teknik üniversitesi dâhil olmak üzere herhangi bir yükseköğretim kurumundan alıp başardığı derslerin muafiyet ve yarıyıl/yıl intibak işlemleri ile ilgili esasları belirlemektir.",
+          "qas": [
+            {
+              "question": "lisans muafiyet ve i̇ntibak yönergesi'nin amacı nedir?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi'ne yeni kayıt yaptıran öğrencilerin daha önce, uzaktan eğitim programları hariç, gebze teknik üniversitesi dâhil olmak üzere herhangi bir yükseköğretim kurumundan alıp başardığı derslerin muafiyet ve yarıyıl/yıl intibak işlemleri ile ilgili esasları belirlemektir.",
+                  "answer_start": 31
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 5 – a) başvurular, şahsen veya resmî vekiller tarafından elden yapılmalıdır.",
+          "qas": [
+            {
+              "question": "muafiyet başvuruları nasıl yapılmalıdır?",
+              "answers": [
+                {
+                  "text": "şahsen veya resmî vekiller tarafından elden yapılmalıdır.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 5 – c) öğrencinin başvurusunu takip eden 10 iş günü içerisinde muafiyet ve i̇ntibak komisyonu üyeleri, değerlendirme kararlarını açıklar.",
+          "qas": [
+            {
+              "question": "muafiyet ve intibak komisyonu değerlendirme kararlarını ne kadar sürede açıklar?",
+              "answers": [
+                {
+                  "text": "öğrencinin başvurusunu takip eden 10 iş günü içerisinde.",
+                  "answer_start": 13
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 5 – e) muafiyet için ilgili dersten başarılı olmak yeterlidir; öğrencilerin başarı derecesine bakılmaz.",
+          "qas": [
+            {
+              "question": "muafiyet için başarı derecesi önemli midir?",
+              "answers": [
+                {
+                  "text": "hayır, ilgili dersten başarılı olmak yeterlidir; öğrencilerin başarı derecesine bakılmaz.",
+                  "answer_start": 27
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – d) muafiyet ve intibak işlemleri not dönüşümüne göre gebze teknik üniversitesi'ndeki karşılığı cc ve üzeri olan derslerin intibakı yapılır.",
+          "qas": [
+            {
+              "question": "hangi notlara sahip derslerin intibakı yapılır?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi'ndeki karşılığı cc ve üzeri olan derslerin.",
+                  "answer_start": 63
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – k) muafiyet ve intibak işlemlerinin sonuçlarına yönelik itirazlar, işlemlerin kesinleşip öğrenciye bildirildiği tarihten itibaren en geç beş iş günü içinde ilgili birime yapılır.",
+          "qas": [
+            {
+              "question": "muafiyet ve intibak sonuçlarına itiraz süresi ne kadardır?",
+              "answers": [
+                {
+                  "text": "işlemlerin kesinleşip öğrenciye bildirildiği tarihten itibaren en geç beş iş günü içinde.",
+                  "answer_start": 77
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – l) muafiyet talebi ilgili yönetim kurulu tarafından karara bağlanıncaya kadar öğrenci, muafiyet talebinde bulunduğu ders/derslere devam etmekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "öğrenci muafiyet başvurusu sonuçlanana kadar ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "muafiyet talebinde bulunduğu ders/derslere devam etmekle yükümlüdür.",
+                  "answer_start": 97
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 7 – gebze teknik üniversitesi'ne kayıt yaptıran öğrencilerin hazırlık sınıfından muaf olabilmeleri için, o yılki akademik takvimde ilan edilen i̇ngilizce yeterlilik sınavında başarılı olmaları veya senato tarafından eşdeğerliği kabul edilen uluslararası sınavlardan geçerli puanı elde etmeleri gerekir.",
+          "qas": [
+            {
+              "question": "hazırlık sınıfından muaf olabilmek için hangi şartlar gereklidir?",
+              "answers": [
+                {
+                  "text": "o yılki akademik takvimde ilan edilen i̇ngilizce yeterlilik sınavında başarılı olmaları veya senato tarafından eşdeğerliği kabul edilen uluslararası sınavlardan geçerli puanı elde etmeleri gerekir.",
+                  "answer_start": 111
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – j) muaf derslerin kredi toplamı, ders programında gösterilen yarıyıl kredi yükünün %70'inden fazla ise öğrenci bir üst yarıyıla intibak ettirilir.",
+          "qas": [
+            {
+              "question": "öğrenci hangi durumda bir üst yarıyıla intibak ettirilir?",
+              "answers": [
+                {
+                  "text": "muaf derslerin kredi toplamı, ders programında gösterilen yarıyıl kredi yükünün %70'inden fazla ise.",
+                  "answer_start": 13
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – g) daha önce eşdeğer veya benzer bölümden bazı ders/dersleri alan, denkliği bölüm veya program başkanlığının önerisi ve birim yönetim kurulunca tanınarak muaf tutulan ders/derslerin muafiyet işlemlerinde harfli not muafiyeti uygulanır.",
+          "qas": [
+            {
+              "question": "muaf tutulan derslerin not değerlendirmesi nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "harfli not muafiyeti uygulanır.",
+                  "answer_start": 214
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – ı) i̇çerikleri üniversitelere göre değişmeyen türk dili, atatürk i̇lkeleri ve i̇nkılâp tarihi ile yabancı dil derslerinin kredili olup olmadığına bakılmaksızın dersleri almış ve yeterli başarıyı göstermiş öğrencinin muafiyet işlemleri yapılır.",
+          "qas": [
+            {
+              "question": "hangi derslerin muafiyetinde kredi şartı aranmaz?",
+              "answers": [
+                {
+                  "text": "türk dili, atatürk i̇lkeleri ve i̇nkılâp tarihi ile yabancı dil derslerinin.",
+                  "answer_start": 56
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – gebze teknik üniversitesi programlarından birinde kayıtlı iken, yök tarafından denkliği kabul edilen başka bir yükseköğretim kurumunun programlarında özel öğrenci statüsünde ders alan veya uluslararası değişim programları ile yurtdışında öğrenim gören üniversite öğrencileri için harf notları karşılıkları işlenir.",
+          "qas": [
+            {
+              "question": "özel öğrenci veya değişim programı öğrencilerinin notları nasıl işlenir?",
+              "answers": [
+                {
+                  "text": "harf notları karşılıkları işlenir.",
+                  "answer_start": 290
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – e) muafiyeti istenen dersin zorunlu veya seçmeli olması durumuna bakılmaksızın, başarılı olmuş olmak şartıyla, ders içeriği uyumu/yeterliliği, kredisi ve bölüm/program eşdeğerliliği dikkate alınarak karar verilir.",
+          "qas": [
+            {
+              "question": "lisans muafiyet ve i̇ntibak yönergesi'ne göre ders muafiyetinde hangi kriterler dikkate alınır?",
+              "answers": [
+                {
+                  "text": "ders içeriği uyumu/yeterliliği, kredisi ve bölüm/program eşdeğerliliği.",
+                  "answer_start": 121
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – f) öğrencinin daha önce öğrenim gördüğü iki farklı yükseköğretim kurumundan sonuncusu tarafından muafiyet verilen ders/derslerden muaf olmak istemesi durumunda, son yükseköğretim kurumundaki ders içerikleri esas alınır.",
+          "qas": [
+            {
+              "question": "iki farklı kurumdan alınan derslerin muafiyetinde hangi kurumun ders içerikleri esas alınır?",
+              "answers": [
+                {
+                  "text": "son yükseköğretim kurumundaki ders içerikleri esas alınır.",
+                  "answer_start": 171
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 11 – bu yönerge, gebze teknik üniversitesi senatosunda kabul edildiği tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "lisans muafiyet ve i̇ntibak yönergesi ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosunda kabul edildiği tarihte.",
+                  "answer_start": 23
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 12 – bu yönergeyi gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "question": "lisans muafiyet ve i̇ntibak yönergesi'ni kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü yürütür.",
+                  "answer_start": 24
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 5 – b) başvuru işlemi öğrencilerin, daha önce öğrenim gördüğü yükseköğretim kurumu tarafından onaylanmış ders içeriklerinin ve not döküm belgelerinin aslı ile birlikte ilgili birime sunmaları ile başlar.",
+          "qas": [
+            {
+              "question": "muafiyet başvurusu için hangi belgeler gereklidir?",
+              "answers": [
+                {
+                  "text": "daha önce öğrenim gördüğü yükseköğretim kurumu tarafından onaylanmış ders içeriklerinin ve not döküm belgelerinin aslı.",
+                  "answer_start": 42
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – a) muafiyet başvuruları, ilgili birim muafiyet ve i̇ntibak komisyonlarınca değerlendirilir ve ilgili birim yönetim kurullarınca karara bağlanır.",
+          "qas": [
+            {
+              "question": "muafiyet başvuruları nasıl değerlendirilir?",
+              "answers": [
+                {
+                  "text": "ilgili birim muafiyet ve i̇ntibak komisyonlarınca değerlendirilir ve ilgili birim yönetim kurullarınca karara bağlanır.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – c) yönetim kurulu kararlarında öğrencinin intibak ettirildiği sınıf, daha önce alınan dersin kodu, adı, kredisi ve başarı notu ile muaf olunan dersin adı, kodu, kredisi ve başarı notu belirtilir.",
+          "qas": [
+            {
+              "question": "yönetim kurulu kararlarında hangi bilgiler belirtilir?",
+              "answers": [
+                {
+                  "text": "öğrencinin intibak ettirildiği sınıf, daha önce alınan dersin kodu, adı, kredisi ve başarı notu ile muaf olunan dersin adı, kodu, kredisi ve başarı notu.",
+                  "answer_start": 41
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – h) dikey geçiş sınavı ile lisans programlarına yerleşen öğrencilerin önlisans programlarına kayıtlıyken aldıkları ve lisans programlarına dikey geçişleriyle muafiyet verilerek intibakı yapılan dersleri için harfli not muafiyeti uygulanır.",
+          "qas": [
+            {
+              "question": "dikey geçiş yapan öğrencilerin derslerinde nasıl bir muafiyet uygulanır?",
+              "answers": [
+                {
+                  "text": "harfli not muafiyeti uygulanır.",
+                  "answer_start": 217
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 8 – dikey geçiş sınavı ile lisans programlarına kayıt yaptırma hakkı kazanan öğrencilerin lisans programına başlayabilmeleri için, o yılki akademik takvimde ilan edilen i̇ngilizce yeterlilik sınavına girip başarılı olmaları veya senato tarafından eşdeğerliliği kabul edilen uluslararası sınavlardan geçerli puanı elde etmeleri gerekir.",
+          "qas": [
+            {
+              "question": "dikey geçiş yapan öğrenciler lisans programına başlayabilmek için hangi şartı sağlamalıdır?",
+              "answers": [
+                {
+                  "text": "o yılki akademik takvimde ilan edilen i̇ngilizce yeterlilik sınavına girip başarılı olmaları veya senato tarafından eşdeğerliliği kabul edilen uluslararası sınavlardan geçerli puanı elde etmeleri gerekir.",
+                  "answer_start": 137
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 9 – öğrencilerin diğer yükseköğretim kurumlarından alacağı derslerin, bu kurumlarda eğitime başlanmadan önce, ilgili birim yönetim kurulu kararıyla kabul edilmiş olması gerekir.",
+          "qas": [
+            {
+              "question": "başka kurumlardan ders almak isteyen öğrenciler ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "bu kurumlarda eğitime başlanmadan önce, ilgili birim yönetim kurulu kararıyla derslerin kabul edilmiş olması gerekir.",
+                  "answer_start": 154
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 10 – bu yönergede hüküm bulunmayan hallerde; ilgili diğer mevzuat hükümleri ile yök, senato ve ilgili birim yönetim kurulu kararları uygulanır.",
+          "qas": [
+            {
+              "question": "lisans muafiyet ve i̇ntibak yönergesi'nde hüküm bulunmayan hallerde ne yapılır?",
+              "answers": [
+                {
+                  "text": "ilgili diğer mevzuat hükümleri ile yök, senato ve ilgili birim yönetim kurulu kararları uygulanır.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – ı) başvuruda bulunan öğrencilerin not döküm belgelerinde ilgili dersler için not aralıkları bulunmadığı durumlarda, başarılmış olunan bu derslerin not dönüşümü cc olacak şekilde gerçekleştirilir.",
+          "qas": [
+            {
+              "question": "not aralıkları bulunmayan başarılı dersler için hangi not verilir?",
+              "answers": [
+                {
+                  "text": "cc olacak şekilde gerçekleştirilir.",
+                  "answer_start": 170
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – j) alınmayan/muafiyet verilmeyen dersler öncelikle alınmalıdır.",
+          "qas": [
+            {
+              "question": "hangi dersler öncelikle alınmalıdır?",
+              "answers": [
+                {
+                  "text": "alınmayan/muafiyet verilmeyen dersler.",
+                  "answer_start": 13
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 5 – e) öğrenciler, daha önce almış ve başarmış oldukları birden fazla derse karşılık muadil ders/derslerden muafiyet isteğinde bulunabilirler.",
+          "qas": [
+            {
+              "question": "öğrenciler kaç ders için muafiyet talebinde bulunabilir?",
+              "answers": [
+                {
+                  "text": "daha önce almış ve başarmış oldukları birden fazla derse karşılık muadil ders/derslerden muafiyet isteğinde bulunabilirler.",
+                  "answer_start": 25
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – e) birden fazla tekrarlanan dersler için en son alınan başarı notu esastır.",
+          "qas": [
+            {
+              "question": "tekrarlanan derslerde hangi not dikkate alınır?",
+              "answers": [
+                {
+                  "text": "en son alınan başarı notu esastır.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 6 – g) muaf tutulan ders/derslerin notları do, kdgo ve agno hesabında değerlendirmeye alınır.",
+          "qas": [
+            {
+              "question": "muaf tutulan derslerin notları hangi hesaplamalara dahil edilir?",
+              "answers": [
+                {
+                  "text": "do, kdgo ve agno hesabında değerlendirmeye alınır.",
+                  "answer_start": 49
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 5 – d) yök evrak tarih ve sayısı: 20.02.2024-e.141514 yazısında aşağıdaki ibare yer almaktadır: öğrencilerin daha önce aldıkları ve başarılı oldukları derslerin muafiyet işlemlerinde süre sınırlamasının olmamasına.",
+          "qas": [
+            {
+              "question": "ders muafiyetlerinde süre sınırlaması var mıdır?",
+              "answers": [
+                {
+                  "text": "hayır, öğrencilerin daha önce aldıkları ve başarılı oldukları derslerin muafiyet işlemlerinde süre sınırlaması yoktur.",
+                  "answer_start": 92
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "geçi̇ci̇ madde – bu yönergenin kabul tarihinden önce alınan muafiyet ve intibaklar hakkındaki senato kararları yürürlükten kaldırılmıştır.",
+          "qas": [
+            {
+              "question": "yönergenin kabul tarihinden önceki muafiyet ve intibak kararları için ne yapılmıştır?",
+              "answers": [
+                {
+                  "text": "senato kararları yürürlükten kaldırılmıştır.",
+                  "answer_start": 94
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

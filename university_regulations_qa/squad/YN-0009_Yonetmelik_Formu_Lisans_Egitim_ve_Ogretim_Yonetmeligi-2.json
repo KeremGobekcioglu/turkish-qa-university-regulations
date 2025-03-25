@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "Gebze Teknik Üniversitesi Yönetmeliği",
+      "paragraphs": [
+        {
+          "context": "MADDE 1 – (Değişik:RG-12/1/2015-29234) (1) Bu Yönetmeliğin amacı; Gebze Teknik Üniversitesinin fakülte ve bölümlerinde yürütülen lisans eğitim, öğretim ve sınavlarında uygulanacak esasları düzenlemektir.",
+          "qas": [
+            {
+              "id": 1,
+              "question": "Bu yönetmeliğin amacı nedir?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesinin fakülte ve bölümlerinde yürütülen lisans eğitim, öğretim ve sınavlarında uygulanacak esasları düzenlemektir.",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 2 – (Değişik:RG-12/1/2015-29234) (1) Bu Yönetmelik; Gebze Teknik Üniversitesinin fakülte ve bölümlerinde yürütülen lisans eğitim, öğretim ve sınavlara ilişkin hükümleri kapsar.",
+          "qas": [
+            {
+              "id": 2,
+              "question": "Bu yönetmelik neyi kapsar?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesinin fakülte ve bölümlerinde yürütülen lisans eğitim, öğretim ve sınavlara ilişkin hükümleri kapsar.",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 3 – (1) Bu Yönetmelik, 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesi ile 44 üncü maddesinin üçüncü fıkrasına dayanılarak hazırlanmıştır.",
+          "qas": [
+            {
+              "id": 3,
+              "question": "Bu yönetmelik hangi kanuna dayanılarak hazırlanmıştır?",
+              "answers": [
+                {
+                  "text": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü maddesi ile 44 üncü maddesinin üçüncü fıkrasına dayanılarak hazırlanmıştır.",
+                  "answer_start": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) (Değişik:RG-12/1/2015-29234) Üniversite fakültelerine ve bölümlerine girebilmek için, lisans öğrenimiyle ilgili Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak şarttır.",
+          "qas": [
+            {
+              "id": 4,
+              "question": "Üniversite fakültelerine girebilmek için hangi şartlar gereklidir?",
+              "answers": [
+                {
+                  "text": "Lisans öğrenimiyle ilgili Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) sınavını kazanmış olmak ve başka bir yükseköğretim kurumunda kayıtlı olmamak",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 6 – (1) Lisans öğrencileri, her öğretim yılında, ilgili mevzuatta belirlenen miktarda katkı payı öderler.",
+          "qas": [
+            {
+              "id": 5,
+              "question": "Lisans öğrencileri ne öderler?",
+              "answers": [
+                {
+                  "text": "İlgili mevzuatta belirlenen miktarda katkı payı",
+                  "answer_start": 58
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 9 – (1) (Değişik:RG-12/1/2015-29234) Her öğrenci için; Üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde ilgili bölüm başkanlığı tarafından bir öğretim üyesi veya öğretim görevlisi danışman olarak atanır.",
+          "qas": [
+            {
+              "id": 6,
+              "question": "Her öğrenci için ne zaman danışman atanır?",
+              "answers": [
+                {
+                  "text": "Üniversiteye ilk kaydolduğu kayıt döneminden sonraki ilk hafta içerisinde",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 10 – (Değişik:RG-12/1/2015-29234) Kesin kayıtlarını yaptıran öğrencilere, Rektörlük tarafından, Üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+          "qas": [
+            {
+              "id": 7,
+              "question": "Kesin kayıtlarını yaptıran öğrencilere ne verilir?",
+              "answers": [
+                {
+                  "text": "Rektörlük tarafından, Üniversite öğrencisi olduklarını belirten fotoğraflı bir kimlik kartı",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) (Değişik:RG-12/1/2015-29234) Üniversite içinden veya dışından fakültelere yapılacak her türlü yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan Yükseköğretim Kurumlarında Önlisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Anadal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine göre yürütülür.",
+          "qas": [
+            {
+              "id": 8,
+              "question": "Yatay geçişler hangi yönetmelik hükümlerine göre yürütülür?",
+              "answers": [
+                {
+                  "text": "24/4/2010 tarihli ve 27561 sayılı Resmî Gazete’de yayımlanan yönetmelik hükümlerine göre",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 12 – (1) Öğretim yılı, güz ve bahar yarıyıllarından oluşur. Güz ve bahar yarıyıllarının her birisinin normal süresi ondört haftadır.",
+          "qas": [
+            {
+              "id": 9,
+              "question": "Öğretim yılı kaç yarıyıldan oluşur?",
+              "answers": [
+                {
+                  "text": "Güz ve bahar yarıyıllarından",
+                  "answer_start": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 13 – (1) (Değişik:RG-12/1/2015-29234) İngilizce hazırlık programında geçirilen bir yıllık süre hariç, Üniversitedeki lisans eğitim-öğretim programları sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+          "qas": [
+            {
+              "id": 10,
+              "question": "Lisans eğitim-öğretim programlarının azami bitirme süresi nedir?",
+              "answers": [
+                {
+                  "text": "Yedi yıl",
+                  "answer_start": 128
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 14 – (1) (Değişik:RG-12/1/2015-29234) Üniversitenin fakülte ve bölümlerindeki öğretim, Yükseköğretim Kurulunca belirlenen ve Senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve Senato tarafından onaylanan öğretim planına göre yapılır.",
+          "qas": [
+            {
+              "id": 11,
+              "question": "Üniversitenin fakülte ve bölümlerindeki öğretim nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "Yükseköğretim Kurulunca belirlenen ve Senato tarafından kabul edilen ortak dersler göz önünde tutulmak ve bölümlerin görüşleri alınmak suretiyle, ilgili fakülte kurulunca kararlaştırılan ve Senato tarafından onaylanan öğretim planına göre",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 15 – (1) Bir dersin önşartı, ilgili bölümün önerisi ve fakülte kurulunun onayı ile belirlenir.",
+          "qas": [
+            {
+              "id": 12,
+              "question": "Bir dersin önşartı nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "İlgili bölümün önerisi ve fakülte kurulunun onayı ile",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 16 – (1) Her öğrenci bu Yönetmeliğin 13 üncü maddesindeki çalışmalara aşağıda belirtilen sınırlar içinde kalarak kayıt olur. Öğrencinin herhangi bir yarıyılda kredi yükü en çok 30’dur.",
+          "qas": [
+            {
+              "id": 13,
+              "question": "Bir öğrencinin herhangi bir yarıyılda kredi yükü en fazla ne kadardır?",
+              "answers": [
+                {
+                  "text": "30",
+                  "answer_start": 126
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 17 – (1) Öğrencinin, mezun olmadan önce istenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması zorunludur.",
+          "qas": [
+            {
+              "id": 14,
+              "question": "Öğrencinin mezun olmadan önce ne yapması zorunludur?",
+              "answers": [
+                {
+                  "text": "İstenen mesleki düzeye ulaştığını gösteren bir bitirme çalışması yapması",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 18 – (1) (Değişik:RG-5/6/2013-28668) Lisans eğitim ve öğretiminde, öğrencinin bir dersteki başarısı, derse devam ve sınav yöntemi ile belirlenir.",
+          "qas": [
+            {
+              "id": 15,
+              "question": "Lisans eğitim ve öğretiminde bir dersteki başarı nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "Derse devam ve sınav yöntemi ile",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 19 – (1) Ağırlıklı genel not ortalaması en az 2.00 olan bir öğrenci, bir dönemin sonunda; Yabancı Dil, Türkçe, Atatürk İlkeleri ve İnkılâp Tarihi, Beden Eğitimi, Müzik ve Resim gibi kültür derslerinin notları dikkate alınmadan hesaplanacak koşullu dönem not ortalamasının 2.00 olması durumunda ilgili dönemde DC ve DD ile başarısız olduğu derslerden de başarılı olmuş sayılır.",
+          "qas": [
+            {
+              "id": 16,
+              "question": "Koşullu dönem not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "Yabancı Dil, Türkçe, Atatürk İlkeleri ve İnkılâp Tarihi, Beden Eğitimi, Müzik ve Resim gibi kültür derslerinin notları dikkate alınmadan",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 20 – (1) Ağırlıklı yarıyıl not ortalaması, öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir.",
+          "qas": [
+            {
+              "id": 17,
+              "question": "Ağırlıklı yarıyıl not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "Öğrencinin belirli bir yarıyılda aldığı ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 21 – (1) Ağırlıklı genel not ortalaması, ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile bulunacak değerdir.",
+          "qas": [
+            {
+              "id": 18,
+              "question": "Ağırlıklı genel not ortalaması nasıl hesaplanır?",
+              "answers": [
+                {
+                  "text": "Ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerlerinin her birinden elde edilen başarı notu katsayısı ile o ders veya ayrı ders niteliğindeki laboratuvar, proje, atölye, seminer, bitirme çalışması ve benzerinden alınan kredilerin çarpılması ile elde edilecek sayılar toplamının, krediler toplamına bölünmesi ile",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 22 – (Değişik:RG-7/2/2013-28552) (1) Başarı notuna ilişkin esaslar şunlardır: a) Derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere %80 oranında devam zorunludur.",
+          "qas": [
+            {
+              "id": 19,
+              "question": "Derslere devam zorunluluğu nedir?",
+              "answers": [
+                {
+                  "text": "Derslere %70, laboratuvar ve atölye gibi bağımsız uygulamalı derslere %80 oranında",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 24 – (1) Mezuniyet sırasında genel not ortalaması 3.00 – 3.49 arasında olan öğrenciler onur öğrencisi, 3.50 ve üstü olanlar ise yüksek onur öğrencisi olarak mezun olurlar ve bu durum transkriptinde belirtilir.",
+          "qas": [
+            {
+              "id": 20,
+              "question": "Onur öğrencisi kimlerdir?",
+              "answers": [
+                {
+                  "text": "Genel not ortalaması 3.00 – 3.49 arasında olan öğrenciler",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 25 – (1) Bir yarıyıl sonunda, ağırlıklı genel not ortalaması 2.00 veya daha yukarı olan öğrenciler başarılı öğrenci sayılır.",
+          "qas": [
+            {
+              "id": 21,
+              "question": "Başarılı öğrenci kimdir?",
+              "answers": [
+                {
+                  "text": "Ağırlıklı genel not ortalaması 2.00 veya daha yukarı olan öğrenciler",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 26 – (1) (Değişik:RG-5/6/2013-28668) İkinci yarıyılın sonundan itibaren, herhangi bir yarıyıl sonunda, ağırlıklı genel not ortalaması 1.99 ve aşağı olan öğrenciler sınamalı öğrenci sayılır.",
+          "qas": [
+            {
+              "id": 22,
+              "question": "Sınamalı öğrenci kimdir?",
+              "answers": [
+                {
+                  "text": "Ağırlıklı genel not ortalaması 1.99 ve aşağı olan öğrenciler",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 27 – (1) Tüm öğrenciler başarısız oldukları dersleri tekrar etmek zorundadır.",
+          "qas": [
+            {
+              "id": 23,
+              "question": "Öğrenciler hangi dersleri tekrar etmek zorundadır?",
+              "answers": [
+                {
+                  "text": "Başarısız oldukları dersleri",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 28 – (Mülga:RG-23/10/2012-28450) (Yeniden düzenleme:RG-5/6/2013-28668)(Değişik:RG-12/1/2015-29234) Üniversite lisans öğrencileri daha önce almadıkları, alıp başarılı ya da başarısız oldukları dersleri, başka bir üniversitede açılan yaz öğretimi derslerinden ilgili fakülte yönetim kurulunun kararı ile alabilirler.",
+          "qas": [
+            {
+              "id": 24,
+              "question": "Yaz öğretimi dersleri nasıl alınabilir?",
+              "answers": [
+                {
+                  "text": "Başka bir üniversitede açılan yaz öğretimi derslerinden ilgili fakülte yönetim kurulunun kararı ile",
+                  "answer_start": 166
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 29 – (1) (Değişik:RG-12/1/2015-29234) Her yarıyılda derslerin bitmesini müteakip, Senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde o yarıyıldaki tüm derslere ait yarıyıl sonu/bütünleme sınavları yapılır.",
+          "qas": [
+            {
+              "id": 25,
+              "question": "Yarıyıl sonu sınavları ne zaman yapılır?",
+              "answers": [
+                {
+                  "text": "Senato tarafından belirlenen ve akademik takvimde ilan edilen tarihlerde",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 30 – (1) Yarıyıl sonu sınavları genelde yazılı, dersin niteliğine göre yazılı-sözlü veya yalnızca sözlü olarak da yapılabilir.",
+          "qas": [
+            {
+              "id": 26,
+              "question": "Yarıyıl sonu sınavları nasıl yapılabilir?",
+              "answers": [
+                {
+                  "text": "Genelde yazılı, dersin niteliğine göre yazılı-sözlü veya yalnızca sözlü olarak",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 31 – (1) Öğrenci, bir dersteki başarı durumu sonucuna, dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup itiraz edebilir.",
+          "qas": [
+            {
+              "id": 27,
+              "question": "Öğrenci sınav sonucuna nasıl itiraz edebilir?",
+              "answers": [
+                {
+                  "text": "Dersin başarı durumu listesinin ilan edilmesinden itibaren bir hafta içerisinde, dekanlığa yazılı olarak başvurup",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 32 – (1) Sınavlarda kopya çeken veya kopya çekmeye teşebbüs eden öğrenciye ilgili dersten FF notu verilir.",
+          "qas": [
+            {
+              "id": 28,
+              "question": "Kopya çeken öğrenciye ne notu verilir?",
+              "answers": [
+                {
+                  "text": "FF notu",
+                  "answer_start": 82
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 33 – (1) (Değişik fıkra:RG-12/1/2015-29234) Aşağıdaki hallerde öğrencinin Üniversite ile ilişiği kesilir: Kaydının silinmesini yazılı olarak istemiş olmak.",
+          "qas": [
+            {
+              "id": 29,
+              "question": "Öğrencinin Üniversite ile ilişiği hangi durumda kesilir?",
+              "answers": [
+                {
+                  "text": "Kaydının silinmesini yazılı olarak istemiş olmak",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 34 – (1) Bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu Yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan öğrenci, öğrenimini bitirmiş sayılır.",
+          "qas": [
+            {
+              "id": 30,
+              "question": "Öğrenci ne zaman öğrenimini bitirmiş sayılır?",
+              "answers": [
+                {
+                  "text": "Bağlı bulunduğu bölümün öğretim planında gösterilen tüm dersleri alarak başaran ve bu Yönetmelikte belirtilen stajlar dâhil bütün çalışmaları yapmış olan",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "exact_match": 1.694915254237288,
+  "f1_score": 39.0678135537127,
+  "detailed_results": [
+    {
+      "question": "zorunlu staj için gereken minimum süre kaç iş günüdür?",
+      "context": "madde 7- (1) gtü temel bilimler fakültesi lisans öğrencileri, öğretim planlarında staj dersi var ise öğrenimleri boyunca zorunlu stajlarını en az 40 iş günü yapmakla yükümlüdür.",
+      "predicted": "en az 40 iş günü yapmakla yükümlüdür.",
+      "actual": "en az 40 iş günü.",
+      "confidence": 3.5987229347229004,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "zorunlu staj kaç dönemde yapılabilir ve nasıl bölünebilir?",
+      "context": "madde 7- (2) zorunlu stajlar, tek dönemde (40 gün) veya iki dönemde (20 + 20 veya 25 + 15 gün) yapılabilir. stajını iki dönemde yapmak isteyen öğrenciler stajlarını tercihen iki ayrı yerde yapmalıdır.",
+      "predicted": "zorunlu staj kaç dönemde yapılabilir ve nasıl bölünebilir? madde 7 - ( 2 ) zorunlu stajlar, tek dönemde ( 40 gün ) veya iki dönemde ( 20 + 20 veya 25 + 15 gün ) yapılabilir. stajını iki dönemde yapmak isteyen öğrenciler stajlarını tercihen iki ayrı yerde yapmalıdır.",
+      "actual": "tek dönemde (40 gün) veya iki dönemde (20 + 20 veya 25 + 15 gün).",
+      "confidence": 3.1369986534118652,
+      "exact_match": 0,
+      "f1_score": 0.25396825396825395
+    },
+    {
+      "question": "i̇steğe bağlı staj için minimum süre ne kadardır?",
+      "context": "madde 7- (3) i̇steğe bağlı stajlar tek bir seferde en az 15 iş günü olmalıdır. bu süre altındakiler değerlendirilmez.",
+      "predicted": "en az 15 iş günü olmalıdır. bu süre altındakiler değerlendirilmez.",
+      "actual": "en az 15 iş günü.",
+      "confidence": 3.3435487747192383,
+      "exact_match": 0,
+      "f1_score": 0.5333333333333333
+    },
+    {
+      "question": "bir haftada maksimum kaç gün staj yapılabilir?",
+      "context": "madde 7- (7) resmi tatil ilan edilen günlerde staj yapılamaz (yurtdışında yapılan stajlar için o yerin resmi tatil günlerinde staj yapılamaz). bununla birlikte bir haftada en fazla 6 gün staj yapılabilir.",
+      "predicted": "o yerin resmi tatil günlerinde staj yapılamaz ). bununla birlikte bir haftada en fazla 6 gün staj yapılabilir.",
+      "actual": "en fazla 6 gün.",
+      "confidence": 3.1223480701446533,
+      "exact_match": 0,
+      "f1_score": 0.27272727272727276
+    },
+    {
+      "question": "staj belgeleri ne zamana kadar teslim edilmelidir?",
+      "context": "madde 12- staj ile ilgili defter ve belgelerin, stajı izleyen eğitim-öğretim yarıyılının ikinci haftası sonuna kadar dekanlığa ulaştırılması öğrencinin sorumluluğundadır.",
+      "predicted": "stajı izleyen eğitim - öğretim yarıyılının ikinci haftası sonuna kadar dekanlığa ulaştırılması öğrencinin sorumluluğundadır.",
+      "actual": "stajı izleyen eğitim-öğretim yarıyılının ikinci haftası sonuna kadar.",
+      "confidence": 3.5631377696990967,
+      "exact_match": 0,
+      "f1_score": 0.5454545454545454
+    },
+    {
+      "question": "stajda izin verilen maksimum mazeretsiz devamsızlık oranı nedir?",
+      "context": "madde 14- (3) öğrenciler, staj süresince mazeretsiz olarak staj süresinin %10'undan fazla devamsızlık yapamazlar.",
+      "predicted": "staj süresince mazeretsiz olarak staj süresinin % 10'undan fazla devamsızlık yapamazlar.",
+      "actual": "staj süresinin %10'u.",
+      "confidence": 3.1964869499206543,
+      "exact_match": 0,
+      "f1_score": 0.28571428571428575
+    },
+    {
+      "question": "staj evrakları için başvuru ne zaman yapılmalıdır?",
+      "context": "madde 8- (4) öğrenci, kabul belgesi ve eğer sigortalı ise bunun belgesi ile staj başlama tarihinden en az 15 gün önce dekanlığa başvurarak 'staj değerlendirme belgesi'ni ve fakülte tarafından onaylanmış staj defterini alır.",
+      "predicted": "dekanlığa başvurarak'staj değerlendirme belgesi'ni ve fakülte tarafından onaylanmış staj defterini alır.",
+      "actual": "staj başlama tarihinden en az 15 gün önce.",
+      "confidence": 3.4677019119262695,
+      "exact_match": 0,
+      "f1_score": 0.10526315789473685
+    },
+    {
+      "question": "staj değerlendirme sonuçları ne zaman bildirilir?",
+      "context": "madde 13- (1) staj evraklarının hepsi bölüm staj komisyonlarınca değerlendirilerek, sonuçları ilgiliye en geç başvurunun yapıldığı tarihten itibaren üçüncü hafta içerisinde bildirir.",
+      "predicted": "ilgiliye en geç başvurunun yapıldığı tarihten itibaren üçüncü hafta içerisinde bildirir.",
+      "actual": "en geç başvurunun yapıldığı tarihten itibaren üçüncü hafta içerisinde.",
+      "confidence": 3.1773204803466797,
+      "exact_match": 0,
+      "f1_score": 0.7999999999999999
+    },
+    {
+      "question": "staj komisyonu kaç yıl süreyle görevlendirilir ve minimum kaç kişiden oluşur?",
+      "context": "madde 6- (1) her bölümde öğrencilerin staj işlerini yürütmek üzere bir staj komisyonu kurulur. staj komisyonu, bölüm başkanının önerisiyle bölüm kurulu tarafından 3 yıl süreyle görevlendirilen biri başkan olmak üzere, en az 3 öğretim üyesinden oluşur.",
+      "predicted": "bölüm başkanının önerisiyle bölüm kurulu tarafından 3 yıl süreyle görevlendirilen biri başkan olmak üzere, en az 3 öğretim üyesinden oluşur.",
+      "actual": "3 yıl süreyle ve en az 3 öğretim üyesinden.",
+      "confidence": 3.6586837768554688,
+      "exact_match": 0,
+      "f1_score": 0.41379310344827586
+    },
+    {
+      "question": "%100 i̇ngilizce programlarındaki öğrenciler staj defterini nasıl hazırlamalıdır?",
+      "context": "madde 9- staj defteri / dosyası %100 i̇ngilizce programlarındaki öğrenciler tarafından i̇ngilizce olarak teknik resim, yazı ve çizim kurallarına uygun şekilde, mürekkeple, tükenmez kalemle veya bilgisayarda doldurulur. i̇ngilizce olarak hazırlanan dosyalara türkçe özet eklenir.",
+      "predicted": "teknik resim, yazı ve çizim kurallarına uygun şekilde, mürekkeple, tükenmez kalemle veya bilgisayarda doldurulur. i̇ngilizce olarak hazırlanan dosyalara türkçe özet eklenir.",
+      "actual": "i̇ngilizce olarak hazırlamalı ve türkçe özet eklemelidir.",
+      "confidence": 3.4165258407592773,
+      "exact_match": 0,
+      "f1_score": 0.35714285714285715
+    },
+    {
+      "question": "eksik evraklar için verilen ek süre ne kadardır?",
+      "context": "madde 13- (2) i̇lk değerlendirme sonucunda öğrencinin stajı başarılı olarak kabul edilir ya da evraklar 'eksik' ibaresi ile tamamlanmak üzere öğrenciye geri iade edilir. 15 günlük ek sürenin sonunda staj komisyonu, eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır.",
+      "predicted": "öğrenciye geri iade edilir. 15 günlük ek sürenin sonunda staj komisyonu, eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır.",
+      "actual": "15 gün.",
+      "confidence": 2.8134303092956543,
+      "exact_match": 0,
+      "f1_score": 0.08333333333333334
+    },
+    {
+      "question": "çift anadal öğrencilerinin ikinci dal stajları nasıl belirlenir?",
+      "context": "madde 15- (1) çift ana dal programı kapsamında olan öğrencinin ikinci dalı ile ilgili staj aktiviteleri ilgili çift ana dal programında belirtilen esaslarla belirlenir.",
+      "predicted": "ilgili çift ana dal programında belirtilen esaslarla belirlenir.",
+      "actual": "i̇lgili çift anadal programında belirtilen esaslarla.",
+      "confidence": 3.572593927383423,
+      "exact_match": 0,
+      "f1_score": 0.42857142857142855
+    },
+    {
+      "question": "yandal öğrencileri yandal stajı yapmak zorunda mıdır?",
+      "context": "madde 15- (2) yan dal programı kapsamında olan öğrenci, ilgili bölüm tarafından aksi belirtilmedikçe, yan dalı ile ilgili meslek stajı yapmak zorunda değildir.",
+      "predicted": "ilgili bölüm tarafından aksi belirtilmedikçe, yan dalı ile ilgili meslek stajı yapmak zorunda değildir.",
+      "actual": "i̇lgili bölüm tarafından aksi belirtilmedikçe, yapmak zorunda değildir.",
+      "confidence": 3.4351282119750977,
+      "exact_match": 0,
+      "f1_score": 0.6363636363636364
+    },
+    {
+      "question": "staj nasıl değerlendirilir ve not belgesinde nasıl gösterilir?",
+      "context": "madde 13- (4) her dönem stajı bir ders olarak değerlendirilir ve öğrencinin not belgesinde, stajın yapıldığı tarihi izleyen yarıyıl programında, ilgili bölüme ait bir ders koduyla gösterilir.",
+      "predicted": "ilgili bölüme ait bir ders koduyla gösterilir.",
+      "actual": "bir ders olarak değerlendirilir ve stajın yapıldığı tarihi izleyen yarıyıl programında, ilgili bölüme ait bir ders koduyla gösterilir.",
+      "confidence": 3.49515700340271,
+      "exact_match": 0,
+      "f1_score": 0.56
+    },
+    {
+      "question": "yönerge ne zaman yürürlüğe girmiştir?",
+      "context": "madde 19- (1) bu yönerge 2019–2020 öğretim yılı bahar yarıyılından itibaren yürürlüğe girer.",
+      "predicted": "2019 – 2020 öğretim yılı bahar yarıyılından itibaren yürürlüğe girer.",
+      "actual": "2019–2020 öğretim yılı bahar yarıyılından itibaren.",
+      "confidence": 3.3614726066589355,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "staj defterinin sayfaları nasıl onaylanmalıdır?",
+      "context": "madde 10- öğrenci, defteri işletmedeki staj süresi içinde doldurur ve çalışma süresince ve sonunda gerekli yerleri işletme yetkililerine onaylatır. staj defterinin her sayfasının işletmedeki staj sorumlusu veya sorumluları tarafından paraflanmış olması, ilk ve son sayfaların ise imzalı ve kaşeli olması gerekmektedir.",
+      "predicted": "işletmedeki staj sorumlusu veya sorumluları tarafından paraflanmış olması, ilk ve son sayfaların ise imzalı ve kaşeli olması gerekmektedir.",
+      "actual": "her sayfa staj sorumlusu tarafından paraflanmalı, ilk ve son sayfalar imzalı ve kaşeli olmalıdır.",
+      "confidence": 3.471874713897705,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "stajyer değerlendirme belgesi nasıl teslim edilmelidir?",
+      "context": "madde 11- stajyer değerlendirme belgesi, işletme tarafından gizli olarak doldurulur, onaylanır ve kapalı zarfa konur. onaylayan işletme yetkilisinin ismi, unvanı ve görevi belge üzerinde açıkça belirtilmelidir.",
+      "predicted": "stajyer değerlendirme belgesi nasıl teslim edilmelidir? madde 11 - stajyer değerlendirme belgesi, işletme tarafından gizli olarak doldurulur, onaylanır ve kapalı zarfa konur. onaylayan işletme yetkilisinin ismi, unvanı ve görevi belge üzerinde açıkça belirtilmelidir.",
+      "actual": "gizli olarak doldurulup, onaylanıp kapalı zarfa konulmalıdır.",
+      "confidence": 3.29679012298584,
+      "exact_match": 0,
+      "f1_score": 0.2
+    },
+    {
+      "question": "stajın başarılı sayılması için öncelikle ne gereklidir?",
+      "context": "madde 13- (5) öğrencinin stajda başarılı sayılması için öncelikle kurumlarca doldurulacak staj değerlendirme formuna göre başarılı olması zorunludur. değerlendirmede başarısız olan öğrencilerin stajlarını yenilemesi zorunludur.",
+      "predicted": "kurumlarca doldurulacak staj değerlendirme formuna göre başarılı olması zorunludur. değerlendirmede başarısız olan öğrencilerin stajlarını yenilemesi zorunludur.",
+      "actual": "kurumlarca doldurulacak staj değerlendirme formuna göre başarılı olması.",
+      "confidence": 3.3420324325561523,
+      "exact_match": 0,
+      "f1_score": 0.5833333333333334
+    },
+    {
+      "question": "hangi öğrencilerin stajları öncelikli olarak değerlendirilir?",
+      "context": "madde 13- (7) staj komisyonları; zorunlu stajını tamamladığı gün itibariyle stajının kabul edilmesi durumunda mezun olabilecek durumdaki öğrencilerin stajlarını öncelikli olarak değerlendirir.",
+      "predicted": "zorunlu stajını tamamladığı gün itibariyle stajının kabul edilmesi durumunda mezun olabilecek durumdaki öğrencilerin stajlarını öncelikli olarak değerlendirir.",
+      "actual": "stajının kabul edilmesi durumunda mezun olabilecek durumdaki öğrencilerin.",
+      "confidence": 3.5276312828063965,
+      "exact_match": 0,
+      "f1_score": 0.56
+    },
+    {
+      "question": "stajyerlerin işyerindeki temel sorumlulukları nelerdir?",
+      "context": "madde 14- (1) öğrenciler staj yaptıkları işletmenin çalışma düzenine, kural, talimat ve emirlerine uymak, daimi personel gibi işyerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.",
+      "predicted": "staj yaptıkları işletmenin çalışma düzenine, kural, talimat ve emirlerine uymak, daimi personel gibi işyerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.",
+      "actual": "i̇şletmenin çalışma düzenine, kural ve talimatlara uymak, faaliyetlere katılmak ve verilen mesleki görevleri yapmak.",
+      "confidence": 2.9735283851623535,
+      "exact_match": 0,
+      "f1_score": 0.32558139534883723
+    },
+    {
+      "question": "yurtdışı stajlarında sigorta masrafları kime aittir?",
+      "context": "madde 7- (10) öğrenciler yurtdışında kendi girişimleri veya erasmus gibi programlar kanalı ile buldukları yerlerde de staj yapabilirler. yurtdışında zorunlu ve gönüllü olarak yapılan stajlarda sigorta masrafları dâhil her türlü sorumluluk öğrenciye aittir.",
+      "predicted": "yurtdışı stajlarında sigorta masrafları kime aittir? madde 7 - ( 10 ) öğrenciler yurtdışında kendi girişimleri veya erasmus gibi programlar kanalı ile buldukları yerlerde de staj yapabilirler. yurtdışında zorunlu ve gönüllü olarak yapılan stajlarda sigorta masrafları dâhil her türlü sorumluluk öğrenciye aittir.",
+      "actual": "her türlü sorumluluk öğrenciye aittir.",
+      "confidence": 3.2417192459106445,
+      "exact_match": 0,
+      "f1_score": 0.21276595744680848
+    },
+    {
+      "question": "sigorta girişi yapılmadan önce yapılan çalışmalar stajdan sayılır mı?",
+      "context": "madde 8- (5) öğrenciler stajlarına ancak sigorta girişleri tamamlandıktan sonra başlayabileceklerdir. sigorta girişleri yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.",
+      "predicted": "sigorta girişi yapılmadan önce yapılan çalışmalar stajdan sayılır mı? madde 8 - ( 5 ) öğrenciler stajlarına ancak sigorta girişleri tamamlandıktan sonra başlayabileceklerdir. sigorta girişleri yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.",
+      "actual": "sigorta girişleri yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.",
+      "confidence": 3.109161376953125,
+      "exact_match": 0,
+      "f1_score": 0.43902439024390244
+    },
+    {
+      "question": "staj komisyonu gerekli gördüğünde ne yapabilir?",
+      "context": "madde 13- (3) staj komisyonu, gerekli gördüğü durumlarda stajın amacına ve kurallarına uygun yürütülmesi için gerekli izlemeyi yapabilir veya stajın yapıldığı kurum ile iletişime geçip, staj yapan öğrenci hakkında bilgi alarak öğrencilerin izlenmesini sağlayabilir.",
+      "predicted": "stajın yapıldığı kurum ile iletişime geçip, staj yapan öğrenci hakkında bilgi alarak öğrencilerin izlenmesini sağlayabilir.",
+      "actual": "stajın uygun yürütülmesi için izleme yapabilir veya kurumla iletişime geçip öğrenci hakkında bilgi alabilir.",
+      "confidence": 3.362544059753418,
+      "exact_match": 0,
+      "f1_score": 0.3448275862068965
+    },
+    {
+      "question": "farklı staj türleri kim tarafından belirlenir?",
+      "context": "madde 7- (11) bölümler birinci ve ikinci dönem zorunlu stajlara ilişkin farklı staj türü belirleyebilir. farklı staj türüne ihtiyaç var ise; bu staj türleri bölüm kurulları tarafından belirlenir ve staj komisyonları tarafından uygulamada dikkate alınır.",
+      "predicted": "bölüm kurulları tarafından belirlenir ve staj komisyonları tarafından uygulamada dikkate alınır.",
+      "actual": "bölüm kurulları tarafından.",
+      "confidence": 3.518889904022217,
+      "exact_match": 0,
+      "f1_score": 0.28571428571428575
+    },
+    {
+      "question": "stajyerlerin verdikleri zararlardan kim sorumludur?",
+      "context": "madde 14- (2) stajyerler, kusurları nedeni ile verecekleri zararlardan dolayı o işyeri elemanlarının sorumluluklarına tabidir.",
+      "predicted": "o işyeri elemanlarının sorumluluklarına tabidir.",
+      "actual": "i̇şyeri elemanlarının sorumluluklarına tabidir.",
+      "confidence": 3.1031360626220703,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666665
+    },
+    {
+      "question": "gönüllü stajlar nasıl değerlendirilir?",
+      "context": "madde 13- (6) gönüllü staj değerlendirmeleri sadece ilgili firma tarafından doldurulmuş olan 'gönüllü staj değerlendirme belgesi' ile değerlendirilir.",
+      "predicted": "ilgili firma tarafından doldurulmuş olan'gönüllü staj değerlendirme belgesi'ile değerlendirilir.",
+      "actual": "sadece firma tarafından doldurulmuş olan 'gönüllü staj değerlendirme belgesi' ile.",
+      "confidence": 3.566016435623169,
+      "exact_match": 0,
+      "f1_score": 0.5263157894736842
+    },
+    {
+      "question": "yatay ve dikey geçiş yapan öğrencilerin staj muafiyeti kim tarafından değerlendirilir?",
+      "context": "madde 15- (3) yatay ve dikey geçiş sınavı ile fakültemizde öğrenim görmeye hak kazanan intibak öğrencilerinin daha önce almış oldukları eğitim nedeniyle temel stajdan muafiyetleri, ilgili bölümün intibak komisyonunca değerlendirilerek karara bağlanır.",
+      "predicted": "ilgili bölümün intibak komisyonunca değerlendirilerek karara bağlanır.",
+      "actual": "i̇lgili bölümün intibak komisyonunca.",
+      "confidence": 3.8173434734344482,
+      "exact_match": 0,
+      "f1_score": 0.36363636363636365
+    },
+    {
+      "question": "yönergeyi kim yürütür?",
+      "context": "madde 18- (1) bu yönerge gebze teknik üniversitesi rektörlüğünce yürütülür.",
+      "predicted": "gebze teknik üniversitesi rektörlüğünce yürütülür.",
+      "actual": "gebze teknik üniversitesi rektörlüğü.",
+      "confidence": 3.7671823501586914,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666665
+    },
+    {
+      "question": "i̇kinci değerlendirme sonucunda staj için kaç seçenek vardır?",
+      "context": "madde 13- (2) 15 günlük ek sürenin sonunda staj komisyonu, eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır, bu değerlendirme sonunda öğrencinin yapmış olduğu staj kabul veya reddedilir.",
+      "predicted": "eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır, bu değerlendirme sonunda öğrencinin yapmış olduğu staj kabul veya reddedilir.",
+      "actual": "bu değerlendirme sonunda öğrencinin yapmış olduğu staj kabul veya reddedilir.",
+      "confidence": 2.5900349617004395,
+      "exact_match": 0,
+      "f1_score": 0.6451612903225806
+    },
+    {
+      "question": "staj yeri bulma sorumluluğu kime aittir ve uygunluğuna kim karar verir?",
+      "context": "madde 7- (8) staj yeri bulma ve staj yapacağı kurumun staja başlama gereklerini yerine getirme sorumluluğu öğrenciye aittir. öğrencilerin bulup önerdiği staj yerinin uygun olup olmadığına, bölüm staj komisyonu karar verir.",
+      "predicted": "bölüm staj komisyonu karar verir.",
+      "actual": "staj yeri bulma sorumluluğu öğrenciye aittir ve uygunluğuna bölüm staj komisyonu karar verir.",
+      "confidence": 3.4304237365722656,
+      "exact_match": 0,
+      "f1_score": 0.5555555555555556
+    },
+    {
+      "question": "gtü mimarlık bölümünde lisans eğitimi boyunca kaç adet mimari tasarım dersi verilmektedir?",
+      "context": "madde 2: gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümünde 4 yıllık lisans eğitimi süresince toplam 8 (sekiz) adet mimari tasarım dersi verilmektedir.",
+      "predicted": "gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümünde 4 yıllık lisans eğitimi süresince toplam 8 ( sekiz ) adet mimari tasarım dersi verilmektedir.",
+      "actual": "toplam 8 (sekiz) adet.",
+      "confidence": 3.48913836479187,
+      "exact_match": 0,
+      "f1_score": 0.15384615384615385
+    },
+    {
+      "question": "mimari tasarım dersleri yaz okulundan alınabilir mi?",
+      "context": "madde 4: mimari tasarım dersleri gebze teknik üniversitesi ve diğer üniversitelerin yaz okulu programlarından alınamaz.",
+      "predicted": "gebze teknik üniversitesi ve diğer üniversitelerin yaz okulu programlarından alınamaz.",
+      "actual": "hayır, alınamaz.",
+      "confidence": 4.021183967590332,
+      "exact_match": 0,
+      "f1_score": 0.16666666666666669
+    },
+    {
+      "question": "kaç ara sınava girmeyen öğrenci final sınavı hakkını kaybeder?",
+      "context": "madde 6: ara sınavlara girmek zorunludur. i̇ki ve daha fazla ara sınava girmeyen öğrenciye final sınavı hakkı verilmez.",
+      "predicted": "kaç ara sınava girmeyen öğrenci final sınavı hakkını kaybeder? madde 6 : ara sınavlara girmek zorunludur. i̇ki ve daha fazla ara sınava girmeyen öğrenciye final sınavı hakkı verilmez.",
+      "actual": "i̇ki ve daha fazla ara sınava girmeyen öğrenci.",
+      "confidence": 3.3563222885131836,
+      "exact_match": 0,
+      "f1_score": 0.3888888888888889
+    },
+    {
+      "question": "eskiz sınavının ağırlığı yüzde kaçtır?",
+      "context": "madde 7: eskiz sınavının ağırlığı tüm mimari tasarım dersleri için %10 olup, yarıyılın başında hazırlanan ders bilgi formunda belirtilir.",
+      "predicted": "yarıyılın başında hazırlanan ders bilgi formunda belirtilir.",
+      "actual": "%10.",
+      "confidence": 3.698153018951416,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "mimari tasarım viii dışındaki tasarım derslerinde savunma süresi en fazla kaç dakikadır?",
+      "context": "madde 9: savunma mimari tasarım viii dışındaki tasarım derslerinde en çok 10 dakika sürer.",
+      "predicted": "en çok 10 dakika sürer.",
+      "actual": "en çok 10 dakika.",
+      "confidence": 3.139802932739258,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666665
+    },
+    {
+      "question": "mimari tasarım derslerinde devam zorunluluğu yüzde kaçtır?",
+      "context": "madde 12: mimari tasarım derslerinde aranan devam koşulu gtü lisans eğitim ve öğretim yönetmeliği'nin ilgili maddesi gereği %80'dir.",
+      "predicted": "gtü lisans eğitim ve öğretim yönetmeliği'nin ilgili maddesi gereği % 80'dir.",
+      "actual": "%80.",
+      "confidence": 4.289942741394043,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "mimari tasarım derslerinde dc ve dd notları ne anlama gelir?",
+      "context": "madde 13: özgün niteliğiyle diğer derslerden farklılaşan mimari tasarım derslerinde koşullu ders geçme hakkı geçerli değildir. bu derslerde, koşullu dönem not ortalaması dikkate alınmaksızın dc ve dd notları başarısızlığı ifade eder.",
+      "predicted": "koşullu dönem not ortalaması dikkate alınmaksızın dc ve dd notları başarısızlığı ifade eder.",
+      "actual": "başarısızlığı ifade eder.",
+      "confidence": 3.680849313735962,
+      "exact_match": 0,
+      "f1_score": 0.375
+    },
+    {
+      "question": "mimari tasarım derslerine ait çalışmalar kaç yıl saklanır?",
+      "context": "madde 10: mimari tasarım derslerine ait çalışmaların bölüm tarafından saklanma süresi 2 yıldır.",
+      "predicted": "bölüm tarafından saklanma süresi 2 yıldır.",
+      "actual": "2 yıl.",
+      "confidence": 3.4405412673950195,
+      "exact_match": 0,
+      "f1_score": 0.25
+    },
+    {
+      "question": "mimari tasarım derslerinde tek ders sınav hakkı var mıdır?",
+      "context": "madde 15: gtü lisans eğitim ve öğretim yönetmeliği'nin ilgili maddesi gereği proje çalışması olarak değerlendirilen mimari tasarım derslerinde tek ders sınav hakkı yoktur.",
+      "predicted": "gtü lisans eğitim ve öğretim yönetmeliği'nin ilgili maddesi gereği proje çalışması olarak değerlendirilen mimari tasarım derslerinde tek ders sınav hakkı yoktur.",
+      "actual": "hayır, yoktur.",
+      "confidence": 3.4436771869659424,
+      "exact_match": 0,
+      "f1_score": 0.08695652173913042
+    },
+    {
+      "question": "proje tesliminde mazeret kabul edilir mi?",
+      "context": "madde 8: belirtilen tarih ve gün dışında hiçbir şekilde teslim yapılamaz, bu konuda hiçbir mazeret kabul edilmez.",
+      "predicted": "proje tesliminde mazeret kabul edilir mi? madde 8 : belirtilen tarih ve gün dışında hiçbir şekilde teslim yapılamaz, bu konuda hiçbir mazeret kabul edilmez.",
+      "actual": "hayır, hiçbir mazeret kabul edilmez.",
+      "confidence": 2.9648194313049316,
+      "exact_match": 0,
+      "f1_score": 0.27586206896551724
+    },
+    {
+      "question": "mimari tasarım derslerinde yaz okulu hakkı var mıdır?",
+      "context": "madde 13: mimari tasarım dersleri dönem süresine yayılan uygulamalı dersler olduğu için yaz okulu hakkı yoktur.",
+      "predicted": "dönem süresine yayılan uygulamalı dersler olduğu için yaz okulu hakkı yoktur.",
+      "actual": "hayır, yoktur.",
+      "confidence": 3.815375804901123,
+      "exact_match": 0,
+      "f1_score": 0.15384615384615385
+    },
+    {
+      "question": "öğrenciler not itirazında hangi durumda bulunabilirler?",
+      "context": "madde 11: öğrenciler sadece maddi hata itirazında bulunabilir, öğretim elemanlarının not takdirine ilişkin hata itirazında bulunamazlar.",
+      "predicted": "öğretim elemanlarının not takdirine ilişkin hata itirazında bulunamazlar.",
+      "actual": "sadece maddi hata durumunda.",
+      "confidence": 3.384925127029419,
+      "exact_match": 0,
+      "f1_score": 0.16666666666666666
+    },
+    {
+      "question": "başarılı öğrenci çalışmaları nasıl değerlendirilebilir?",
+      "context": "madde 14: başarılı bulunan öğrenci çalışmaları bölüm tarafından gerekli görüldüğünde sergilenebilir ve/veya mimarlık alanındaki yayınlarda yayınlanabilir.",
+      "predicted": "bölüm tarafından gerekli görüldüğünde sergilenebilir ve / veya mimarlık alanındaki yayınlarda yayınlanabilir.",
+      "actual": "sergilenebilir ve/veya mimarlık alanındaki yayınlarda yayınlanabilir.",
+      "confidence": 3.6148717403411865,
+      "exact_match": 0,
+      "f1_score": 0.5555555555555556
+    },
+    {
+      "question": "yönerge hükümlerini kim yürütür?",
+      "context": "madde 18: bu yönerge hükümleri gtü mimarlık fakültesi mimarlık bölüm başkanı tarafından yürütülür.",
+      "predicted": "gtü mimarlık fakültesi mimarlık bölüm başkanı tarafından yürütülür.",
+      "actual": "gtü mimarlık fakültesi mimarlık bölüm başkanı.",
+      "confidence": 4.092443466186523,
+      "exact_match": 0,
+      "f1_score": 0.5714285714285715
+    },
+    {
+      "question": "derslere devam için sadece fiziksel olarak bulunmak yeterli midir?",
+      "context": "madde 12: devam koşulunu sağlamak için öğrencinin fiziksel olarak eğitim mekânında bulunması yeterli değildir.",
+      "predicted": "öğrencinin fiziksel olarak eğitim mekânında bulunması yeterli değildir.",
+      "actual": "hayır, yeterli değildir.",
+      "confidence": 3.1968250274658203,
+      "exact_match": 0,
+      "f1_score": 0.36363636363636365
+    },
+    {
+      "question": "mimari tasarım derslerinden birinden başarısız olan öğrenci bir sonraki dönem ne yapmalıdır?",
+      "context": "madde 4: mimari tasarım i, ii, iii, iv, v, vi, vii derslerinin herhangi birinden başarısız olan öğrenci devam eden dönemde aynı dersi tekrarlamak durumunda olup bir sonraki mimari tasarım dersini alamaz.",
+      "predicted": "devam eden dönemde aynı dersi tekrarlamak durumunda olup bir sonraki mimari tasarım dersini alamaz.",
+      "actual": "aynı dersi tekrarlamak zorundadır ve bir sonraki mimari tasarım dersini alamaz.",
+      "confidence": 3.615211009979248,
+      "exact_match": 0,
+      "f1_score": 0.7200000000000001
+    },
+    {
+      "question": "mimari tasarım viii dersini alabilmek için hangi şart aranır?",
+      "context": "madde 4: öğrencinin mimari tasarım viii dersini alabilmesi için tüm mimari tasarım derslerini almış ve başarmış olması gereklidir.",
+      "predicted": "mimari tasarım viii dersini alabilmek için hangi şart aranır? madde 4 : öğrencinin mimari tasarım viii dersini alabilmesi için tüm mimari tasarım derslerini almış ve başarmış olması gereklidir.",
+      "actual": "tüm mimari tasarım derslerini almış ve başarmış olmak.",
+      "confidence": 3.3102359771728516,
+      "exact_match": 0,
+      "f1_score": 0.3888888888888889
+    },
+    {
+      "question": "mimari tasarım derslerinin yürütücüleri belirlenirken öncelik kimlere verilir?",
+      "context": "madde 5: derslerin yürütücülerinin belirlenmesinde, öncelikle bölümdeki kadrolu öğretim üyesi ve öğretim görevlilerinden yararlanılacaktır.",
+      "predicted": "bölümdeki kadrolu öğretim üyesi ve öğretim görevlilerinden yararlanılacaktır.",
+      "actual": "bölümdeki kadrolu öğretim üyesi ve öğretim görevlilerine.",
+      "confidence": 3.6358344554901123,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "proje teslimi ile jüri değerlendirmesi arasında minimum kaç gün olmalıdır?",
+      "context": "madde 6: final sınav programlarında, projelerin teslimi ile jüri değerlendirmesi arasında ön değerlendirme için en az 1 (bir) gün aralık bırakılır.",
+      "predicted": "ön değerlendirme için en az 1 ( bir ) gün aralık bırakılır.",
+      "actual": "en az 1 (bir) gün.",
+      "confidence": 3.3526134490966797,
+      "exact_match": 0,
+      "f1_score": 0.35294117647058826
+    },
+    {
+      "question": "proje teslimi kimler tarafından kabul edilir?",
+      "context": "madde 10: görevli olmayan öğretim elemanlarına yapılan teslimler geçersizdir.",
+      "predicted": "proje teslimi kimler tarafından kabul edilir? madde 10 : görevli olmayan öğretim elemanlarına yapılan teslimler geçersizdir.",
+      "actual": "sadece görevli öğretim elemanları tarafından.",
+      "confidence": 2.930065631866455,
+      "exact_match": 0,
+      "f1_score": 0.19047619047619047
+    },
+    {
+      "question": "eskiz sınavının amacı nedir?",
+      "context": "madde 7: eskiz sınavı, öğrenciye eğitimi süresince katıldığı tüm disiplinlerde edindiği bilgi birikimini değerlendirme, kullanma bilinç ve yetisini vermeye yöneliktir.",
+      "predicted": "eskiz sınavının amacı nedir? madde 7 : eskiz sınavı, öğrenciye eğitimi süresince katıldığı tüm disiplinlerde edindiği bilgi birikimini değerlendirme, kullanma bilinç ve yetisini vermeye yöneliktir.",
+      "actual": "öğrencinin tüm disiplinlerde edindiği bilgi birikimini değerlendirme ve kullanma bilinç ve yetisini vermek.",
+      "confidence": 3.367806911468506,
+      "exact_match": 0,
+      "f1_score": 0.47368421052631576
+    },
+    {
+      "question": "mimari tasarım derslerindeki projelerde hangi bilgi ve beceriler kullanılmalıdır?",
+      "context": "madde 3: mimari tasarım derslerinde yapılan projelere o yarıyıla kadar ve o yarıyılda görülen diğer tüm derslerde edilen bilgi ve becerilerin kullanılması/yansıtılması esastır.",
+      "predicted": "o yarıyıla kadar ve o yarıyılda görülen diğer tüm derslerde edilen bilgi ve becerilerin kullanılması / yansıtılması esastır.",
+      "actual": "o yarıyıla kadar ve o yarıyılda görülen diğer tüm derslerde edilen bilgi ve beceriler.",
+      "confidence": 3.6732122898101807,
+      "exact_match": 0,
+      "f1_score": 0.6875000000000001
+    },
+    {
+      "question": "mimari tasarım i dersi hangi dönemde alınmalıdır?",
+      "context": "madde 4: mimari tasarım i dersini ilk defa alacak olan öğrencilerin bu dersi güz yarıyılında alması gerekmektedir.",
+      "predicted": "güz yarıyılında alması gerekmektedir.",
+      "actual": "güz yarıyılında.",
+      "confidence": 3.742480754852295,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "i̇ade tarihinde teslim alınmayan çalışmalara ne olur?",
+      "context": "madde 14: bölüm tarafından ilan edilen iade tarihinde teslim alınmayan çalışmalar geri dönüşüm kutularına atılır.",
+      "predicted": "i̇ade tarihinde teslim alınmayan çalışmalara ne olur? madde 14 : bölüm tarafından ilan edilen iade tarihinde teslim alınmayan çalışmalar geri dönüşüm kutularına atılır.",
+      "actual": "geri dönüşüm kutularına atılır.",
+      "confidence": 3.140570640563965,
+      "exact_match": 0,
+      "f1_score": 0.29629629629629634
+    },
+    {
+      "question": "mimari tasarım dersleri nasıl bir ders niteliğindedir?",
+      "context": "madde 2: mimari tasarım dersleri teori ve uygulamayı içeren, zorunlu temel dersler niteliğinde ve 'grup dersi' olarak yapılmakta olup birden fazla öğretim üyesi ve elemanı tarafından yürütülür.",
+      "predicted": "birden fazla öğretim üyesi ve elemanı tarafından yürütülür.",
+      "actual": "teori ve uygulamayı içeren, zorunlu temel dersler niteliğinde ve 'grup dersi' olarak yapılan derslerdir.",
+      "confidence": 3.6421005725860596,
+      "exact_match": 0,
+      "f1_score": 0.09090909090909091
+    },
+    {
+      "question": "teslim süresi kim tarafından uzatılabilir?",
+      "context": "madde 10: teslim süresi bölüm kurulu kararı dışında hiçbir şekilde uzatılamaz.",
+      "predicted": "bölüm kurulu kararı dışında hiçbir şekilde uzatılamaz.",
+      "actual": "sadece bölüm kurulu kararıyla uzatılabilir.",
+      "confidence": 3.343660831451416,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "öğrenci ara sınavlara birden fazla kez katılmama hakkına ne zaman sahiptir?",
+      "context": "madde 6: mücbir sebepler haricinde bir öğrencinin birden çok kez ara sınavlara katılmaması söz konusu değildir.",
+      "predicted": "öğrenci ara sınavlara birden fazla kez katılmama hakkına ne zaman sahiptir? madde 6 : mücbir sebepler haricinde bir öğrencinin birden çok kez ara sınavlara katılmaması söz konusu değildir.",
+      "actual": "sadece mücbir sebeplerin varlığında.",
+      "confidence": 3.214127779006958,
+      "exact_match": 0,
+      "f1_score": 0.0625
+    },
+    {
+      "question": "yönerge kimler için geçerlidir?",
+      "context": "madde 17: bu yönerge, gtü senatosu tarafından kabul edildiği tarihte yürürlüğe girer ve gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için geçerli olur.",
+      "predicted": "gtü senatosu tarafından kabul edildiği tarihte yürürlüğe girer ve gebze teknik üniversitesi mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için geçerli olur.",
+      "actual": "gtü mimarlık fakültesi mimarlık bölümü'ndeki tüm öğrenciler için.",
+      "confidence": 4.332761764526367,
+      "exact_match": 0,
+      "f1_score": 0.4137931034482759
+    },
+    {
+      "question": "yönergede hüküm bulunmayan durumlarda hangi mevzuat uygulanır?",
+      "context": "madde 16: bu yönergede hüküm bulunmayan durumlarda gtü lisans eğitim ve öğretim yönetmeliği ve/veya bölüm ve fakülte kurullarınca alınacak ilke kararları uygulanır.",
+      "predicted": "gtü lisans eğitim ve öğretim yönetmeliği ve / veya bölüm ve fakülte kurullarınca alınacak ilke kararları uygulanır.",
+      "actual": "gtü lisans eğitim ve öğretim yönetmeliği ve/veya bölüm ve fakülte kurullarınca alınacak ilke kararları.",
+      "confidence": 4.357473850250244,
+      "exact_match": 0,
+      "f1_score": 0.7096774193548386
+    },
+    {
+      "question": "yarıyıl sonu sınavları nasıl başlar?",
+      "context": "madde 8: mimari tasarım derslerinin yarıyıl sonu sınavları (değerlendirme/final jürileri) öğrenci tarafından bir yarıyıl boyunca çalışmış olduğu tasarım konusunun ders yürütücüleri tarafından istenen şekil ve nitelikte, imza karşılığında teslim edilmesi ile başlar.",
+      "predicted": "öğrenci tarafından bir yarıyıl boyunca çalışmış olduğu tasarım konusunun ders yürütücüleri tarafından istenen şekil ve nitelikte, imza karşılığında teslim edilmesi ile başlar.",
+      "actual": "öğrencinin bir yarıyıl boyunca çalışmış olduğu tasarım konusunun ders yürütücüleri tarafından istenen şekil ve nitelikte, imza karşılığında teslim edilmesi ile.",
+      "confidence": 3.3975272178649902,
+      "exact_match": 0,
+      "f1_score": 0.8571428571428572
+    },
+    {
+      "question": "bir öğrenci topluluğu kurmak için minimum kaç öğrenci gereklidir?",
+      "context": "madde 7: öğrenci topluluğunun kurulabilmesi için, en az 15 öğrenciden oluşan girişimciler kurulunun; adı-soyadı, kayıtlı oldukları fakülte/enstitü, öğrenci numarası, açık ikametgâh adresi, telefon numarası ve imzalarını içeren liste eki ile sunacağı dilekçe.",
+      "predicted": "en az 15 öğrenciden oluşan girişimciler kurulunun ; adı - soyadı, kayıtlı oldukları fakülte / enstitü, öğrenci numarası, açık ikametgâh adresi, telefon numarası ve imzalarını içeren liste eki ile sunacağı dilekçe.",
+      "actual": "en az 15 öğrenci.",
+      "confidence": 3.0345749855041504,
+      "exact_match": 0,
+      "f1_score": 0.1714285714285714
+    },
+    {
+      "question": "bir öğrenci kaç toplulukta başkanlık yapabilir?",
+      "context": "madde 12: bir öğrenci birden fazla topluluğa üye olabilir, birden fazla yönetim kurulunda yer alabilir fakat birden fazla toplulukta başkan olamaz.",
+      "predicted": "bir öğrenci kaç toplulukta başkanlık yapabilir? madde 12 : bir öğrenci birden fazla topluluğa üye olabilir, birden fazla yönetim kurulunda yer alabilir fakat birden fazla toplulukta başkan olamaz.",
+      "actual": "sadece bir toplulukta başkanlık yapabilir.",
+      "confidence": 3.3291563987731934,
+      "exact_match": 0,
+      "f1_score": 0.18181818181818182
+    },
+    {
+      "question": "topluluk başkanının görev süresi ne kadardır?",
+      "context": "madde 10: yönetim kurulunun ve topluluk başkanının görev süresi 2 yıldır.",
+      "predicted": "topluluk başkanının görev süresi ne kadardır? madde 10 : yönetim kurulunun ve topluluk başkanının görev süresi 2 yıldır.",
+      "actual": "2 yıldır.",
+      "confidence": 3.121459484100342,
+      "exact_match": 0,
+      "f1_score": 0.19999999999999998
+    },
+    {
+      "question": "bir akademik lider kaç topluluğa liderlik yapabilir?",
+      "context": "madde 11: akademik lider ve lider yardımcısı, sadece bir topluluğa akademik lider olabilir; ikinci bir topluluğa akademik lider olamaz.",
+      "predicted": "bir akademik lider kaç topluluğa liderlik yapabilir? madde 11 : akademik lider ve lider yardımcısı, sadece bir topluluğa akademik lider olabilir ; ikinci bir topluluğa akademik lider olamaz.",
+      "actual": "sadece bir topluluğa.",
+      "confidence": 3.3094403743743896,
+      "exact_match": 0,
+      "f1_score": 0.12903225806451613
+    },
+    {
+      "question": "etkinlik başvurusu ne kadar süre öncesinden yapılmalıdır?",
+      "context": "madde 15: topluluklar düzenleyecekleri etkinlik için 'öğrenci toplulukları etkinlik başvuru formu'nu doldurarak, etkinlik tarihinden en az 2 hafta önce topluluğun akademik liderine evraklarını iletir.",
+      "predicted": "topluluğun akademik liderine evraklarını iletir.",
+      "actual": "en az 2 hafta önce.",
+      "confidence": 3.4193224906921387,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "topluluk defterlerini kim mühürleyip numaralandırır?",
+      "context": "madde 14: aşağıda yazılı kayıt ve defterler, her sayfası sağlık kültür ve spor daire başkanlığı tarafından numaralandırılıp mühürlenerek imza karşılığında topluluk başkanına teslim edilir.",
+      "predicted": "topluluk defterlerini kim mühürleyip numaralandırır? madde 14 : aşağıda yazılı kayıt ve defterler, her sayfası sağlık kültür ve spor daire başkanlığı tarafından numaralandırılıp mühürlenerek imza karşılığında topluluk başkanına teslim edilir.",
+      "actual": "sağlık kültür ve spor daire başkanlığı.",
+      "confidence": 3.1236252784729004,
+      "exact_match": 0,
+      "f1_score": 0.2777777777777778
+    },
+    {
+      "question": "fahri üyelerin seçme ve seçilme hakları var mıdır?",
+      "context": "madde 12: gtü personeli, üniversite bünyesinde kurulmuş olan topluluklara fahri üye olabilir ancak üniversite öğrencileri dışındaki diğer üyeler seçme ve seçilme hakkına sahip değildir.",
+      "predicted": "üniversite öğrencileri dışındaki diğer üyeler seçme ve seçilme hakkına sahip değildir.",
+      "actual": "üniversite öğrencileri dışındaki diğer üyeler seçme ve seçilme hakkına sahip değildir.",
+      "confidence": 3.386871099472046,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "topluluklar aidat toplayabilir mi?",
+      "context": "madde 15: topluluklar ticari etkinliklerde bulunamaz, aidat, bağış veya başka bir ad altında para toplayamaz, üyelerine maddi çıkar sağlayamazlar.",
+      "predicted": "topluluklar aidat toplayabilir mi? madde 15 : topluluklar ticari etkinliklerde bulunamaz, aidat, bağış veya başka bir ad altında para toplayamaz, üyelerine maddi çıkar sağlayamazlar.",
+      "actual": "hayır, toplayamaz.",
+      "confidence": 3.221548557281494,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "toplulukların minimum etkinlik yapma zorunluluğu nedir?",
+      "context": "madde 16: eğitim-öğretim yılı boyunca (güz ve bahar dönemi) en az birer kez etkinlik yapmayan topluluklar kapatılır.",
+      "predicted": "güz ve bahar dönemi ) en az birer kez etkinlik yapmayan topluluklar kapatılır.",
+      "actual": "güz ve bahar döneminde en az birer kez etkinlik.",
+      "confidence": 3.5054984092712402,
+      "exact_match": 0,
+      "f1_score": 0.6363636363636364
+    },
+    {
+      "question": "kapatılan bir topluluk ne kadar süre sonra aynı isimle tekrar açılabilir?",
+      "context": "madde 16: kapatılan topluluklar aynı isim altında bir yıl süreyle tekrar açılamazlar.",
+      "predicted": "kapatılan bir topluluk ne kadar süre sonra aynı isimle tekrar açılabilir? madde 16 : kapatılan topluluklar aynı isim altında bir yıl süreyle tekrar açılamazlar.",
+      "actual": "bir yıl sonra.",
+      "confidence": 3.0896220207214355,
+      "exact_match": 0,
+      "f1_score": 0.14814814814814814
+    },
+    {
+      "question": "genel kurul toplantı yeter sayısı nedir?",
+      "context": "madde 9: genel kurul; iç tüzükte belirtilen dönemlerde, toplantı yeter sayısı olan topluluğun mevcut üye sayısının üçte ikisi (2/3) ile toplanır.",
+      "predicted": "genel kurul toplantı yeter sayısı nedir? madde 9 : genel kurul ; iç tüzükte belirtilen dönemlerde, toplantı yeter sayısı olan topluluğun mevcut üye sayısının üçte ikisi ( 2 / 3 ) ile toplanır.",
+      "actual": "mevcut üye sayısının üçte ikisi (2/3).",
+      "confidence": 3.0840210914611816,
+      "exact_match": 0,
+      "f1_score": 0.25641025641025644
+    },
+    {
+      "question": "yönetim kurulu minimum kaç üyeden oluşur?",
+      "context": "madde 10: yönetim kurulu en az 5 asil ve 3 yedek üyeden oluşur.",
+      "predicted": "yönetim kurulu minimum kaç üyeden oluşur? madde 10 : yönetim kurulu en az 5 asil ve 3 yedek üyeden oluşur.",
+      "actual": "en az 5 asil ve 3 yedek üyeden.",
+      "confidence": 3.2290329933166504,
+      "exact_match": 0,
+      "f1_score": 0.4999999999999999
+    },
+    {
+      "question": "kapatılan topluluk yönetim kurulu üyeleri ne kadar süre başka toplulukların yönetiminde görev alamaz?",
+      "context": "madde 16: kapatılan topluluğun yönetim kurulu üyeleri iki yıl süreyle herhangi bir topluluğun yönetim kurulunda görev alamaz ve genel kurulunda bulunamaz.",
+      "predicted": "kapatılan topluluk yönetim kurulu üyeleri ne kadar süre başka toplulukların yönetiminde görev alamaz? madde 16 : kapatılan topluluğun yönetim kurulu üyeleri iki yıl süreyle herhangi bir topluluğun yönetim kurulunda görev alamaz ve genel kurulunda bulunamaz.",
+      "actual": "i̇ki yıl süreyle.",
+      "confidence": 3.0248804092407227,
+      "exact_match": 0,
+      "f1_score": 0.05263157894736842
+    },
+    {
+      "question": "etkinlik sonrası anketler ne kadar süre içinde iletilmelidir?",
+      "context": "madde 15: tüm etkinliklerin iyileştirilmesine yönelik çalışmalarda ölçülmesi ve değerlendirilebilmesi için anketlerin etkinliklerden sonra 5 (beş) iş günü içerisinde öğrenci toplulukları komisyonuna iletilmesi zorunludur.",
+      "predicted": "öğrenci toplulukları komisyonuna iletilmesi zorunludur.",
+      "actual": "5 (beş) iş günü içerisinde.",
+      "confidence": 3.3437609672546387,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "topluluklar seyahat ederken yanlarında kim bulunmalıdır?",
+      "context": "madde 17: herhangi bir öğrenci topluluğu, akademik lider veya lider yardımcısı olmadan seyahat edemez.",
+      "predicted": "akademik lider veya lider yardımcısı olmadan seyahat edemez.",
+      "actual": "akademik lider veya lider yardımcısı.",
+      "confidence": 3.3919711112976074,
+      "exact_match": 0,
+      "f1_score": 0.4615384615384615
+    },
+    {
+      "question": "topluluklara kimler üye olabilir?",
+      "context": "madde 12: gebze teknik üniversitesinde eğitimine aktif olarak devam eden ve disiplin cezası (uyarma cezası hariç) bulunmayan lisans ve lisansüstü öğrenciler üniversite bünyesinde kurulmuş olan topluluklara üye olabilir.",
+      "predicted": "gebze teknik üniversitesinde eğitimine aktif olarak devam eden ve disiplin cezası ( uyarma cezası hariç ) bulunmayan lisans ve lisansüstü öğrenciler üniversite bünyesinde kurulmuş olan topluluklara üye olabilir.",
+      "actual": "aktif olarak eğitimine devam eden ve disiplin cezası (uyarma cezası hariç) bulunmayan lisans ve lisansüstü öğrenciler.",
+      "confidence": 3.318450927734375,
+      "exact_match": 0,
+      "f1_score": 0.5
+    },
+    {
+      "question": "faaliyet raporu ve yıllık planlar en geç ne zaman iletilmelidir?",
+      "context": "madde 15: öğrenci toplulukları, faaliyet raporu ve yıllık planlarını en geç kasım ayı sonuna kadar öğrenci toplulukları komisyonuna iletmek zorundadır.",
+      "predicted": "öğrenci toplulukları komisyonuna iletmek zorundadır.",
+      "actual": "en geç kasım ayı sonuna kadar.",
+      "confidence": 3.449629306793213,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "topluluk açma talepleri yılda kaç kez ve hangi aylarda değerlendirilir?",
+      "context": "madde 7: topluluk açma talepleri; bir eğitim-öğretim yılını kapsayacak şekilde, güz döneminde (ekim ayında) ve bahar döneminde (mart ayında) olmak üzere yılda iki kere komisyon kararıyla onaylanır.",
+      "predicted": "bir eğitim - öğretim yılını kapsayacak şekilde, güz döneminde ( ekim ayında ) ve bahar döneminde ( mart ayında ) olmak üzere yılda iki kere komisyon kararıyla onaylanır.",
+      "actual": "yılda iki kere, ekim ve mart aylarında.",
+      "confidence": 3.383708953857422,
+      "exact_match": 0,
+      "f1_score": 0.2857142857142857
+    },
+    {
+      "question": "toplulukların tutması zorunlu olan defterler nelerdir?",
+      "context": "madde 14: tutulması zorunlu kayıt ve defterler: a) üye kayıt defteri, b) gelen-giden evrak defteri, c) karar defteri, d) demirbaş kayıt defteri.",
+      "predicted": "toplulukların tutması zorunlu olan defterler nelerdir? madde 14 : tutulması zorunlu kayıt ve defterler : a ) üye kayıt defteri, b ) gelen - giden evrak defteri, c ) karar defteri, d ) demirbaş kayıt defteri.",
+      "actual": "üye kayıt defteri, gelen-giden evrak defteri, karar defteri ve demirbaş kayıt defteri.",
+      "confidence": 2.777617931365967,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "gtü logolu ürünlerin telif hakkı kime aittir?",
+      "context": "madde 15: gtü logolu ürünlerin satışı ve telif hakkı tamamen gtü'ye aittir. i̇zinsiz ve telif hakkı ödemeden çoğaltılması ve satılması kesinlikle yasaktır.",
+      "predicted": "gtü'ye aittir. i̇zinsiz ve telif hakkı ödemeden çoğaltılması ve satılması kesinlikle yasaktır.",
+      "actual": "tamamen gtü'ye aittir.",
+      "confidence": 3.4490694999694824,
+      "exact_match": 0,
+      "f1_score": 0.26666666666666666
+    },
+    {
+      "question": "öğrenci toplulukları komisyonu minimum yılda kaç kez toplanır?",
+      "context": "madde 5: öğrenci toplulukları komisyonu her eğitim-öğretim döneminde, en az birer kez olmak üzere yılda iki kere toplanır.",
+      "predicted": "öğrenci toplulukları komisyonu minimum yılda kaç kez toplanır? madde 5 : öğrenci toplulukları komisyonu her eğitim - öğretim döneminde, en az birer kez olmak üzere yılda iki kere toplanır.",
+      "actual": "en az birer kez olmak üzere yılda iki kere.",
+      "confidence": 3.346221923828125,
+      "exact_match": 0,
+      "f1_score": 0.42105263157894735
+    },
+    {
+      "question": "etkinlikler ne kadar süre öncesinden bildirilmelidir?",
+      "context": "madde 16: gerçekleştirilecek olan tüm etkinliklerin, etkinlik tarihinden en az 15 gün önce etkinlik ve protokol birimi ve öğrenci toplulukları komisyonuna bildirilmesi gerekmektedir.",
+      "predicted": "etkinlik ve protokol birimi ve öğrenci toplulukları komisyonuna bildirilmesi gerekmektedir.",
+      "actual": "en az 15 gün önce.",
+      "confidence": 2.8961124420166016,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "akademik lider değişikliği ne kadar süre içinde bildirilmelidir?",
+      "context": "madde 11: topluluk; akademik liderinin herhangi bir nedenle görevinden ayrılması halinde, akademik lider değişikliğini gerekçesi ile birlikte yönetim kurulunda görüşerek, akademik lider değişikliğini en geç on beş gün içinde öğrenci toplulukları komisyonuna bildirir.",
+      "predicted": "öğrenci toplulukları komisyonuna bildirir.",
+      "actual": "en geç on beş gün içinde.",
+      "confidence": 3.2576775550842285,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "topluluk etkinlikleri için derslerden muafiyet var mıdır?",
+      "context": "madde 17: öğrenci topluluklarının düzenlediği etkinliklerde, eğitim-öğretim işleyişini aksatmamak adına, derslerden muafiyet söz konusu değildir.",
+      "predicted": "eğitim - öğretim işleyişini aksatmamak adına, derslerden muafiyet söz konusu değildir.",
+      "actual": "hayır, muafiyet söz konusu değildir.",
+      "confidence": 3.6614489555358887,
+      "exact_match": 0,
+      "f1_score": 0.5000000000000001
+    },
+    {
+      "question": "kaç kez mazeretsiz toplantıya katılmayan yönetim kurulu üyesi görevden ayrılmış sayılır?",
+      "context": "madde 10: geçerli mazereti olmaksızın üst üste üç kere toplantıya katılmayan üye, yönetim kurulu üyeliğinden ayrılmış sayılır.",
+      "predicted": "kaç kez mazeretsiz toplantıya katılmayan yönetim kurulu üyesi görevden ayrılmış sayılır? madde 10 : geçerli mazereti olmaksızın üst üste üç kere toplantıya katılmayan üye, yönetim kurulu üyeliğinden ayrılmış sayılır.",
+      "actual": "üst üste üç kere.",
+      "confidence": 3.0158066749572754,
+      "exact_match": 0,
+      "f1_score": 0.18181818181818182
+    },
+    {
+      "question": "topluluklar diğer toplulukların amaçları kapsamında etkinlik düzenleyebilir mi?",
+      "context": "madde 15: topluluklar, kendi alan ve amaçları kapsamında etkinlik yapabilirler. diğer toplulukların kuruluş amaçları kapsamında etkinlik yapamaz ancak birlikte organize edebilirler.",
+      "predicted": "topluluklar diğer toplulukların amaçları kapsamında etkinlik düzenleyebilir mi? madde 15 : topluluklar, kendi alan ve amaçları kapsamında etkinlik yapabilirler. diğer toplulukların kuruluş amaçları kapsamında etkinlik yapamaz ancak birlikte organize edebilirler.",
+      "actual": "hayır, yapamaz ancak birlikte organize edebilirler.",
+      "confidence": 3.3087096214294434,
+      "exact_match": 0,
+      "f1_score": 0.2777777777777778
+    },
+    {
+      "question": "yönerge hükümlerini kim yürütür?",
+      "context": "madde 19: bu yönerge hükümlerini, gebze teknik üniversitesi rektörü yürütür.",
+      "predicted": "gebze teknik üniversitesi rektörü yürütür.",
+      "actual": "gebze teknik üniversitesi rektörü.",
+      "confidence": 3.6911423206329346,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666665
+    },
+    {
+      "question": "rektör akademik lider olarak önerilebilir mi?",
+      "context": "madde 11: herhangi bir topluluk, akademik lider olarak rektör'ü öneremez.",
+      "predicted": "rektör akademik lider olarak önerilebilir mi? madde 11 : herhangi bir topluluk, akademik lider olarak rektör'ü öneremez.",
+      "actual": "hayır, öneremez.",
+      "confidence": 3.2392330169677734,
+      "exact_match": 0,
+      "f1_score": 0.10526315789473684
+    },
+    {
+      "question": "öğrenci toplulukları alt komite kurabilir mi?",
+      "context": "madde 7: öğrenci toplulukları alt komite kuramaz.",
+      "predicted": "öğrenci toplulukları alt komite kurabilir mi? madde 7 : öğrenci toplulukları alt komite kuramaz.",
+      "actual": "hayır, kuramaz.",
+      "confidence": 3.271413803100586,
+      "exact_match": 0,
+      "f1_score": 0.125
+    },
+    {
+      "question": "topluluk etkinliklerinin hangi masrafları sağlık kültür ve spor daire başkanlığı tarafından karşılanabilir?",
+      "context": "madde 15: toplulukların gerçekleştireceği etkinliklerde, ulaşım, ikram, davet yazısı ve basılı etkinlik programı (afiş, poster, web sayfası çıktısı vb.) masrafları için başvurması durumunda, sağlık kültür ve spor daire başkanlığı bütçesinin ilgili harcama kalemine konulacak ödenekten masraflar karşılanabilir.",
+      "predicted": "topluluk etkinliklerinin hangi masrafları sağlık kültür ve spor daire başkanlığı tarafından karşılanabilir? madde 15 : toplulukların gerçekleştireceği etkinliklerde, ulaşım, ikram, davet yazısı ve basılı etkinlik programı ( afiş, poster, web sayfası çıktısı vb. ) masrafları için başvurması durumunda, sağlık kültür ve spor daire başkanlığı bütçesinin ilgili harcama kalemine konulacak ödenekten masraflar karşılanabilir.",
+      "actual": "ulaşım, ikram, davet yazısı ve basılı etkinlik programı (afiş, poster, web sayfası çıktısı vb.) masrafları.",
+      "confidence": 2.865626573562622,
+      "exact_match": 0,
+      "f1_score": 0.3582089552238806
+    },
+    {
+      "question": "akts nedir?",
+      "context": "madde 4 – (1) bu yönetmelikte geçen; a) akts: avrupa kredi transfer sistemini,",
+      "predicted": "",
+      "actual": "avrupa kredi transfer sistemini",
+      "confidence": 2.1402926445007324,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "öğrenci adayları kayıt işlemlerini nasıl yaptırabilirler?",
+      "context": "madde 5– (1) öğrenci adayları, ösym kılavuzunda belirtilen şartlarda ve tarihlerde kayıt işlemlerini yaptırır.",
+      "predicted": "ösym kılavuzunda belirtilen şartlarda ve tarihlerde kayıt işlemlerini yaptırır.",
+      "actual": "ösym kılavuzunda belirtilen şartlarda ve tarihlerde yaptırır.",
+      "confidence": 3.529421806335449,
+      "exact_match": 0,
+      "f1_score": 0.8750000000000001
+    },
+    {
+      "question": "i̇ngilizce yeterlik sınavına kimler girebilir?",
+      "context": "madde 5– (4) kayıt olan öğrenciler, üniversite tarafından düzenlenen ve tarihi ilan edilen i̇ngilizce seviye tespit sınavına alınırlar.",
+      "predicted": "üniversite tarafından düzenlenen ve tarihi ilan edilen i̇ngilizce seviye tespit sınavına alınırlar.",
+      "actual": "kayıt olan öğrenciler",
+      "confidence": 3.5165581703186035,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "öğrenci katkı payı ne zaman ödenir?",
+      "context": "madde 6– (1) 2547 sayılı kanunun 46 ncı maddesi ve ilgili diğer mevzuat hükümleri uyarınca belirlenen öğrenci katkı payı ve/veya öğrenim ücretleri, dönem başlarında akademik takvimde belirtilen tarihlerde ödenir.",
+      "predicted": "dönem başlarında akademik takvimde belirtilen tarihlerde",
+      "actual": "dönem başlarında akademik takvimde belirtilen tarihlerde",
+      "confidence": 3.2063417434692383,
+      "exact_match": 1,
+      "f1_score": 1.0
+    },
+    {
+      "question": "yatay geçişler hangi yönetmelik hükümlerine göre yürütülür?",
+      "context": "madde 7– (1) üniversite içinden veya dışından yapılacak her türlü yatay geçişler; 24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yükseköğretim kurumlarında önlisans ve lisans düzeyindeki programlar arasında geçiş, çift anadal, yan dal ile kurumlar arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik hükümlerine göre yürütülür.",
+      "predicted": "24 / 4 / 2010 tarihli ve 27561 sayılı resmî gazete ’ de yayımlanan yükseköğretim kurumlarında önlisans ve lisans düzeyindeki programlar arasında geçiş, çift anadal, yan dal ile kurumlar arası kredi transferi yapılması esaslarına i̇lişkin yönetmelik hükümlerine göre yürütülür.",
+      "actual": "24/4/2010 tarihli ve 27561 sayılı resmî gazete’de yayımlanan yönetmelik hükümlerine göre",
+      "confidence": 3.2216765880584717,
+      "exact_match": 0,
+      "f1_score": 0.36000000000000004
+    },
+    {
+      "question": "danışmanlık süreci nasıl yürütülür?",
+      "context": "madde 8 – (1) her öğrenci için senato tarafından çıkarılan yönergeye göre danışman atanır. danışmanlık süreci bu yönerge esasları çerçevesinde mezuniyete kadar yürütülür.",
+      "predicted": "senato tarafından çıkarılan yönergeye göre danışman atanır. danışmanlık süreci bu yönerge esasları çerçevesinde mezuniyete kadar yürütülür.",
+      "actual": "senato tarafından çıkarılan yönerge esasları çerçevesinde mezuniyete kadar",
+      "confidence": 3.9495046138763428,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "öğrencilere kimlik kartı ne zaman verilir?",
+      "context": "madde 9 – (1) kesin kayıtlarını yaptıran öğrencilere, üniversite tarafından öğrenci olduklarını belirten fotoğraflı bir kimlik kartı verilir.",
+      "predicted": "",
+      "actual": "kesin kayıtlarını yaptıran öğrencilere",
+      "confidence": 3.0899314880371094,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "eğitim-öğretim yılı kaç yarıyıldan oluşur?",
+      "context": "madde 11 – (1) öğretim yılı, güz ve bahar yarıyıllarından oluşur.",
+      "predicted": "güz ve bahar yarıyıllarından oluşur.",
+      "actual": "güz ve bahar yarıyıllarından",
+      "confidence": 2.791910171508789,
+      "exact_match": 0,
+      "f1_score": 0.888888888888889
+    },
+    {
+      "question": "ders kredileri nasıl belirlenir?",
+      "context": "madde 12 – (1) derslerin kredi değerleri bölümlerin teklifi üzerine ilgili kurullarda onaylandıktan sonra senato tarafından belirlenir.",
+      "predicted": "senato tarafından belirlenir.",
+      "actual": "bölümlerin teklifi üzerine ilgili kurullarda onaylandıktan sonra senato tarafından",
+      "confidence": 3.4070677757263184,
+      "exact_match": 0,
+      "f1_score": 0.3333333333333333
+    },
+    {
+      "question": "öğretim planları nasıl güncellenebilir?",
+      "context": "madde 13 – (2) öğretim planları; ilgili bölümün önerisi, ilgili kurullar ve senato kararı ile belirlenir ve güncellenebilir.",
+      "predicted": "ilgili bölümün önerisi, ilgili kurullar ve senato kararı ile belirlenir ve güncellenebilir.",
+      "actual": "i̇lgili bölümün önerisi, ilgili kurullar ve senato kararı ile",
+      "confidence": 3.670797109603882,
+      "exact_match": 0,
+      "f1_score": 0.761904761904762
+    },
+    {
+      "question": "eğitim-öğretim süresi ne kadardır?",
+      "context": "madde 14 – (1) i̇ngilizce hazırlık programında geçirilen süre hariç, üniversitedeki lisans eğitim-öğretim programları sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+      "predicted": "sekiz yarıyıl olup, azami bitirme süresi yedi yıldır.",
+      "actual": "sekiz yarıyıl, azami bitirme süresi yedi yıl",
+      "confidence": 2.9897513389587402,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "bir dersin ön ve eş şartı nasıl belirlenir?",
+      "context": "madde 15 – (1) bir dersin ön ve eş şartı; ilgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve senato kararı ile belirlenir.",
+      "predicted": "ilgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve senato kararı ile",
+      "actual": "i̇lgili bölümün önerisi, fakülte veya meslek yüksekokulu kurulunun teklifi ve senato kararı ile",
+      "confidence": 3.783071994781494,
+      "exact_match": 0,
+      "f1_score": 0.9230769230769231
+    },
+    {
+      "question": "lisans öğrencilerinin yarıyıllık asgari kredi yükü nedir?",
+      "context": "madde 16 -(1) lisans öğrencilerinin yarıyıllık asgari kredi yükü 20 akts’dir.",
+      "predicted": "20 akts ’ dir.",
+      "actual": "20 akts",
+      "confidence": 3.525418758392334,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666666
+    },
+    {
+      "question": "ders ekleme-çıkarma işlemleri ne zaman yapılır?",
+      "context": "madde 17 – (1) akademik takvimde belirlenen tarihlerde ders seçimi yaparak kayıt yenileyen öğrenciler, akademik takvimdeki ders ekleme-çıkarma günleri içerisinde...",
+      "predicted": "",
+      "actual": "akademik takvimdeki ders ekleme-çıkarma günleri içerisinde",
+      "confidence": 3.0392580032348633,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "bitirme çalışması hangi yarıyıllarda yer alır?",
+      "context": "madde 18– (1) bitirme çalışması, ön lisans programlarında üçüncü ve/veya dördüncü yarıyıl, lisans programlarında yedinci ve/veya sekizinci yarıyıl dersi olarak yer alır.",
+      "predicted": "ön lisans programlarında üçüncü ve / veya dördüncü yarıyıl, lisans programlarında yedinci ve / veya sekizinci yarıyıl dersi olarak yer alır.",
+      "actual": "ön lisans programlarında üçüncü ve/veya dördüncü yarıyıl, lisans programlarında yedinci ve/veya sekizinci yarıyıl",
+      "confidence": 3.4816174507141113,
+      "exact_match": 0,
+      "f1_score": 0.5294117647058824
+    },
+    {
+      "question": "yarıyıl izni hangi durumlarda verilir?",
+      "context": "madde 19– (1) kayıtlı öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle...",
+      "predicted": "yarıyıl izni hangi durumlarda verilir? madde 19 – ( 1 ) kayıtlı öğrenciler sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle...",
+      "actual": "sağlık, askerlik, yurt içi veya yurt dışı yükseköğrenim kurumlarında eğitim, maddi, ailevi ve olağan dışı durumlar nedeniyle",
+      "confidence": 1.7937990427017212,
+      "exact_match": 0,
+      "f1_score": 0.5957446808510638
+    },
+    {
+      "question": "değişim programları nasıl yürütülür?",
+      "context": "madde 20– (2) değişim programları ilgili mevzuat hükümleri çerçevesinde senato tarafından belirlenen esaslara göre yürütülür.",
+      "predicted": "senato tarafından belirlenen esaslara göre yürütülür.",
+      "actual": "i̇lgili mevzuat hükümleri çerçevesinde senato tarafından belirlenen esaslara göre",
+      "confidence": 3.725187301635742,
+      "exact_match": 0,
+      "f1_score": 0.6666666666666667
+    },
+    {
+      "question": "yaz öğretimi hangi yönetmelik çerçevesinde gerçekleştirilir?",
+      "context": "madde 21– (5) yaz öğretimi, 7/3/2021 tarihli ve 31416 sayılı resmî gazete’de yayımlanan gebze teknik üniversitesi yaz öğretimi yönetmeliği çerçevesinde gerçekleştirilir.",
+      "predicted": "gebze teknik üniversitesi yaz öğretimi yönetmeliği çerçevesinde gerçekleştirilir.",
+      "actual": "7/3/2021 tarihli ve 31416 sayılı resmî gazete’de yayımlanan gebze teknik üniversitesi yaz öğretimi yönetmeliği çerçevesinde",
+      "confidence": 3.2350940704345703,
+      "exact_match": 0,
+      "f1_score": 0.608695652173913
+    },
+    {
+      "question": "ders bilgi formu ne zaman duyurulur?",
+      "context": "madde 22– (1) derslerin işlenişi, devam durumu, değerlendirme ölçütleri ve içeriği yarıyıl başında ilgili öğretim elemanı tarafından hazırlanan ders bilgi formu ile öğrencilere duyurulur.",
+      "predicted": "ilgili öğretim elemanı tarafından hazırlanan ders bilgi formu ile öğrencilere duyurulur.",
+      "actual": "yarıyıl başında",
+      "confidence": 3.159947156906128,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "teorik derslerde devam zorunluluğu nedir?",
+      "context": "madde 23– (1) teorik derslerde en az %70, laboratuvar ve uygulamalı derslerde en az %80 devam zorunluluğu aranır.",
+      "predicted": "en az % 70, laboratuvar ve uygulamalı derslerde en az % 80 devam zorunluluğu aranır.",
+      "actual": "en az %70",
+      "confidence": 2.9203133583068848,
+      "exact_match": 0,
+      "f1_score": 0.2222222222222222
+    },
+    {
+      "question": "ders değerlendirme ölçütleri nasıl belirlenir?",
+      "context": "madde 24– (1) öğrencinin bir dersteki başarısı, ders bilgi formunda belirtilen değerlendirme ölçütlerine göre belirlenir.",
+      "predicted": "ders bilgi formunda belirtilen değerlendirme ölçütlerine göre belirlenir.",
+      "actual": "ders bilgi formunda belirtilen değerlendirme ölçütlerine göre",
+      "confidence": 3.507453203201294,
+      "exact_match": 0,
+      "f1_score": 0.9333333333333333
+    },
+    {
+      "question": "sınavlar hangi günlerde yapılmaz?",
+      "context": "madde 25– (4) resmî tatil günlerinde sınav yapılmaz.",
+      "predicted": "",
+      "actual": "resmî tatil günlerinde",
+      "confidence": 2.2581965923309326,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "öğrencilere verilen notlar ve işaretler nelerdir?",
+      "context": "madde 26– (1) öğrencilere verilen notlar ve işaretler aşağıda gösterilmiştir: a) ex (muaf), b) na (devamsız-başarısız), c) nc (kredisiz/ortalama dışı), ç) s (yeterli), d) u (yetersiz), e) vf (yetersiz-başarısız)",
+      "predicted": "",
+      "actual": "ex (muaf), na (devamsız-başarısız), nc (kredisiz/ortalama dışı), s (yeterli), u (yetersiz), vf (yetersiz-başarısız)",
+      "confidence": 2.775742530822754,
+      "exact_match": 0,
+      "f1_score": 0
+    },
+    {
+      "question": "bir dersi başarı ile tamamlamak için hangi notlar alınmalıdır?",
+      "context": "madde 27– (1) bir dersi başarı ile tamamlamak için o dersten cc ve üstü veya s notu almak gerekir.",
+      "predicted": "o dersten cc ve üstü veya s notu almak gerekir.",
+      "actual": "cc ve üstü veya s notu",
+      "confidence": 2.956587314605713,
+      "exact_match": 0,
+      "f1_score": 0.7499999999999999
+    },
+    {
+      "question": "not itirazı nasıl yapılır?",
+      "context": "madde 28– (1) öğrenci, yarıyıl içi sınav sonuçlarına, notun ilan edilmesinden itibaren 5 iş günü içerisinde ilgili bölüm başkanlığına yazılı olarak başvurup itiraz edebilir.",
+      "predicted": "ilgili bölüm başkanlığına yazılı olarak başvurup itiraz edebilir.",
+      "actual": "notun ilan edilmesinden itibaren 5 iş günü içerisinde ilgili bölüm başkanlığına yazılı olarak",
+      "confidence": 3.498342990875244,
+      "exact_match": 0,
+      "f1_score": 0.4761904761904762
+    },
+    {
+      "question": "mazeret sınavı hakkı nasıl verilir?",
+      "context": "madde 29– (1) haklı ve geçerli nedenlerle sınavlarına giremeyen öğrencilere, ilgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte kullanılmak üzere mazeret sınav hakkı verilir.",
+      "predicted": "ilgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte",
+      "actual": "i̇lgili yönetim kurulu kararlarıyla aynı yarıyıl içinde dersi veren öğretim elemanının belirleyeceği gün ve saatte",
+      "confidence": 3.655806064605713,
+      "exact_match": 0,
+      "f1_score": 0.9333333333333333
+    },
+    {
+      "question": "ağırlıklı yarıyıl not ortalaması nasıl hesaplanır?",
+      "context": "madde 30– (1) ağırlıklı yarıyıl not ortalaması, öğrencinin belirli bir yarıyılda aldığı derslerin kredilerinin 4’lük sistemdeki notları ile çarpılması sonucu elde edilecek sayılar toplamının başarı notu ex, nc, s, u olan dersler hariç krediler toplamına bölünmesi ile bulunacak değerdir.",
+      "predicted": "başarı notu ex, nc, s, u olan dersler hariç krediler toplamına bölünmesi ile",
+      "actual": "derslerin kredilerinin 4’lük sistemdeki notları ile çarpılması sonucu elde edilecek sayılar toplamının, başarı notu ex, nc, s, u olan dersler hariç krediler toplamına bölünmesi ile",
+      "confidence": 3.567229747772217,
+      "exact_match": 0,
+      "f1_score": 0.6842105263157895
+    },
+    {
+      "question": "onur öğrencisi kimlerdir?",
+      "context": "madde 31– (1) kayıtlı olduğu sekiz dönem içinde mezun olan ve genel not ortalaması 3,00-3,49 arasında olan öğrenciler onur öğrencisi olarak mezun olurlar.",
+      "predicted": "genel not ortalaması 3, 00 - 3, 49 arasında olan öğrenciler onur öğrencisi olarak mezun olurlar.",
+      "actual": "kayıtlı olduğu sekiz dönem içinde mezun olan ve genel not ortalaması 3,00-3,49 arasında olan öğrenciler",
+      "confidence": 3.250762462615967,
+      "exact_match": 0,
+      "f1_score": 0.45161290322580644
+    }
+  ]
+}

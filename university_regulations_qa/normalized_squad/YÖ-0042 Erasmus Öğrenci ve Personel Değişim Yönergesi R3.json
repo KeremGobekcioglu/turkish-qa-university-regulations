@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0042 Erasmus Öğrenci ve Personel Değişim Yönergesi R3",
+      "paragraphs": [
+        {
+          "context": "madde 4.4- öğrencinin gtü yabancı diller bölümü tarafından yapılan yabancı dil sınavından 100 tam not üzerinden en az 70 puan alması veya ösym tarafından yapılan ve eşdeğerliği kabul edilen bir sınavdan 70 muadili bir puan alması gerekmektedir.",
+          "qas": [
+            {
+              "question": "erasmus programına başvuracak öğrenciler için gereken minimum yabancı dil puanı nedir?",
+              "answers": [
+                {
+                  "text": "100 üzerinden en az 70 puan veya muadili.",
+                  "answer_start": 101
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 4.7- ders verme ve eğitim alma hareketliliğinde faaliyet süresi seyahat hariç en az 2 (iki) iş günü ve en fazla 2 (iki) ay olarak belirlenmiştir. ders verme hareketliliğinde en az haftalık 8 (sekiz) ders saati faaliyet gerçekleştirilmiş olması gerekmektedir.",
+          "qas": [
+            {
+              "question": "ders verme hareketliliğinde minimum haftalık ders saati kaçtır?",
+              "answers": [
+                {
+                  "text": "en az 8 (sekiz) ders saati.",
+                  "answer_start": 188
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.4- program kapsamında giden öğrencilere/personele, toplam hibe miktarının %80'i hareketlilik öncesinde ödenir. kalan hibe miktarı dönüşte teslim edilen katılım sertifikasına istinaden hesaplanır.",
+          "qas": [
+            {
+              "question": "hibe ödemesinin yüzde kaçı hareketlilik öncesinde ödenir?",
+              "answers": [
+                {
+                  "text": "%80'i.",
+                  "answer_start": 82
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.2- ulusal ajans'ın uygulama el kitabı uyarınca öğrencilerin bir dönemde 30 akts eşdeğerinde ders almaları tavsiye edilir.",
+          "qas": [
+            {
+              "question": "bir dönemde kaç akts ders alınması tavsiye edilir?",
+              "answers": [
+                {
+                  "text": "30 akts.",
+                  "answer_start": 80
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 5.7- erasmus+ personel hareketliliğinden faydalanacak akademik ve idari personelin bir yabancı dil sınavından alması gerekli asgari dil puanları şöyledir: ders verme hareketliliği: öğretim üyeleri/elemanları: 80 (yds ve eşdeğeri)",
+          "qas": [
+            {
+              "question": "ders verme hareketliliği için öğretim üyelerinin alması gereken minimum dil puanı nedir?",
+              "answers": [
+                {
+                  "text": "80 (yds ve eşdeğeri).",
+                  "answer_start": 215
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 4.1- i̇ngilizce hazırlık sınıfı öğrencileri başvuru yapamaz.",
+          "qas": [
+            {
+              "question": "i̇ngilizce hazırlık sınıfı öğrencileri erasmus programına başvurabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, başvuru yapamazlar.",
+                  "answer_start": 40
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.10- öğrenciler yurt dışında okudukları süre zarfında gtü'ye ödemekle yükümlü oldukları katkı payı veya öğrenim ücretini ödemeye devam ederler. öğrenciler anadal kayıtlarını dondurmazlar.",
+          "qas": [
+            {
+              "question": "erasmus'a giden öğrenciler gtü'deki öğrenim ücretlerini ödemeye devam eder mi?",
+              "answers": [
+                {
+                  "text": "evet, ödemeye devam ederler.",
+                  "answer_start": 128
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.20- tez önerisi, tez ilerleme raporu ve tez teslimi yapacak lisansüstü öğrenciler akademik takvimde belirtilen süreler dikkate alınmadan erasmus katılım sertifikasında (confirmation letter) belirtilen eğitim bitiş tarihinden itibaren 1 ay içerisinde tez önerilerini, tez ilerleme raporlarını veya tez teslim işlemlerini yapmak zorundadır.",
+          "qas": [
+            {
+              "question": "lisansüstü öğrenciler tez ile ilgili işlemleri ne kadar süre içinde yapmalıdır?",
+              "answers": [
+                {
+                  "text": "eğitim bitiş tarihinden itibaren 1 ay içerisinde.",
+                  "answer_start": 209
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.6- öğrencinin/personelin yurt dışındaki hareketliliğini herhangi bir nedenle bırakması, çalışmalarını tamamlayamaması veya öğrenim anlaşmasında belirlenen ders programının en az üçte ikisinde başarılı olamaması durumunda kalan ödemesinin kısmen veya tamamen yapılmaması veya yapılmış bulunan ödemenin iadesinin istenmesi hakkı saklıdır.",
+          "qas": [
+            {
+              "question": "öğrencinin ders programının en az ne kadarında başarılı olması gerekir?",
+              "answers": [
+                {
+                  "text": "en az üçte ikisinde.",
+                  "answer_start": 180
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.24- öğrencinin yurt dışından getirdiği not dökümünde (transkript) bir ders için harf notu yerine 'pass' (geçti) ifadesi olması durumunda, not dönüşümünde bu ifade aa olarak kabul edilir.",
+          "qas": [
+            {
+              "question": "yurt dışından getirilen transkriptte 'pass' notu neye dönüştürülür?",
+              "answers": [
+                {
+                  "text": "bir ders için harf notu yerine 'pass' (geçti) ifadesi olması durumunda, not dönüşümünde bu ifade aa olarak kabul edilir.",
+                  "answer_start": 74
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 5.7- i̇dari personel için: 50 (gtü yabancı diller bölümü tarafından yapılan sınavın sonucu veya ösym tarafından yapılan sınavın sonucu kullanılabilir.)",
+          "qas": [
+            {
+              "question": "i̇dari personel için gereken minimum yabancı dil puanı nedir?",
+              "answers": [
+                {
+                  "text": "50.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.27- lisansüstü öğrencilerinin öğrenim hareketlilikleri boyunca karşı kurumdan aldıkları dersler, gtü'de tamamlamakla yükümlü oldukları derslerden (seminer ve uzmanlık alan dersi hariç) en fazla 3 (üç) tanesine sayılır.",
+          "qas": [
+            {
+              "question": "lisansüstü öğrencileri karşı kurumdan aldıkları dersleri gtü'de en fazla kaç derse saydırabilir?",
+              "answers": [
+                {
+                  "text": "en fazla 3 (üç) derse.",
+                  "answer_start": 192
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.5- hibe, kesintiye (vergi, sosyal güvenlik ve/veya diğer sosyal giderler, idari yönetim veya kayıt ücreti) tabi tutulmaksızın koordinatörlük aracılığı ile avro olarak ödenir.",
+          "qas": [
+            {
+              "question": "hibe ödemesi hangi para birimi ile yapılır?",
+              "answers": [
+                {
+                  "text": "avro olarak.",
+                  "answer_start": 163
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 3.1- erasmus+ programı kapsamında öğrenci ve personel ders verme hareketliliği yapılabilmesi için öncelikle kurumlar arası anlaşmanın yapılmış olması ve anlaşmanın öğrenci/personel seçim süreci için belirlenen başvuru ilan tarihinden önce koordinatörlüğe sunulmuş olması gerekmektedir.",
+          "qas": [
+            {
+              "question": "ders verme hareketliliği için öncelikle ne gereklidir?",
+              "answers": [
+                {
+                  "text": "kurumlar arası anlaşmanın yapılmış olması ve başvuru ilan tarihinden önce koordinatörlüğe sunulmuş olması.",
+                  "answer_start": 175
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.21- eğitim alma/ders verme hareketliliği gerçekleştiren personelin faaliyet sonunda katılım sertifikası (confirmation letter) ibraz etmesi zorunludur. sertifika ibrazında bulunmayan personele hibe ödemesi yapılmaz; varsa yapılmış olan ödemelerin iadesi alınır.",
+          "qas": [
+            {
+              "question": "personel hareketliliği sonunda ne ibraz edilmelidir?",
+              "answers": [
+                {
+                  "text": "katılım sertifikası (confirmation letter).",
+                  "answer_start": 92
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.22- staj hareketliliğine katılan lisans öğrencilerinin hareketliliği, fakülte yönetim kurulu kararı ile tanınır. staj hareketliliğine katılan lisansüstü öğrencilerinin hareketliliği, koordinatörlük tarafından öğrenci i̇şleri daire başkanlığına gönderilecek katılım sertifikası ile tanınarak diploma ekinin açıklamalar kısmına işlenir.",
+          "qas": [
+            {
+              "question": "lisans ve lisansüstü öğrencilerinin staj hareketliliği nasıl tanınır?",
+              "answers": [
+                {
+                  "text": "lisans öğrencileri için fakülte yönetim kurulu kararı ile, lisansüstü öğrencileri için katılım sertifikası ile diploma ekine işlenerek.",
+                  "answer_start": 94
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.20- doktora yeterlilik sınavına girip, ilk hakkında başarısız olan doktora öğrencileri ikinci haklarını kullanacakları dönemde erasmus değişim programından yararlanamazlar.",
+          "qas": [
+            {
+              "question": "doktora yeterlilik sınavında başarısız olan öğrenciler ikinci haklarını kullanacakları dönemde erasmus'a başvurabilirler mi?",
+              "answers": [
+                {
+                  "text": "hayır, yararlanamazlar.",
+                  "answer_start": 164
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.9- erasmus programı çerçevesinde yurtdışına gidecek öğrenciler, yurt dışında bulundukları dönemde farklı fakültelerden alacakları yandal ve çift anadal eğitimleri için izinli sayılırlar ve hakları saklı kalır.",
+          "qas": [
+            {
+              "question": "erasmus'a giden öğrencilerin yandal ve çift anadal hakları ne olur?",
+              "answers": [
+                {
+                  "text": "i̇zinli sayılırlar ve hakları saklı kalır.",
+                  "answer_start": 176
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 5.5- değerlendirme sonuçları ilan edildikten sonra öğrencilere yerleştirildiği üniversiteyi onaylamak veya hakkından vazgeçmek için bir süre tanınır. bu süre başvuru ilanında öğrencilere duyurulur.",
+          "qas": [
+            {
+              "question": "yerleştirme sonuçları sonrasında öğrencilere ne için süre tanınır?",
+              "answers": [
+                {
+                  "text": "yerleştirildiği üniversiteyi onaylamak veya hakkından vazgeçmek için.",
+                  "answer_start": 69
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 5.1- başvurular, rektörlük tarafından görevlendirilen erasmus kurum koordinatörünün başkanlığında üye sayısı tek sayıda olmak üzere en az 3 kişiden oluşturulan komisyon tarafından değerlendirmeye alınır.",
+          "qas": [
+            {
+              "question": "başvuruları değerlendiren komisyon en az kaç kişiden oluşur?",
+              "answers": [
+                {
+                  "text": "üye sayısı tek sayıda olmak üzere en az 3 kişiden.",
+                  "answer_start": 104
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.17- öğrenim anlaşması gereğince alınıp başarısız olunan dersler ff olarak gtü öğrenci bilgi sistemi'ne işlenir. not dökümünde notu bulunmayan ve başarısız olarak belgelenemeyen dersler na olarak gtü öğrenci bilgi sistemi'ne işlenir.",
+          "qas": [
+            {
+              "question": "başarısız olunan dersler sisteme nasıl işlenir?",
+              "answers": [
+                {
+                  "text": "ff olarak, notu bulunmayan ve başarısız olarak belgelenemeyen dersler na olarak işlenir.",
+                  "answer_start": 111
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.18- lisansüstü öğrencisi seminer veya uzmanlık alan dersinin eşdeğerini gittiği üniversitede alabilir. öğrencilerin yurt dışında uzmanlık alan dersinin onaylanmış eşdeğerini alabilmeleri için tez konularını gtü'de belirlemiş olmaları gerekir.",
+          "qas": [
+            {
+              "question": "lisansüstü öğrencilerin yurt dışında uzmanlık alan dersi alabilmeleri için ne gerekir?",
+              "answers": [
+                {
+                  "text": "tez konularını gtü'de belirlemiş olmaları gerekir.",
+                  "answer_start": 200
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 4.5- bir önceki proje döneminde seçilmesine rağmen hibe yetersizliğinden veya başka sebeplerle gönderilemeyen öğrencinin/personelin hakları bir sonraki projeye 'kazanılmış hak' olarak devredilemez.",
+          "qas": [
+            {
+              "question": "bir önceki dönemde seçilip gidemeyen öğrencilerin hakları bir sonraki döneme devredilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, 'kazanılmış hak' olarak devredilemez.",
+                  "answer_start": 166
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.8- her öğrenci/personel, değişim hibesi almadan önce koordinatörlük ile bir hibe sözleşmesi imzalar. hibe sözleşmesini, kurum yasal temsilcisi adına erasmus kurum koordinatörü imzalar.",
+          "qas": [
+            {
+              "question": "hibe sözleşmesini kurum adına kim imzalar?",
+              "answers": [
+                {
+                  "text": "erasmus kurum koordinatörü.",
+                  "answer_start": 157
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 5.7- eğitim alma hareketliliği: öğretim üyeleri/elemanları dil eğitimi için: 65 (yds ve eşdeğeri)",
+          "qas": [
+            {
+              "question": "öğretim üyelerinin dil eğitimi için eğitim alma hareketliliğinde gereken minimum dil puanı nedir?",
+              "answers": [
+                {
+                  "text": "65 (yds ve eşdeğeri).",
+                  "answer_start": 83
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.26- bir derse karşılık olarak alınan derslerin herhangi birinden başarısız olunması hâlinde gtü'deki ders ff olarak gtü öğrenci bilgi sistemi'ne işlenir.",
+          "qas": [
+            {
+              "question": "birden fazla dersin bir derse karşılık geldiği durumda, derslerden birinden başarısız olunursa ne olur?",
+              "answers": [
+                {
+                  "text": "gtü'deki ders ff olarak sisteme işlenir.",
+                  "answer_start": 153
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.12- üniversite, yüksek öğrenim kredi ve yurtlar kurumuna bağlı yurtlarda barınan öğrencilerin yurtdışında bulundukları süre zarfında barınma haklarının korunması için gerekli girişimlerde bulunur.",
+          "qas": [
+            {
+              "question": "kyk yurtlarında kalan öğrencilerin yurt hakları için üniversite ne yapar?",
+              "answers": [
+                {
+                  "text": "barınma haklarının korunması için gerekli girişimlerde bulunur.",
+                  "answer_start": 141
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.13- erasmus değişim programına katılan öğrenciler gittikleri üniversitenin her döneminin sonunda, aldıkları derslere ilişkin not dökümlerini gtü'ye göndermek zorundadır.",
+          "qas": [
+            {
+              "question": "öğrenciler dönem sonunda ne göndermek zorundadır?",
+              "answers": [
+                {
+                  "text": "aldıkları derslere ilişkin not dökümlerini.",
+                  "answer_start": 106
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 6.24- öğrencinin yurt dışından getirdiği not dökümünde (transkript) bir ders için harf notu yerine 'fail' (kaldı) ifadesi olması durumunda, not dönüşümünde bu ifade ff olarak kabul edilir.",
+          "qas": [
+            {
+              "question": "'fail' notu gtü sisteminde neye dönüştürülür?",
+              "answers": [
+                {
+                  "text": "bir ders için harf notu yerine 'fail' (kaldı) ifadesi olması durumunda, not dönüşümünde bu ifade ff olarak kabul edilir.",
+                  "answer_start": 74
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- bu yönerge hükümlerini gtü rektörü yürütür.",
+          "qas": [
+            {
+              "question": "yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gtü rektörü.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+normalized_squad\merged_dataset.json140Warning: Answer not found in context for QA ID 140
+Context: madde 14: öğrenciler staj yaptıkları kuruluşun çalışma düzenine, kural, talimat ve emirlerine uymak, daimî personel gibi iş yerinin ticari, sosyal ve kültürel faaliyetlerine katılmak ve yöneticilerin verdikleri mesleki eğitimle ilgili görevleri yapmak zorundadırlar.
+Answer: kuruluşun çalışma düzenine uymak, faaliyetlere katılmak ve verilen mesleki görevleri yapmak.
+
+normalized_squad\merged_dataset.json143Warning: Answer not found in context for QA ID 143
+Context: madde 9: i̇lk değerlendirme sonucunda öğrencinin stajı başarılı olarak kabul edilir ya da evraklar 'eksik' ibaresi ile tamamlanmak üzere öğrenciye iade edilir.
+Answer: i̇ki sonuç olabilir: başarılı kabul veya eksik evrakların tamamlanması için iade.
+
+normalized_squad\merged_dataset.json148Warning: Answer not found in context for QA ID 148
+Context: madde 7: resmî tatil günlerindeki çalışmalar staj süresi olarak kabul edilmez.
+Answer: hayır, sayılmaz.
+
+normalized_squad\merged_dataset.json173Warning: Answer not found in context for QA ID 173
+Context: madde 8- (5) öğrenciler stajlarına ancak sigorta girişleri tamamlandıktan sonra başlayabileceklerdir. sigorta girişleri yapılmadan işletmede yapılan çalışmalar staj süresinden sayılmayacaktır.
+Answer: hayır, sayılmaz.
+
+normalized_squad\merged_dataset.json180Warning: Answer not found in context for QA ID 180
+Context: madde 13- (2) 15 günlük ek sürenin sonunda staj komisyonu, eksikleri tamamlanmış olması gereken evrakı ikinci ve son kez değerlendirmeye alır, bu değerlendirme sonunda öğrencinin yapmış olduğu staj kabul veya reddedilir.
+Answer: i̇ki seçenek: kabul veya ret.
+
+normalized_squad\merged_dataset.json394Warning: Answer not found in context for QA ID 394
+Context: madde 5- (1) gtü'ye diğer yükseköğretim programlarından geçişte her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki, 51 ve 100 arası olan programlarda üç, 101 ve üzerinde olan diploma programlarında ise dört, kurumlar arası yatay geçiş kontenjanı yükseköğretim kurulu tarafından belirlenir.
+Answer: üç kişi.
+
+normalized_squad\merged_dataset.json401Warning: Answer not found in context for QA ID 401
+Context: madde 5- (1) gtü'ye diğer yükseköğretim programlarından geçişte her yıl düzenli olarak ikinci ve üçüncü sınıflar için, ösym giriş genel kontenjanı 50 ve 50'den az olan diploma programlarında iki...
+Answer: i̇ki kişi.
+
+normalized_squad\merged_dataset.json406Warning: Answer not found in context for QA ID 406
+Context: madde 11- yatay geçiş yapan öğrencinin toplam öğrenim süresi ayrıldığı programda okuduğu süre de dâhil olmak üzere gtü ön lisans/lisans eğitim ve öğretim yönetmeliği'nde belirtilen süre kadardır.
+Answer: evet, dahildir.
+
+normalized_squad\merged_dataset.json488Warning: Answer not found in context for QA ID 488
+Context: madde 12: gtü personeli, üniversite bünyesinde kurulmuş olan topluluklara fahri üye olabilir ancak üniversite öğrencileri dışındaki diğer üyeler seçme ve seçilme hakkına sahip değildir.
+Answer: hayır, yoktur.
+
+normalized_squad\merged_dataset.json567Warning: Answer not found in context for QA ID 567
+Context: madde 19- f/e/rbb öğrenci temsilcisi b/p/a öğrenci temsilcilerince, kendi aralarından, seçime katılanların salt çoğunluğuyla ve iki yıl için seçilir.
+Answer: bölüm/program/anabilim dalı öğrenci temsilcilerince, salt çoğunlukla ve iki yıl için.
+
+normalized_squad\merged_dataset.json581Warning: Answer not found in context for QA ID 581
+Context: madde 6.24- öğrencinin yurt dışından getirdiği not dökümünde (transkript) bir ders için harf notu yerine 'pass' (geçti) ifadesi olması durumunda, not dönüşümünde bu ifade aa olarak kabul edilir.
+Answer: aa'ya dönüştürülür.
+
+normalized_squad\merged_dataset.json600Warning: Answer not found in context for QA ID 600
+Context: madde 6.24- öğrencinin yurt dışından getirdiği not dökümünde (transkript) bir ders için harf notu yerine 'fail' (kaldı) ifadesi olması durumunda, not dönüşümünde bu ifade ff olarak kabul edilir.
+Answer: ff'ye dönüştürülür.
+

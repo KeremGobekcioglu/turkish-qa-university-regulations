@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0004 Çift Anadal Programı Yönergesi R2",
+      "paragraphs": [
+        {
+          "context": "madde 1- (1) çift ana dal programının (çap) amacı, ana dal ön lisans veya lisans programını (öss ile kazandığı bölüm) üstün başarıyla yürüten öğrencilerin aynı zamanda ikinci bir dalda (çift ana dal) ön lisans veya lisans diploması almak üzere öğrenim görmelerini sağlamaktır.",
+          "qas": [
+            {
+              "question": "çift ana dal programının amacı nedir?",
+              "answers": [
+                {
+                  "text": "ana dal ön lisans veya lisans programını üstün başarıyla yürüten öğrencilerin aynı zamanda ikinci bir dalda ön lisans veya lisans diploması almak üzere öğrenim görmelerini sağlamaktır.",
+                  "answer_start": 200
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) çap kontenjanları akademik takvimde belirtilen başvuru tarihlerinden 15 gün önce ilan edilir.",
+          "qas": [
+            {
+              "question": "çap kontenjanları ne zaman ilan edilir?",
+              "answers": [
+                {
+                  "text": "akademik takvimde belirtilen başvuru tarihlerinden 15 gün önce",
+                  "answer_start": 31
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (1) öğrenci ilan edilmiş olan çift ana dal programına, ana dal ön lisans için 2. veya 3. yarıyılın başında, ana dal lisans programının 3. veya 5. yarıyılın başında başvurabilir.",
+          "qas": [
+            {
+              "question": "öğrenci çift ana dal programına hangi dönemlerde başvurabilir?",
+              "answers": [
+                {
+                  "text": "ana dal ön lisans için 2. veya 3. yarıyılın başında, ana dal lisans programının 3. veya 5. yarıyılın başında",
+                  "answer_start": 64
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (3) öğrencinin başvurusu sırasındaki genel not ortalamasının en az 3.00 olması gereklidir.",
+          "qas": [
+            {
+              "question": "çap başvurusu için gereken minimum not ortalaması nedir?",
+              "answers": [
+                {
+                  "text": "en az 3.00",
+                  "answer_start": 70
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (1) çift ana dal programı ön lisans programları için 60 akts, lisans programları için 120 akts krediden az olamaz.",
+          "qas": [
+            {
+              "question": "çift ana dal programı için gereken minimum akts kredisi nedir?",
+              "answers": [
+                {
+                  "text": "ön lisans programları için 60 akts, lisans programları için 120 akts",
+                  "answer_start": 35
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- (1) öğrenci, aynı anda birden fazla çift ana dal programına kayıt yaptıramaz. ancak, aynı anda çift ana dal diploma ile yan dal programına kayıt yapılabilir.",
+          "qas": [
+            {
+              "question": "öğrenci aynı anda kaç çift ana dal programına kayıt yaptırabilir?",
+              "answers": [
+                {
+                  "text": "birden fazla çift ana dal programına kayıt yaptıramaz",
+                  "answer_start": 32
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- (1) öğrencinin çift ana dal programından mezun olabilmesi için ana dal programındaki genel not ortalamasının en az 2,72 olması gerekir.",
+          "qas": [
+            {
+              "question": "çift ana dal programından mezun olmak için gereken minimum not ortalaması nedir?",
+              "answers": [
+                {
+                  "text": "ana dal programındaki genel not ortalamasının en az 2,72",
+                  "answer_start": 73
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- (1) tüm çift ana dal öğrenimi süresince öğrencinin ana dal programındaki genel not ortalaması bir defaya mahsus olmak üzere 2,50'ye kadar düşebilir.",
+          "qas": [
+            {
+              "question": "ana dal programındaki genel not ortalaması en düşük kaça kadar düşebilir?",
+              "answers": [
+                {
+                  "text": "bir defaya mahsus olmak üzere 2,50'ye kadar",
+                  "answer_start": 104
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- (1) çift ana dal programından iki dönem üst üste ders almayan öğrencinin çift ana dal diploma programından kaydı silinir.",
+          "qas": [
+            {
+              "question": "hangi durumda öğrencinin çift ana dal programından kaydı silinir?",
+              "answers": [
+                {
+                  "text": "iki dönem üst üste ders almayan öğrencinin",
+                  "answer_start": 40
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 14- (1) öğrenci çift ana dal programından ayrıldığında, başarısız olduğu çift ana dal programı derslerini tekrarlamak zorunda değildir.",
+          "qas": [
+            {
+              "question": "çift ana dal programından ayrılan öğrenci başarısız olduğu dersleri tekrarlamak zorunda mıdır?",
+              "answers": [
+                {
+                  "text": "tekrarlamak zorunda değildir",
+                  "answer_start": 112
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- (1) çift ana dal programında hem ana dal hem de çift ana dala ait varsa bitirme çalışmaları ile varsa farklı türdeki pratik çalışmaların yapılması zorunludur.",
+          "qas": [
+            {
+              "question": "çift ana dal programında hangi çalışmaların yapılması zorunludur?",
+              "answers": [
+                {
+                  "text": "hem ana dal hem de çift ana dala ait varsa bitirme çalışmaları ile varsa farklı türdeki pratik çalışmaların",
+                  "answer_start": 39
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 16- (1) ana dal programında mezuniyet hakkını elde eden ve 2,72 ortalaması olan, çift ana dal programını en az 2.00 ortalama ile tamamlayan öğrenciye çift ana dal lisans diploması verilir.",
+          "qas": [
+            {
+              "question": "çift ana dal lisans diploması almak için gereken şartlar nelerdir?",
+              "answers": [
+                {
+                  "text": "ana dal programında mezuniyet hakkını elde eden ve 2,72 ortalaması olan, çift ana dal programını en az 2.00 ortalama ile tamamlamak",
+                  "answer_start": 13
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- (1) öğrenci çift ana dal programını, ana dal ve çift ana dal programlarını öğrenci işleri daire başkanlığına yazılı olarak başvurmak yoluyla kendi isteği ile bırakabilir.",
+          "qas": [
+            {
+              "question": "öğrenci çift ana dal programını nasıl bırakabilir?",
+              "answers": [
+                {
+                  "text": "öğrenci işleri daire başkanlığına yazılı olarak başvurmak yoluyla kendi isteği ile",
+                  "answer_start": 85
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- (2) ana dal programında izinli sayılan öğrenci, otomatik olarak çift ana dal programında da izinli sayılır.",
+          "qas": [
+            {
+              "question": "ana dal programında izinli olan öğrencinin çift ana dal programındaki durumu ne olur?",
+              "answers": [
+                {
+                  "text": "otomatik olarak çift ana dal programında da izinli sayılır",
+                  "answer_start": 58
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 19- (1) çap'a tabi olan öğrenciler, ana dal programından mezun oluncaya kadar sadece bu ana dala ait, mezun olduktan sonra ise sadece çift ana dal programına ait öğrenci katkı payını cezasız öderler.",
+          "qas": [
+            {
+              "question": "çap öğrencileri hangi programa ait katkı payı öderler?",
+              "answers": [
+                {
+                  "text": "ana dal programından mezun oluncaya kadar sadece bu ana dala ait, mezun olduktan sonra ise sadece çift ana dal programına ait",
+                  "answer_start": 42
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- (1) başvurular, adayların genel not ortalaması, farklı puan türlerindeki programlara geçiş için merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak ve ayrılan kontenjana göre değerlendirilir.",
+          "qas": [
+            {
+              "question": "çap başvuruları hangi kriterlere göre değerlendirilir?",
+              "answers": [
+                {
+                  "text": "adayların genel not ortalaması, farklı puan türlerindeki programlara geçiş için merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı",
+                  "answer_start": 25
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (2) çap için başvuruları kabul edilen öğrenciler, yedekleri ile birlikte kayıtlardan bir hafta önce ilan edilir.",
+          "qas": [
+            {
+              "question": "çap başvurusu kabul edilen öğrenciler ne zaman ilan edilir?",
+              "answers": [
+                {
+                  "text": "kayıtlardan bir hafta önce",
+                  "answer_start": 82
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- (1) öğrencinin çift ana dal programındaki başarı/başarısızlık durumu, ana dal programındaki başarısı ve mezuniyetini hiçbir biçimde etkilemez.",
+          "qas": [
+            {
+              "question": "çift ana dal programındaki başarı durumu neyi etkilemez?",
+              "answers": [
+                {
+                  "text": "ana dal programındaki başarısı ve mezuniyetini hiçbir biçimde etkilemez",
+                  "answer_start": 79
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (1) öğrenciler, çift ana dal programı öğrenimleri süresince öğrencisi bulundukları çift ana dal bölümünün öğretim planında bulunan derslere karşılık gelen toplam kredinin en az % 30 unun, %100 ingilizce bölümlerde tamamını ingilizce verilen derslerden almak zorundadır.",
+          "qas": [
+            {
+              "question": "çift ana dal programında ingilizce ders alma zorunluluğu nedir?",
+              "answers": [
+                {
+                  "text": "toplam kredinin en az % 30 unun, %100 ingilizce bölümlerde tamamını ingilizce verilen derslerden almak zorundadır",
+                  "answer_start": 164
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 16- (1) çift ana dal programından mezuniyet hakkını elde eden öğrenciye, ana dal programından mezuniyet hakkını elde etmeden çift ana dal programının lisans diploması verilmez.",
+          "qas": [
+            {
+              "question": "çift ana dal diploması ne zaman verilmez?",
+              "answers": [
+                {
+                  "text": "ana dal programından mezuniyet hakkını elde etmeden",
+                  "answer_start": 79
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 16- (1) çift ana dal programında başarılı olamayan, ancak aynı bölümde açılmış yan dal programı derslerini tamamlamış bulunan öğrenciye, öğrencinin isteği hâlinde yan dal sertifikası verilir.",
+          "qas": [
+            {
+              "question": "hangi durumda öğrenciye yan dal sertifikası verilir?",
+              "answers": [
+                {
+                  "text": "çift ana dal programında başarılı olamayan, ancak aynı bölümde açılmış yan dal programı derslerini tamamlamış bulunan öğrenciye, öğrencinin isteği hâlinde",
+                  "answer_start": 14
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 18- (1) çap öğrenimi sırasında ana dal programından mezun olan öğrencinin öğrencilik işlemleri çift ana dal programına ait fakülte tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "ana dal programından mezun olan çap öğrencisinin işlemlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "çift ana dal programına ait fakülte",
+                  "answer_start": 101
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 19- (1) yüksek lisans programına kayıt oldukları takdirde ayrıca yüksek lisans öğrenci katkı payını da öderler.",
+          "qas": [
+            {
+              "question": "yüksek lisans programına kayıt olan çap öğrencileri ne öder?",
+              "answers": [
+                {
+                  "text": "yüksek lisans öğrenci katkı payını",
+                  "answer_start": 71
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 20- (1) başka bir üniversitede veya yüksek teknoloji üniversitesinde çift ana dal programına kayıtlı olan bir öğrenci, kendi ana dalında üniversitemize yatay geçiş yaptığında; çift ana dal programında da öğrenci olmak istemesi hâlinde bu yönergenin hükümleri uygulanır.",
+          "qas": [
+            {
+              "question": "başka üniversiteden yatay geçiş yapan çap öğrencileri için ne uygulanır?",
+              "answers": [
+                {
+                  "text": "bu yönergenin hükümleri",
+                  "answer_start": 241
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (1) çift ana dal programı uygulayan bölümler, öğrenci kabul edecekleri diğer bölümler için ayrı ayrı çap ders programlarını bölüm kurulu kararı ile belirlerler.",
+          "qas": [
+            {
+              "question": "çap ders programları nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "bölüm kurulu kararı ile",
+                  "answer_start": 133
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- (1) çift ana dal programının amacına uygun biçimde yürütülmesini sağlamak üzere ilgili bölüm başkanınca bir çift ana dal programı koordinatörü atanır.",
+          "qas": [
+            {
+              "question": "çift ana dal programı koordinatörü kim tarafından atanır?",
+              "answers": [
+                {
+                  "text": "ilgili bölüm başkanınca",
+                  "answer_start": 89
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- (4) ana dal diploma programındaki genel not ortalaması 4.00 üzerinden 3.00 olan ancak ana dal diploma programının ilgili sınıfında başarı sıralaması itibari ile en üst %20 de yer almayan öğrencilerden çift ana dal yapılacak programın ilgili yıldaki taban puanından az olmamak üzere puana sahip olanlar da çift ana dal programına başvuru yapabilir.",
+          "qas": [
+            {
+              "question": "başarı sıralamasında üst %20'de olmayan öğrenciler hangi durumda başvurabilir?",
+              "answers": [
+                {
+                  "text": "ana dal diploma programındaki genel not ortalaması 4.00 üzerinden 3.00 olan ve çift ana dal yapılacak programın ilgili yıldaki taban puanından az olmamak üzere puana sahip olanlar",
+                  "answer_start": 210
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- (2) kabul edilen öğrenciler kayıt haftası içerisinde her iki ana dala da kayıt yaptırırlar.",
+          "qas": [
+            {
+              "question": "kabul edilen öğrenciler ne zaman kayıt yaptırırlar?",
+              "answers": [
+                {
+                  "text": "kayıt haftası içerisinde",
+                  "answer_start": 37
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 23- (1) bu yönerge, gebze teknik üniversitesi senatosu'nda onaylandığı tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "yönerge ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosu'nda onaylandığı tarihte",
+                  "answer_start": 26
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 24- (1) bu yönergeyi, gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "question": "yönergeyi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü",
+                  "answer_start": 28
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

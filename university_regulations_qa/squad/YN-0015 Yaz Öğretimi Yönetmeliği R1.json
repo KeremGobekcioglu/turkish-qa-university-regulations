@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "Gebze Teknik Üniversitesi Yaz Öğretimi Yönetmeliği",
+      "paragraphs": [
+        {
+          "context": "MADDE 1 – (1) Bu Yönetmeliğin amacı, Gebze Teknik Üniversitesinde bir öğretim yılının güz ve bahar yarıyıllarına ek olarak yaz aylarında yürütülen ön lisans-lisans programları yaz öğretimi ile ilgili usul ve esasları düzenlemektir.",
+          "qas": [
+            {
+              "id": 1,
+              "question": "Bu yönetmeliğin amacı nedir?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesinde bir öğretim yılının güz ve bahar yarıyıllarına ek olarak yaz aylarında yürütülen ön lisans-lisans programları yaz öğretimi ile ilgili usul ve esasları düzenlemektir.",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 2 – (1) Bu Yönetmelik, Gebze Teknik Üniversitesinde yaz öğretimi ön lisans-lisans programlarında uygulanacak hükümleri kapsar.",
+          "qas": [
+            {
+              "id": 2,
+              "question": "Bu yönetmelik neyi kapsar?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesinde yaz öğretimi ön lisans-lisans programlarında uygulanacak hükümleri kapsar.",
+                  "answer_start": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 3 – (1) Bu Yönetmelik; 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve ek 26 ncı maddelerine dayanılarak hazırlanmıştır.",
+          "qas": [
+            {
+              "id": 3,
+              "question": "Bu yönetmelik hangi kanuna dayanılarak hazırlanmıştır?",
+              "answers": [
+                {
+                  "text": "4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanununun 14 üncü ve ek 26 ncı maddelerine dayanılarak hazırlanmıştır.",
+                  "answer_start": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: a) Üniversitenin öğretim imkânlarını yaz aylarında da değerlendirmek.",
+          "qas": [
+            {
+              "id": 4,
+              "question": "Yaz öğretiminin amaçlarından biri nedir?",
+              "answers": [
+                {
+                  "text": "Üniversitenin öğretim imkânlarını yaz aylarında da değerlendirmek.",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: b) Öğrencilerin güz ve/veya bahar yarıyıllarında alıp da başarısız oldukları, devam edemedikleri ya da çeşitli nedenlerden dolayı döneminde alamadıkları dersleri, yaz döneminde almalarına olanak sağlamak.",
+          "qas": [
+            {
+              "id": 5,
+              "question": "Yaz öğretimi hangi öğrencilere olanak sağlar?",
+              "answers": [
+                {
+                  "text": "Öğrencilerin güz ve/veya bahar yarıyıllarında alıp da başarısız oldukları, devam edemedikleri ya da çeşitli nedenlerden dolayı döneminde alamadıkları dersleri, yaz döneminde almalarına olanak sağlamak.",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 6 – (1) Yaz öğretiminde ders açılması, derslere kayıt, derslerin başlangıç ve bitişi, sınavlar ve diğer ilgili hususlar Senato tarafından belirlenecek akademik takvime göre yürütülür.",
+          "qas": [
+            {
+              "id": 6,
+              "question": "Yaz öğretimi hangi takvime göre yürütülür?",
+              "answers": [
+                {
+                  "text": "Senato tarafından belirlenecek akademik takvime göre",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 7 – (1) Yaz öğretiminde, normal bir dönemdeki ders saati kadar ders yapılır. Yaz öğretiminin süresi, bu dönemde yapılacak yarıyıl sonu sınavlar hariç yedi haftadır.",
+          "qas": [
+            {
+              "id": 7,
+              "question": "Yaz öğretiminin süresi ne kadardır?",
+              "answers": [
+                {
+                  "text": "Yedi haftadır",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 8 – (1) Yaz öğretiminde eğitim-öğretim faaliyetinin yürütülmesi 21/11/2023 tarihli ve 32376 sayılı Resmî Gazete’de yayımlanan Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinde belirlenen esaslara göre yapılır.",
+          "qas": [
+            {
+              "id": 8,
+              "question": "Yaz öğretiminde eğitim-öğretim faaliyeti hangi esaslara göre yapılır?",
+              "answers": [
+                {
+                  "text": "21/11/2023 tarihli ve 32376 sayılı Resmî Gazete’de yayımlanan Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliğinde belirlenen esaslara göre",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 9 – (1) Bir öğretim elemanı yaz öğretimi ön lisans-lisans eğitim-öğretim programlarında yer alan derslerden en fazla iki ders verebilir.",
+          "qas": [
+            {
+              "id": 9,
+              "question": "Bir öğretim elemanı yaz öğretiminde en fazla kaç ders verebilir?",
+              "answers": [
+                {
+                  "text": "En fazla iki ders",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 10 – (1) Yaz öğretiminde açılması öngörülen dersler, ilgili birim kurullarının önerileri doğrultusunda Senato onayından sonra öğrencilere duyurulur.",
+          "qas": [
+            {
+              "id": 10,
+              "question": "Yaz öğretiminde açılması öngörülen dersler nasıl duyurulur?",
+              "answers": [
+                {
+                  "text": "İlgili birim kurullarının önerileri doğrultusunda Senato onayından sonra",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: a) Ders alacak öğrenci yaz öğretimi ilanında belirtilen usule göre Üniversitenin Öğrenci İşleri Dairesi Başkanlığına müracaat eder.",
+          "qas": [
+            {
+              "id": 11,
+              "question": "Yaz öğretiminde ders almak isteyen öğrenci nereye müracaat eder?",
+              "answers": [
+                {
+                  "text": "Üniversitenin Öğrenci İşleri Dairesi Başkanlığına",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: b) Müracaat sırasında öğrenci almak istediği derslerin ücretini yatırmış olmak ve dekontunu teslim etmek zorundadır.",
+          "qas": [
+            {
+              "id": 12,
+              "question": "Yaz öğretiminde ders almak için öğrenci ne yapmalıdır?",
+              "answers": [
+                {
+                  "text": "Almak istediği derslerin ücretini yatırmış olmak ve dekontunu teslim etmek",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 12 – (1) Yaz öğretiminde açılacak derslere kesin kayıt yaptıracak öğrenci, her yıl ilgili mevzuat hükümlerince Üniversite Yönetim Kurulu tarafından belirlenen ders saati ücretini öder.",
+          "qas": [
+            {
+              "id": 13,
+              "question": "Yaz öğretiminde derslere kayıt yaptıracak öğrenci ne öder?",
+              "answers": [
+                {
+                  "text": "Üniversite Yönetim Kurulu tarafından belirlenen ders saati ücretini",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 13 – (1) Her ders için yaz öğretimi başında dersi veren öğretim elemanı tarafından öğrenciye bildirilen program çerçevesinde sınavlar yapılır.",
+          "qas": [
+            {
+              "id": 14,
+              "question": "Yaz öğretiminde sınavlar nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "Dersi veren öğretim elemanı tarafından öğrenciye bildirilen program çerçevesinde",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 14 – (1) Yaz öğretiminde ders alan öğrencilerin başarı durumları Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği hükümlerine göre belirlenir.",
+          "qas": [
+            {
+              "id": 15,
+              "question": "Yaz öğretiminde öğrencilerin başarı durumları nasıl belirlenir?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği hükümlerine göre",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 15 – (1) Bu Yönetmelikte hüküm bulunmayan hallerde Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği ve ilgili diğer mevzuat hükümleri uygulanır.",
+          "qas": [
+            {
+              "id": 16,
+              "question": "Bu yönetmelikte hüküm bulunmayan hallerde ne uygulanır?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği ve ilgili diğer mevzuat hükümleri",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 16 – (1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.",
+          "qas": [
+            {
+              "id": 17,
+              "question": "Bu yönetmelik ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "Yayımı tarihinde",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 17 – (1) Bu Yönetmelik hükümlerini Gebze Teknik Üniversitesi Rektörü yürütür.",
+          "qas": [
+            {
+              "id": 18,
+              "question": "Bu yönetmelik hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "Gebze Teknik Üniversitesi Rektörü",
+                  "answer_start": 44
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: c) Bölüm veya programlardaki başarısız öğrenci yığılmalarını gidererek, eğitim-öğretimin verimliliğini artırmak.",
+          "qas": [
+            {
+              "id": 19,
+              "question": "Yaz öğretimi eğitim-öğretimin verimliliğini nasıl artırır?",
+              "answers": [
+                {
+                  "text": "Bölüm veya programlardaki başarısız öğrenci yığılmalarını gidererek",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: ç) Diğer üniversitelerin öğrencilerine de Üniversitede açılacak dersleri alma olanağı vermek.",
+          "qas": [
+            {
+              "id": 20,
+              "question": "Yaz öğretimi diğer üniversite öğrencilerine ne sağlar?",
+              "answers": [
+                {
+                  "text": "Üniversitede açılacak dersleri alma olanağı",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: d) Yaz aylarında görevlendirme ile yararlanılabilecek diğer üniversitelerdeki öğretim elemanlarının da Üniversiteye katkısını sağlamak.",
+          "qas": [
+            {
+              "id": 21,
+              "question": "Yaz öğretimi diğer üniversitelerdeki öğretim elemanlarına ne sağlar?",
+              "answers": [
+                {
+                  "text": "Üniversiteye katkısını sağlamak",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: e) Çift anadal ve yandal lisans programlarına kayıtlı öğrencilerin de ders almalarına olanak sağlamak.",
+          "qas": [
+            {
+              "id": 22,
+              "question": "Yaz öğretimi çift anadal ve yandal öğrencilerine ne sağlar?",
+              "answers": [
+                {
+                  "text": "Ders almalarına olanak sağlamak",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 5 – (1) Yaz öğretimin amaçları şunlardır: f) Öğrencilerin, üst yarıyıl derslerini alarak, daha kısa sürede mezun olabilmelerine olanak sağlamaktır.",
+          "qas": [
+            {
+              "id": 23,
+              "question": "Yaz öğretimi öğrencilerin daha kısa sürede mezun olmalarına nasıl olanak sağlar?",
+              "answers": [
+                {
+                  "text": "Üst yarıyıl derslerini alarak",
+                  "answer_start": 66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: c) Yaz öğretiminde Üniversiteden ve/veya üniversite dışından derslerin birbiri ile çakışmaması koşuluyla bir yaz döneminde en fazla 15 AKTS, diğer üniversitelerden öğrenim süresince toplamda 30 AKTS kredisini aşmayacak şekilde ders alınabilir.",
+          "qas": [
+            {
+              "id": 24,
+              "question": "Yaz öğretiminde en fazla kaç AKTS alınabilir?",
+              "answers": [
+                {
+                  "text": "Bir yaz döneminde en fazla 15 AKTS, diğer üniversitelerden öğrenim süresince toplamda 30 AKTS",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: ç) Yaz öğretiminde öğrenci alt dönemlerden başarısız dersi olmaması koşuluyla bir üst dönemden ders alabilir.",
+          "qas": [
+            {
+              "id": 25,
+              "question": "Yaz öğretiminde öğrenci hangi koşulla bir üst dönemden ders alabilir?",
+              "answers": [
+                {
+                  "text": "Alt dönemlerden başarısız dersi olmaması koşuluyla",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: d) Sınamalı öğrenciler yeni ders alamazlar. Ancak başarısız veya başarılı oldukları dersleri not yükseltmek amacıyla yeniden alabilirler.",
+          "qas": [
+            {
+              "id": 26,
+              "question": "Sınamalı öğrenciler yaz öğretiminde ne yapamazlar?",
+              "answers": [
+                {
+                  "text": "Yeni ders alamazlar",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: e) Yaz öğretiminde ders ekleme-çıkarma ve dersten çekilme işlemleri uygulanmaz.",
+          "qas": [
+            {
+              "id": 27,
+              "question": "Yaz öğretiminde hangi işlemler uygulanmaz?",
+              "answers": [
+                {
+                  "text": "Ders ekleme-çıkarma ve dersten çekilme işlemleri",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: f) Öğrencinin, yaz öğretimi ile staj günlerinin çakışması veya sağlık sorunlarının oluşması halinde ilk hafta içerisinde Üniversitenin Öğrenci İşleri Dairesi Başkanlığına dilekçe ile başvurulması ve durumun belgelendirilmesi koşuluyla, öğrencinin yaz öğretimi ders kaydı silinir ve ücreti iade edilir.",
+          "qas": [
+            {
+              "id": 28,
+              "question": "Yaz öğretimi ders kaydı hangi durumda silinir?",
+              "answers": [
+                {
+                  "text": "Yaz öğretimi ile staj günlerinin çakışması veya sağlık sorunlarının oluşması halinde",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 11 – (1) Yaz öğretiminde ders alma aşağıdaki esaslara göre yapılır: g) Müfredatında İngilizce olan bir ders farklı bir dilde alınamaz.",
+          "qas": [
+            {
+              "id": 29,
+              "question": "Müfredatında İngilizce olan bir ders hangi dilde alınamaz?",
+              "answers": [
+                {
+                  "text": "Farklı bir dilde",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "context": "MADDE 12 – (1) Yaz öğretiminde açılacak derslere kesin kayıt yaptıracak öğrenci, her yıl ilgili mevzuat hükümlerince Üniversite Yönetim Kurulu tarafından belirlenen ders saati ücretini öder.",
+          "qas": [
+            {
+              "id": 30,
+              "question": "Yaz öğretiminde ders saati ücreti kim tarafından belirlenir?",
+              "answers": [
+                {
+                  "text": "Üniversite Yönetim Kurulu",
+                  "answer_start": 98
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

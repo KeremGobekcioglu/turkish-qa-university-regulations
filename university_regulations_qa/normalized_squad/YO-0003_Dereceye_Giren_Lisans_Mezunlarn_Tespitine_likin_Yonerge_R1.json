@@ -1,0 +1,474 @@
+{
+  "data": [
+    {
+      "title": "YO-0003_Dereceye_Giren_Lisans_Mezunlarn_Tespitine_likin_Yonerge_R1",
+      "paragraphs": [
+        {
+          "context": "madde 1 - bu yönergenin amacı, gebze teknik üniversitesi lisans programlarında kayıtlı öğrencilerin veya mezunların başarı sıralamalarına ilişkin koşullar ile ilgili esasları düzenlemektir.",
+          "qas": [
+            {
+              "question": "bu yönergenin amacı nedir?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi lisans programlarında kayıtlı öğrencilerin veya mezunların başarı sıralamalarına ilişkin koşullar ile ilgili esasları düzenlemektir.",
+                  "answer_start": 31
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- bu yönerge, gebze teknik üniversitesi lisans programlarında kayıtlı öğrenciler ile mezunların başarı sıralamalarına ilişkin koşulları ve verilecek belgelerle ilgili hükümleri kapsar.",
+          "qas": [
+            {
+              "question": "bu yönerge hangi konuları kapsar?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi lisans programlarında kayıtlı öğrenciler ile mezunların başarı sıralamalarına ilişkin koşulları ve verilecek belgelerle ilgili hükümleri kapsar.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- sıralama, mezuniyet ağırlıklı genel not ortalamasına (agno) göre ve ilk üç derece için bölüm bazında yapılır.",
+          "qas": [
+            {
+              "question": "lisans mezunlarının sıralaması nasıl yapılır?",
+              "answers": [
+                {
+                  "text": "mezuniyet ağırlıklı genel not ortalamasına (agno) göre ve ilk üç derece için bölüm bazında yapılır.",
+                  "answer_start": 19
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – öğrencilerin mezuniyet başarı sırasında aşağıda belirtilen koşullar aranır: a) lisans programlarından mezun olanlar için en fazla dört yıl içerisinde mezun olmak.",
+          "qas": [
+            {
+              "question": "lisans programlarından mezun olmak için süre sınırı nedir?",
+              "answers": [
+                {
+                  "text": "en fazla dört yıl içerisinde mezun olmaktır.",
+                  "answer_start": 128
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – öğrencilerin mezuniyet başarı sırasında aşağıda belirtilen koşullar aranır: b) lisans programındaki öğrenimlerinin en az 4 yarıyılını ilgili fakülte/bölümde tamamlamış olmak.",
+          "qas": [
+            {
+              "question": "başarı sıralamasına girmek için lisans programındaki öğrenim süresinin en az kaç yarıyılı ilgili fakültede tamamlanmalıdır?",
+              "answers": [
+                {
+                  "text": "en az 4 yarıyıl.",
+                  "answer_start": 125
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – öğrencilerin mezuniyet başarı sırasında aşağıda belirtilen koşullar aranır: c) stajını dönem sonu sınav tarihinin son günü mesai sonuna kadar tamamlamış olmak.",
+          "qas": [
+            {
+              "question": "stajın hangi tarihe kadar tamamlanmış olması gerekir?",
+              "answers": [
+                {
+                  "text": "dönem sonu sınav tarihinin son günü mesai sonuna kadar tamamlanmış olması gerekir.",
+                  "answer_start": 87
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – öğrencilerin mezuniyet başarı sırasında aşağıda belirtilen koşullar aranır: d) bahar yarıyılı dönem sonu sınavlarının bitiminde hesaplanan ağırlıklı genel not ortalamasına göre mezuniyet hakkı kazanmış olmak.",
+          "qas": [
+            {
+              "question": "mezuniyet hakkı kazanmak için hangi dönemin ağırlıklı genel not ortalaması dikkate alınır?",
+              "answers": [
+                {
+                  "text": "bahar yarıyılı dönem sonu sınavlarının bitiminde hesaplanan ağırlıklı genel not ortalaması dikkate alınır.",
+                  "answer_start": 86
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – öğrencilerin mezuniyet başarı sırasında aşağıda belirtilen koşullar aranır: e) uyarma ve kınama cezası hariç, disiplin cezası almamış olmak.",
+          "qas": [
+            {
+              "question": "başarı sıralamasına girmek için hangi tür cezalar alınmamış olmalıdır?",
+              "answers": [
+                {
+                  "text": "uyarma ve kınama cezası hariç, disiplin cezası almamış olmalıdır.",
+                  "answer_start": 85
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- çift anadal öğrencilerinden çift anadal programında dereceye girme koşullarını sağlayanlar da listeye alınırlar. ancak sınıf ve dönemi ana dalın başlangıcına göre hesaplanır.",
+          "qas": [
+            {
+              "question": "çift anadal öğrencilerinin başarı sıralamasındaki dönemi neye göre hesaplanır?",
+              "answers": [
+                {
+                  "text": "ana dalın başlangıcına göre hesaplanır.",
+                  "answer_start": 144
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 6– dereceye girenlerden, aynı ağırlıklı genel not ortalamasını paylaşanlar, aynı derece ile listeye alınırlar.",
+          "qas": [
+            {
+              "question": "aynı ağırlıklı genel not ortalamasını paylaşan öğrenciler hangi derece ile listeye alınır?",
+              "answers": [
+                {
+                  "text": "aynı derece ile listeye alınırlar.",
+                  "answer_start": 82
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 6– dereceye girenlerden birden fazla birinci, ikinci veya üçüncü olabilir.",
+          "qas": [
+            {
+              "question": "birden fazla öğrencinin aynı derecede olması mümkün müdür?",
+              "answers": [
+                {
+                  "text": "evet, birden fazla birinci, ikinci veya üçüncü olabilir.",
+                  "answer_start": 30
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "mad",
+          "qas": [
+            {
+              "question": "",
+              "answers": [
+                {
+                  "text": "",
+                  "answer_start": 0
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 7– dereceye girenlerin tespiti gebze teknik üniversitesi öğrenci i̇şleri dairesi başkanlığı tarafından yapılır.",
+          "qas": [
+            {
+              "question": "dereceye giren öğrencilerin tespiti kim tarafından yapılır?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi öğrenci i̇şleri dairesi başkanlığı tarafından yapılır.",
+                  "answer_start": 37
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- dereceye giren öğrencilerin listesi gtü web sayfasında ilan edilir.",
+          "qas": [
+            {
+              "question": "dereceye giren öğrencilerin listesi nerede ilan edilir?",
+              "answers": [
+                {
+                  "text": "gtü web sayfasında ilan edilir.",
+                  "answer_start": 45
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- dereceye giren mezunların ödülleri doğrudan, mümkün olmazsa posta ile kendilerine ulaştırılır.",
+          "qas": [
+            {
+              "question": "dereceye giren mezunların ödülleri nasıl ulaştırılır?",
+              "answers": [
+                {
+                  "text": "doğrudan veya mümkün olmazsa posta ile ulaştırılır.",
+                  "answer_start": 91
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 10– bu yönerge, gebze teknik üniversitesi senatosu tarafından onaylandığı tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "bu yönerge ne zaman yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosu tarafından onaylandığı tarihte yürürlüğe girer.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 11– bu yönerge gebze teknik üniversitesi rektörü tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "bu yönergeyi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – öğrencilerin mezuniyet başarı sırasında aşağıda belirtilen koşullar aranır: b) lisans programındaki öğrenimlerinin en az 4 yarıyılını ilgili fakülte/bölümde tamamlamış olmak.",
+          "qas": [
+            {
+              "question": "başarı sıralamasında yer alabilmek için fakülte/bölümde en az kaç yarıyıl tamamlanmalıdır?",
+              "answers": [
+                {
+                  "text": "en az 4 yarıyılını ilgili fakülte/bölümde tamamlamış olmak.",
+                  "answer_start": 125
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- sıralama, mezuniyet ağırlıklı genel not ortalamasına (agno) göre ve ilk üç derece için bölüm bazında yapılır.",
+          "qas": [
+            {
+              "question": "lisans mezunlarının sıralaması hangi kriterlere göre yapılır?",
+              "answers": [
+                {
+                  "text": "mezuniyet ağırlıklı genel not ortalamasına (agno) göre ve ilk üç derece için bölüm bazında yapılır.",
+                  "answer_start": 19
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- çift anadal öğrencilerinden çift anadal programında dereceye girme koşullarını sağlayanlar da listeye alınırlar.",
+          "qas": [
+            {
+              "question": "çift anadal öğrencileri başarı sıralamasına girebilir mi?",
+              "answers": [
+                {
+                  "text": "evet, çift anadal programında dereceye girme koşullarını sağlayanlar listeye alınır.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – mezuniyet başarı sıralamasına girmek için uyarma ve kınama cezası dışında disiplin cezası almamış olmak gereklidir.",
+          "qas": [
+            {
+              "question": "başarı sıralamasına girmek için hangi cezalar dışında ceza almamış olmak gerekir?",
+              "answers": [
+                {
+                  "text": "uyarma ve kınama cezası dışında ceza almamış olmak gerekir.",
+                  "answer_start": 52
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 6– dereceye girenlerden aynı ağırlıklı genel not ortalamasını paylaşanlar aynı derece ile listeye alınır.",
+          "qas": [
+            {
+              "question": "aynı ağırlıklı genel not ortalamasını paylaşan öğrenciler sıralamada nasıl yer alır?",
+              "answers": [
+                {
+                  "text": "aynı derece ile listeye alınır.",
+                  "answer_start": 80
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- dereceye giren öğrencilerin listesi gtü web sayfasında ilan edilir.",
+          "qas": [
+            {
+              "question": "dereceye giren öğrencilerin listesi hangi platformda ilan edilir?",
+              "answers": [
+                {
+                  "text": "gtü web sayfasında ilan edilir.",
+                  "answer_start": 45
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- dereceye giren mezunların ödülleri doğrudan veya posta ile ulaştırılır.",
+          "qas": [
+            {
+              "question": "dereceye giren mezunların ödülleri hangi yöntemle ulaştırılır?",
+              "answers": [
+                {
+                  "text": "doğrudan veya posta ile ulaştırılır.",
+                  "answer_start": 44
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 10– bu yönerge gebze teknik üniversitesi senatosu tarafından onaylandığı tarihte yürürlüğe girer.",
+          "qas": [
+            {
+              "question": "bu yönerge hangi şartla yürürlüğe girer?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosu tarafından onaylandığı tarihte yürürlüğe girer.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 7– dereceye girenlerin tespiti gebze teknik üniversitesi öğrenci i̇şleri dairesi başkanlığı tarafından yapılır.",
+          "qas": [
+            {
+              "question": "dereceye giren öğrencilerin tespiti hangi birim tarafından yapılır?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi öğrenci i̇şleri dairesi başkanlığı tarafından yapılır.",
+                  "answer_start": 37
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 4 – başarı sıralamasına girmek için öğrencinin stajını tamamlamış olması gerekir.",
+          "qas": [
+            {
+              "question": "başarı sıralamasına girmek için öğrencinin hangi koşulu sağlaması gerekir?",
+              "answers": [
+                {
+                  "text": "stajını tamamlamış olması gerekir.",
+                  "answer_start": 53
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- sıralama, mezuniyet ağırlıklı genel not ortalamasına (agno) göre yapılır.",
+          "qas": [
+            {
+              "question": "başarı sıralaması hangi nota göre yapılır?",
+              "answers": [
+                {
+                  "text": "mezuniyet ağırlıklı genel not ortalamasına (agno) göre yapılır.",
+                  "answer_start": 19
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 6– aynı dereceye sahip birden fazla öğrenci olabilir.",
+          "qas": [
+            {
+              "question": "bir dereceye birden fazla öğrenci sahip olabilir mi?",
+              "answers": [
+                {
+                  "text": "evet, birden fazla öğrenci aynı dereceye sahip olabilir.",
+                  "answer_start": 50
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 11– bu yönerge gebze teknik üniversitesi rektörü tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "bu yönergenin yürütülmesinden kim sorumludur?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü.",
+                  "answer_start": 21
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- çift anadal öğrencileri ana dalın başlangıcına göre sınıflandırılır.",
+          "qas": [
+            {
+              "question": "çift anadal öğrencilerinin sıralaması neye göre yapılır?",
+              "answers": [
+                {
+                  "text": "ana dalın başlangıcına göre sınıflandırılır.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "31"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

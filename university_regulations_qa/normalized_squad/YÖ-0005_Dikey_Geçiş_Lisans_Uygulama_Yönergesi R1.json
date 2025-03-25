@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0005_Dikey_Geçiş_Lisans_Uygulama_Yönergesi R1",
+      "paragraphs": [
+        {
+          "context": "madde 1- (1) bu yönergenin amacı gebze teknik üniversitesi'nde ösym tarafından yapılan merkezi dikey geçiş sınavı sonucuna göre dikey geçiş yapan öğrencilere uygulanacak lisans öğrenimi uygulama i̇lkelerini belirlemektir.",
+          "qas": [
+            {
+              "question": "bu yönergenin amacı nedir?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi'nde ösym tarafından yapılan merkezi dikey geçiş sınavı sonucuna göre dikey geçiş yapan öğrencilere uygulanacak lisans öğrenimi uygulama i̇lkelerini belirlemektir.",
+                  "answer_start": 33
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) dikey geçiş yoluyla kayıt yaptıran öğrenciler öncelikle i̇ngilizce muafiyet sınavına alınırlar.",
+          "qas": [
+            {
+              "question": "dikey geçiş yapan öğrenciler ilk olarak hangi sınava girerler?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce muafiyet sınavına alınırlar.",
+                  "answer_start": 69
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) muafiyet sınavını başaranlar lisans öğrenimine alınırlar.",
+          "qas": [
+            {
+              "question": "hangi öğrenciler lisans öğrenimine başlayabilir?",
+              "answers": [
+                {
+                  "text": "muafiyet sınavını başaranlar lisans öğrenimine alınırlar.",
+                  "answer_start": 13
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) başarısız öğrenciler ise bir yıl zorunlu olan i̇ngilizce hazırlık sınıfına devam ettikten sonra i̇ngilizce muafiyet sınavında başarılı olurlar ise lisans öğrenimine başlarlar.",
+          "qas": [
+            {
+              "question": "muafiyet sınavında başarısız olan öğrenciler ne yaparlar?",
+              "answers": [
+                {
+                  "text": "bir yıl zorunlu olan i̇ngilizce hazırlık sınıfına devam ederler.",
+                  "answer_start": 37
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) başarılı olamayan öğrencilere bir yıl daha i̇ngilizce muafiyet sınavından geçebilmesi için süre verilir.",
+          "qas": [
+            {
+              "question": "hazırlık sınıfında başarısız olan öğrencilere ne kadar ek süre verilir?",
+              "answers": [
+                {
+                  "text": "bir yıl daha süre verilir.",
+                  "answer_start": 104
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) bu süre zarfında öğrenci derslere devam edemez. sadece lisans i̇ngilizce yeterlik sınavlarına girebilir.",
+          "qas": [
+            {
+              "question": "ek süre verilen öğrenci ne yapabilir?",
+              "answers": [
+                {
+                  "text": "sadece lisans i̇ngilizce yeterlik sınavlarına girebilir.",
+                  "answer_start": 61
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) bu süre sonunda da başarılı olamayan öğrencilerin üniversite ile ilişiği kesilir.",
+          "qas": [
+            {
+              "question": "ek süre sonunda da başarılı olamayan öğrencilere ne olur?",
+              "answers": [
+                {
+                  "text": "üniversite ile ilişiği kesilir.",
+                  "answer_start": 63
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (2) lisans eğitimi ve öğrenimine başlama hakkı elde eden öğrencilerin ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer kabul edilenler için muafiyet verilir.",
+          "qas": [
+            {
+              "question": "hangi derslerden muafiyet verilir?",
+              "answers": [
+                {
+                  "text": "ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer kabul edilenler için muafiyet verilir.",
+                  "answer_start": 79
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 4. (1) sınavlar ve değerlendirme, dönem sonu başarı notları ve sınav sonuçlarına itiraz gtü lisans eğitim ve öğretim yönetmeliğinin ilgili maddelerine göre yürütülür.",
+          "qas": [
+            {
+              "question": "sınavlar ve değerlendirmeler hangi yönetmeliğe göre yapılır?",
+              "answers": [
+                {
+                  "text": "gtü lisans eğitim ve öğretim yönetmeliğinin ilgili maddelerine göre yürütülür.",
+                  "answer_start": 94
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 7. (1) bu yönerge hükümlerini, gebze teknik üniversitesi rektörü yürütür.",
+          "qas": [
+            {
+              "question": "bu yönergeyi kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü yürütür.",
+                  "answer_start": 37
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) gerek birinci yıl gerekse ikinci yıl sonunda başarısız olan öğrenciler isterlerse, i̇ngilizce öğretimin zorunlu olmadığı üniversitelere yerleştirilmek için öğrenci seçme ve yerleştirme merkezine başvuru yapabilirler.",
+          "qas": [
+            {
+              "question": "başarısız olan öğrenciler hangi alternatife sahiptir?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce öğretimin zorunlu olmadığı üniversitelere yerleştirilmek için öğrenci seçme ve yerleştirme merkezine başvuru yapabilirler.",
+                  "answer_start": 96
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (2) lisans eğitimi ve öğrenimine başlama hakkı elde eden öğrencilerin ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer kabul edilenler için ilgili muafiyet ve i̇ntibak komisyonlarının değerlendirmesi ve ilgili birim yönetim kurullarının kararı ile muafiyet verilir.",
+          "qas": [
+            {
+              "question": "ders muafiyeti nasıl verilir?",
+              "answers": [
+                {
+                  "text": "ilgili muafiyet ve i̇ntibak komisyonlarının değerlendirmesi ve ilgili birim yönetim kurullarının kararı ile muafiyet verilir.",
+                  "answer_start": 163
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 6. (1) bu yönerge gebze teknik üniversitesi senatosu'nun 08.09.2011 tarih ve 2011/23 oturum sayılı kararı ile yürürlüğe girmiştir.",
+          "qas": [
+            {
+              "question": "bu yönerge ne zaman yürürlüğe girmiştir?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosu'nun 08.09.2011 tarih ve 2011/23 oturum sayılı kararı ile yürürlüğe girmiştir.",
+                  "answer_start": 24
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) bu süre zarfında öğrenci derslere devam edemez.",
+          "qas": [
+            {
+              "question": "ek süre verilen öğrenci derslere devam edebilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, derslere devam edemez.",
+                  "answer_start": 38
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 5. (1) 13.06.2007 tarih ve 2007/09 oturum sayılı üniversite senatosu kararı ile yürürlüğe giren gtü dikey geçiş lisans uygulama yönergesi ve değişiklikleri bu yönerge ile yürürlükten kaldırılmıştır.",
+          "qas": [
+            {
+              "question": "hangi yönerge yürürlükten kaldırılmıştır?",
+              "answers": [
+                {
+                  "text": "gtü dikey geçiş lisans uygulama yönergesi ve değişiklikleri.",
+                  "answer_start": 102
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- (1) bu yönerge yükseköğretim kurulu başkanlığı'nın 29.07.2011 tarih ve 28009 sayılı resmi gazete'de yayımlanarak yürürlüğe giren meslek yüksekokulları ve açıköğretim önlisans programı mezunlarının lisans öğrenimine devamları hakkında yönetmelik'in 9. maddesi temel alınarak hazırlanmıştır.",
+          "qas": [
+            {
+              "question": "bu yönerge hangi yönetmeliğe dayanarak hazırlanmıştır?",
+              "answers": [
+                {
+                  "text": "meslek yüksekokulları ve açıköğretim önlisans programı mezunlarının lisans öğrenimine devamları hakkında yönetmelik'in 9. maddesi temel alınarak hazırlanmıştır.",
+                  "answer_start": 138
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) dikey geçiş yoluyla kayıt yaptıran öğrenciler öncelikle i̇ngilizce muafiyet sınavına alınırlar. muafiyet sınavını başaranlar lisans öğrenimine alınırlar.",
+          "qas": [
+            {
+              "question": "lisans öğrenimine başlamak için hangi sınavda başarılı olmak gerekir?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce muafiyet sınavında başarılı olmak gerekir.",
+                  "answer_start": 55
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) başarılı olamayan öğrencilere bir yıl daha i̇ngilizce muafiyet sınavından geçebilmesi için süre verilir. bu süre zarfında öğrenci derslere devam edemez.",
+          "qas": [
+            {
+              "question": "ek süre verilen öğrenciler bu sürede ne yapamazlar?",
+              "answers": [
+                {
+                  "text": "derslere devam edemezler.",
+                  "answer_start": 140
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) bu süre sonunda da başarılı olamayan öğrencilerin üniversite ile ilişiği kesilir.",
+          "qas": [
+            {
+              "question": "kaç yıl sonunda başarılı olamayan öğrencilerin üniversite ile ilişiği kesilir?",
+              "answers": [
+                {
+                  "text": "iki yıl sonunda başarılı olamayan öğrencilerin üniversite ile ilişiği kesilir.",
+                  "answer_start": 32
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (2) lisans eğitimi ve öğrenimine başlama hakkı elde eden öğrencilerin ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer kabul edilenler için muafiyet verilir.",
+          "qas": [
+            {
+              "question": "hangi dersler için muafiyet verilebilir?",
+              "answers": [
+                {
+                  "text": "ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer kabul edilenler için.",
+                  "answer_start": 79
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) sadece lisans i̇ngilizce yeterlik sınavlarına girebilir.",
+          "qas": [
+            {
+              "question": "ek süre verilen öğrenciler hangi sınava girebilir?",
+              "answers": [
+                {
+                  "text": "sadece lisans i̇ngilizce yeterlik sınavlarına girebilir.",
+                  "answer_start": 13
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) gerek birinci yıl gerekse ikinci yıl sonunda başarısız olan öğrenciler isterlerse, i̇ngilizce öğretimin zorunlu olmadığı üniversitelere yerleştirilmek için öğrenci seçme ve yerleştirme merkezine başvuru yapabilirler.",
+          "qas": [
+            {
+              "question": "başarısız olan öğrenciler nasıl bir tercihte bulunabilirler?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce öğretimin zorunlu olmadığı üniversitelere yerleştirilmek için öğrenci seçme ve yerleştirme merkezine başvuru yapabilirler.",
+                  "answer_start": 96
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 4. (1) sınavlar ve değerlendirme, dönem sonu başarı notları ve sınav sonuçlarına itiraz gtü lisans eğitim ve öğretim yönetmeliğinin ilgili maddelerine göre yürütülür.",
+          "qas": [
+            {
+              "question": "sınav sonuçlarına itiraz hangi yönetmeliğe göre yapılır?",
+              "answers": [
+                {
+                  "text": "gtü lisans eğitim ve öğretim yönetmeliğinin ilgili maddelerine göre yürütülür.",
+                  "answer_start": 94
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (2) lisans eğitimi ve öğrenimine başlama hakkı elde eden öğrencilerin ön lisans eğitimi sırasında almış oldukları derslerden eşdeğer kabul edilenler için ilgili muafiyet ve i̇ntibak komisyonlarının değerlendirmesi ve ilgili birim yönetim kurullarının kararı ile muafiyet verilir.",
+          "qas": [
+            {
+              "question": "ders muafiyeti kararını kimler verir?",
+              "answers": [
+                {
+                  "text": "ilgili muafiyet ve i̇ntibak komisyonlarının değerlendirmesi ve ilgili birim yönetim kurulları.",
+                  "answer_start": 163
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) dikey geçiş yoluyla kayıt yaptıran öğrenciler öncelikle i̇ngilizce muafiyet sınavına alınırlar.",
+          "qas": [
+            {
+              "question": "dikey geçiş öğrencilerinin ilk yapması gereken nedir?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce muafiyet sınavına girmek.",
+                  "answer_start": 68
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) başarısız öğrenciler ise bir yıl zorunlu olan i̇ngilizce hazırlık sınıfına devam ettikten sonra i̇ngilizce muafiyet sınavında başarılı olurlar ise lisans öğrenimine başlarlar.",
+          "qas": [
+            {
+              "question": "hazırlık sınıfını tamamlayan öğrenciler ne zaman lisans öğrenimine başlayabilir?",
+              "answers": [
+                {
+                  "text": "i̇ngilizce muafiyet sınavında başarılı olurlar ise lisans öğrenimine başlarlar.",
+                  "answer_start": 109
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) bu süre zarfında öğrenci derslere devam edemez. sadece lisans i̇ngilizce yeterlik sınavlarına girebilir.",
+          "qas": [
+            {
+              "question": "ek süre verilen öğrenciler hangi hakka sahiptir?",
+              "answers": [
+                {
+                  "text": "sadece lisans i̇ngilizce yeterlik sınavlarına girebilir.",
+                  "answer_start": 61
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 2- (1) bu yönerge yükseköğretim kurulu başkanlığı'nın 29.07.2011 tarih ve 28009 sayılı resmi gazete'de yayımlanarak yürürlüğe giren yönetmelik temel alınarak hazırlanmıştır.",
+          "qas": [
+            {
+              "question": "yönerge hangi tarihli resmi gazetede yayımlanan yönetmeliğe dayanmaktadır?",
+              "answers": [
+                {
+                  "text": "29.07.2011 tarih ve 28009 sayılı resmi gazete'de yayımlanan yönetmeliğe.",
+                  "answer_start": 59
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 6. (1) bu yönerge gebze teknik üniversitesi senatosu'nun 08.09.2011 tarih ve 2011/23 oturum sayılı kararı ile yürürlüğe girmiştir.",
+          "qas": [
+            {
+              "question": "yönerge hangi senato kararı ile yürürlüğe girmiştir?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi senatosu'nun 08.09.2011 tarih ve 2011/23 oturum sayılı kararı ile.",
+                  "answer_start": 24
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- (1) bu süre sonunda da başarılı olamayan öğrencilerin üniversite ile ilişiği kesilir.",
+          "qas": [
+            {
+              "question": "hangi durumda öğrencinin üniversite ile ilişiği kesilir?",
+              "answers": [
+                {
+                  "text": "iki yıllık süre sonunda da başarılı olamayan öğrencilerin üniversite ile ilişiği kesilir.",
+                  "answer_start": 16
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "data": [
+    {
+      "title": "YÖ-0032_Prof._Dr._Nejat_Goyunc_Kutuphanesi_Hizmetlerinden_Yararlanma_Yonergesi R1",
+      "paragraphs": [
+        {
+          "context": "madde 4- öğretim üyeleri: 15 kitap, 1 dönem; araştırma görevlileri ve okutmanlar: 10 kitap, 1 dönem; doktora ve yüksek lisans öğrencileri: 10 kitap, 35 gün; lisans öğrencileri ve idari personel: 6 kitap, 28 gün.",
+          "qas": [
+            {
+              "question": "lisans öğrencileri kaç kitabı, kaç gün süreyle ödünç alabilir?",
+              "answers": [
+                {
+                  "text": "6 kitabı, 28 gün süreyle.",
+                  "answer_start": 186
+                }
+              ],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- ödünç alınan materyalin süresi; öğretim üyelerince 4, diğer tüm kullanıcılarca 2 kez uzatılabilir.",
+          "qas": [
+            {
+              "question": "öğretim üyeleri dışındaki kullanıcılar ödünç süresini kaç kez uzatabilir?",
+              "answers": [
+                {
+                  "text": "2 kez.",
+                  "answer_start": 88
+                }
+              ],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- referans ve rezerv bölümü kitapları, süreli yayınlar ve tezler ödünç verilmez.",
+          "qas": [
+            {
+              "question": "hangi materyaller ödünç verilmez?",
+              "answers": [
+                {
+                  "text": "referans ve rezerv bölümü kitapları, süreli yayınlar ve tezler.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- ayırtılan materyal 3 gün içerisinde ödünç verme bankosundan alınmalıdır.",
+          "qas": [
+            {
+              "question": "ayırtılan materyal kaç gün içinde alınmalıdır?",
+              "answers": [
+                {
+                  "text": "3 gün içinde.",
+                  "answer_start": 24
+                }
+              ],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- bütün hatırlatmalara rağmen 60 gün içerisinde iade edilmeyen kitaplar kayıp sayılır.",
+          "qas": [
+            {
+              "question": "kitaplar kaç gün sonra kayıp sayılır?",
+              "answers": [
+                {
+                  "text": "60 gün sonra.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "context": "madde 8- kullanıcıdan, kaybettiği veya hasar verdiği materyali 1 ay içerisinde temin etmesi istenir.",
+          "qas": [
+            {
+              "question": "kaybedilen veya hasar verilen materyal kaç ay içinde temin edilmelidir?",
+              "answers": [
+                {
+                  "text": "1 ay içinde.",
+                  "answer_start": 59
+                }
+              ],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- bir kullanıcı, aynı anda en çok 10 makale isteği yapabilir.",
+          "qas": [
+            {
+              "question": "bir kullanıcı aynı anda maksimum kaç makale isteği yapabilir?",
+              "answers": [
+                {
+                  "text": "en çok 10 makale isteği.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- bir kullanıcı, aynı anda en çok 3 ödünç kitap isteği yapabilir.",
+          "qas": [
+            {
+              "question": "bir kullanıcı aynı anda maksimum kaç ödünç kitap isteği yapabilir?",
+              "answers": [
+                {
+                  "text": "en çok 3 ödünç kitap isteği.",
+                  "answer_start": 35
+                }
+              ],
+              "id": "8"
+            }
+          ]
+        },
+        {
+          "context": "madde 13- diğer üniversite ve bilimsel kuruluşların kütüphaneleri, kütüphaneden 1 ay süreyle ve bu yönergenin ilgili hükümlerine uymak koşuluyla ödünç kitap alabilir.",
+          "qas": [
+            {
+              "question": "diğer üniversite kütüphaneleri kaç ay süreyle ödünç kitap alabilir?",
+              "answers": [
+                {
+                  "text": "1 ay süreyle.",
+                  "answer_start": 80
+                }
+              ],
+              "id": "9"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- ödünç aldığı materyali süresi içinde iade etmeyen kullanıcı, sürenin bitişini izleyen her gün için 'gecikme cezası' ödemekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "gecikme cezası ne zaman başlar?",
+              "answers": [
+                {
+                  "text": "sürenin bitişini izleyen her gün için.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "10"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- üniversitenin akademik ve idari personeli ile tüm kayıtlı öğrencileri, kütüphanenin doğal üyesidirler.",
+          "qas": [
+            {
+              "question": "kimler kütüphanenin doğal üyesidir?",
+              "answers": [
+                {
+                  "text": "üniversitenin akademik ve idari personeli ile tüm kayıtlı öğrencileri.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "11"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- üzerinde gecikme cezası veya gecikmiş kitap bulunan kullanıcılar ödünç verme hizmetinden yararlanamaz.",
+          "qas": [
+            {
+              "question": "hangi durumlarda kullanıcılar ödünç verme hizmetinden yararlanamaz?",
+              "answers": [
+                {
+                  "text": "üzerinde gecikme cezası veya gecikmiş kitap bulunduğunda.",
+                  "answer_start": 2
+                }
+              ],
+              "id": "12"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- kullanıcı; süresinin dolmamış olmasına rağmen geri çağırılması daire başkanlığınca gerekli görülen materyali, en geç 3 gün içerisinde kütüphaneye iade etmekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "geri çağrılan materyal kaç gün içinde iade edilmelidir?",
+              "answers": [
+                {
+                  "text": "en geç 3 gün içerisinde.",
+                  "answer_start": 119
+                }
+              ],
+              "id": "13"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- gecikme cezaları kesinlikle iptal edilmez.",
+          "qas": [
+            {
+              "question": "gecikme cezaları iptal edilebilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, kesinlikle iptal edilmez.",
+                  "answer_start": 26
+                }
+              ],
+              "id": "14"
+            }
+          ]
+        },
+        {
+          "context": "madde 10- 'gecikme cezası', 'kayıp i̇şlem bedeli' ve fotokopi ücreti, her yılbaşında daire başkanlığının önerisi ve rektörlük makamının onayı ile belirlenir.",
+          "qas": [
+            {
+              "question": "ücretler ne zaman ve kim tarafından belirlenir?",
+              "answers": [
+                {
+                  "text": "her yılbaşında daire başkanlığının önerisi ve rektörlük makamının onayı ile.",
+                  "answer_start": 70
+                }
+              ],
+              "id": "15"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- ödünç aldığı materyali süresi içinde iade etmeyen kullanıcılara aşağıdaki sürelerde 3 kez 'gecikme hatırlatma mesajı' gönderilir: 1. mesaj, iade tarihinden 1 gün sonra; 2. mesaj, iade tarihinden 10 gün sonra; 3. mesaj, iade tarihinden 30 gün sonra.",
+          "qas": [
+            {
+              "question": "gecikme hatırlatma mesajları kaç kez ve ne zaman gönderilir?",
+              "answers": [
+                {
+                  "text": "3 kez: i̇ade tarihinden 1 gün sonra, 10 gün sonra ve 30 gün sonra.",
+                  "answer_start": 244
+                }
+              ],
+              "id": "16"
+            }
+          ]
+        },
+        {
+          "context": "madde 3- üniversite dışından gelen kullanıcılar, daire başkanlığının izniyle kütüphane materyalinden yararlanabilir; ancak üye olamazlar.",
+          "qas": [
+            {
+              "question": "üniversite dışından gelen kullanıcılar kütüphaneye üye olabilirler mi?",
+              "answers": [
+                {
+                  "text": "hayır, olamazlar.",
+                  "answer_start": 127
+                }
+              ],
+              "id": "17"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- ödünç materyal alma işlemi sırasında üye, gtü kimliğini kütüphane görevlisine göstermekle yükümlüdür.",
+          "qas": [
+            {
+              "question": "ödünç materyal alırken ne gösterilmelidir?",
+              "answers": [
+                {
+                  "text": "gtü kimliği.",
+                  "answer_start": 51
+                }
+              ],
+              "id": "18"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- öğretim üyesi ve araştırma görevlisi olan kullanıcıların kütüphane koleksiyonundan sağlanamayan belge(makale, chapter, rapor, patent, standart vb.) gereksinimleri, yurtiçi ve yurtdışı kütüphanelerinden karşılanır.",
+          "qas": [
+            {
+              "question": "kimler kütüphanelerarası belge sağlama hizmetinden yararlanabilir?",
+              "answers": [
+                {
+                  "text": "öğretim üyesi ve araştırma görevlisi olan kullanıcılar.",
+                  "answer_start": 10
+                }
+              ],
+              "id": "19"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- kütüphane koleksiyonunda bulunmayan kitaplar, öğretim üyesi ve araştırma görevlisi olan kullanıcılar için kütüphanelerarası i̇şbirliği kapsamında ödünç getirtilir.",
+          "qas": [
+            {
+              "question": "kütüphanelerarası ödünç kitap getirtme hizmetinden kimler yararlanabilir?",
+              "answers": [
+                {
+                  "text": "öğretim üyesi ve araştırma görevlisi olan kullanıcılar.",
+                  "answer_start": 56
+                }
+              ],
+              "id": "20"
+            }
+          ]
+        },
+        {
+          "context": "madde 9- kullanıcılar, 5846 sayılı fikir ve sanat eserleri kanunu'nun ilgili maddelerine aykırı olmamak koşuluyla kütüphane koleksiyonunda bulunan yayınlardan ücreti karşılığında fotokopi çektirebilirler.",
+          "qas": [
+            {
+              "question": "fotokopi hizmeti hangi kanun çerçevesinde verilir?",
+              "answers": [
+                {
+                  "text": "5846 sayılı fikir ve sanat eserleri kanunu.",
+                  "answer_start": 23
+                }
+              ],
+              "id": "21"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- başka bir kullanıcı tarafından ayırtılan materyalin (ders kitapları hariç) süresi uzatılamaz.",
+          "qas": [
+            {
+              "question": "ayırtılan materyallerin süresi uzatılabilir mi?",
+              "answers": [
+                {
+                  "text": "hayır, ders kitapları hariç uzatılamaz.",
+                  "answer_start": 91
+                }
+              ],
+              "id": "22"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- kullanıcı, başkası tarafından ödünç alınan bir materyali kütüphane web sayfasından veya ödünç verme bankosundan kendi adına ayırtabilir.",
+          "qas": [
+            {
+              "question": "materyal ayırtma işlemi nerelerden yapılabilir?",
+              "answers": [
+                {
+                  "text": "kütüphane web sayfasından veya ödünç verme bankosundan.",
+                  "answer_start": 66
+                }
+              ],
+              "id": "23"
+            }
+          ]
+        },
+        {
+          "context": "madde 11- belge istekleri, kütüphane web sayfasında bulunan 'makale i̇stek formu' doldurularak iletilir. bu işlem için kütüphaneden şifre alınmalıdır.",
+          "qas": [
+            {
+              "question": "belge istekleri nasıl iletilir?",
+              "answers": [
+                {
+                  "text": "kütüphane web sayfasında bulunan 'makale i̇stek formu' doldurularak ve şifre alınarak.",
+                  "answer_start": 18
+                }
+              ],
+              "id": "24"
+            }
+          ]
+        },
+        {
+          "context": "madde 7- bütün hatırlatmalara rağmen 60 gün içerisinde iade edilmeyen kitaplar kayıp sayılır ve 30 günlük 'gecikme cezası', kitabın güncel piyasa fiyatı ve 'kayıp i̇şlem bedeli'nin toplamı kullanıcıdan tahsil edilir.",
+          "qas": [
+            {
+              "question": "kayıp sayılan kitaplar için kullanıcıdan ne tahsil edilir?",
+              "answers": [
+                {
+                  "text": "30 günlük gecikme cezası, kitabın güncel piyasa fiyatı ve kayıp i̇şlem bedeli'nin toplamı.",
+                  "answer_start": 96
+                }
+              ],
+              "id": "25"
+            }
+          ]
+        },
+        {
+          "context": "madde 4- öğretim üyeleri: 15 kitap, 1 dönem; araştırma görevlileri ve okutmanlar: 10 kitap, 1 dönem;",
+          "qas": [
+            {
+              "question": "öğretim üyeleri ile araştırma görevlileri ve okutmanlar arasında ödünç alınabilecek kitap sayısı bakımından nasıl bir fark vardır?",
+              "answers": [
+                {
+                  "text": "öğretim üyeleri 15 kitap, araştırma görevlileri ve okutmanlar 10 kitap alabilir.",
+                  "answer_start": 9
+                }
+              ],
+              "id": "26"
+            }
+          ]
+        },
+        {
+          "context": "madde 12- yurtiçinden sağlanan kitabın getirtilmesi ile gönderilmesine ilişkin posta/kargo ücreti ve yurtdışından sağlanan isteklerde ilgili kurumların belirlediği ödünç kitap ücreti ile geri gönderme posta/kargo ücreti kullanıcı tarafından karşılanır.",
+          "qas": [
+            {
+              "question": "kütüphanelerarası ödünç kitap hizmetinde masraflar kim tarafından karşılanır?",
+              "answers": [
+                {
+                  "text": "kullanıcı tarafından.",
+                  "answer_start": 220
+                }
+              ],
+              "id": "27"
+            }
+          ]
+        },
+        {
+          "context": "madde 5- süre uzatma, şahsen kütüphaneye gelerek veya elektronik ortamda yapılabilir.",
+          "qas": [
+            {
+              "question": "süre uzatma işlemi hangi yollarla yapılabilir?",
+              "answers": [
+                {
+                  "text": "şahsen kütüphaneye gelerek veya elektronik ortamda.",
+                  "answer_start": 22
+                }
+              ],
+              "id": "28"
+            }
+          ]
+        },
+        {
+          "context": "madde 6- ayırtılan materyal, kütüphaneye iade edildiğinde kullanıcıya 'alınmaya hazır' mesajı e-posta ile gönderilir.",
+          "qas": [
+            {
+              "question": "ayırtılan materyal hazır olduğunda kullanıcı nasıl bilgilendirilir?",
+              "answers": [
+                {
+                  "text": "e-posta ile 'alınmaya hazır' mesajı gönderilerek.",
+                  "answer_start": 68
+                }
+              ],
+              "id": "29"
+            }
+          ]
+        },
+        {
+          "context": "madde 15- bu yönerge hükümleri, gebze teknik üniversitesi rektörü tarafından yürütülür.",
+          "qas": [
+            {
+              "question": "yönerge hükümlerini kim yürütür?",
+              "answers": [
+                {
+                  "text": "gebze teknik üniversitesi rektörü.",
+                  "answer_start": 32
+                }
+              ],
+              "id": "30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

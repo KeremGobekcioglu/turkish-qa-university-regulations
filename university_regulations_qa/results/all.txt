@@ -1,0 +1,45 @@
+model 0:
+  "exact_match": 13.675213675213676,
+  "f1_score": 52.843422545392926,
+
+    "training_arguments": {
+    "num_train_epochs": 3,
+    "learning_rate": 3e-05,
+    "per_device_train_batch_size": 4,
+    "gradient_accumulation_steps": 2,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.0
+  },
+model 1:
+  "exact_match": 4.067796610169491,
+  "f1_score": 8.17739653040701,
+    "training_arguments": {
+    "num_train_epochs": 5,
+    "learning_rate": 2e-05,
+    "per_device_train_batch_size": 8,
+    "gradient_accumulation_steps": 4,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1
+  },
+model 2:
+  "exact_match": 7.6923076923076925,
+  "f1_score": 21.19659202048576,
+    "training_arguments": {
+    "num_train_epochs": 10,
+    "learning_rate": 1e-05,
+    "per_device_train_batch_size": 4,
+    "gradient_accumulation_steps": 8,
+    "weight_decay": 0.02,
+    "warmup_ratio": 0.15
+  },
+model 3:
+  "exact_match": 2.564102564102564,
+  "f1_score": 11.702532580187471,
+    "training_arguments": {
+    "num_train_epochs": 15,
+    "learning_rate": 5e-06,
+    "per_device_train_batch_size": 2,
+    "gradient_accumulation_steps": 16,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.2
+  },
